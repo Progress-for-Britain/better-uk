@@ -168,7 +168,7 @@ function SiteHeader({
         }}>
         better-uk
       </Text>
-      <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+      {isWide ? (
         <View
           style={{
             flexDirection: 'row',
@@ -182,7 +182,7 @@ function SiteHeader({
               key={cat.id}
               onPress={() => onChangeCategory(cat.id)}
               style={{
-                paddingHorizontal: isWide ? 16 : 12,
+                paddingHorizontal: 16,
                 paddingVertical: 8,
                 backgroundColor: category === cat.id ? '#3b82f6' : 'transparent',
                 borderRightWidth: i < CATEGORIES.length - 1 ? 1 : 0,
@@ -191,7 +191,7 @@ function SiteHeader({
               <Text
                 style={{
                   fontFamily: "'DM Mono', monospace",
-                  fontSize: isWide ? 12 : 11,
+                  fontSize: 12,
                   color: category === cat.id ? '#ffffff' : '#666',
                 }}>
                 {cat.label}
@@ -199,7 +199,40 @@ function SiteHeader({
             </Pressable>
           ))}
         </View>
-      </ScrollView>
+      ) : (
+        <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+          <View
+            style={{
+              flexDirection: 'row',
+              borderWidth: 1,
+              borderColor: '#e5e5e5',
+              borderRadius: 8,
+              overflow: 'hidden',
+            }}>
+            {CATEGORIES.map((cat, i) => (
+              <Pressable
+                key={cat.id}
+                onPress={() => onChangeCategory(cat.id)}
+                style={{
+                  paddingHorizontal: 12,
+                  paddingVertical: 8,
+                  backgroundColor: category === cat.id ? '#3b82f6' : 'transparent',
+                  borderRightWidth: i < CATEGORIES.length - 1 ? 1 : 0,
+                  borderRightColor: '#e5e5e5',
+                }}>
+                <Text
+                  style={{
+                    fontFamily: "'DM Mono', monospace",
+                    fontSize: 11,
+                    color: category === cat.id ? '#ffffff' : '#666',
+                  }}>
+                  {cat.label}
+                </Text>
+              </Pressable>
+            ))}
+          </View>
+        </ScrollView>
+      )}
     </View>
   );
 }

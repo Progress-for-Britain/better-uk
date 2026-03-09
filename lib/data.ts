@@ -204,6 +204,26 @@ export const csIndexItems: CSIndexItem[] = ((csIndexJson as any).items ?? []).ma
   })
 );
 
+// ── Legislation index items (for browsing reviewed regulations) ───────────────
+
+export interface LegIndexItem {
+  id: string;
+  title: string;
+  year: number;
+  type: LegType;
+  url: string;
+  description: string;
+}
+
+export const legIndexItems: LegIndexItem[] = regulations.map((r): LegIndexItem => ({
+  id: r.id,
+  title: r.title,
+  year: r.year,
+  type: r.type,
+  url: r.url,
+  description: r.summary,
+}));
+
 // Top 5,000 NGOs by income (bundle-safe slice; full corpus in ngo-index.json)
 export const ngoIndexItems: NGOIndexItem[] = ((ngoIndexJson as any).items ?? []).map(
   (item: any): NGOIndexItem => ({

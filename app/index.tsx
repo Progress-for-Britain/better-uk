@@ -3,30 +3,32 @@ import { useEffect, useMemo, useState } from 'react';
 import { Platform, Pressable, ScrollView, Text, TextInput, View } from 'react-native';
 
 import {
-    CS_REVIEW_COST_GBP,
-    csAbolishPercent,
-    csIndexItems,
-    csTotalReviewed,
-    deletePercent,
-    getYearStats,
-    mockCivilService,
-    mockNGOs,
-    mockRegulations,
-    NGO_REVIEW_COST_GBP,
-    ngoDefundPercent,
-    ngoIndexItems,
-    ngoTotalReviewed,
-    REVIEW_COST_GBP,
-    TOTAL_UK_CHARITIES,
-    TOTAL_UK_CS_BODIES,
-    TOTAL_UK_REGULATIONS,
-    totalRegulations,
-    totalReviewed,
-    type CivilServiceBody,
-    type CSIndexItem,
-    type NGO,
-    type NGOIndexItem,
-    type Regulation
+  CS_REVIEW_COST_GBP,
+  csAbolishPercent,
+  csIndexItems,
+  csTotalReviewed,
+  deletePercent,
+  getYearStats,
+  legIndexItems,
+  mockCivilService,
+  mockNGOs,
+  mockRegulations,
+  NGO_REVIEW_COST_GBP,
+  ngoDefundPercent,
+  ngoIndexItems,
+  ngoTotalReviewed,
+  REVIEW_COST_GBP,
+  TOTAL_UK_CHARITIES,
+  TOTAL_UK_CS_BODIES,
+  TOTAL_UK_REGULATIONS,
+  totalRegulations,
+  totalReviewed,
+  type CivilServiceBody,
+  type CSIndexItem,
+  type LegIndexItem,
+  type NGO,
+  type NGOIndexItem,
+  type Regulation
 } from '@/lib/data';
 
 // ─── Types ────────────────────────────────────────────────────────────────────
@@ -898,25 +900,29 @@ function IndexRow({
   isCS,
   isNGO,
 }: {
-  item: CSIndexItem | NGOIndexItem;
+  item: CSIndexItem | NGOIndexItem | LegIndexItem;
   isCS: boolean;
   isNGO: boolean;
 }) {
   const [expanded, setExpanded] = useState(false);
+  const isLeg = !isCS && !isNGO;
   const cs = item as CSIndexItem;
   const ngo = item as NGOIndexItem;
-  const name = isCS ? cs.name : ngo.name;
-  const tag = isCS ? cs.type : ngo.sector;
+  const leg = item as LegIndexItem;
+  const name = isCS ? cs.name : isLeg ? leg.title : ngo.name;
+  const tag = isCS ? cs.type : isLeg ? leg.type : ngo.sector;
   const meta = isCS
     ? [
         cs.headcount != null ? `${cs.headcount.toLocaleString()} staff` : null,
         cs.budgetMn != null ? `£${(cs.budgetMn / 1000).toFixed(1)}bn budget` : null,
       ].filter(Boolean).join('  ·  ') || cs.abbreviation || ''
-    : [ngo.annualIncome && `Income ${ngo.annualIncome}`, ngo.annualSpending && `Spending ${ngo.annualSpending}`]
-        .filter(Boolean)
-        .join('  ·  ');
-  const description = isCS ? cs.description : ngo.description;
-  const externalUrl = isCS ? cs.url : ngo.url;
+    : isLeg
+      ? leg.year > 0 ? String(leg.year) : ''
+      : [ngo.annualIncome && `Income ${ngo.annualIncome}`, ngo.annualSpending && `Spending ${ngo.annualSpending}`]
+          .filter(Boolean)
+          .join('  ·  ');
+  const description = isCS ? cs.description : isLeg ? leg.description : ngo.description;
+  const externalUrl = isCS ? cs.url : isLeg ? leg.url : ngo.url;
   const parentLabel = isCS && cs.parentDept ? `Parent: ${cs.parentDept}` : '';
 
   return (
@@ -1043,6 +1049,7 @@ function IndexRow({
 function IndexBrowser({ category }: { category: ActiveCategory }) {
   const isNGO = category === 'ngos';
   const isCS = category === 'civil-service';
+  const isLeg = category === 'regulations';
 
   const [search, setSearch] = useState('');
   const [selectedType, setSelectedType] = useState<string | null>(null);
@@ -1052,41 +1059,44 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
     setPage(0);
   }, [search, selectedType, category]);
 
-  const allItems = isCS ? csIndexItems : isNGO ? ngoIndexItems : [];
+  const allItems = isCS ? csIndexItems : isNGO ? ngoIndexItems : legIndexItems;
 
   const typeOptions: string[] = isCS
     ? [...new Set(csIndexItems.map((i) => i.type))].sort()
     : isNGO
       ? [...new Set(ngoIndexItems.map((i) => i.sector))].sort()
-      : [];
+      : [...new Set(legIndexItems.map((i) => i.type))].sort();
 
   const filtered = useMemo(() => {
-    let result = allItems as (CSIndexItem | NGOIndexItem)[];
+    let result = allItems as (CSIndexItem | NGOIndexItem | LegIndexItem)[];
     if (selectedType) {
       result = result.filter((i) =>
-        isCS ? (i as CSIndexItem).type === selectedType : (i as NGOIndexItem).sector === selectedType
+        isCS
+          ? (i as CSIndexItem).type === selectedType
+          : isLeg
+            ? (i as LegIndexItem).type === selectedType
+            : (i as NGOIndexItem).sector === selectedType
       );
     }
     if (search.trim()) {
       const q = search.trim().toLowerCase();
-      result = result.filter(
-        (i) =>
-          i.name.toLowerCase().includes(q) ||
-          i.description.toLowerCase().includes(q)
-      );
+      result = result.filter((i) => {
+        const name = isLeg ? (i as LegIndexItem).title : i.name;
+        return name.toLowerCase().includes(q) || i.description.toLowerCase().includes(q);
+      });
     }
     return result;
-  }, [allItems, selectedType, search, isCS]);
+  }, [allItems, selectedType, search, isCS, isLeg]);
 
   const pageItems = filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
 
-  if (!isCS && !isNGO) return null; // legislation index browsing deferred until scrape runs
-
-  const browseLabel = isCS ? 'civil service bodies' : 'charities';
+  const browseLabel = isCS ? 'civil service bodies' : isNGO ? 'charities' : 'regulations';
   const totalNote = isNGO
     ? `Showing top ${ngoIndexItems.length.toLocaleString()} of 171,168 charities by annual income`
-    : `${csIndexItems.length.toLocaleString()} bodies scraped`;
+    : isCS
+      ? `${csIndexItems.length.toLocaleString()} bodies scraped`
+      : `${legIndexItems.length.toLocaleString()} AI-reviewed regulations`;
 
   return (
     <View style={{ paddingVertical: 64, borderTopWidth: 1, borderTopColor: '#e5e5e5' }}>
@@ -1233,7 +1243,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
           }}>
           {[
             ['Name', 2],
-            [isCS ? 'Financial / staff' : 'Income / spending', 1],
+            [isCS ? 'Financial / staff' : isNGO ? 'Income / spending' : 'Year', 1],
             ['Description', 2],
             ['Link', 0],
           ].map(([label, flex]) => (

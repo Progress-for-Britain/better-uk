@@ -1092,6 +1092,11 @@ function IndexRow({
               </Text>
             </View>
           ) : null}
+          {parentLabel ? (
+            <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 10, color: '#aaa' }}>
+              {parentLabel}
+            </Text>
+          ) : null}
           {meta ? (
             <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#555' }}>{meta}</Text>
           ) : null}

@@ -1,4 +1,5 @@
 import { Link, useLocalSearchParams } from 'expo-router';
+import Head from 'expo-router/head';
 import { useState } from 'react';
 import { Linking, Pressable, ScrollView, Text, View } from 'react-native';
 
@@ -73,10 +74,21 @@ export default function RegulationDetail() {
         ? 'Retain — delivers genuine charitable value'
         : 'Retain — serves a justifiable purpose';
 
+  const pageTitle = `${title} — better-uk AI Review`;
+  const pageDesc = item.summary.length > 160 ? item.summary.slice(0, 157) + '...' : item.summary;
+
   return (
     <ScrollView
       style={{ flex: 1, backgroundColor: '#fafaf8' }}
       contentContainerStyle={{ paddingBottom: 80 }}>
+      <Head>
+        <title>{pageTitle}</title>
+        <meta name="description" content={pageDesc} />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDesc} />
+        <meta name="twitter:title" content={pageTitle} />
+        <meta name="twitter:description" content={pageDesc} />
+      </Head>
       <View
         style={{
           borderBottomWidth: 1,

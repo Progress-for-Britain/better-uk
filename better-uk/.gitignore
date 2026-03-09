@@ -38,6 +38,9 @@ yarn-error.*
 
 app-example
 
+# Large data files not needed in the bundle (app uses ngo-index-lite.json instead)
+data/ngo-index.json
+
 # generated native folders
 /ios
 /android

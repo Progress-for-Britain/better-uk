@@ -9,6 +9,10 @@ import {
   csTotalReviewed,
   deletePercent,
   getYearStats,
+  GROK_MODEL,
+  GROK_PROMPT_CIVIL_SERVICE,
+  GROK_PROMPT_NGOS,
+  GROK_PROMPT_REGULATIONS,
   legIndexItems,
   mockCivilService,
   mockNGOs,
@@ -264,16 +268,18 @@ function HeroSection({ category }: { category: ActiveCategory }) {
 
   return (
     <View
-      style={{
-        width: '100%',
-        ...(Platform.OS === 'web' ? { minHeight: isWide ? '80vh' : undefined } : {}),
-        backgroundColor: '#ffffff',
-        justifyContent: 'center',
-        paddingHorizontal: isWide ? 24 : 20,
-        paddingVertical: isWide ? 80 : 40,
-        overflow: 'hidden',
-        position: 'relative',
-      }}>
+      style={[
+        {
+          width: '100%',
+          backgroundColor: '#ffffff',
+          justifyContent: 'center',
+          paddingHorizontal: isWide ? 24 : 20,
+          paddingVertical: isWide ? 80 : 40,
+          overflow: 'hidden',
+          position: 'relative',
+        },
+        Platform.OS === 'web' && isWide ? ({ minHeight: '80vh' } as any) : undefined,
+      ]}>
       <View
         style={{
           position: 'relative',
@@ -1229,11 +1235,17 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
 
   const [search, setSearch] = useState('');
   const [selectedType, setSelectedType] = useState<string | null>(null);
+  const [sortBy, setSortBy] = useState<'name' | 'budget'>('name');
   const [page, setPage] = useState(0);
 
   useEffect(() => {
     setPage(0);
-  }, [search, selectedType, category]);
+  }, [search, selectedType, category, sortBy]);
+
+  // Reset sort when switching categories (budget only makes sense for CS)
+  useEffect(() => {
+    setSortBy('name');
+  }, [category]);
 
   const allItems = isCS ? csIndexItems : isNGO ? ngoIndexItems : legIndexItems;
 
@@ -1257,12 +1269,20 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
     if (search.trim()) {
       const q = search.trim().toLowerCase();
       result = result.filter((i) => {
-        const name = isLeg ? (i as LegIndexItem).title : i.name;
+        const name = isLeg ? (i as LegIndexItem).title : (i as CSIndexItem | NGOIndexItem).name;
         return name.toLowerCase().includes(q) || i.description.toLowerCase().includes(q);
       });
     }
+    // Sort by budget (descending) for CS when selected
+    if (isCS && sortBy === 'budget') {
+      result = [...result].sort((a, b) => {
+        const aBudget = (a as CSIndexItem).budgetMn ?? -1;
+        const bBudget = (b as CSIndexItem).budgetMn ?? -1;
+        return bBudget - aBudget;
+      });
+    }
     return result;
-  }, [allItems, selectedType, search, isCS, isLeg]);
+  }, [allItems, selectedType, search, isCS, isLeg, sortBy]);
 
   const pageItems = filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
@@ -1310,7 +1330,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
         {totalNote}
       </Text>
 
-      {/* Search + type filter */}
+      {/* Search + type filter + sort */}
       <View style={{ flexDirection: isWide ? 'row' : 'column', gap: 12, marginBottom: 24, alignItems: isWide ? 'flex-end' : 'stretch' }}>
         <TextInput
           value={search}
@@ -1330,6 +1350,39 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
             ...(isWide ? { minWidth: 300, flex: 1 } : {}),
           }}
         />
+        {isCS && (
+          <View
+            style={{
+              flexDirection: 'row',
+              borderWidth: 1,
+              borderColor: '#e5e5e5',
+              borderRadius: 8,
+              overflow: 'hidden',
+              backgroundColor: '#fafaf8',
+            }}>
+            {(['name', 'budget'] as const).map((s, i) => (
+              <Pressable
+                key={s}
+                onPress={() => setSortBy(s)}
+                style={{
+                  paddingHorizontal: 14,
+                  paddingVertical: 8,
+                  backgroundColor: sortBy === s ? '#3b82f6' : 'transparent',
+                  borderRightWidth: i === 0 ? 1 : 0,
+                  borderRightColor: '#e5e5e5',
+                }}>
+                <Text
+                  style={{
+                    fontFamily: "'DM Mono', monospace",
+                    fontSize: 12,
+                    color: sortBy === s ? '#fff' : '#666',
+                  }}>
+                  {s === 'name' ? 'Sort A–Z' : 'Sort by budget'}
+                </Text>
+              </Pressable>
+            ))}
+          </View>
+        )}
         <ScrollView horizontal showsHorizontalScrollIndicator={false}>
           <View
             style={{
@@ -1509,6 +1562,87 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
   );
 }
 
+// ─── Prompt Section ───────────────────────────────────────────────────────────
+
+function PromptSection({ category }: { category: ActiveCategory }) {
+  const [expanded, setExpanded] = useState(false);
+  const isCS = category === 'civil-service';
+  const isNGO = category === 'ngos';
+  const prompt = isCS
+    ? GROK_PROMPT_CIVIL_SERVICE
+    : isNGO
+      ? GROK_PROMPT_NGOS
+      : GROK_PROMPT_REGULATIONS;
+
+  return (
+    <View
+      style={{
+        maxWidth: 1200,
+        width: '100%',
+        marginHorizontal: 'auto',
+        paddingHorizontal: 24,
+        paddingVertical: 48,
+        borderTopWidth: 1,
+        borderTopColor: '#e5e5e5',
+      }}>
+      <Text
+        style={{
+          fontFamily: "'DM Mono', monospace",
+          fontSize: 10,
+          letterSpacing: 1.5,
+          textTransform: 'uppercase',
+          color: '#bbb',
+          marginBottom: 12,
+        }}>
+        Prompt used ({GROK_MODEL})
+      </Text>
+      <Text
+        style={{
+          fontFamily: "'DM Mono', monospace",
+          fontSize: 13,
+          color: '#999',
+          lineHeight: 22,
+          marginBottom: 16,
+        }}>
+        Every AI verdict on this page was generated using the prompt below — no hidden instructions.
+      </Text>
+      <Pressable
+        onPress={() => setExpanded((v) => !v)}
+        style={{ marginBottom: expanded ? 16 : 0 }}>
+        <Text
+          style={{
+            fontFamily: "'DM Mono', monospace",
+            fontSize: 12,
+            color: '#3b82f6',
+          }}>
+          {expanded ? '▾ Hide prompt' : '▸ Show full prompt'}
+        </Text>
+      </Pressable>
+      {expanded && (
+        <View
+          style={{
+            backgroundColor: '#f5f5f3',
+            borderWidth: 1,
+            borderColor: '#e5e5e5',
+            borderRadius: 12,
+            padding: 20,
+          }}>
+          <Text
+            style={{
+              fontFamily: "'DM Mono', monospace",
+              fontSize: 11,
+              color: '#444',
+              lineHeight: 20,
+            }}
+            selectable>
+            {prompt}
+          </Text>
+        </View>
+      )}
+    </View>
+  );
+}
+
 // ─── Home Screen ──────────────────────────────────────────────────────────────
 
 export default function HomeScreen() {
@@ -1555,6 +1689,9 @@ export default function HomeScreen() {
         />
         <IndexBrowser category={category} />
       </View>
+
+      {/* Grok prompt */}
+      <PromptSection category={category} />
 
       {/* Footer */}
       <View

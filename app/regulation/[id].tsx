@@ -1,7 +1,8 @@
-import { ScrollView, View, Text, Pressable, Linking } from 'react-native';
-import { useLocalSearchParams, Link } from 'expo-router';
+import { Link, useLocalSearchParams } from 'expo-router';
+import { useState } from 'react';
+import { Linking, Pressable, ScrollView, Text, View } from 'react-native';
 
-import { mockRegulations, mockNGOs, mockCivilService, type Regulation, type NGO, type CivilServiceBody } from '@/lib/data';
+import { type CivilServiceBody, GROK_MODEL, GROK_PROMPT_CIVIL_SERVICE, GROK_PROMPT_NGOS, GROK_PROMPT_REGULATIONS, mockCivilService, mockNGOs, mockRegulations, type NGO, type Regulation } from '@/lib/data';
 
 function VerdictBadge({ verdict, label }: { verdict: string; label?: string }) {
   const isNegative = verdict === 'delete' || verdict === 'abolish';
@@ -227,7 +228,68 @@ export default function RegulationDetail() {
             ↗
           </Text>
         </Pressable>
+
+        {/* Grok prompt */}
+        <DetailPromptSection isCS={isCS} isNGO={isNGO} />
       </View>
     </ScrollView>
+  );
+}
+
+function DetailPromptSection({ isCS, isNGO }: { isCS: boolean; isNGO: boolean }) {
+  const [expanded, setExpanded] = useState(false);
+  const prompt = isCS
+    ? GROK_PROMPT_CIVIL_SERVICE
+    : isNGO
+      ? GROK_PROMPT_NGOS
+      : GROK_PROMPT_REGULATIONS;
+
+  return (
+    <View style={{ marginTop: 48, borderTopWidth: 1, borderTopColor: '#e5e5e5', paddingTop: 32 }}>
+      <Text
+        style={{
+          fontFamily: "'DM Mono', monospace",
+          fontSize: 10,
+          letterSpacing: 1.5,
+          textTransform: 'uppercase',
+          color: '#bbb',
+          marginBottom: 12,
+        }}>
+        Prompt used ({GROK_MODEL})
+      </Text>
+      <Pressable
+        onPress={() => setExpanded((v) => !v)}
+        style={{ marginBottom: expanded ? 12 : 0 }}>
+        <Text
+          style={{
+            fontFamily: "'DM Mono', monospace",
+            fontSize: 12,
+            color: '#3b82f6',
+          }}>
+          {expanded ? '▾ Hide prompt' : '▸ Show full prompt'}
+        </Text>
+      </Pressable>
+      {expanded && (
+        <View
+          style={{
+            backgroundColor: '#f5f5f3',
+            borderWidth: 1,
+            borderColor: '#e5e5e5',
+            borderRadius: 12,
+            padding: 20,
+          }}>
+          <Text
+            style={{
+              fontFamily: "'DM Mono', monospace",
+              fontSize: 11,
+              color: '#444',
+              lineHeight: 20,
+            }}
+            selectable>
+            {prompt}
+          </Text>
+        </View>
+      )}
+    </View>
   );
 }

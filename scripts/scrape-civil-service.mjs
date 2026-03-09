@@ -381,9 +381,10 @@ async function main() {
     delete item.parentSlug;
   }
 
-  // Build output
+  // Build output — include live, joining, exempt, and transitioning orgs (exclude closed)
+  const ACTIVE_STATUSES = new Set(['live', 'joining', 'exempt', 'transitioning']);
   const items = Array.from(seen.values())
-    .filter(item => item.status === 'live' || item.status === 'joining')
+    .filter(item => ACTIVE_STATUSES.has(item.status))
     .sort((a, b) => {
       // Sort: Departments first, then Agencies, then ALBs, then Other
       const order = { Department: 0, Agency: 1, ALB: 2, Other: 3 };
@@ -409,7 +410,18 @@ async function main() {
   writeFileSync(INDEX_PATH, JSON.stringify(output, null, 2));
 
   console.log(`\n  ✓ Wrote ${items.length} organisations to data/cs-index.json`);
-  console.log(`    ${output.meta.departments} departments, ${output.meta.agencies} agencies, ${output.meta.albs} ALBs, ${output.meta.other} other\n`);
+  console.log(`    ${output.meta.departments} departments, ${output.meta.agencies} agencies, ${output.meta.albs} ALBs, ${output.meta.other} other`);
+  const excluded = seen.size - items.length;
+  if (excluded > 0) {
+    const statusCounts = {};
+    for (const [, item] of seen) {
+      if (!ACTIVE_STATUSES.has(item.status)) {
+        statusCounts[item.status] = (statusCounts[item.status] || 0) + 1;
+      }
+    }
+    console.log(`    Excluded ${excluded} non-active orgs: ${Object.entries(statusCounts).map(([s, n]) => `${n} ${s}`).join(', ')}`);
+  }
+  console.log();
 }
 
 main().catch((err) => {

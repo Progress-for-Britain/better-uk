@@ -26,6 +26,7 @@ import { tmpdir } from 'os';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = resolve(__dirname, '..', 'data');
 const INDEX_PATH = resolve(DATA_DIR, 'ngo-index.json');
+const LITE_INDEX_PATH = resolve(DATA_DIR, 'ngo-index-lite.json');
 const TMP_DIR = resolve(tmpdir(), 'better-uk-charities');
 
 // ─── Configuration ────────────────────────────────────────────────────────────
@@ -202,7 +203,15 @@ async function main() {
 
   writeFileSync(INDEX_PATH, JSON.stringify(output, null, 2));
 
+  // Write lite index (top 5,000 by income) for the web bundle
+  const top5000 = [...items].sort((a, b) => (b.rawIncome || 0) - (a.rawIncome || 0)).slice(0, 5000);
+  writeFileSync(LITE_INDEX_PATH, JSON.stringify({
+    items: top5000,
+    meta: { ...output.meta, liteEntries: top5000.length, note: 'Top 5,000 charities by annual income — full data in ngo-index.json' },
+  }, null, 2));
+
   console.log(`\n  ✓ Wrote ${items.length.toLocaleString()} charities to data/ngo-index.json`);
+  console.log(`  ✓ Wrote ${top5000.length.toLocaleString()} charities to data/ngo-index-lite.json (top by income)`);
   console.log(`    Income data: ${items.filter(i => i.rawIncome > 0).length.toLocaleString()} charities have reported income`);
   console.log(`    Spending data: ${items.filter(i => i.rawSpending > 0).length.toLocaleString()} charities have reported spending\n`);
 

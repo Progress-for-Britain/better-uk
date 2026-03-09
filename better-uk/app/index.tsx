@@ -1025,31 +1025,17 @@ function IndexRow({
       {/* External link */}
       <View style={{ justifyContent: 'center', flexShrink: 0 }}>
         {externalUrl ? (
-          Platform.OS === 'web' ? (
+          <Link href={externalUrl as any} target="_blank">
             <Text
               style={{
                 fontFamily: "'DM Mono', monospace",
                 fontSize: 11,
                 color: '#3b82f6',
                 letterSpacing: 0.4,
-              }}
-              onPress={() => {
-                if (typeof window !== 'undefined') window.open(externalUrl, '_blank');
               }}>
               View ↗
             </Text>
-          ) : (
-            <Link href={externalUrl as any}>
-              <Text
-                style={{
-                  fontFamily: "'DM Mono', monospace",
-                  fontSize: 11,
-                  color: '#3b82f6',
-                }}>
-                View ↗
-              </Text>
-            </Link>
-          )
+          </Link>
         ) : null}
       </View>
     </Pressable>

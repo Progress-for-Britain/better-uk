@@ -1,6 +1,6 @@
 import { Link } from 'expo-router';
 import { useEffect, useMemo, useState } from 'react';
-import { Platform, Pressable, ScrollView, Text, TextInput, View } from 'react-native';
+import { Platform, Pressable, ScrollView, Text, TextInput, useWindowDimensions, View } from 'react-native';
 
 import {
   CS_REVIEW_COST_GBP,
@@ -30,6 +30,13 @@ import {
   type NGOIndexItem,
   type Regulation
 } from '@/lib/data';
+
+// ─── Responsive breakpoint ────────────────────────────────────────────────────
+
+function useIsWide() {
+  const { width } = useWindowDimensions();
+  return width >= 768;
+}
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -137,6 +144,7 @@ function SiteHeader({
   category: ActiveCategory;
   onChangeCategory: (c: ActiveCategory) => void;
 }) {
+  const isWide = useIsWide();
   return (
     <View
       style={{
@@ -144,11 +152,12 @@ function SiteHeader({
         borderBottomWidth: 1,
         borderBottomColor: '#e5e5e5',
         backgroundColor: '#ffffff',
-        flexDirection: 'row',
-        alignItems: 'center',
+        flexDirection: isWide ? 'row' : 'column',
+        alignItems: isWide ? 'center' : 'flex-start',
         justifyContent: 'space-between',
-        paddingHorizontal: 24,
-        paddingVertical: 16,
+        paddingHorizontal: 20,
+        paddingVertical: isWide ? 16 : 12,
+        gap: isWide ? 0 : 8,
       }}>
       <Text
         style={{
@@ -159,36 +168,38 @@ function SiteHeader({
         }}>
         better-uk
       </Text>
-      <View
-        style={{
-          flexDirection: 'row',
-          borderWidth: 1,
-          borderColor: '#e5e5e5',
-          borderRadius: 8,
-          overflow: 'hidden',
-        }}>
-        {CATEGORIES.map((cat, i) => (
-          <Pressable
-            key={cat.id}
-            onPress={() => onChangeCategory(cat.id)}
-            style={{
-              paddingHorizontal: 16,
-              paddingVertical: 8,
-              backgroundColor: category === cat.id ? '#3b82f6' : 'transparent',
-              borderRightWidth: i < CATEGORIES.length - 1 ? 1 : 0,
-              borderRightColor: '#e5e5e5',
-            }}>
-            <Text
+      <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+        <View
+          style={{
+            flexDirection: 'row',
+            borderWidth: 1,
+            borderColor: '#e5e5e5',
+            borderRadius: 8,
+            overflow: 'hidden',
+          }}>
+          {CATEGORIES.map((cat, i) => (
+            <Pressable
+              key={cat.id}
+              onPress={() => onChangeCategory(cat.id)}
               style={{
-                fontFamily: "'DM Mono', monospace",
-                fontSize: 12,
-                color: category === cat.id ? '#ffffff' : '#666',
+                paddingHorizontal: isWide ? 16 : 12,
+                paddingVertical: 8,
+                backgroundColor: category === cat.id ? '#3b82f6' : 'transparent',
+                borderRightWidth: i < CATEGORIES.length - 1 ? 1 : 0,
+                borderRightColor: '#e5e5e5',
               }}>
-              {cat.label}
-            </Text>
-          </Pressable>
-        ))}
-      </View>
+              <Text
+                style={{
+                  fontFamily: "'DM Mono', monospace",
+                  fontSize: isWide ? 12 : 11,
+                  color: category === cat.id ? '#ffffff' : '#666',
+                }}>
+                {cat.label}
+              </Text>
+            </Pressable>
+          ))}
+        </View>
+      </ScrollView>
     </View>
   );
 }
@@ -196,6 +207,7 @@ function SiteHeader({
 // ─── Hero ─────────────────────────────────────────────────────────────────────
 
 function HeroSection({ category }: { category: ActiveCategory }) {
+  const isWide = useIsWide();
   const isNGO = category === 'ngos';
   const isCS = category === 'civil-service';
   const reviewed = isCS ? csTotalReviewed : isNGO ? ngoTotalReviewed : totalReviewed;
@@ -221,11 +233,11 @@ function HeroSection({ category }: { category: ActiveCategory }) {
     <View
       style={{
         width: '100%',
-        minHeight: '80vh' as any,
+        ...(Platform.OS === 'web' ? { minHeight: isWide ? '80vh' : undefined } : {}),
         backgroundColor: '#ffffff',
         justifyContent: 'center',
-        paddingHorizontal: 24,
-        paddingVertical: 80,
+        paddingHorizontal: isWide ? 24 : 20,
+        paddingVertical: isWide ? 80 : 40,
         overflow: 'hidden',
         position: 'relative',
       }}>
@@ -236,10 +248,10 @@ function HeroSection({ category }: { category: ActiveCategory }) {
           maxWidth: 1200,
           width: '100%',
           marginHorizontal: 'auto',
-          flexDirection: 'row',
-          alignItems: 'center',
+          flexDirection: isWide ? 'row' : 'column',
+          alignItems: isWide ? 'center' : 'flex-start',
           justifyContent: 'space-between',
-          gap: 60,
+          gap: isWide ? 60 : 32,
         }}>
         {/* Left content */}
         <View style={{ flex: 1, minWidth: 0 }}>
@@ -263,9 +275,9 @@ function HeroSection({ category }: { category: ActiveCategory }) {
           <Text
             style={{
               fontFamily: "'Instrument Serif', serif",
-              fontSize: 72,
+              fontSize: isWide ? 72 : 38,
               fontWeight: '400',
-              lineHeight: 74,
+              lineHeight: isWide ? 74 : 44,
               color: '#111',
               marginBottom: 24,
               maxWidth: 780,
@@ -284,7 +296,7 @@ function HeroSection({ category }: { category: ActiveCategory }) {
               color: 'rgba(0,0,0,0.45)',
               maxWidth: 520,
               lineHeight: 24,
-              marginBottom: 56,
+              marginBottom: isWide ? 56 : 28,
             }}>
             {subtitle}
           </Text>
@@ -344,40 +356,42 @@ function HeroSection({ category }: { category: ActiveCategory }) {
           </View>
         </View>
 
-        {/* Right: Donut chart */}
-        <View style={{ flexShrink: 0 }}>
-          <DonutChart percentage={delPct} label={deleteLabel} />
-          <View style={{ marginTop: 20, gap: 8 }}>
-            <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8 }}>
-              <View
-                style={{ width: 8, height: 8, borderRadius: 4, backgroundColor: '#3b82f6' }}
-              />
-              <Text
-                style={{
-                  fontFamily: "'DM Mono', monospace",
-                  fontSize: 11,
-                  color: '#888',
-                  letterSpacing: 0.8,
-                }}>
-                Recommend {isCS ? 'abolish' : isNGO ? 'defund' : 'delete'}
-              </Text>
-            </View>
-            <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8 }}>
-              <View
-                style={{ width: 8, height: 8, borderRadius: 4, backgroundColor: '#e5e5e5' }}
-              />
-              <Text
-                style={{
-                  fontFamily: "'DM Mono', monospace",
-                  fontSize: 11,
-                  color: '#888',
-                  letterSpacing: 0.8,
-                }}>
-                Recommend keep
-              </Text>
+        {/* Right: Donut chart — wide viewports only */}
+        {isWide && (
+          <View style={{ flexShrink: 0 }}>
+            <DonutChart percentage={delPct} label={deleteLabel} />
+            <View style={{ marginTop: 20, gap: 8 }}>
+              <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8 }}>
+                <View
+                  style={{ width: 8, height: 8, borderRadius: 4, backgroundColor: '#3b82f6' }}
+                />
+                <Text
+                  style={{
+                    fontFamily: "'DM Mono', monospace",
+                    fontSize: 11,
+                    color: '#888',
+                    letterSpacing: 0.8,
+                  }}>
+                  Recommend {isCS ? 'abolish' : isNGO ? 'defund' : 'delete'}
+                </Text>
+              </View>
+              <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8 }}>
+                <View
+                  style={{ width: 8, height: 8, borderRadius: 4, backgroundColor: '#e5e5e5' }}
+                />
+                <Text
+                  style={{
+                    fontFamily: "'DM Mono', monospace",
+                    fontSize: 11,
+                    color: '#888',
+                    letterSpacing: 0.8,
+                  }}>
+                  Recommend keep
+                </Text>
+              </View>
             </View>
           </View>
-        </View>
+        )}
       </View>
     </View>
   );
@@ -546,6 +560,74 @@ function YearChart({
 
 function RegulationRow({ item, isNGO, isCS }: { item: Regulation | NGO | CivilServiceBody; isNGO: boolean; isCS: boolean }) {
   const [expanded, setExpanded] = useState(false);
+  const isMobile = !useIsWide();
+  const displayName = isCS
+    ? (item as CivilServiceBody).name
+    : isNGO
+      ? (item as NGO).name
+      : (item as Regulation).title;
+  const verdictLabel = isCS ? item.verdict : isNGO && item.verdict === 'delete' ? 'defund' : undefined;
+
+  if (isMobile) {
+    return (
+      <Pressable
+        onPress={() => setExpanded((v) => !v)}
+        style={{
+          borderBottomWidth: 1,
+          borderBottomColor: '#f0f0ee',
+          paddingVertical: 14,
+          paddingHorizontal: 16,
+          gap: 6,
+        }}>
+        <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'flex-start', gap: 12 }}>
+          <Text
+            style={{
+              fontFamily: "'DM Mono', monospace",
+              fontSize: 13,
+              color: '#111',
+              fontWeight: '500',
+              flex: 1,
+              lineHeight: 18,
+            }}
+            numberOfLines={expanded ? undefined : 2}>
+            {displayName}
+          </Text>
+          <VerdictBadge verdict={item.verdict} label={verdictLabel} />
+        </View>
+        <Text
+          style={{
+            fontFamily: "'DM Mono', monospace",
+            fontSize: 12,
+            color: '#555',
+            lineHeight: 18,
+          }}
+          numberOfLines={expanded ? undefined : 3}>
+          {item.summary}
+        </Text>
+        {expanded && item.reason ? (
+          <Text
+            style={{
+              fontFamily: "'DM Mono', monospace",
+              fontSize: 12,
+              color: '#888',
+              lineHeight: 18,
+            }}>
+            {item.reason}
+          </Text>
+        ) : null}
+        <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginTop: 2 }}>
+          <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 10, color: '#ccc', letterSpacing: 0.5 }}>
+            {expanded ? '▾ collapse' : '▸ expand'}
+          </Text>
+          <Link href={`/regulation/${encodeURIComponent(item.id)}`}>
+            <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#3b82f6' }}>
+              Detail ↗
+            </Text>
+          </Link>
+        </View>
+      </Pressable>
+    );
+  }
 
   return (
     <Pressable
@@ -582,7 +664,7 @@ function RegulationRow({ item, isNGO, isCS }: { item: Regulation | NGO | CivilSe
       <View style={{ width: 80, flexShrink: 0, paddingTop: 2 }}>
         <VerdictBadge
           verdict={item.verdict}
-          label={isCS ? item.verdict : isNGO && item.verdict === 'delete' ? 'defund' : undefined}
+          label={verdictLabel}
         />
       </View>
 
@@ -632,6 +714,7 @@ function VerdictsTable({
   isNGO: boolean;
   isCS: boolean;
 }) {
+  const isWide = useIsWide();
   const [search, setSearch] = useState('');
 
   // Filter field: CS=type string, NGO=sector string, legislation=year number
@@ -668,12 +751,11 @@ function VerdictsTable({
       {/* Section heading + year selector */}
       <View
         style={{
-          flexDirection: 'row',
-          alignItems: 'flex-end',
+          flexDirection: isWide ? 'row' : 'column',
+          alignItems: isWide ? 'flex-end' : 'flex-start',
           justifyContent: 'space-between',
-          marginBottom: 40,
-          flexWrap: 'wrap',
-          gap: 24,
+          marginBottom: isWide ? 40 : 24,
+          gap: 16,
         }}>
         <View>
           <Text
@@ -700,7 +782,7 @@ function VerdictsTable({
         </View>
 
         {/* Search + filter pills */}
-        <View style={{ alignItems: 'flex-end', gap: 8 }}>
+        <View style={{ alignItems: isWide ? 'flex-end' : 'stretch', gap: 8 }}>
           {/* Text search */}
           <TextInput
             value={search}
@@ -716,7 +798,7 @@ function VerdictsTable({
               borderRadius: 8,
               paddingHorizontal: 14,
               paddingVertical: 8,
-              minWidth: 260,
+              minWidth: isWide ? 260 : 0,
               backgroundColor: '#fff',
             }}
           />
@@ -806,67 +888,69 @@ function VerdictsTable({
           borderRadius: 12,
           overflow: 'hidden',
         }}>
-        {/* Table header */}
-        <View
-          style={{
-            flexDirection: 'row',
-            backgroundColor: '#f5f5f3',
-            borderBottomWidth: 1,
-            borderBottomColor: '#e5e5e5',
-            paddingVertical: 12,
-            paddingHorizontal: 16,
-          }}>
-          <Text
+        {/* Table header — wide viewports only */}
+        {isWide && (
+          <View
             style={{
-              fontFamily: "'DM Mono', monospace",
-              fontSize: 10,
-              fontWeight: '500',
-              letterSpacing: 1.2,
-              textTransform: 'uppercase',
-              color: '#999',
-              width: 140,
+              flexDirection: 'row',
+              backgroundColor: '#f5f5f3',
+              borderBottomWidth: 1,
+              borderBottomColor: '#e5e5e5',
+              paddingVertical: 12,
+              paddingHorizontal: 16,
             }}>
-            {isCS ? 'Body' : isNGO ? 'Organisation' : 'Regulation'}
-          </Text>
-          <Text
-            style={{
-              fontFamily: "'DM Mono', monospace",
-              fontSize: 10,
-              fontWeight: '500',
-              letterSpacing: 1.2,
-              textTransform: 'uppercase',
-              color: '#999',
-              width: 80,
-            }}>
-            Verdict
-          </Text>
-          <Text
-            style={{
-              fontFamily: "'DM Mono', monospace",
-              fontSize: 10,
-              fontWeight: '500',
-              letterSpacing: 1.2,
-              textTransform: 'uppercase',
-              color: '#999',
-              flex: 1,
-              paddingHorizontal: 8,
-            }}>
-            Summary
-          </Text>
-          <Text
-            style={{
-              fontFamily: "'DM Mono', monospace",
-              fontSize: 10,
-              fontWeight: '500',
-              letterSpacing: 1.2,
-              textTransform: 'uppercase',
-              color: '#999',
-              flex: 1,
-              paddingHorizontal: 8,
-            }}>
-            Reason
-          </Text>
-        </View>
+            <Text
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: 10,
+                fontWeight: '500',
+                letterSpacing: 1.2,
+                textTransform: 'uppercase',
+                color: '#999',
+                width: 140,
+              }}>
+              {isCS ? 'Body' : isNGO ? 'Organisation' : 'Regulation'}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: 10,
+                fontWeight: '500',
+                letterSpacing: 1.2,
+                textTransform: 'uppercase',
+                color: '#999',
+                width: 80,
+              }}>
+              Verdict
+            </Text>
+            <Text
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: 10,
+                fontWeight: '500',
+                letterSpacing: 1.2,
+                textTransform: 'uppercase',
+                color: '#999',
+                flex: 1,
+                paddingHorizontal: 8,
+              }}>
+              Summary
+            </Text>
+            <Text
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: 10,
+                fontWeight: '500',
+                letterSpacing: 1.2,
+                textTransform: 'uppercase',
+                color: '#999',
+                flex: 1,
+                paddingHorizontal: 8,
+              }}>
+              Reason
+            </Text>
+          </View>
+        )}
 
         {/* Rows */}
         {filtered.length === 0 ? (
@@ -905,6 +989,7 @@ function IndexRow({
   isNGO: boolean;
 }) {
   const [expanded, setExpanded] = useState(false);
+  const isMobile = !useIsWide();
   const isLeg = !isCS && !isNGO;
   const cs = item as CSIndexItem;
   const ngo = item as NGOIndexItem;
@@ -924,6 +1009,63 @@ function IndexRow({
   const description = isCS ? cs.description : isLeg ? leg.description : ngo.description;
   const externalUrl = isCS ? cs.url : isLeg ? leg.url : ngo.url;
   const parentLabel = isCS && cs.parentDept ? `Parent: ${cs.parentDept}` : '';
+
+  if (isMobile) {
+    return (
+      <Pressable
+        onPress={() => setExpanded((v) => !v)}
+        style={{
+          borderBottomWidth: 1,
+          borderBottomColor: '#f0f0ee',
+          paddingVertical: 14,
+          paddingHorizontal: 16,
+          gap: 6,
+        }}>
+        <Text
+          style={{
+            fontFamily: "'DM Mono', monospace",
+            fontSize: 13,
+            color: '#111',
+            fontWeight: '500',
+            lineHeight: 18,
+          }}
+          numberOfLines={expanded ? undefined : 2}>
+          {name}
+        </Text>
+        <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8, flexWrap: 'wrap' }}>
+          {tag ? (
+            <View
+              style={{
+                borderWidth: 1,
+                borderColor: '#e5e5e5',
+                borderRadius: 4,
+                paddingHorizontal: 6,
+                paddingVertical: 2,
+              }}>
+              <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 10, color: '#888', letterSpacing: 0.6 }}>
+                {tag}
+              </Text>
+            </View>
+          ) : null}
+          {meta ? (
+            <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#555' }}>{meta}</Text>
+          ) : null}
+          {externalUrl ? (
+            <Link href={externalUrl as any} target="_blank">
+              <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#3b82f6', letterSpacing: 0.4 }}>View ↗</Text>
+            </Link>
+          ) : null}
+        </View>
+        {description ? (
+          <Text
+            style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#777', lineHeight: 18 }}
+            numberOfLines={expanded ? undefined : 2}>
+            {description}
+          </Text>
+        ) : null}
+      </Pressable>
+    );
+  }
 
   return (
     <Pressable
@@ -1049,6 +1191,7 @@ function IndexRow({
 function IndexBrowser({ category }: { category: ActiveCategory }) {
   const isNGO = category === 'ngos';
   const isCS = category === 'civil-service';
+  const isWide = useIsWide();
   const isLeg = category === 'regulations';
 
   const [search, setSearch] = useState('');
@@ -1135,7 +1278,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
       </Text>
 
       {/* Search + type filter */}
-      <View style={{ flexDirection: 'row', gap: 16, marginBottom: 24, flexWrap: 'wrap', alignItems: 'flex-end' }}>
+      <View style={{ flexDirection: isWide ? 'row' : 'column', gap: 12, marginBottom: 24, alignItems: isWide ? 'flex-end' : 'stretch' }}>
         <TextInput
           value={search}
           onChangeText={setSearch}
@@ -1150,9 +1293,8 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
             borderRadius: 8,
             paddingHorizontal: 14,
             paddingVertical: 10,
-            minWidth: 300,
             backgroundColor: '#fff',
-            flex: 1,
+            ...(isWide ? { minWidth: 300, flex: 1 } : {}),
           }}
         />
         <ScrollView horizontal showsHorizontalScrollIndicator={false}>
@@ -1230,40 +1372,42 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
           overflow: 'hidden',
           marginBottom: 24,
         }}>
-        {/* Header */}
-        <View
-          style={{
-            flexDirection: 'row',
-            backgroundColor: '#f5f5f3',
-            borderBottomWidth: 1,
-            borderBottomColor: '#e5e5e5',
-            paddingVertical: 10,
-            paddingHorizontal: 16,
-            gap: 12,
-          }}>
-          {[
-            ['Name', 2],
-            [isCS ? 'Financial / staff' : isNGO ? 'Income / spending' : 'Year', 1],
-            ['Description', 2],
-            ['Link', 0],
-          ].map(([label, flex]) => (
-            <Text
-              key={String(label)}
-              style={{
-                fontFamily: "'DM Mono', monospace",
-                fontSize: 10,
-                fontWeight: '500',
-                letterSpacing: 1.2,
-                textTransform: 'uppercase',
-                color: '#999',
-                flex: (flex as number) || undefined,
-                flexShrink: (flex as number) === 0 ? 0 : undefined,
-                width: (flex as number) === 0 ? 50 : undefined,
-              }}>
-              {String(label)}
-            </Text>
-          ))}
-        </View>
+        {/* Header — wide viewports only */}
+        {isWide && (
+          <View
+            style={{
+              flexDirection: 'row',
+              backgroundColor: '#f5f5f3',
+              borderBottomWidth: 1,
+              borderBottomColor: '#e5e5e5',
+              paddingVertical: 10,
+              paddingHorizontal: 16,
+              gap: 12,
+            }}>
+            {[
+              ['Name', 2],
+              [isCS ? 'Financial / staff' : isNGO ? 'Income / spending' : 'Year', 1],
+              ['Description', 2],
+              ['Link', 0],
+            ].map(([label, flex]) => (
+              <Text
+                key={String(label)}
+                style={{
+                  fontFamily: "'DM Mono', monospace",
+                  fontSize: 10,
+                  fontWeight: '500',
+                  letterSpacing: 1.2,
+                  textTransform: 'uppercase',
+                  color: '#999',
+                  flex: (flex as number) || undefined,
+                  flexShrink: (flex as number) === 0 ? 0 : undefined,
+                  width: (flex as number) === 0 ? 50 : undefined,
+                }}>
+                {String(label)}
+              </Text>
+            ))}
+          </View>
+        )}
 
         {pageItems.length === 0 ? (
           <View style={{ padding: 48, alignItems: 'center' }}>
@@ -1335,6 +1479,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
 // ─── Home Screen ──────────────────────────────────────────────────────────────
 
 export default function HomeScreen() {
+  const isWide = useIsWide();
   const [category, setCategory] = useState<ActiveCategory>('regulations');
   const [selectedFilter, setSelectedFilter] = useState<string | number | null>(null);
 
@@ -1388,9 +1533,10 @@ export default function HomeScreen() {
           borderTopWidth: 1,
           borderTopColor: '#e5e5e5',
           paddingVertical: 32,
-          flexDirection: 'row',
+          flexDirection: isWide ? 'row' : 'column',
           justifyContent: 'space-between',
-          alignItems: 'center',
+          alignItems: isWide ? 'center' : 'flex-start',
+          gap: isWide ? 0 : 8,
         }}>
         <Text
           style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#bbb' }}>

@@ -1,9 +1,9 @@
-import reviewedRegsJson from '@/data/reviewed-regulations.json';
-import reviewedNGOsJson from '@/data/reviewed-ngos.json';
-import reviewedCSJson from '@/data/reviewed-civil-service.json';
+import csIndexJson from '@/data/cs-index.json';
 import legIndexJson from '@/data/legislation-index.json';
 import ngoIndexJson from '@/data/ngo-index-lite.json'; // top-5k by income, see ngo-index.json for full corpus
-import csIndexJson from '@/data/cs-index.json';
+import reviewedCSJson from '@/data/reviewed-civil-service.json';
+import reviewedNGOsJson from '@/data/reviewed-ngos.json';
+import reviewedRegsJson from '@/data/reviewed-regulations.json';
 
 export type Verdict = 'keep' | 'delete';
 export type LegType = 'Act' | 'SI' | 'Order' | 'Regulation';
@@ -169,6 +169,7 @@ export interface CSIndexItem {
   abbreviation: string;
   description: string;
   headcount: number | null;
+  budgetMn: number | null;
   url: string;
   parentDept: string;
 }
@@ -197,8 +198,9 @@ export const csIndexItems: CSIndexItem[] = ((csIndexJson as any).items ?? []).ma
     abbreviation: item.abbreviation ?? '',
     description: item.description ?? '',
     headcount: item.headcount ?? null,
+    budgetMn: item.budgetMn ?? null,
     url: item.url ?? `https://www.gov.uk/government/organisations/${item.slug ?? ''}`,
-    parentDept: item.parentDept ?? '',
+    parentDept: item.parentDept ?? ''
   })
 );
 

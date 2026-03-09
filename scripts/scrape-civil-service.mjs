@@ -15,8 +15,8 @@
  *   This is a public JSON API that lists all government organisations.
  */
 
-import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'fs';
-import { resolve, dirname } from 'path';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
 import XLSX from 'xlsx';
 
@@ -365,20 +365,21 @@ async function main() {
 
   console.log(`    Enriched ${enriched} organisations with detail              `);
 
-  // Remove the temporary parentSlug field
-  for (const [, item] of seen) {
-    delete item.parentSlug;
-  }
-
   // Enrich with PESA 2024-25 departmental expenditure (£ millions)
+  // Must happen before parentSlug is deleted so child orgs can inherit it
   const pesaBudgets = await fetchPesaBudgets();
   for (const [, item] of seen) {
     // Departments get their own budget; agencies/ALBs inherit parent dept budget
-    const lookupSlug = item.type === 'Department' ? item.slug : item.parentSlug || '';
+    const lookupSlug = item.type === 'Department' ? item.slug : (item.parentSlug || '');
     item.budgetMn = pesaBudgets.get(lookupSlug) ?? null;
   }
   const enrichedWithBudget = Array.from(seen.values()).filter(i => i.budgetMn !== null).length;
   console.log(`  Applied PESA budget to ${enrichedWithBudget} organisations`);
+
+  // Remove the temporary parentSlug field
+  for (const [, item] of seen) {
+    delete item.parentSlug;
+  }
 
   // Build output
   const items = Array.from(seen.values())

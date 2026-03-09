@@ -1,35 +1,32 @@
-import { useState, useEffect, useMemo } from 'react';
-import { ScrollView, View, Text, Pressable, Platform, TextInput } from 'react-native';
 import { Link } from 'expo-router';
+import { useEffect, useMemo, useState } from 'react';
+import { Platform, Pressable, ScrollView, Text, TextInput, View } from 'react-native';
 
 import {
-  mockRegulations,
-  getYearStats,
-  totalRegulations,
-  totalReviewed,
-  totalDeletes,
-  deletePercent,
-  REVIEW_COST_GBP,
-  TOTAL_UK_REGULATIONS,
-  mockNGOs,
-  ngoTotalReviewed,
-  ngoTotalDefund,
-  ngoDefundPercent,
-  TOTAL_UK_CHARITIES,
-  NGO_REVIEW_COST_GBP,
-  mockCivilService,
-  csTotalReviewed,
-  csTotalAbolish,
-  csAbolishPercent,
-  TOTAL_UK_CS_BODIES,
-  CS_REVIEW_COST_GBP,
-  csIndexItems,
-  ngoIndexItems,
-  type Regulation,
-  type NGO,
-  type CivilServiceBody,
-  type CSIndexItem,
-  type NGOIndexItem,
+    CS_REVIEW_COST_GBP,
+    csAbolishPercent,
+    csIndexItems,
+    csTotalReviewed,
+    deletePercent,
+    getYearStats,
+    mockCivilService,
+    mockNGOs,
+    mockRegulations,
+    NGO_REVIEW_COST_GBP,
+    ngoDefundPercent,
+    ngoIndexItems,
+    ngoTotalReviewed,
+    REVIEW_COST_GBP,
+    TOTAL_UK_CHARITIES,
+    TOTAL_UK_CS_BODIES,
+    TOTAL_UK_REGULATIONS,
+    totalRegulations,
+    totalReviewed,
+    type CivilServiceBody,
+    type CSIndexItem,
+    type NGO,
+    type NGOIndexItem,
+    type Regulation
 } from '@/lib/data';
 
 // ─── Types ────────────────────────────────────────────────────────────────────
@@ -911,9 +908,10 @@ function IndexRow({
   const name = isCS ? cs.name : ngo.name;
   const tag = isCS ? cs.type : ngo.sector;
   const meta = isCS
-    ? cs.headcount != null
-      ? `${cs.headcount.toLocaleString()} staff`
-      : cs.abbreviation || ''
+    ? [
+        cs.headcount != null ? `${cs.headcount.toLocaleString()} staff` : null,
+        cs.budgetMn != null ? `£${(cs.budgetMn / 1000).toFixed(1)}bn budget` : null,
+      ].filter(Boolean).join('  ·  ') || cs.abbreviation || ''
     : [ngo.annualIncome && `Income ${ngo.annualIncome}`, ngo.annualSpending && `Spending ${ngo.annualSpending}`]
         .filter(Boolean)
         .join('  ·  ');

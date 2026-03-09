@@ -18,6 +18,7 @@
 import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import XLSX from 'xlsx';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = resolve(__dirname, '..', 'data');
@@ -27,6 +28,31 @@ const INDEX_PATH = resolve(DATA_DIR, 'cs-index.json');
 
 const DELAY_MS = 300;
 const GOV_UK_API = 'https://www.gov.uk/api/organisations';
+const PESA_XLSX_URL = 'https://assets.publishing.service.gov.uk/media/66a8dddcce1fd0da7b592f99/PESA_2024_CP_Chapter_1_tables.xlsx';
+
+// Map PESA department labels → gov.uk org slugs
+// Column 6 (index 6) = 2024-25 plans, values are £ millions
+const PESA_SLUG_MAP = {
+  'Health and Social Care':                        'department-of-health-and-social-care',
+  'Education':                                     'department-for-education',
+  'Home Office':                                   'home-office',
+  'Justice':                                       'ministry-of-justice',
+  "Law Officers' Departments":                     'attorney-generals-office',
+  'Defence':                                       'ministry-of-defence',
+  'Foreign, Commonwealth and Development Office':  'foreign-commonwealth-development-office',
+  'Culture, Media and Sport':                      'department-for-culture-media-and-sport',
+  'Science, Innovation and Technology':            'department-for-science-innovation-and-technology',
+  'Transport':                                     'department-for-transport',
+  'Energy Security and Net Zero':                  'department-for-energy-security-and-net-zero',
+  'Environment, Food and Rural Affairs':           'department-for-environment-food-rural-affairs',
+  'Business and Trade':                            'department-for-business-and-trade',
+  'Work and Pensions':                             'department-for-work-pensions',
+  'HM Revenue and Customs':                        'hm-revenue-customs',
+  'HM Treasury':                                   'hm-treasury',
+  'Cabinet Office':                                'cabinet-office',
+  'MHCLG - Local Government':                      'ministry-of-housing-communities-and-local-government',
+  'MHCLG - Housing and Communities':               'ministry-of-housing-communities-and-local-government',
+};
 
 // Map gov.uk organisation formats to our types
 const ORG_TYPE_MAP = {
@@ -155,6 +181,40 @@ function normaliseOrg(raw) {
     about: '',
     childOrgCount: (raw.child_organisations || []).length,
   };
+}
+
+// ─── PESA budget data ────────────────────────────────────────────────────────
+
+async function fetchPesaBudgets() {
+  try {
+    console.log('  Fetching PESA 2024 Chapter 1 xlsx...');
+    const res = await fetch(PESA_XLSX_URL, {
+      headers: { 'User-Agent': 'better-uk-scraper/1.0 (research project)' },
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const buf = Buffer.from(await res.arrayBuffer());
+    const wb = XLSX.read(buf, { type: 'buffer' });
+    const ws = wb.Sheets['Table_1_10'];
+    const rows = XLSX.utils.sheet_to_json(ws, { header: 1, defval: '' });
+
+    // slug -> £ millions (2024-25 plans, column index 6)
+    const budgets = new Map();
+    for (const row of rows) {
+      const label = String(row[0] || '').trim();
+      const value = row[6];
+      if (!label || typeof value !== 'number') continue;
+      // Look up exact match first, then try trimmed match
+      const slug = PESA_SLUG_MAP[label] || PESA_SLUG_MAP[label.replace(/\s*\(.*\)/, '').trim()];
+      if (slug && !budgets.has(slug)) {
+        budgets.set(slug, Math.round(value));
+      }
+    }
+    console.log(`  Loaded PESA budgets for ${budgets.size} departments`);
+    return budgets;
+  } catch (err) {
+    console.warn(`  Warning: could not load PESA data (${err.message}) — budgetMn will be null`);
+    return new Map();
+  }
 }
 
 async function fetchAboutPage(slug) {
@@ -309,6 +369,16 @@ async function main() {
   for (const [, item] of seen) {
     delete item.parentSlug;
   }
+
+  // Enrich with PESA 2024-25 departmental expenditure (£ millions)
+  const pesaBudgets = await fetchPesaBudgets();
+  for (const [, item] of seen) {
+    // Departments get their own budget; agencies/ALBs inherit parent dept budget
+    const lookupSlug = item.type === 'Department' ? item.slug : item.parentSlug || '';
+    item.budgetMn = pesaBudgets.get(lookupSlug) ?? null;
+  }
+  const enrichedWithBudget = Array.from(seen.values()).filter(i => i.budgetMn !== null).length;
+  console.log(`  Applied PESA budget to ${enrichedWithBudget} organisations`);
 
   // Build output
   const items = Array.from(seen.values())

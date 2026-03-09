@@ -170,6 +170,7 @@ export interface CSIndexItem {
   description: string;
   headcount: number | null;
   budgetMn: number | null;
+  deptBudgetMn: number | null;
   url: string;
   parentDept: string;
 }
@@ -199,6 +200,7 @@ export const csIndexItems: CSIndexItem[] = ((csIndexJson as any).items ?? []).ma
     description: item.description ?? '',
     headcount: item.headcount ?? null,
     budgetMn: item.budgetMn ?? null,
+    deptBudgetMn: item.deptBudgetMn ?? null,
     url: item.url ?? `https://www.gov.uk/government/organisations/${item.slug ?? ''}`,
     parentDept: item.parentDept ?? ''
   })

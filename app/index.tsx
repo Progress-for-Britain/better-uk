@@ -42,6 +42,11 @@ function useIsWide() {
   return width >= 768;
 }
 
+function formatBudget(mn: number): string {
+  if (Math.abs(mn) >= 1000) return `£${(mn / 1000).toFixed(1)}bn`;
+  return `£${Math.round(mn).toLocaleString()}m`;
+}
+
 // ─── Types ────────────────────────────────────────────────────────────────────
 
 type ActiveCategory = 'regulations' | 'ngos' | 'civil-service';
@@ -1038,7 +1043,8 @@ function IndexRow({
   const meta = isCS
     ? [
         cs.headcount != null ? `${cs.headcount.toLocaleString()} staff` : null,
-        cs.budgetMn != null ? `£${(cs.budgetMn / 1000).toFixed(1)}bn budget` : null,
+        cs.budgetMn != null ? `${formatBudget(cs.budgetMn)} budget` : null,
+        cs.budgetMn == null && cs.deptBudgetMn != null ? `Dept budget: ${formatBudget(cs.deptBudgetMn)}` : null,
       ].filter(Boolean).join('  ·  ') || cs.abbreviation || ''
     : isLeg
       ? leg.year > 0 ? String(leg.year) : ''
@@ -1276,8 +1282,10 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
     // Sort by budget (descending) for CS when selected
     if (isCS && sortBy === 'budget') {
       result = [...result].sort((a, b) => {
-        const aBudget = (a as CSIndexItem).budgetMn ?? -1;
-        const bBudget = (b as CSIndexItem).budgetMn ?? -1;
+        const aCS = a as CSIndexItem;
+        const bCS = b as CSIndexItem;
+        const aBudget = aCS.budgetMn ?? aCS.deptBudgetMn ?? -1;
+        const bBudget = bCS.budgetMn ?? bCS.deptBudgetMn ?? -1;
         return bBudget - aBudget;
       });
     }

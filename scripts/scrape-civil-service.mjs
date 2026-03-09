@@ -369,12 +369,19 @@ async function main() {
   // Must happen before parentSlug is deleted so child orgs can inherit it
   const pesaBudgets = await fetchPesaBudgets();
   for (const [, item] of seen) {
-    // Departments get their own budget; agencies/ALBs inherit parent dept budget
-    const lookupSlug = item.type === 'Department' ? item.slug : (item.parentSlug || '');
-    item.budgetMn = pesaBudgets.get(lookupSlug) ?? null;
+    if (item.type === 'Department') {
+      // Departments get their own budget
+      item.budgetMn = pesaBudgets.get(item.slug) ?? null;
+      item.deptBudgetMn = null;
+    } else {
+      // Child orgs get the parent dept budget as a separate field
+      item.budgetMn = null;
+      item.deptBudgetMn = pesaBudgets.get(item.parentSlug || '') ?? null;
+    }
   }
-  const enrichedWithBudget = Array.from(seen.values()).filter(i => i.budgetMn !== null).length;
-  console.log(`  Applied PESA budget to ${enrichedWithBudget} organisations`);
+  const deptWithBudget = Array.from(seen.values()).filter(i => i.budgetMn !== null).length;
+  const childWithDeptBudget = Array.from(seen.values()).filter(i => i.deptBudgetMn !== null).length;
+  console.log(`  Applied PESA budget to ${deptWithBudget} departments, ${childWithDeptBudget} child orgs linked to dept budget`);
 
   // Remove the temporary parentSlug field
   for (const [, item] of seen) {

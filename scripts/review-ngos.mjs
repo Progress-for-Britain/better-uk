@@ -13,8 +13,8 @@
  *   XAI_API_KEY  — Required. Your xAI API key from https://console.x.ai
  */
 
-import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'fs';
-import { resolve, dirname } from 'path';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -45,7 +45,9 @@ Your moral thrust is to get the United Kingdom back onto the world stage in term
    * That many organisations use charitable status as a vehicle for political advocacy, executive enrichment, or activities that would be more efficiently delivered by the private sector
 
 You will be given information about one UK charity at a time and are to return a JSON object with these fields:
-{"summary": "summary-of-charity", "verdict": "keep" or "defund", "reason": "reason for verdict"}
+{"summary": "summary-of-charity", "reason": "your reasoning for your verdict", "verdict": "keep" or "defund"}
+
+IMPORTANT: You MUST write the "reason" field BEFORE the "verdict" field. Think through your analysis first, then commit to a verdict. This ordering is deliberate — reason through the tradeoffs before deciding.
 
 If your verdict is "keep", your reason must be succinct and address the question of: why would British citizens be worse off if this charity lost its status, and why it is achieving its mission in a way that would not happen without charitable status.
 

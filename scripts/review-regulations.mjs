@@ -14,14 +14,15 @@
  *   XAI_API_KEY  — Required. Your xAI API key from https://console.x.ai
  */
 
-import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'fs';
-import { resolve, dirname } from 'path';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = resolve(__dirname, '..', 'data');
 const INDEX_PATH = resolve(DATA_DIR, 'legislation-index.json');
 const REVIEWS_PATH = resolve(DATA_DIR, 'reviewed-regulations.json');
+const REVIEWED_YEAR_DIR = resolve(__dirname, '..', 'public', 'data', 'reviewed');
 
 // ─── Configuration ────────────────────────────────────────────────────────────
 
@@ -46,7 +47,9 @@ Your moral thrust is to get the United Kingdom back onto the world stage in term
    * That regulations, as an institution, are set up to achieve one thing but always have unintended consequences, such as distorting incentives, reducing supply, increasing costs, creating monopolies, and sometimes hurting people directly by withholding better options, and that the desired goal of a regulation *must* be weighed against the unintended costs.
 
 You will be given one piece of UK legislation at a time and are to return a JSON object with these fields:
-{"summary": "summary-of-legislation", "verdict": "keep" or "delete", "reason": "reason for verdict"}
+{"summary": "summary-of-legislation", "reason": "your reasoning for your verdict", "verdict": "keep" or "delete"}
+
+IMPORTANT: You MUST write the "reason" field BEFORE the "verdict" field. Think through your analysis first, then commit to a verdict. This ordering is deliberate — reason through the tradeoffs before deciding.
 
 If your verdict is "keep", your reason must be succinct and address the question of: why would British citizens be worse off if this legislation was deleted, and why you think that this legislation must therefore be achieving its desired outcome in a way that would not happen without it.
 
@@ -330,6 +333,21 @@ function loadReviews() {
 function saveReviews(data) {
   mkdirSync(DATA_DIR, { recursive: true });
   writeFileSync(REVIEWS_PATH, JSON.stringify(data, null, 2));
+
+  // Also write per-year reviewed files for the frontend
+  mkdirSync(REVIEWED_YEAR_DIR, { recursive: true });
+  const yearGroups = {};
+  for (const item of data.items) {
+    if (!item.year) continue;
+    if (!yearGroups[item.year]) yearGroups[item.year] = [];
+    yearGroups[item.year].push(item);
+  }
+  for (const [year, items] of Object.entries(yearGroups)) {
+    writeFileSync(
+      resolve(REVIEWED_YEAR_DIR, `${year}.json`),
+      JSON.stringify({ year: Number(year), count: items.length, items }, null, 2)
+    );
+  }
 }
 
 // ─── CLI entry point ──────────────────────────────────────────────────────────

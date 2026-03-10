@@ -1,5 +1,5 @@
 import csIndexJson from '@/data/cs-index.json';
-import legIndexJson from '@/data/legislation-index.json';
+import legIndexJson from '@/data/legislation-index-lite.json'; // meta only, see legislation-index.json for full corpus
 import ngoIndexJson from '@/data/ngo-index-lite.json'; // top-5k by income, see ngo-index.json for full corpus
 import reviewedCSJson from '@/data/reviewed-civil-service.json';
 import reviewedNGOsJson from '@/data/reviewed-ngos.json';
@@ -51,18 +51,23 @@ export const mockRegulations = regulations;
 export function getYearStats(): YearStat[] {
   const yearMap = new Map<number, YearStat>();
 
-  for (let year = 1800; year <= 2025; year++) {
-    yearMap.set(year, { year, total: 0, reviewed: 0 });
+  // Seed totals from the scraped index (legislation-index-lite.json)
+  for (const ys of (legIndexJson as any).yearStats ?? []) {
+    yearMap.set(ys.year, { year: ys.year, total: ys.total ?? 0, reviewed: 0 });
   }
 
   for (const reg of regulations) {
-    const stat = yearMap.get(reg.year);
-    if (stat) {
-      stat.reviewed++;
+    let stat = yearMap.get(reg.year);
+    if (!stat) {
+      stat = { year: reg.year, total: 0, reviewed: 0 };
+      yearMap.set(reg.year, stat);
     }
+    stat.reviewed++;
   }
 
-  return Array.from(yearMap.values()).filter((s) => s.total > 0 || s.reviewed > 0);
+  return Array.from(yearMap.values())
+    .filter((s) => s.total > 0 || s.reviewed > 0)
+    .sort((a, b) => a.year - b.year);
 }
 
 export const totalRegulations = TOTAL_UK_REGULATIONS;
@@ -226,6 +231,12 @@ export const legIndexItems: LegIndexItem[] = regulations.map((r): LegIndexItem =
   description: r.summary,
 }));
 
+// Available years from the scraped index (for lazy-loading per-year files)
+export const legislationYears: { year: number; total: number }[] =
+  ((legIndexJson as any).yearStats ?? [])
+    .filter((s: any) => s.total > 0)
+    .sort((a: any, b: any) => b.year - a.year); // most recent first
+
 // Top 5,000 NGOs by income (bundle-safe slice; full corpus in ngo-index.json)
 export const ngoIndexItems: NGOIndexItem[] = ((ngoIndexJson as any).items ?? []).map(
   (item: any): NGOIndexItem => ({
@@ -258,7 +269,9 @@ Your moral thrust is to get the United Kingdom back onto the world stage in term
    * That regulations, as an institution, are set up to achieve one thing but always have unintended consequences, such as distorting incentives, reducing supply, increasing costs, creating monopolies, and sometimes hurting people directly by withholding better options, and that the desired goal of a regulation *must* be weighed against the unintended costs.
 
 You will be given one piece of UK legislation at a time and are to return a JSON object with these fields:
-{"summary": "summary-of-legislation", "verdict": "keep" or "delete", "reason": "reason for verdict"}
+{"summary": "summary-of-legislation", "reason": "your reasoning for your verdict", "verdict": "keep" or "delete"}
+
+IMPORTANT: You MUST write the "reason" field BEFORE the "verdict" field. Think through your analysis first, then commit to a verdict. This ordering is deliberate — reason through the tradeoffs before deciding.
 
 If your verdict is "keep", your reason must be succinct and address the question of: why would British citizens be worse off if this legislation was deleted, and why you think that this legislation must therefore be achieving its desired outcome in a way that would not happen without it.
 
@@ -279,7 +292,9 @@ Your moral thrust is to get the United Kingdom back onto the world stage in term
    * That many organisations use charitable status as a vehicle for political advocacy, executive enrichment, or activities that would be more efficiently delivered by the private sector
 
 You will be given information about one UK charity at a time and are to return a JSON object with these fields:
-{"summary": "summary-of-charity", "verdict": "keep" or "defund", "reason": "reason for verdict"}
+{"summary": "summary-of-charity", "reason": "your reasoning for your verdict", "verdict": "keep" or "defund"}
+
+IMPORTANT: You MUST write the "reason" field BEFORE the "verdict" field. Think through your analysis first, then commit to a verdict. This ordering is deliberate — reason through the tradeoffs before deciding.
 
 If your verdict is "keep", your reason must be succinct and address the question of: why would British citizens be worse off if this charity lost its status, and why it is achieving its mission in a way that would not happen without charitable status.
 
@@ -304,7 +319,9 @@ Your moral thrust is to get the United Kingdom back onto the world stage in term
    * That every pound spent maintaining a government body is a pound taxed from productive enterprise
 
 You will be given information about one UK government organisation at a time and are to return a JSON object with these fields:
-{"summary": "summary-of-organisation", "verdict": "keep" or "abolish", "reason": "reason for verdict"}
+{"summary": "summary-of-organisation", "reason": "your reasoning for your verdict", "verdict": "keep" or "abolish"}
+
+IMPORTANT: You MUST write the "reason" field BEFORE the "verdict" field. Think through your analysis first, then commit to a verdict. This ordering is deliberate — reason through the tradeoffs before deciding.
 
 If your verdict is "keep", your reason must be succinct and address: why this body performs a function that cannot be delivered by the private sector or existing departments, and why British citizens would be materially worse off without it.
 

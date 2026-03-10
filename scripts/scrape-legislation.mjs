@@ -14,13 +14,15 @@
  *   https://www.legislation.gov.uk/{type}/{year}/data.feed?page={n}
  */
 
-import { writeFileSync, readFileSync, existsSync } from 'fs';
-import { resolve, dirname } from 'path';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = resolve(__dirname, '..', 'data');
 const INDEX_PATH = resolve(DATA_DIR, 'legislation-index.json');
+const LITE_INDEX_PATH = resolve(DATA_DIR, 'legislation-index-lite.json');
+const YEAR_DIR = resolve(__dirname, '..', 'public', 'data', 'legislation');
 
 // ─── Configuration ────────────────────────────────────────────────────────────
 
@@ -248,16 +250,45 @@ async function main() {
   }
   const yearStats = Object.values(yearMap).sort((a, b) => a.year - b.year);
 
+  const sortedItems = mergedItems.sort((a, b) => a.year - b.year || a.id.localeCompare(b.id));
+
   const output = {
     scrapedAt: new Date().toISOString(),
     totalItems: mergedItems.length,
     yearRange: { from: fromYear, to: toYear },
     yearStats,
-    items: mergedItems.sort((a, b) => a.year - b.year || a.id.localeCompare(b.id)),
+    items: sortedItems,
   };
 
   writeFileSync(INDEX_PATH, JSON.stringify(output, null, 2));
   console.log(`\n  ✓ Written ${mergedItems.length} items to data/legislation-index.json`);
+
+  // Write lite index (meta + yearStats only — no items array) for the app bundle
+  const liteOutput = {
+    scrapedAt: output.scrapedAt,
+    totalItems: output.totalItems,
+    yearRange: output.yearRange,
+    yearStats,
+  };
+  writeFileSync(LITE_INDEX_PATH, JSON.stringify(liteOutput, null, 2));
+  console.log(`  ✓ Written meta to data/legislation-index-lite.json`);
+
+  // Write per-year JSON files for runtime lazy-loading
+  mkdirSync(YEAR_DIR, { recursive: true });
+  const yearGroups = {};
+  for (const item of sortedItems) {
+    if (!yearGroups[item.year]) yearGroups[item.year] = [];
+    yearGroups[item.year].push(item);
+  }
+  let yearFileCount = 0;
+  for (const [year, items] of Object.entries(yearGroups)) {
+    writeFileSync(
+      resolve(YEAR_DIR, `${year}.json`),
+      JSON.stringify({ year: Number(year), count: items.length, items }, null, 2)
+    );
+    yearFileCount++;
+  }
+  console.log(`  ✓ Written ${yearFileCount} per-year files to public/data/legislation/`);
   console.log(`  Year range: ${yearStats[0]?.year}–${yearStats[yearStats.length - 1]?.year}`);
   console.log();
 }

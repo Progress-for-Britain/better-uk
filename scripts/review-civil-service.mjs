@@ -13,8 +13,8 @@
  *   XAI_API_KEY  — Required. Your xAI API key from https://console.x.ai
  */
 
-import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'fs';
-import { resolve, dirname } from 'path';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -48,7 +48,9 @@ Your moral thrust is to get the United Kingdom back onto the world stage in term
    * That every pound spent maintaining a government body is a pound taxed from productive enterprise
 
 You will be given information about one UK government organisation at a time and are to return a JSON object with these fields:
-{"summary": "summary-of-organisation", "verdict": "keep" or "abolish", "reason": "reason for verdict"}
+{"summary": "summary-of-organisation", "reason": "your reasoning for your verdict", "verdict": "keep" or "abolish"}
+
+IMPORTANT: You MUST write the "reason" field BEFORE the "verdict" field. Think through your analysis first, then commit to a verdict. This ordering is deliberate — reason through the tradeoffs before deciding.
 
 If your verdict is "keep", your reason must be succinct and address: why this body performs a function that cannot be delivered by the private sector or existing departments, and why British citizens would be materially worse off without it.
 

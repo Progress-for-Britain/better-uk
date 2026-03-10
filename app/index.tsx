@@ -1,7 +1,19 @@
 import { Link } from 'expo-router';
-import { useEffect, useMemo, useState } from 'react';
-import { Platform, Pressable, ScrollView, Text, TextInput, useWindowDimensions, View } from 'react-native';
+import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
+import {
+  ActivityIndicator,
+  Animated,
+  Easing,
+  Platform,
+  Pressable,
+  ScrollView,
+  Text,
+  TextInput,
+  useWindowDimensions,
+  View
+} from 'react-native';
 
+import { ContentBackground, HeroBackground } from '@/components/skia-background';
 import {
   CS_REVIEW_COST_GBP,
   csAbolishPercent,
@@ -13,7 +25,7 @@ import {
   GROK_PROMPT_CIVIL_SERVICE,
   GROK_PROMPT_NGOS,
   GROK_PROMPT_REGULATIONS,
-  legIndexItems,
+  legislationYears,
   mockCivilService,
   mockNGOs,
   mockRegulations,
@@ -58,6 +70,49 @@ const CATEGORIES: { id: ActiveCategory; label: string }[] = [
 ];
 
 const TOTAL_ACTIVE = TOTAL_UK_REGULATIONS;
+
+function LoadInSection({
+  children,
+  delay = 0,
+}: {
+  children: ReactNode;
+  delay?: number;
+}) {
+  const opacity = useRef(new Animated.Value(Platform.OS === 'web' ? 0 : 1)).current;
+  const translateY = useRef(new Animated.Value(Platform.OS === 'web' ? 18 : 0)).current;
+
+  useEffect(() => {
+    if (Platform.OS !== 'web') return;
+
+    const animation = Animated.parallel([
+      Animated.timing(opacity, {
+        toValue: 1,
+        duration: 700,
+        delay,
+        easing: Easing.out(Easing.cubic),
+        useNativeDriver: false,
+      }),
+      Animated.timing(translateY, {
+        toValue: 0,
+        duration: 700,
+        delay,
+        easing: Easing.out(Easing.cubic),
+        useNativeDriver: false,
+      }),
+    ]);
+
+    animation.start();
+    return () => animation.stop();
+  }, [delay, opacity, translateY]);
+
+  if (Platform.OS !== 'web') return <>{children}</>;
+
+  return (
+    <Animated.View style={{ opacity, transform: [{ translateY }] }}>
+      {children}
+    </Animated.View>
+  );
+}
 
 // ─── Verdict Badge ────────────────────────────────────────────────────────────
 
@@ -285,6 +340,7 @@ function HeroSection({ category }: { category: ActiveCategory }) {
         },
         Platform.OS === 'web' && isWide ? ({ minHeight: '80vh' } as any) : undefined,
       ]}>
+      <HeroBackground />
       <View
         style={{
           position: 'relative',
@@ -1249,22 +1305,75 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
   const [sortBy, setSortBy] = useState<'name' | 'budget'>('name');
   const [page, setPage] = useState(0);
 
+  // Per-year lazy loading for legislation
+  const [selectedYear, setSelectedYear] = useState<number | null>(
+    legislationYears.length > 0 ? legislationYears[0].year : null
+  );
+  const [yearItems, setYearItems] = useState<LegIndexItem[]>([]);
+  const [loadingYear, setLoadingYear] = useState(false);
+  const [yearError, setYearError] = useState<string | null>(null);
+  const fetchedYearsRef = useRef<Map<number, LegIndexItem[]>>(new Map());
+
+  const fetchYear = useCallback(async (year: number) => {
+    // Use cache if available
+    if (fetchedYearsRef.current.has(year)) {
+      setYearItems(fetchedYearsRef.current.get(year)!);
+      return;
+    }
+    setLoadingYear(true);
+    setYearError(null);
+    try {
+      const resp = await fetch(`/data/legislation/${year}.json`);
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      const data = await resp.json();
+      const items: LegIndexItem[] = (data.items ?? []).map((item: any) => ({
+        id: item.id,
+        title: item.title ?? item.id,
+        year: item.year ?? year,
+        type: (item.type ?? 'Act') as any,
+        url: item.url ?? '',
+        description: '',
+      }));
+      fetchedYearsRef.current.set(year, items);
+      setYearItems(items);
+    } catch (err: any) {
+      setYearError(err.message ?? 'Failed to load');
+      setYearItems([]);
+    } finally {
+      setLoadingYear(false);
+    }
+  }, []);
+
+  useEffect(() => {
+    if (isLeg && selectedYear !== null) {
+      fetchYear(selectedYear);
+    }
+  }, [isLeg, selectedYear, fetchYear]);
+
   useEffect(() => {
     setPage(0);
-  }, [search, selectedType, category, sortBy]);
+  }, [search, selectedType, category, sortBy, selectedYear]);
 
   // Reset sort when switching categories (budget only makes sense for CS)
   useEffect(() => {
     setSortBy('name');
   }, [category]);
 
-  const allItems = isCS ? csIndexItems : isNGO ? ngoIndexItems : legIndexItems;
+  // Reset year selection when switching to regulations tab
+  useEffect(() => {
+    if (isLeg && legislationYears.length > 0 && selectedYear === null) {
+      setSelectedYear(legislationYears[0].year);
+    }
+  }, [isLeg, selectedYear]);
+
+  // For legislation, use lazy-loaded year items; for others, use static data
+  const allItems = isCS ? csIndexItems : isNGO ? ngoIndexItems : yearItems;
 
   const typeOptions: string[] = isCS
     ? [...new Set(csIndexItems.map((i) => i.type))].sort()
     : isNGO
       ? [...new Set(ngoIndexItems.map((i) => i.sector))].sort()
-      : [...new Set(legIndexItems.map((i) => i.type))].sort();
+      : [...new Set(yearItems.map((i) => i.type))].sort();
 
   const filtered = useMemo(() => {
     let result = allItems as (CSIndexItem | NGOIndexItem | LegIndexItem)[];
@@ -1305,7 +1414,9 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
     ? `Showing top ${ngoIndexItems.length.toLocaleString()} of 171,168 charities by annual income`
     : isCS
       ? `${csIndexItems.length.toLocaleString()} bodies scraped`
-      : `${legIndexItems.length.toLocaleString()} AI-reviewed regulations`;
+      : selectedYear
+        ? `Showing ${selectedYear} · ${yearItems.length.toLocaleString()} of ${TOTAL_UK_REGULATIONS.toLocaleString()} regulations`
+        : `${TOTAL_UK_REGULATIONS.toLocaleString()} regulations scraped · select a year to browse`;
 
   return (
     <View style={{ paddingVertical: 64, borderTopWidth: 1, borderTopColor: '#e5e5e5' }}>
@@ -1343,7 +1454,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
         {totalNote}
       </Text>
 
-      {/* Search + type filter + sort */}
+      {/* Search + year/type filter + sort */}
       <View style={{ flexDirection: isWide ? 'row' : 'column', gap: 12, marginBottom: 24, alignItems: isWide ? 'flex-end' : 'stretch' }}>
         <TextInput
           value={search}
@@ -1363,6 +1474,42 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
             ...(isWide ? { minWidth: 300, flex: 1 } : {}),
           }}
         />
+        {/* Year selector for legislation */}
+        {isLeg && legislationYears.length > 0 && (
+          <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+            <View
+              style={{
+                flexDirection: 'row',
+                borderWidth: 1,
+                borderColor: '#e5e5e5',
+                borderRadius: 8,
+                overflow: 'hidden',
+                backgroundColor: '#fafaf8',
+              }}>
+              {legislationYears.map((ys, i) => (
+                <Pressable
+                  key={ys.year}
+                  onPress={() => { setSelectedType(null); setSelectedYear(ys.year); }}
+                  style={{
+                    paddingHorizontal: 10,
+                    paddingVertical: 8,
+                    backgroundColor: selectedYear === ys.year ? '#3b82f6' : 'transparent',
+                    borderRightWidth: i < legislationYears.length - 1 ? 1 : 0,
+                    borderRightColor: '#e5e5e5',
+                  }}>
+                  <Text
+                    style={{
+                      fontFamily: "'DM Mono', monospace",
+                      fontSize: 11,
+                      color: selectedYear === ys.year ? '#fff' : '#666',
+                    }}>
+                    {ys.year}
+                  </Text>
+                </Pressable>
+              ))}
+            </View>
+          </ScrollView>
+        )}
         {isCS && (
           <View
             style={{
@@ -1508,7 +1655,31 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
           </View>
         )}
 
-        {pageItems.length === 0 ? (
+        {isLeg && loadingYear ? (
+          <View style={{ padding: 48, alignItems: 'center' }}>
+            <ActivityIndicator size="small" color="#3b82f6" />
+            <Text
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: 13,
+                color: '#bbb',
+                marginTop: 12,
+              }}>
+              Loading {selectedYear} legislation…
+            </Text>
+          </View>
+        ) : isLeg && yearError ? (
+          <View style={{ padding: 48, alignItems: 'center' }}>
+            <Text
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: 13,
+                color: '#e74c3c',
+              }}>
+              Failed to load data for {selectedYear}
+            </Text>
+          </View>
+        ) : pageItems.length === 0 ? (
           <View style={{ padding: 48, alignItems: 'center' }}>
             <Text
               style={{
@@ -1680,57 +1851,69 @@ export default function HomeScreen() {
     <ScrollView
       style={{ flex: 1, backgroundColor: '#fafaf8' }}
       contentContainerStyle={{ paddingBottom: 80 }}>
-      <SiteHeader category={category} onChangeCategory={handleCategoryChange} />
+      <LoadInSection delay={40}>
+        <SiteHeader category={category} onChangeCategory={handleCategoryChange} />
+      </LoadInSection>
 
-      <HeroSection category={category} />
-      <View
-        style={{
-          maxWidth: 1200,
-          width: '100%',
-          marginHorizontal: 'auto',
-          paddingHorizontal: 24,
-        }}>
-        {!isNGO && !isCS && (
-          <YearChart selectedYear={typeof selectedFilter === 'number' ? selectedFilter : null} onSelectYear={setSelectedFilter} />
-        )}
-        <VerdictsTable
-          items={items}
-          selectedFilter={selectedFilter}
-          onSelectFilter={setSelectedFilter}
-          isNGO={isNGO}
-          isCS={isCS}
-        />
-        <IndexBrowser category={category} />
-      </View>
+      <LoadInSection delay={120}>
+        <HeroSection category={category} />
+      </LoadInSection>
+      <LoadInSection delay={220}>
+        <View
+          style={{
+            maxWidth: 1200,
+            width: '100%',
+            marginHorizontal: 'auto',
+            paddingHorizontal: 24,
+            position: 'relative',
+          }}>
+          <ContentBackground />
+          {!isNGO && !isCS && (
+            <YearChart selectedYear={typeof selectedFilter === 'number' ? selectedFilter : null} onSelectYear={setSelectedFilter} />
+          )}
+          <VerdictsTable
+            items={items}
+            selectedFilter={selectedFilter}
+            onSelectFilter={setSelectedFilter}
+            isNGO={isNGO}
+            isCS={isCS}
+          />
+          <IndexBrowser category={category} />
+        </View>
+      </LoadInSection>
 
       {/* Grok prompt */}
-      <PromptSection category={category} />
+      <LoadInSection delay={320}>
+        <PromptSection category={category} />
+      </LoadInSection>
 
       {/* Footer */}
-      <View
-        style={{
-          maxWidth: 1200,
-          width: '100%',
-          marginHorizontal: 'auto',
-          paddingHorizontal: 24,
-          borderTopWidth: 1,
-          borderTopColor: '#e5e5e5',
-          paddingVertical: 32,
-          flexDirection: isWide ? 'row' : 'column',
-          justifyContent: 'space-between',
-          alignItems: isWide ? 'center' : 'flex-start',
-          gap: isWide ? 0 : 8,
-        }}>
-        <Text
-          style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#bbb' }}>
-          Inspired by <Text style={{ color: '#888' }}>bettereu.com</Text>
-        </Text>
-        <Text
-          style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#bbb' }}>
-          {totalReviewed.toLocaleString()} of {TOTAL_ACTIVE.toLocaleString()} active UK
-          regulations reviewed
-        </Text>
-      </View>
+      <LoadInSection delay={400}>
+        <View
+          style={{
+            maxWidth: 1200,
+            width: '100%',
+            marginHorizontal: 'auto',
+            paddingHorizontal: 24,
+            borderTopWidth: 1,
+            borderTopColor: '#e5e5e5',
+            paddingVertical: 32,
+            flexDirection: isWide ? 'row' : 'column',
+            justifyContent: 'space-between',
+            alignItems: isWide ? 'center' : 'flex-start',
+            gap: isWide ? 0 : 8,
+          }}>
+          <Text
+            style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#bbb' }}>
+            Inspired by <Text style={{ color: '#888' }}>bettereu.com</Text>
+          </Text>
+          <Text
+            style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#bbb' }}>
+            {totalReviewed.toLocaleString()} of {TOTAL_ACTIVE.toLocaleString()} active UK
+            regulations reviewed
+          </Text>
+        </View>
+      </LoadInSection>
     </ScrollView>
   );
 }

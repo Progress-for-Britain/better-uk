@@ -32,14 +32,17 @@ yarn-error.*
 
 # local env files
 .env*.local
+.env
 
 # typescript
 *.tsbuildinfo
 
 app-example
 
-# Large data files not needed in the bundle (app uses ngo-index-lite.json instead)
+# Large data files not needed in the bundle (app uses *-lite.json / per-year files instead)
 data/ngo-index.json
+data/legislation-index.json
+data/reviewed-regulations.json
 
 # generated native folders
 /ios

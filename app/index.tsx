@@ -13,6 +13,7 @@ import {
   View
 } from 'react-native';
 
+import { FundReviewsCard } from '@/components/request-review';
 import { ContentBackground, HeroBackground } from '@/components/skia-background';
 import {
   CS_REVIEW_COST_GBP,
@@ -454,6 +455,9 @@ function HeroSection({ category }: { category: ActiveCategory }) {
               </Text>
             </View>
           </View>
+
+          {/* Fund reviews card */}
+          <FundReviewsCard category={category} />
         </View>
 
         {/* Right: Donut chart — wide viewports only */}

@@ -3,7 +3,8 @@ import Head from 'expo-router/head';
 import { useState } from 'react';
 import { Linking, Pressable, ScrollView, Text, View } from 'react-native';
 
-import { type CivilServiceBody, GROK_MODEL, GROK_PROMPT_CIVIL_SERVICE, GROK_PROMPT_NGOS, GROK_PROMPT_REGULATIONS, mockCivilService, mockNGOs, mockRegulations, type NGO, type Regulation } from '@/lib/data';
+import { RequestReviewButton, ReviewPendingBanner } from '@/components/request-review';
+import { type CivilServiceBody, csIndexItems, GROK_MODEL, GROK_PROMPT_CIVIL_SERVICE, GROK_PROMPT_NGOS, GROK_PROMPT_REGULATIONS, mockCivilService, mockNGOs, mockRegulations, ngoIndexItems, type NGO, type Regulation } from '@/lib/data';
 
 function VerdictBadge({ verdict, label }: { verdict: string; label?: string }) {
   const isNegative = verdict === 'delete' || verdict === 'abolish';
@@ -33,7 +34,7 @@ function VerdictBadge({ verdict, label }: { verdict: string; label?: string }) {
 }
 
 export default function RegulationDetail() {
-  const { id } = useLocalSearchParams<{ id: string }>();
+  const { id, review } = useLocalSearchParams<{ id: string; review?: string }>();
   const decodedId = decodeURIComponent(id ?? '');
   const regulation = mockRegulations.find((r) => r.id === decodedId);
   const ngo = mockNGOs.find((n) => n.id === decodedId);
@@ -42,40 +43,76 @@ export default function RegulationDetail() {
   const isNGO = !!ngo;
   const isCS = !!csBody;
 
-  if (!item) {
-    return (
-      <View style={{ flex: 1, backgroundColor: '#fafaf8', alignItems: 'center', justifyContent: 'center' }}>
-        <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#999' }}>
-          Item not found.
-        </Text>
-        <Link href="/" style={{ marginTop: 16 }}>
-          <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#3b82f6' }}>
-            ← Back to home
+  // Check unreviewed index items if not found in reviewed data
+  const indexNGO = !item ? ngoIndexItems.find((n) => n.id === decodedId) : null;
+  const indexCS = !item ? csIndexItems.find((b) => b.id === decodedId) : null;
+  const indexItem = indexNGO ?? indexCS;
+  const isUnreviewed = !item && !!indexItem;
+  const isPending = review === 'pending';
+
+  if (!item && !indexItem) {
+    // Allow requesting a review for any legislation ID (e.g. ukpga/2020/1)
+    const isLikelyLegislation = /^uk/.test(decodedId);
+    if (isLikelyLegislation || isPending) {
+      // Fall through with minimal data — show the request review button
+    } else {
+      return (
+        <View style={{ flex: 1, backgroundColor: '#fafaf8', alignItems: 'center', justifyContent: 'center' }}>
+          <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#999' }}>
+            Item not found.
           </Text>
-        </Link>
-      </View>
-    );
+          <Link href="/" style={{ marginTop: 16 }}>
+            <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#3b82f6' }}>
+              ← Back to home
+            </Text>
+          </Link>
+        </View>
+      );
+    }
   }
 
-  const title = isCS ? (item as CivilServiceBody).name : isNGO ? (item as NGO).name : (item as Regulation).title;
-  const year = isCS ? '' : isNGO ? (item as NGO).founded : (item as Regulation).year;
-  const typeLabel = isCS ? (item as CivilServiceBody).type : isNGO ? (item as NGO).sector : (item as Regulation).type;
-  const verdictLabel = isCS ? item.verdict : isNGO && item.verdict === 'delete' ? 'defund' : item.verdict;
-  const isNegativeVerdict = item.verdict === 'delete' || item.verdict === 'abolish';
-  const verdictDesc = isNegativeVerdict
-    ? isCS
-      ? 'Abolish — merge into parent department or cease entirely'
-      : isNGO
-        ? 'Withdraw charitable status or government funding'
-        : 'Remove from the statute book'
-    : isCS
-      ? 'Retain — performs a critical function of government'
-      : isNGO
-        ? 'Retain — delivers genuine charitable value'
-        : 'Retain — serves a justifiable purpose';
+  // Derive display fields for both reviewed and unreviewed items
+  const isUnreviewedNGO = !!indexNGO;
+  const isUnreviewedCS = !!indexCS;
+  const effectiveIsNGO = isNGO || isUnreviewedNGO;
+  const effectiveIsCS = isCS || isUnreviewedCS;
+
+  const title = item
+    ? isCS ? (item as CivilServiceBody).name : isNGO ? (item as NGO).name : (item as Regulation).title
+    : indexNGO ? indexNGO.name : indexCS ? indexCS.name : decodedId;
+
+  const year = item
+    ? isCS ? '' : isNGO ? (item as NGO).founded : (item as Regulation).year
+    : indexNGO ? indexNGO.founded : '';
+
+  const typeLabel = item
+    ? isCS ? (item as CivilServiceBody).type : isNGO ? (item as NGO).sector : (item as Regulation).type
+    : indexNGO ? indexNGO.sector : indexCS ? indexCS.type : '';
+
+  const category: 'regulations' | 'ngos' | 'civil-service' = effectiveIsCS ? 'civil-service' : effectiveIsNGO ? 'ngos' : 'regulations';
+
+  const verdictLabel = item
+    ? isCS ? item.verdict : isNGO && item.verdict === 'delete' ? 'defund' : item.verdict
+    : null;
+
+  const isNegativeVerdict = item ? item.verdict === 'delete' || item.verdict === 'abolish' : false;
+  const verdictDesc = item
+    ? isNegativeVerdict
+      ? isCS
+        ? 'Abolish — merge into parent department or cease entirely'
+        : isNGO
+          ? 'Withdraw charitable status or government funding'
+          : 'Remove from the statute book'
+      : isCS
+        ? 'Retain — performs a critical function of government'
+        : isNGO
+          ? 'Retain — delivers genuine charitable value'
+          : 'Retain — serves a justifiable purpose'
+    : null;
 
   const pageTitle = `${title} — better-uk AI Review`;
-  const pageDesc = item.summary.length > 160 ? item.summary.slice(0, 157) + '...' : item.summary;
+  const summaryText = item?.summary || (indexNGO?.description ?? indexCS?.description ?? '');
+  const pageDesc = summaryText.length > 160 ? summaryText.slice(0, 157) + '...' : summaryText;
 
   return (
     <ScrollView
@@ -114,30 +151,34 @@ export default function RegulationDetail() {
         }}>
         <View style={{ flexDirection: 'row', alignItems: 'center', gap: 12, marginBottom: 16 }}>
           <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#3b82f6' }}>
-            {item.id}
+            {decodedId}
           </Text>
-          <View
-            style={{
-              borderWidth: 1,
-              borderColor: '#e5e5e5',
-              borderRadius: 4,
-              paddingHorizontal: 8,
-              paddingVertical: 2,
-            }}>
-            <Text
+          {typeLabel ? (
+            <View
               style={{
-                fontFamily: "'DM Mono', monospace",
-                fontSize: 10,
-                textTransform: 'uppercase',
-                letterSpacing: 1.5,
-                color: '#999',
+                borderWidth: 1,
+                borderColor: '#e5e5e5',
+                borderRadius: 4,
+                paddingHorizontal: 8,
+                paddingVertical: 2,
               }}>
-              {typeLabel}
+              <Text
+                style={{
+                  fontFamily: "'DM Mono', monospace",
+                  fontSize: 10,
+                  textTransform: 'uppercase',
+                  letterSpacing: 1.5,
+                  color: '#999',
+                }}>
+                {typeLabel}
+              </Text>
+            </View>
+          ) : null}
+          {year ? (
+            <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#bbb' }}>
+              {year}
             </Text>
-          </View>
-          <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#bbb' }}>
-            {year}
-          </Text>
+          ) : null}
         </View>
 
         <Text
@@ -152,97 +193,130 @@ export default function RegulationDetail() {
           {title}
         </Text>
 
-        <View style={{ flexDirection: 'row', alignItems: 'center', gap: 16, marginBottom: 32 }}>
-          <VerdictBadge verdict={item.verdict} label={verdictLabel} />
-          <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#999' }}>
-            AI recommendation: {verdictDesc}
-          </Text>
-        </View>
+        {/* Reviewed item: show verdict + summary + assessment */}
+        {item && verdictLabel ? (
+          <>
+            <View style={{ flexDirection: 'row', alignItems: 'center', gap: 16, marginBottom: 32 }}>
+              <VerdictBadge verdict={item.verdict} label={verdictLabel} />
+              <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#999' }}>
+                AI recommendation: {verdictDesc}
+              </Text>
+            </View>
 
-        <View
-          style={{
-            borderTopWidth: 1,
-            borderTopColor: '#e5e5e5',
-            paddingTop: 32,
-            marginBottom: 32,
-          }}>
-          <Text
-            style={{
-              fontFamily: "'DM Mono', monospace",
-              fontSize: 10,
-              letterSpacing: 1.5,
-              textTransform: 'uppercase',
-              color: '#bbb',
-              marginBottom: 12,
-            }}>
-            Summary
-          </Text>
-          <Text
-            style={{
-              fontFamily: "'DM Mono', monospace",
-              fontSize: 14,
-              color: '#444',
-              lineHeight: 24,
-            }}>
-            {item.summary}
-          </Text>
-        </View>
+            <View
+              style={{
+                borderTopWidth: 1,
+                borderTopColor: '#e5e5e5',
+                paddingTop: 32,
+                marginBottom: 32,
+              }}>
+              <Text
+                style={{
+                  fontFamily: "'DM Mono', monospace",
+                  fontSize: 10,
+                  letterSpacing: 1.5,
+                  textTransform: 'uppercase',
+                  color: '#bbb',
+                  marginBottom: 12,
+                }}>
+                Summary
+              </Text>
+              <Text
+                style={{
+                  fontFamily: "'DM Mono', monospace",
+                  fontSize: 14,
+                  color: '#444',
+                  lineHeight: 24,
+                }}>
+                {item.summary}
+              </Text>
+            </View>
 
-        <View
-          style={{
-            borderRadius: 12,
-            borderWidth: 1,
-            borderColor: isNegativeVerdict ? '#fecaca' : '#bbf7d0',
-            backgroundColor: isNegativeVerdict ? '#fef2f2' : '#f0fdf4',
-            padding: 24,
-            marginBottom: 32,
-          }}>
-          <Text
-            style={{
-              fontFamily: "'DM Mono', monospace",
-              fontSize: 10,
-              letterSpacing: 1.5,
-              textTransform: 'uppercase',
-              color: '#999',
-              marginBottom: 12,
-            }}>
-            AI Assessment
-          </Text>
-          <Text
-            style={{
-              fontFamily: "'DM Mono', monospace",
-              fontSize: 14,
-              color: '#444',
-              lineHeight: 24,
-            }}>
-            {item.reason}
-          </Text>
-        </View>
+            <View
+              style={{
+                borderRadius: 12,
+                borderWidth: 1,
+                borderColor: isNegativeVerdict ? '#fecaca' : '#bbf7d0',
+                backgroundColor: isNegativeVerdict ? '#fef2f2' : '#f0fdf4',
+                padding: 24,
+                marginBottom: 32,
+              }}>
+              <Text
+                style={{
+                  fontFamily: "'DM Mono', monospace",
+                  fontSize: 10,
+                  letterSpacing: 1.5,
+                  textTransform: 'uppercase',
+                  color: '#999',
+                  marginBottom: 12,
+                }}>
+                AI Assessment
+              </Text>
+              <Text
+                style={{
+                  fontFamily: "'DM Mono', monospace",
+                  fontSize: 14,
+                  color: '#444',
+                  lineHeight: 24,
+                }}>
+                {item.reason}
+              </Text>
+            </View>
+          </>
+        ) : null}
 
-        <Pressable
-          onPress={() => Linking.openURL(item.url)}
-          style={{
-            flexDirection: 'row',
-            alignItems: 'center',
-            gap: 8,
-            borderWidth: 1,
-            borderColor: '#e5e5e5',
-            borderRadius: 8,
-            paddingHorizontal: 16,
-            paddingVertical: 12,
-            alignSelf: 'flex-start',
-            backgroundColor: '#fff',
-          }}>
-          <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#666' }}>
-            {isNGO ? 'Visit website' : 'View on legislation.gov.uk'}
-          </Text>
-          <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#bbb' }}>
-            ↗
-          </Text>
-        </Pressable>
+        {/* Unreviewed item: show pending banner or request button */}
+        {isUnreviewed && isPending ? <ReviewPendingBanner /> : null}
+        {isUnreviewed && !isPending ? (
+          <>
+            {summaryText ? (
+              <View style={{ marginBottom: 24 }}>
+                <Text
+                  style={{
+                    fontFamily: "'DM Mono', monospace",
+                    fontSize: 14,
+                    color: '#666',
+                    lineHeight: 22,
+                  }}>
+                  {summaryText}
+                </Text>
+              </View>
+            ) : null}
+            <RequestReviewButton
+              itemId={decodedId}
+              itemTitle={title}
+              category={category}
+            />
+          </>
+        ) : null}
 
-        {/* Grok prompt */}
-        <DetailPromptSection isCS={isCS} isNGO={isNGO} />
+        {/* External link */}
+        {(item?.url || indexNGO?.url || indexCS?.url) ? (
+          <Pressable
+            onPress={() => Linking.openURL((item?.url || indexNGO?.url || indexCS?.url)!)}
+            style={{
+              flexDirection: 'row',
+              alignItems: 'center',
+              gap: 8,
+              borderWidth: 1,
+              borderColor: '#e5e5e5',
+              borderRadius: 8,
+              paddingHorizontal: 16,
+              paddingVertical: 12,
+              alignSelf: 'flex-start',
+              backgroundColor: '#fff',
+            }}>
+            <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#666' }}>
+              {effectiveIsNGO ? 'Visit website' : 'View on legislation.gov.uk'}
+            </Text>
+            <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#bbb' }}>
+              ↗
+            </Text>
+          </Pressable>
+        ) : null}
+
+        {/* Grok prompt (only for reviewed items) */}
+        {item ? <DetailPromptSection isCS={effectiveIsCS} isNGO={effectiveIsNGO} /> : null}
       </View>
     </ScrollView>
   );

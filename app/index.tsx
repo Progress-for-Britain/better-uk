@@ -568,8 +568,8 @@ function YearChart({
           lineHeight: 22,
           marginBottom: 40,
         }}>
-        Every piece of UK legislation plotted by year of enactment — blue shows what AI
-        has reviewed so far.
+        Every piece of UK legislation plotted by year of enactment — scroll right for
+        older years. Blue shows what AI has reviewed so far.
       </Text>
 
       <ScrollView horizontal showsHorizontalScrollIndicator={false}>

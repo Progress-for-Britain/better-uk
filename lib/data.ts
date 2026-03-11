@@ -67,7 +67,7 @@ export function getYearStats(): YearStat[] {
 
   return Array.from(yearMap.values())
     .filter((s) => s.total > 0 || s.reviewed > 0)
-    .sort((a, b) => a.year - b.year);
+    .sort((a, b) => b.year - a.year);
 }
 
 export const totalRegulations = TOTAL_UK_REGULATIONS;

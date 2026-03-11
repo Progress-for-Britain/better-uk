@@ -1,142 +1,3438 @@
 {
   "year": 1994,
-  "count": 1907,
+  "count": 2319,
   "items": [
     {
       "id": "NISI-1994-1891",
       "title": "The Agriculture (Miscellaneous Provisions) (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/1891",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-1892",
       "title": "The Appropriation (No. 2) (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/1892",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-1893",
       "title": "The Betting and Lotteries (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/1893",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-1894",
       "title": "The Civil Service (Management Functions) (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/1894",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-1896",
       "title": "The Litter (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/1896",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-1897",
       "title": "The Rates (Amendment) (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/1897",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-1898",
       "title": "The Social Security (Incapacity for Work) (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/1898",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-1899",
       "title": "The Wills and Administration Proceedings (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/1899",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-1993",
       "title": "The Remand (Temporary Provisions) (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/1993",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-2795",
       "title": "The Criminal Justice (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/2795",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-2809",
       "title": "The Ports (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/2809",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-3204",
       "title": "The Firearms (Amendment) (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/3204",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-426",
       "title": "The Airports (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/426",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-429",
       "title": "The Health and Personal Social Services (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/429",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-762",
       "title": "The Appropriation (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/762",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-765",
       "title": "The Social Security (Contributions) (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/765",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1994-766",
       "title": "The Statutory Sick Pay (Northern Ireland) Order 1994",
       "year": 1994,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1994/766",
-      "source": "uksi"
+      "source": "nisi"
+    },
+    {
+      "id": "NISR-1994-1",
+      "title": "Health and Safety (Training for Employment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/1",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-10",
+      "title": "The Fisheries Amendment Byelaws (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/10",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-100",
+      "title": "The Optical Charges and Payments (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/100",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-101",
+      "title": "The Medicines (Products other than Veterinary Drugs) (Prescription Only) Amendment Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/101",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-103",
+      "title": "The Statutory Sick Pay (Northern Ireland) Order 1994 (Consequential) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/103",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-104",
+      "title": "The Alkali, &amp;c. Works (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/104",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-107",
+      "title": "The Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/107",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-108",
+      "title": "The Belfast City Hospital Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/108",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-109",
+      "title": "The Ulster, North Down and Ards Hospitals Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/109",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-11",
+      "title": "The Diseases of Animals (Modification) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/11",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-110",
+      "title": "The Down Lisburn Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/110",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-111",
+      "title": "The North Down and Ards Community Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/111",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-112",
+      "title": "The North and West Belfast Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/112",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-113",
+      "title": "The South and East Belfast Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/113",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-114",
+      "title": "The Craigavon and Banbridge Community Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/114",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-115",
+      "title": "The Newry and Mourne Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/115",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-116",
+      "title": "The Mater Infirmorum Hospital Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/116",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-117",
+      "title": "The General Medical and Pharmaceutical Services (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/117",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-118",
+      "title": "The Poultry Breeding Flocks and Hatcheries Scheme Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/118",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-119",
+      "title": "The Breeding Flocks, Hatcheries and Animal Protein (Fees) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/119",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-12",
+      "title": "The Colleges of Education (Grant Conditions) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/12",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-120",
+      "title": "The Poultry Breeding Flocks and Hatcheries (Registration and Testing etc.) (Revocation) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/120",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-122",
+      "title": "The Education (Individual Pupils' Achievements) (Information) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/122",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-123",
+      "title": "The Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/123",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-124",
+      "title": "The Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/124",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-127",
+      "title": "The Education and Libraries (1993 Order) (Commencement No. 1) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/127",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-128",
+      "title": "The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/128",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-129",
+      "title": "The Criminal Justice (Confiscation) (1993 Order) (Commencement) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/129",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-13",
+      "title": "The Schools (Expulsion of Pupils) (Appeal Tribunals) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/13",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-130",
+      "title": "The Specified Diseases (Notification and Movement Restrictions) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/130",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-131",
+      "title": "The Private Streets (Construction) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/131",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-132",
+      "title": "The Electricity (Non-Fossil Fuel Sources) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/132",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-133",
+      "title": "Partnerships and Unlimited Companies (Accounts) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/133",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-134",
+      "title": "The Off-Street Parking Bye-Laws (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/134",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-135",
+      "title": "The Taxis (Downpatrick) (Revocation) Bye-Laws (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/135",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-137",
+      "title": "The Housing Benefit (General) (Amendment No. 4) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/137",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-138",
+      "title": "The Income Support (General) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/138",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-139",
+      "title": "The Control of Traffic (Lisburn) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/139",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-140",
+      "title": "The Health and Social Services Trusts (Originating Capital Debt) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/140",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-141",
+      "title": "The Genetically Modified Organisms (1991 Order) (Commencement No. 1) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/141",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-142",
+      "title": "The Genetically Modified Organisms (Modification of Article 9 of the 1991 Order) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/142",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-143",
+      "title": "The Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/143",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-144",
+      "title": "The Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/144",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-145",
+      "title": "The Genetically Modified Organisms (Contained Use) (No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/145",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-146",
+      "title": "The Diving Operations at Work Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/146",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-147",
+      "title": "The Pollution of Groundwater by Dangerous Substances Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/147",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-148",
+      "title": "The Redundancy Payments (Local Government, etc.) (Modification) (Amendment) (No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/148",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-150",
+      "title": "The Social Security (Adjudication) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/150",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-151",
+      "title": "The Access to Health Records (1993 Order) (Commencement) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/151",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-152",
+      "title": "The Social Security (Sickness and Invalidity Benefit and Severe Disablement Allowance) (Miscellaneous Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/152",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-153",
+      "title": "The Roads (Speed Limit) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/153",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-154",
+      "title": "The Roads (Speed Limit) (No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/154",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-155",
+      "title": "The Social Security Revaluation of Earnings Factors Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/155",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-156",
+      "title": "The Housing (Prescribed Forms) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/156",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-157",
+      "title": "The Lands Tribunal (Salaries) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/157",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-158",
+      "title": "The Access to Health Records (Steps to Secure Compliance and Complaints Procedures) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/158",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-159",
+      "title": "The Access to Health Records (Control of Access) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/159",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-160",
+      "title": "The Health and Personal Social Services (Assessment of Resources) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/160",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-161",
+      "title": "The Diseases of Animals (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/161",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-162",
+      "title": "The Local Government (General Grant) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/162",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-164",
+      "title": "The Criminal Justice (Confiscation) (Designated Countries and Territories) (1991 Order) (Amendment) (Northern Ireland) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/164",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-165",
+      "title": "The Criminal Justice (Confiscation) (Designated Countries and Territories) (1992 Order) (Amendment) (Northern Ireland) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/165",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-166",
+      "title": "The Fertilisers (Sampling and Analysis) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/166",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-17",
+      "title": "The Pension Schemes (1993 Act) (Commencement No. 1) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/17",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-170",
+      "title": "The Motor Vehicles (Payments in Respect of Applicants for Exemption from Wearing Seat Belts) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/170",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-172",
+      "title": "The Control of Traffic (Ballynahinch) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/172",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-173",
+      "title": "The Control of Traffic (Belfast) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/173",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-174",
+      "title": "The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/174",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-175",
+      "title": "The Northern Ireland Blood Transfusion Service (Special Agency) (Establishment and Constitution) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/175",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-176",
+      "title": "The Maternity Allowance and Statutory Maternity Pay Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/176",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-18",
+      "title": "The Road Traffic (Third-Party Risks) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/18",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-180",
+      "title": "The Electricity Generating Stations (Permitted Capacity) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/180",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-181",
+      "title": "The Arable Area Payments Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/181",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-185",
+      "title": "The Drinking Water in Containers Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/185",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-186",
+      "title": "The Royal Ulster Constabulary (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/186",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-187",
+      "title": "The Royal Ulster Constabulary Reserve (Full-Time) (Appointment and Conditions of Service) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/187",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-188",
+      "title": "The Royal Ulster Constabulary Reserve (Part-Time) (Appointment and Conditions of Service) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/188",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-189",
+      "title": "The Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/189",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-190",
+      "title": "The Motorways Traffic (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/190",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-191",
+      "title": "The Social Security Maternity Benefits, Statutory Maternity Pay and Statutory Sick Pay (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/191",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-192",
+      "title": "The Alkali, &amp;c. Works and Clean Air (Metrication) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/192",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-193",
+      "title": "The Public Health (Metrication) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/193",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-194",
+      "title": "The Airports (Nominated Successor Company) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/194",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-195",
+      "title": "The Roads (Speed Limit) (No. 3) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/195",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-196",
+      "title": "The Roads (Speed Limit) (No. 4) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/196",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-197",
+      "title": "The Royal Ulster Constabulary Reserve (Full-time) Pensions Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/197",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-198",
+      "title": "The Aujeszky's Disease Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/198",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-199",
+      "title": "The Aujeszky's Disease Scheme Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/199",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-2",
+      "title": "Disclosure of Interests in Shares (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/2",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-20",
+      "title": "The Prevention of Pollution (Erne System) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/20",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-201",
+      "title": "The Traffic Signs (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/201",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-202",
+      "title": "The Pharmaceutical Society of Northern Ireland (General) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/202",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-203",
+      "title": "The Health and Personal Social Services (Superannuation) (Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/203",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-204",
+      "title": "The Food Protection (Emergency Prohibitions) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/204",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-205",
+      "title": "The Control of Traffic (Carrickfergus) (No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/205",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-207",
+      "title": "The Parking Places on Roads (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/207",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-209",
+      "title": "The Legal Aid in Criminal Proceedings (Costs) (Amendment) Rules (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/209",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-21",
+      "title": "The Social Security (Adjudication) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/21",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-211",
+      "title": "The Suckler Cows Premium (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/211",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-212",
+      "title": "The Environmentally Sensitive Areas (Slieve Gullion) Designation Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/212",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-213",
+      "title": "The Environmentally Sensitive Areas (Sperrins) Designation Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/213",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-214",
+      "title": "The Food Labelling (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/214",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-215",
+      "title": "Industrial Relations (1993 Order) (Commencement No. 2, Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/215",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-216",
+      "title": "The Tuberculosis Control (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/216",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-217",
+      "title": "The Poisons (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/217",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-218",
+      "title": "The Poisons List (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/218",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-219",
+      "title": "The Social Security (Contributions) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/219",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-22",
+      "title": "The Bus Permits (Designated Bodies) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/22",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-220",
+      "title": "The Game Birds Preservation Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/220",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-221",
+      "title": "The Water Quality Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/221",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-222",
+      "title": "The Marketing and Use of Dangerous Substances Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/222",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-223",
+      "title": "The Marketing and Use of Dangerous Substances (No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/223",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-224",
+      "title": "The Marketing and Use of Dangerous Substances (No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/224",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-225",
+      "title": "The Public Service Vehicles (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/225",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-228",
+      "title": "The Fire Services (Appointments and Promotion) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/228",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-229",
+      "title": "The Food Protection (Emergency Prohibitions) (Revocation) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/229",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-23",
+      "title": "The Buses (Section 10B Permits) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/23",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-230",
+      "title": "The Education (Student Loans) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/230",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-231",
+      "title": "The Motor Vehicles (Construction and Use) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/231",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-233",
+      "title": "The Income-Related Benefits (Miscellaneous Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/233",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-234",
+      "title": "The Social Security (1989 Order) (Commencement No. 3) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/234",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-237",
+      "title": "The Private Water Supplies Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/237",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-238",
+      "title": "The School Admissions (Appeal Tribunals) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/238",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-239",
+      "title": "The Offshore Installations (Life-saving Appliances and Fire-fighting Equipment) (Fees) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/239",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-24",
+      "title": "The Registered Rents (Increase) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/24",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-240",
+      "title": "The Motor Vehicles (Type Approval) (EEC) (Revocation) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/240",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-241",
+      "title": "The On-Street Parking (Amendment) Bye-Laws (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/241",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-243",
+      "title": "The Building Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/243",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-244",
+      "title": "The Welfare of Animals during Transport Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/244",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-246",
+      "title": "The One-Way Traffic (Ballymena) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/246",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-247",
+      "title": "The One-Way Traffic (Belfast) (Amendment No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/247",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-250",
+      "title": "The Vegetable Seeds Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/250",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-251",
+      "title": "The Beet Seeds Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/251",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-252",
+      "title": "The Fodder Plant Seeds Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/252",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-253",
+      "title": "The Seeds (Registration, Licensing and Enforcement) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/253",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-254",
+      "title": "The Cereal Seeds Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/254",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-255",
+      "title": "The Oil and Fibre Plant Seeds Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/255",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-256",
+      "title": "The Curriculum (Programme of Study and Attainment Targets in History) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/256",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-257",
+      "title": "The Curriculum (Programme of Study and Attainment Targets in Geography) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/257",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-258",
+      "title": "The Curriculum (Programmes of Study and Attainment Targets) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/258",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-259",
+      "title": "The Child Support (Northern Ireland) Order 1991 (Consequential Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/259",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-26",
+      "title": "The Insolvency (Amendment) Rules (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/26",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-260",
+      "title": "The Health and Safety (Petroleum-Spirit Licence Fees) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/260",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-261",
+      "title": "The Protected Rights (Transfer Payment) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/261",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-262",
+      "title": "The Social Security (Cyprus) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/262",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-263",
+      "title": "The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/263",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-264",
+      "title": "The Curriculum (Programmes of Study and Attainment Targets in Physical Education) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/264",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-265",
+      "title": "The Social Security (Credits) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/265",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-266",
+      "title": "The Income-Related Benefits (Miscellaneous Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/266",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-269",
+      "title": "The Social Security Benefit (Persons Abroad) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/269",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-27",
+      "title": "The Control of Traffic (Carrickfergus) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/27",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-270",
+      "title": "The Flavourings in Food (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/270",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-271",
+      "title": "The Statutory Maternity Pay (Compensation of Employers) and Miscellaneous Amendment Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/271",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-272",
+      "title": "The Traffic Weight Restriction (Lisnabilla Road, Moira) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/272",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-273",
+      "title": "The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/273",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-274",
+      "title": "The Income-Related Benefits (Miscellaneous Amendment No. 4) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/274",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-275",
+      "title": "The Northern Ireland Airports Limited (Transfer Date) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/275",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-276",
+      "title": "The Asbestos (Licensing) (Fees Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/276",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-277",
+      "title": "The Health and Safety (Medical Fees) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/277",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-278",
+      "title": "The Judgement Enforcement Fees (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/278",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-279",
+      "title": "The Magistrates' Courts Fees Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/279",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-28",
+      "title": "The Plant Health (Amendment) (Potatoes) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/28",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-280",
+      "title": "The County Court Fees Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/280",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-281",
+      "title": "The Matrimonial Causes Fees (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/281",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-282",
+      "title": "The Supreme Court (Non-Contentious Probate) Fees (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/282",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-283",
+      "title": "The Supreme Court Fees Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/283",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-285",
+      "title": "The Magistrates' Courts (Costs in Criminal Cases) (Amendment) Rules (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/285",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-286",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment) (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/286",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-29",
+      "title": "The Level Crossing (Eglinton) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/29",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-291",
+      "title": "The Royal Ulster Constabulary (Discipline and Disciplinary Appeals) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/291",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-292",
+      "title": "The Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/292",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-293",
+      "title": "The Gas Undertaker (Premier Energy Suppliers Limited) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/293",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-295",
+      "title": "The Education Reform (1989 Order) (Commencement Orders No. 4 and 5) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/295",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-296",
+      "title": "The Education Reform (1989 Order) (Commencement No. 7) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/296",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-297",
+      "title": "The Temporary Speed Limit (Sydenham By-Pass, Route A2 Belfast) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/297",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-298",
+      "title": "The Maintenance Allowances (Pupils over Compulsory School Age) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/298",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-3",
+      "title": "The Industrial Relations (Continuity of Employment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/3",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-30",
+      "title": "The Level Crossing (Lock) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/30",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-300",
+      "title": "The Occupational and Personal Pension Schemes (Consequential Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/300",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-303",
+      "title": "The Health and Social Services Trusts (Originating Capital Debt) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/303",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-304",
+      "title": "The Control of Traffic (Portrush) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/304",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-305",
+      "title": "The Control of Traffic (Holywood) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/305",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-306",
+      "title": "The Domestic Energy Efficiency Grants Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/306",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-308",
+      "title": "The Industrial Tribunals Extension of Jurisdiction Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/308",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-309",
+      "title": "The Feeding Stuffs (Sampling and Analysis) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/309",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-31",
+      "title": "The Optical Charges and Payments (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/31",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-312",
+      "title": "The Industrial Training (Construction Board) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/312",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-314",
+      "title": "The Angling (Department of Agriculture Waters) (Amendment No. 2) Byelaws (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/314",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-315",
+      "title": "The Education (School Information and Prospectuses) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/315",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-316",
+      "title": "The Roads (Assessment of Environmental Effects) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/316",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-319",
+      "title": "The Weights and Measures (Cosmetic Products) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/319",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-320",
+      "title": "The Weights and Measures (Intoxicating Liquor) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/320",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-321",
+      "title": "The Weights and Measures (Packaged Goods) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/321",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-322",
+      "title": "The Measuring Equipment (Capacity Measures) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/322",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-323",
+      "title": "The Education and Libraries (Competition in Functional Work) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/323",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-324",
+      "title": "The Education and Libraries (Specified Periods for Functional Work) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/324",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-325",
+      "title": "The Education and Libraries (Defined Activities) (Exemptions) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/325",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-326",
+      "title": "The Welfare Foods (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/326",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-327",
+      "title": "The Income-Related Benefits (Miscellaneous Amendment No. 5) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/327",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-328",
+      "title": "The Social Security (Contributions) (Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/328",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-329",
+      "title": "The Remand (Temporary Provisions) (Northern Ireland) Order 1994 (Continuance) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/329",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-330",
+      "title": "The One-Way Traffic (Belfast) (Amendment No. 3) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/330",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-331",
+      "title": "The Royal Ulster Constabulary (Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/331",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-332",
+      "title": "The Royal Ulster Constabulary Reserve (Full-Time) (Appointment and Conditions of Service) (Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/332",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-335",
+      "title": "The Housing Benefit (Miscellaneous Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/335",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-336",
+      "title": "The Parking Places on Roads (Amendment No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/336",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-337",
+      "title": "The Litter (1994 Order) (Commencement) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/337",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-338",
+      "title": "The Litter (Designated Educational Institutions) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/338",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-339",
+      "title": "The Air Quality Standards (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/339",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-340",
+      "title": "The Milk Marketing Scheme (Postponement of Date of Revocation No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/340",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-341",
+      "title": "The Milk Marketing (Period for Making Applications) (Extension No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/341",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-342",
+      "title": "The Secondary Schools (Admissions Criteria) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/342",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-343",
+      "title": "The Social Security (Contributions) (Amendment No. 4) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/343",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-344",
+      "title": "The Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988 (Notice of Transfer) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/344",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-345",
+      "title": "The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/345",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-346",
+      "title": "The Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/346",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-347",
+      "title": "The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/347",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-348",
+      "title": "The Housing Renovation etc. Grants (Reduction of Grant) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/348",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-349",
+      "title": "The Mental Health (Nurses, Guardianship, Consent to Treatment and Prescribed Forms) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/349",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-35",
+      "title": "The Bovine Embryo Collection and Transplantation Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/35",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-350",
+      "title": "The Criminal Justice (Confiscation) (Designated Countries and Territories) (1991 Order) (Amendment No. 2) (Northern Ireland) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/350",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-351",
+      "title": "The Criminal Justice (Confiscation) (Designated Countries and Territories) (1992 Order) (Amendment No. 2) (Northern Ireland) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/351",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-352",
+      "title": "The Litter (Fixed Penalty Notices) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/352",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-353",
+      "title": "The Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/353",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-354",
+      "title": "The Registration of Clubs (Required Information) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/354",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-356",
+      "title": "The Bus Lane (Nelson Street, Belfast) (Revocation) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/356",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-360",
+      "title": "The Deseasonalisation Premium (Protection of Payments) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/360",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-361",
+      "title": "The Education (School Information and Prospectuses) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/361",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-363",
+      "title": "The Motor Vehicles (Taxi Drivers' Licences) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/363",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-364",
+      "title": "The Motor Vehicles (Exchangeable Licences) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/364",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-365",
+      "title": "The Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/365",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-366",
+      "title": "The Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/366",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-367",
+      "title": "The Gas Supply Code (Premier Energy Suppliers Limited) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/367",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-368",
+      "title": "The One-Way Traffic (Belfast) (Amendment No. 4) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/368",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-369",
+      "title": "The Remand (Temporary Provisions) (Northern Ireland) Order 1994 (Cessation) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/369",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-37",
+      "title": "The Child Support (Miscellaneous Amendment and Transitional Provisions) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/37",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-370",
+      "title": "The Social Security (Severe Disablement Allowance and Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/370",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-372",
+      "title": "The Wills and Administration Proceedings (1994 Order) (Commencement No. 1) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/372",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-373",
+      "title": "The Roads (Speed Limit) (No. 5) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/373",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-374",
+      "title": "The Roads (Speed Limit) (No. 6) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/374",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-375",
+      "title": "The Environmentally Sensitive Areas (Mourne Mountains and Slieve Croob) Designation (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/375",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-376",
+      "title": "The Environmentally Sensitive Areas (Antrim Coast, Glens and Rathlin) Designation (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/376",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-377",
+      "title": "The Environmentally Sensitive Areas (West Fermanagh and Erne Lakeland) Designation (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/377",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-378",
+      "title": "The Royal Ulster Constabulary (Amendment No. 4) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/378",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-379",
+      "title": "The Maternity (Compulsory Leave) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/379",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-38",
+      "title": "The Notification of Cooling Towers and Evaporative Condensers Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/38",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-382",
+      "title": "The One-Way Traffic (Newtownabbey) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/382",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-383",
+      "title": "The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/383",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-384",
+      "title": "The Pig Carcase (Grading) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/384",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-385",
+      "title": "The Marketing of Potatoes (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/385",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-386",
+      "title": "The Seed Potatoes (Tuber and Label Fees) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/386",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-387",
+      "title": "The Magistrates' Courts (Amendment) Rules (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/387",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-388",
+      "title": "The Optical Charges and Payments (Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/388",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-390",
+      "title": "The Control of Traffic (Larne) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/390",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-391",
+      "title": "Artificial Breeding of Sheep and Goats (EEC) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/391",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-392",
+      "title": "The Prohibition of Overtaking (Culcavey Road, Hillsborough) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/392",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-393",
+      "title": "The Traffic Weight Restriction (Fergy's Bridge, Route U8047, Markethill) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/393",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-394",
+      "title": "The Planning (Development Plans) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/394",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-395",
+      "title": "The Planning (Assessment of Environmental Effects) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/395",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-396",
+      "title": "The Social Security (Adjudication) (Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/396",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-397",
+      "title": "The Roads (Speed Limit) (No. 7) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/397",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-398",
+      "title": "The Roads (Speed Limit) (No. 8) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/398",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-399",
+      "title": "The Warrenpoint Harbour Authority (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/399",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-4",
+      "title": "The One-Way Traffic (Bangor) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/4",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-40",
+      "title": "The Angling (Department of Agriculture Waters) Amendment Byelaws (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/40",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-400",
+      "title": "The Salaries (Parliamentary Commissioner and Commissioner for Complaints) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/400",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-402",
+      "title": "The Rabies (Importation of Dogs, Cats and Other Mammals) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/402",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-403",
+      "title": "The General Medical and Pharmaceutical Services (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/403",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-404",
+      "title": "The Sheep Annual Premium (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/404",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-405",
+      "title": "The Arable Area Payments (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/405",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-407",
+      "title": "The Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/407",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-408",
+      "title": "The Motor Cars (Driving Instruction) (Fees) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/408",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-409",
+      "title": "The Motor Vehicle Testing (Fees) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/409",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-41",
+      "title": "The Gas Undertaker (Premier Transco Limited) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/41",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-410",
+      "title": "The Goods Vehicles (Certification) (Fees) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/410",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-411",
+      "title": "The Large Private Passenger Vehicles (Certification) (Fees) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/411",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-412",
+      "title": "The Motor Vehicles (Taxi Drivers' Licences) (Fees) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/412",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-413",
+      "title": "The Sub-Programme for Agriculture and Rural Development Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/413",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-414",
+      "title": "The Litter (Designation of Roads) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/414",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-415",
+      "title": "The Off-Street Parking (Amendment) Bye-Laws (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/415",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-416",
+      "title": "The Parking Places on Roads (Amendment No. 3) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/416",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-417",
+      "title": "The Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/417",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-418",
+      "title": "The General Grant (Specified Bodies) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/418",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-419",
+      "title": "The Agriculture (Environmental Areas) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/419",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-42",
+      "title": "The Northern Ireland Regional Medical Physics Agency (Establishment and Constitution) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/42",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-423",
+      "title": "The Registration (Lands and Deeds) (1992 Order) (Commencement No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/423",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-424",
+      "title": "Land Registration Rules (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/424",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-425",
+      "title": "The Preserved Tuna and Bonito (Marketing Standards) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/425",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-426",
+      "title": "The Planning (Simplified Planning Zones) (Excluded Development) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/426",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-427",
+      "title": "The Social Security (Jersey and Guernsey) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/427",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-428",
+      "title": "Companies (1986 Order) (Insurance Companies Accounts) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/428",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-429",
+      "title": "The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/429",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-43",
+      "title": "The Motor Vehicles (Driving Licences) (Designation of Relevant External Law) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/43",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-430",
+      "title": "The Apple Orchard Grubbing Up (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/430",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-431",
+      "title": "The Royal Ulster Constabulary (Amendment No. 5) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/431",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-432",
+      "title": "The Royal Ulster Constabulary Reserve (Full-Time) (Appointment and Conditions of Service) (Amendment No. 4) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/432",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-433",
+      "title": "The Control of Traffic (Belfast) (No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/433",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-434",
+      "title": "The One-Way Traffic (Belfast) (Amendment No. 5) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/434",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-435",
+      "title": "The Public Service Vehicles (Construction) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/435",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-436",
+      "title": "The Credit Unions (Fees) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/436",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-437",
+      "title": "The Industrial and Provident Societies (Fees) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/437",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-438",
+      "title": "The Eel Fishing (Licence Duties) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/438",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-44",
+      "title": "The Control of Industrial Major Accident Hazards (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/44",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-440",
+      "title": "The One-Way Traffic (Londonderry) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/440",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-441",
+      "title": "The Eel Fishing (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/441",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-442",
+      "title": "The Cycle Racing on Roads (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/442",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-444",
+      "title": "The Alkali, &amp;c., Works (Amendment No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/444",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-445",
+      "title": "The Occupational Pensions (Revaluation) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/445",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-446",
+      "title": "The Criminal Justice (1994 Order) (Commencement) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/446",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-447",
+      "title": "The Homes Insulation Scheme and Grants (Revocation) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/447",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-448",
+      "title": "The Temporary Speed Limit (Sydenham By-Pass, Route A2, Belfast) (No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/448",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-449",
+      "title": "The Litter (Statutory Undertaker) (Prescribed Body) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/449",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-45",
+      "title": "The Social Security Benefit (Persons Abroad) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/45",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-450",
+      "title": "The Social Security (Incapacity for Work) (1994 Order) (Commencement) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/450",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-451",
+      "title": "The Taxis (Antrim) Bye-Laws (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/451",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-452",
+      "title": "The Motor Vehicles (Construction and Use) (Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/452",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-453",
+      "title": "The One-Way Traffic (Portrush) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/453",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-454",
+      "title": "The Traffic Signs (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/454",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-455",
+      "title": "The Control of Traffic (Belfast) (No. 3) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/455",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-456",
+      "title": "The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/456",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-457",
+      "title": "The Social Security (Claims and Payments) (Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/457",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-458",
+      "title": "The Urban Clearways (Belfast) (No. 2) Order (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/458",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-459",
+      "title": "The Seed Potatoes (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/459",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-46",
+      "title": "The Motor Vehicles (Third-Party Risks) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/46",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-460",
+      "title": "The Fisheries (Licence Duties) Byelaws (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/460",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-461",
+      "title": "The Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/461",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-462",
+      "title": "The Social Security (Severe Disablement Allowance) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/462",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-463",
+      "title": "The Farm and Conservation Grant (Amendment) Scheme (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/463",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-464",
+      "title": "The Farm and Conservation Grant (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/464",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-465",
+      "title": "The Traffic Weight Restriction Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/465",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-466",
+      "title": "The Betting and Lotteries (1994 Order) (Commencement) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/466",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-467",
+      "title": "The Lotteries Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/467",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-468",
+      "title": "The Social Security (Medical Evidence) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/468",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-47",
+      "title": "Companies (1990 Order) (Commencement No. 5) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/47",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-470",
+      "title": "The Petty Sessions Districts Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/470",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-471",
+      "title": "The County Court Divisions Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/471",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-472",
+      "title": "The County Court (Amendment) Rules (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/472",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-473",
+      "title": "The Control of Traffic (Woodhouse Street, Portadown) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/473",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-474",
+      "title": "The Income-Related Benefits (Miscellaneous Amendment No. 6) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/474",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-475",
+      "title": "The Prohibition of Traffic (Windsor Park, Bangor) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/475",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-476",
+      "title": "The Beef Special Premium (Protection of Payments) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/476",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-478",
+      "title": "The Management of Health and Safety at Work (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/478",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-479",
+      "title": "The Suspension from Work (on Maternity Grounds) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/479",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-48",
+      "title": "The Royal Ulster Constabulary (Discipline and Disciplinary Appeals) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/48",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-481",
+      "title": "The Housing (Prescribed Forms) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/481",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-484",
+      "title": "The Social Security (Claims and Payments) (Amendment No. 4) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/484",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-485",
+      "title": "The Social Security (Incapacity Benefit — Increases for Dependants) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/485",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-486",
+      "title": "The Beef Carcase (Classification) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/486",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-488",
+      "title": "Industrial Relations (Deregulation and Contracting Out Act 1994) (Commencement) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/488",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-489",
+      "title": "The Food Protection (Emergency Prohibitions) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/489",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-49",
+      "title": "The Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/49",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-497",
+      "title": "The Local Government (Employment of Group Building Control Staff) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/497",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-498",
+      "title": "The Local Government (Employment of Group Environmental Health Staff) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/498",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-499",
+      "title": "The Medical Practitioners (Vocational Training) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/499",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-50",
+      "title": "Fair Employment (Increase of Compensation Limit) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/50",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-500",
+      "title": "The General Medical and Pharmaceutical Services (Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/500",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-502",
+      "title": "The Feeding Stuffs (Amendment) (No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/502",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-51",
+      "title": "The Superannuation (Museums Council) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/51",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-52",
+      "title": "The Quick-frozen Foodstuffs (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/52",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-53",
+      "title": "The Homes Insulation Scheme and Grants (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/53",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-54",
+      "title": "The Goods Vehicles (Certification) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/54",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-55",
+      "title": "The Educational and Library Services Etc. Grants Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/55",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-56",
+      "title": "The Rates (Regional Rate) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/56",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-57",
+      "title": "The Health and Social Services Trusts (Consultation on Dissolution) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/57",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-58",
+      "title": "The Planning (Fees) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/58",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-59",
+      "title": "The Milk Marketing Scheme (Postponement of Date of Revocation) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/59",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-6",
+      "title": "The Notification of New Substances Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/6",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-60",
+      "title": "The Milk Marketing (Period for Making Applications) (Extension) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/60",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-62",
+      "title": "The Health and Social Services Trusts (Public Meetings) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/62",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-63",
+      "title": "The Health and Social Services Trusts (Membership and Procedure) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/63",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-64",
+      "title": "The Health and Social Services Trusts (Exercise of Functions) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/64",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-65",
+      "title": "The Health and Social Services Trusts (Consequential Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/65",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-66",
+      "title": "The Health and Social Services Trusts (Consequential Amendments No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/66",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-67",
+      "title": "The Mater Infirmorum Hospital Health and Social Services Trust (Establishment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/67",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-68",
+      "title": "The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/68",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-69",
+      "title": "The Guaranteed Minimum Pensions Increase Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/69",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-7",
+      "title": "The Control of Traffic (Belfast) (No. 2) Order (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/7",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-71",
+      "title": "The Royal Ulster Constabulary (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/71",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-72",
+      "title": "The Royal Ulster Constabulary Reserve (Full-Time) (Appointment and Conditions of Service) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/72",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-73",
+      "title": "The Royal Ulster Constabulary Reserve (Part-Time) (Appointment and Conditions of Service) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/73",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-74",
+      "title": "The Social Security Benefits Up-rating Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/74",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-75",
+      "title": "The Social Security Benefits Up-rating Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/75",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-76",
+      "title": "The Statutory Sick Pay (Small Employers' Relief) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/76",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-77",
+      "title": "The Income-Related Benefits (Miscellaneous Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/77",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-78",
+      "title": "The Social Security (Contributions) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/78",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-79",
+      "title": "The Social Security (Contributions) (Re-rating and Northern Ireland National Insurance Fund Payments) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/79",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-8",
+      "title": "Redundancy Payments (Health and Personal Social Services) (Modification) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/8",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-80",
+      "title": "The Housing Benefit (General) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/80",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-81",
+      "title": "The Housing Benefit (General) (Amendment No. 2) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/81",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-82",
+      "title": "The Statutory Sick Pay (Rate of Payment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/82",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-83",
+      "title": "The Workmen's Compensation (Supplementation) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/83",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-84",
+      "title": "The Statutory Maternity Pay (Compensation of Employers) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/84",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-85",
+      "title": "The Homes Insulation Scheme and Grants (Amendment No. 2) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/85",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-86",
+      "title": "The Traffic Weight Restriction (Manooney Road, Killylea) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/86",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-87",
+      "title": "The One-Way Traffic (Belfast) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/87",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-88",
+      "title": "The Housing Benefit (General) (Amendment No. 3) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/88",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-89",
+      "title": "The Social Security Pensions (Home Responsibilities) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/89",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-9",
+      "title": "The Redundancy Payments (Local Government, etc.) (Modification) (Amendment) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/9",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-90",
+      "title": "The Interest on Recoverable Sanitation Expenses Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/90",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-91",
+      "title": "The Compulsory Acquisition (Interest) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/91",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-92",
+      "title": "The Social Security (Categorisation of Earners) (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/92",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-94",
+      "title": "The Social Security (Contributions) (Miscellaneous Amendments) Regulations (Northern Ireland 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/94",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-95",
+      "title": "The Dental Charges (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/95",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-96",
+      "title": "The Legal Advice and Assistance (Financial Conditions) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/96",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-97",
+      "title": "The Legal Aid (Financial Conditions) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/97",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-98",
+      "title": "The Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/98",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1994-99",
+      "title": "The Pensions Increase (Review) Order (Northern Ireland) 1994",
+      "year": 1994,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1994/99",
+      "source": "nisr"
+    },
+    {
+      "id": "UKCI-1994-1",
+      "title": "Priests (Ordination of Women) Measure 1993 (Appointed Day Instrument 1994)",
+      "year": 1994,
+      "type": "Order",
+      "url": "http://www.legislation.gov.uk/ukci/1994/1",
+      "source": "ukci"
+    },
+    {
+      "id": "UKCI-1994-2",
+      "title": "Pastoral (Amendment) Measure 1994 (Appointed Day Instrument 1994)",
+      "year": 1994,
+      "type": "Order",
+      "url": "http://www.legislation.gov.uk/ukci/1994/2",
+      "source": "ukci"
+    },
+    {
+      "id": "UKCI-1994-3",
+      "title": "Incumbents (Vacation of Benefices) (Amendment) Measure 1993 (Appointed Day Instrument 1994)",
+      "year": 1994,
+      "type": "Order",
+      "url": "http://www.legislation.gov.uk/ukci/1994/3",
+      "source": "ukci"
+    },
+    {
+      "id": "UKCI-1994-4",
+      "title": "Church of England (Legal Aid) Measure 1994 (Appointed Day Instrument 1994)",
+      "year": 1994,
+      "type": "Order",
+      "url": "http://www.legislation.gov.uk/ukci/1994/4",
+      "source": "ukci"
+    },
+    {
+      "id": "UKCI-1994-5",
+      "title": "Care of Cathedrals (Supplementary Provisions) Measure 1994 (Appointed Day Instrument 1994)",
+      "year": 1994,
+      "type": "Order",
+      "url": "http://www.legislation.gov.uk/ukci/1994/5",
+      "source": "ukci"
     },
     {
       "id": "UKLA-1994-c1",

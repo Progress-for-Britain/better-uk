@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2026-03-11T00:14:15.261Z",
-  "totalItems": 148706,
+  "scrapedAt": "2026-03-11T01:58:28.652Z",
+  "totalItems": 178435,
   "yearRange": {
     "from": 1801,
-    "to": 2026
+    "to": 2025
   },
   "yearStats": [
     {
@@ -132,7 +132,7 @@
     },
     {
       "year": 1972,
-      "total": 1278
+      "total": 1279
     },
     {
       "year": 1973,
@@ -140,211 +140,211 @@
     },
     {
       "year": 1974,
-      "total": 1606
+      "total": 1900
     },
     {
       "year": 1975,
-      "total": 1870
+      "total": 2204
     },
     {
       "year": 1976,
-      "total": 1597
+      "total": 1948
     },
     {
       "year": 1977,
-      "total": 1566
+      "total": 1881
     },
     {
       "year": 1978,
-      "total": 1502
+      "total": 1834
     },
     {
       "year": 1979,
-      "total": 1324
+      "total": 1716
     },
     {
       "year": 1980,
-      "total": 1635
+      "total": 2003
     },
     {
       "year": 1981,
-      "total": 1436
+      "total": 1778
     },
     {
       "year": 1982,
-      "total": 1436
+      "total": 1784
     },
     {
       "year": 1983,
-      "total": 1226
+      "total": 1556
     },
     {
       "year": 1984,
-      "total": 1421
-    },
-    {
-      "year": 1985,
-      "total": 1588
-    },
-    {
-      "year": 1986,
-      "total": 1684
-    },
-    {
-      "year": 1987,
-      "total": 1555
-    },
-    {
-      "year": 1988,
-      "total": 1647
-    },
-    {
-      "year": 1989,
-      "total": 1603
-    },
-    {
-      "year": 1990,
       "total": 1725
     },
     {
-      "year": 1991,
-      "total": 1856
+      "year": 1985,
+      "total": 1864
     },
     {
-      "year": 1992,
-      "total": 2004
+      "year": 1986,
+      "total": 1962
     },
     {
-      "year": 1993,
-      "total": 1954
+      "year": 1987,
+      "total": 1927
     },
     {
-      "year": 1994,
-      "total": 1907
-    },
-    {
-      "year": 1995,
-      "total": 1935
-    },
-    {
-      "year": 1996,
-      "total": 2147
-    },
-    {
-      "year": 1997,
-      "total": 1913
-    },
-    {
-      "year": 1998,
-      "total": 1880
-    },
-    {
-      "year": 1999,
+      "year": 1988,
       "total": 2013
     },
     {
+      "year": 1989,
+      "total": 1980
+    },
+    {
+      "year": 1990,
+      "total": 2078
+    },
+    {
+      "year": 1991,
+      "total": 2297
+    },
+    {
+      "year": 1992,
+      "total": 2450
+    },
+    {
+      "year": 1993,
+      "total": 2352
+    },
+    {
+      "year": 1994,
+      "total": 2319
+    },
+    {
+      "year": 1995,
+      "total": 2345
+    },
+    {
+      "year": 1996,
+      "total": 2680
+    },
+    {
+      "year": 1997,
+      "total": 2341
+    },
+    {
+      "year": 1998,
+      "total": 2202
+    },
+    {
+      "year": 1999,
+      "total": 2509
+    },
+    {
       "year": 2000,
-      "total": 1934
+      "total": 2499
     },
     {
       "year": 2001,
-      "total": 2344
+      "total": 3068
     },
     {
       "year": 2002,
-      "total": 2036
+      "total": 2748
     },
     {
       "year": 2003,
-      "total": 1913
+      "total": 2779
     },
     {
       "year": 2004,
-      "total": 1859
+      "total": 2665
     },
     {
       "year": 2005,
-      "total": 1915
+      "total": 2860
     },
     {
       "year": 2006,
-      "total": 1851
+      "total": 2715
     },
     {
       "year": 2007,
-      "total": 1910
+      "total": 2905
     },
     {
       "year": 2008,
-      "total": 1720
+      "total": 2526
     },
     {
       "year": 2009,
-      "total": 2057
+      "total": 2856
     },
     {
       "year": 2010,
-      "total": 3047
+      "total": 3957
     },
     {
       "year": 2011,
-      "total": 3202
+      "total": 4107
     },
     {
       "year": 2012,
-      "total": 3368
+      "total": 4191
     },
     {
       "year": 2013,
-      "total": 3354
+      "total": 4056
     },
     {
       "year": 2014,
-      "total": 3544
+      "total": 4250
     },
     {
       "year": 2015,
-      "total": 2117
+      "total": 2989
     },
     {
       "year": 2016,
-      "total": 1322
+      "total": 2221
     },
     {
       "year": 2017,
-      "total": 1333
+      "total": 2037
     },
     {
       "year": 2018,
-      "total": 1439
+      "total": 2043
     },
     {
       "year": 2019,
-      "total": 1458
+      "total": 2183
     },
     {
       "year": 2020,
-      "total": 1674
+      "total": 2493
     },
     {
       "year": 2021,
-      "total": 1541
+      "total": 2382
     },
     {
       "year": 2022,
-      "total": 1473
+      "total": 2155
     },
     {
       "year": 2023,
-      "total": 20439
+      "total": 21053
     },
     {
       "year": 2024,
-      "total": 1647
+      "total": 2262
     },
     {
       "year": 2025,
-      "total": 9837
+      "total": 10444
     },
     {
       "year": 2026,

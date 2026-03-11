@@ -1,158 +1,3294 @@
 {
   "year": 1979,
-  "count": 1324,
+  "count": 1716,
   "items": [
     {
       "id": "NISI-1979-1572",
       "title": "The Legal Aid, Advice and Assistance (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/1572",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-1573",
       "title": "Statutory Rules (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/1573",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-1574",
       "title": "Industrial Assurance (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/1574",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-1575",
       "title": "Administration of Estates (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/1575",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-1708",
       "title": "The Appropriation (No. 3) (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/1708",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-1709",
       "title": "Building Regulations (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/1709",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-1710",
       "title": "The Control of Food Premises (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/1710",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-1713",
       "title": "Mineral Exploration (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/1713",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-1714",
       "title": "Perjury (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/1714",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-294",
       "title": "Aircraft and Shipbuilding Industries (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/294",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-295",
       "title": "The Appropriation (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/295",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-296",
       "title": "Judgments Enforcement and Debts Recovery (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/296",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-297",
       "title": "Rates Amendment (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/297",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-396",
       "title": "Social Security (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/396",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-922",
       "title": "The Appropriation (No. 2) (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/922",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-923",
       "title": "The Firearms (Amendment) (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/923",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-924",
       "title": "Inheritance (Provision for Family and Dependants) (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/924",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-925",
       "title": "Pneumoconiosis, etc., (Workers' Compensation) (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/925",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1979-926",
       "title": "Tattooing of Minors (Northern Ireland) Order 1979",
       "year": 1979,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1979/926",
-      "source": "uksi"
+      "source": "nisi"
+    },
+    {
+      "id": "NISR-1979-1",
+      "title": "The Emergency Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/1",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-100",
+      "title": "The Poultry (Feed Price Allowance) (Amendment) Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/100",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-101",
+      "title": "The Eggs (Feed Price Allowance) (Amendment) Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/101",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-102",
+      "title": "The Social Security (Attendance Allowance) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/102",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-103",
+      "title": "The Clerks of the Crown and Peace (Transfer of Functions) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/103",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-104",
+      "title": "The Juvenile Courts and Assessors for County Courts Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/104",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-105",
+      "title": "The Court Funds Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/105",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-106",
+      "title": "The County Court (Criminal Damage Compensation) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/106",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-107",
+      "title": "The County Court (Fair Employment Act) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/107",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-108",
+      "title": "The County Court (Criminal Injuries to the Person) (Compensation) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/108",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-109",
+      "title": "The County Court (Commissioner for Complaints) (Compensation) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/109",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-110",
+      "title": "The County Court (Criminal Injuries to Property) (Compensation) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/110",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-111",
+      "title": "The County Court (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/111",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-112",
+      "title": "The County Court (Amendment No. 2) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/112",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-113",
+      "title": "The County Court (Electoral Registration Appeal) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/113",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-114",
+      "title": "The County Court (Blood Tests) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/114",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-115",
+      "title": "The County Court (Rent Order) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/115",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-116",
+      "title": "The County Court (Licensing) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/116",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-117",
+      "title": "The County Court (Adoption) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/117",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-118",
+      "title": "The County Court (Mental Health Act) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/118",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-119",
+      "title": "The Judgment Enforcement and Debts Recovery Order 1979 (Commencement No. 1) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/119",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-12",
+      "title": "The Exported Animals (Charges and Compensation) (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/12",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-120",
+      "title": "The House-Building Standards Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/120",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-121",
+      "title": "The Community Road Transport Rules (Exemptions) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/121",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-122",
+      "title": "The Under-sheriffs (Discharge of Duties) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/122",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-125",
+      "title": "The Shirtmaking Wages Regulation (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/125",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-126",
+      "title": "The Brucellosis Control (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/126",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-127",
+      "title": "The Milk Aid Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/127",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-128",
+      "title": "The Chaff-Cutting Machines (Accidents) Act 1897 (Repeal) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/128",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-129",
+      "title": "The Agriculture (Safety, Health and Welfare Provisions) Act. 1959 (Repeals and Modification) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/129",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-13",
+      "title": "The Movement of Pigs (Revocation) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/13",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-130",
+      "title": "The Agriculture (Poisonous Substances) Act. (Northern Ireland) 1954 (Repeals and Modifications) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/130",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-131",
+      "title": "The Social Security Benefit (Persons Abroad) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/131",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-132",
+      "title": "The Magistrates' Courts (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/132",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-133",
+      "title": "The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/133",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-134",
+      "title": "The Magistrates' Courts (School Attendance Proceedings) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/134",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-135",
+      "title": "The Social Security Pensions (1975 Order) (Commencement No. 14) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/135",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-136",
+      "title": "The Social Security (1977 Order) (Commencement No. 1) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/136",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-137",
+      "title": "The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/137",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-138",
+      "title": "The Importation and Planting of Potatoes (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/138",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-14",
+      "title": "The Social Security (Contributions, Re-rating) (Consequential Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/14",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-143",
+      "title": "The Industrial Training Levy (Engineering Industry) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/143",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-144",
+      "title": "The Industrial Training Levy (Textiles Industry) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/144",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-145",
+      "title": "The Forestry (Daragh Forest Park) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/145",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-146",
+      "title": "The Prohibition of Right or Left-Hand Turn (Belfast-Newtownabbey) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/146",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-147",
+      "title": "The Compulsory Right or Left-Turn (Belfast) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/147",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-149",
+      "title": "The Treatment of Offenders (1968 Act) (Commencement No. 3) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/149",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-15",
+      "title": "The One-Way Traffic (Enniskillen) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/15",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-150",
+      "title": "The Forest Parks and Forest Recreation Areas Bye - Laws (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/150",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-154",
+      "title": "The County Court Fees Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/154",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-155",
+      "title": "The Young Offenders Centre Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/155",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-156",
+      "title": "The Recreational Charities (Record of Use) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/156",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-158",
+      "title": "The Judgment Enforcement Fees Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/158",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-159",
+      "title": "The Magistrates' Courts Fees Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/159",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-160",
+      "title": "The Supreme Court Fees Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/160",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-161",
+      "title": "The Supreme Court (Non-Contentious Probate) Fees Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/161",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-162",
+      "title": "The One-Way Traffic (Newtownards) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/162",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-163",
+      "title": "The One-Way Traffic (Lisburn) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/163",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-164",
+      "title": "The One-Way Traffic (Limavady) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/164",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-166",
+      "title": "The Seed Potato (Improvement) Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/166",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-167",
+      "title": "The Fire Services (Appointments and Promotion) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/167",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-168",
+      "title": "The Off-Street Parking (Amendment) (No. 2) Bye-Laws (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/168",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-169",
+      "title": "The One-Way Traffic (Strangford) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/169",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-171",
+      "title": "The Medical Examinations (Fees) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/171",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-172",
+      "title": "The Industrial Training Levy (Road Transport Industry) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/172",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-173",
+      "title": "The Roads (Control of Builders' Skips) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/173",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-174",
+      "title": "The Superannuation (Northern Ireland Economic Development Office) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/174",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-175",
+      "title": "The Legal Aid (Financial Conditions) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/175",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-176",
+      "title": "The Legal Advice and Assistance (Financial Conditions) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/176",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-177",
+      "title": "The Legal Advice and Assistance (Financial Conditions) (No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/177",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-178",
+      "title": "The Prohibition of Introduction of Fish Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/178",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-179",
+      "title": "The European Assembly Election Petition Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/179",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-18",
+      "title": "The Coroners (Salaries) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/18",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-180",
+      "title": "The Off Street Parking (Amendment) (No. 3) Bye-Laws (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/180",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-182",
+      "title": "The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/182",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-183",
+      "title": "The Industrial Training Levy (Food and Drink Industry) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/183",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-184",
+      "title": "The Importation of Bees (Prohibition) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/184",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-185",
+      "title": "The Notice of Industrial Diseases Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/185",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-186",
+      "title": "The Social Security (Contributions) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/186",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-187",
+      "title": "The Employment Medical Advisory Service (Factories Act Legislation Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/187",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-188",
+      "title": "The Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/188",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-189",
+      "title": "The Legal Aid (Assessment of Resources) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/189",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-19",
+      "title": "The Eel Fishing Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/19",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-191",
+      "title": "The Companies (1978 Order) (Commencement No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/191",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-193",
+      "title": "The Social Security (Earnings Factor) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/193",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-194",
+      "title": "The Rehabilitation of Offenders (1978 Order) (Commencement) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/194",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-195",
+      "title": "Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/195",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-196",
+      "title": "The Dundrod Circuit (Admission Charges) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/196",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-197",
+      "title": "The Weights and Measures (Various Goods) (Termination of Imperial Quantities) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/197",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-199",
+      "title": "The Bus Lane (Queen's Square) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/199",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-20",
+      "title": "The Eel Fishing (Licence Duties) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/20",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-202",
+      "title": "The Prohibition of Traffic (Belfast) Order (NI) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/202",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-203",
+      "title": "The Industrial Training Levy (Clothing and Footwear Industry) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/203",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-204",
+      "title": "The Industrial Training Levy (Catering Industry) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/204",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-205",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 1) (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/205",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-206",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 2) (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/206",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-207",
+      "title": "The Road Haulage Wages Regulation (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/207",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-208",
+      "title": "The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment No. 3) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/208",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-209",
+      "title": "The Royal Ulster Constabulary Pensions (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/209",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-21",
+      "title": "The Oil Fuel (Sulphur Content of Gas Oil) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/21",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-210",
+      "title": "The Companies (Fees) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/210",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-211",
+      "title": "The Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/211",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-212",
+      "title": "The Measuring Instruments (Intoxicating Liquor) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/212",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-213",
+      "title": "The Selective Employment Payments (Termination of Payment and Consequential Provisions) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/213",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-214",
+      "title": "The Local Government (Superannuation) (Amendment) (No. 3) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/214",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-215",
+      "title": "The Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/215",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-216",
+      "title": "The General Dental Services (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/216",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-217",
+      "title": "The Eggs (Feed Price Allowance) (Amendment No. 2) Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/217",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-218",
+      "title": "The Poultry (Feed Price Allowance) (Amendment No. 2) Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/218",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-219",
+      "title": "The Grammar School Pupils (Admissions, Grants and Allowances) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/219",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-22",
+      "title": "The Employment in Agriculture (Amendment) Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/22",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-220",
+      "title": "The Salaries (Comptroller and Auditor General and Others) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/220",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-221",
+      "title": "The Lands Tribunal (Salaries) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/221",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-226",
+      "title": "The Companies (Disclosure of Directors' Interests) (Exceptions) No. 1 Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/226",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-227",
+      "title": "The Companies (Disclosure of Directors' Interests) (Exceptions) No. 2 Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/227",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-228",
+      "title": "The Companies (Disclosure of Directors' Interests) (Exceptions) No. 3 Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/228",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-229",
+      "title": "The Listed Companies (Disclosure of Share Interests) (Exclusions) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/229",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-23",
+      "title": "The Local Government (Superannuation) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/23",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-231",
+      "title": "The Companies (Forms) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/231",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-232",
+      "title": "The Companies (Forms) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/232",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-233",
+      "title": "The One-Way Traffic (Enniskillen) (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/233",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-235",
+      "title": "The Sea Fish (Minimum Size) (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/235",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-236",
+      "title": "The One-Way Traffic (Donaghadee) Order (NI) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/236",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-238",
+      "title": "The Factories Act (Enforcement of Section 135) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/238",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-239",
+      "title": "The Truck Acts 1831 to 1896 (Enforcement) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/239",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-24",
+      "title": "The Angling (Department of Agriculture Waters) Bye-Laws (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/24",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-240",
+      "title": "The Sugar Confectionery and Food Preserving Wages Regulation (Holidays) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/240",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-241",
+      "title": "The Option Mortgage (Rates of Interest) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/241",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-242",
+      "title": "The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/242",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-243",
+      "title": "The Social Security (Widow's Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/243",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-244",
+      "title": "The Social Security (Widow's Benefit Retirement Pensions and Other Benefits) (Transitional) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/244",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-245",
+      "title": "The Teachers' Salaries (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/245",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-246",
+      "title": "The Factories Legislation (Repeals and Modifications) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/246",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-247",
+      "title": "The Boot and Shoe Repairing Wages Regulation (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/247",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-248",
+      "title": "The Legal Aid (General) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/248",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-249",
+      "title": "The Secondary Schools (Grant Conditions) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/249",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-25",
+      "title": "The Councillors (Travelling and Subsistence Allowances) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/25",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-250",
+      "title": "The M2 (Crosskennan Juncition) Order (NI) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/250",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-256",
+      "title": "The Social Security Revaluation of Earnings Factors Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/256",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-258",
+      "title": "The Misuse of Drugs (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/258",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-259",
+      "title": "The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/259",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-26",
+      "title": "The Rates (Regional Rate and Reduction of Regional Rate on Dwellings) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/26",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-260",
+      "title": "The Horse Breeding Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/260",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-261",
+      "title": "The European Communities Poultry Meat (Hygiene) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/261",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-262",
+      "title": "The Judgment Enforcement Fees Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/262",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-264",
+      "title": "The Juries (Divisional Jurors Lists) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/264",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-265",
+      "title": "The Family Income Supplements (Computation) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/265",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-266",
+      "title": "The Prohibition of U-Turn (Belfast) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/266",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-267",
+      "title": "The Diseases of Animals (Export Health Certificates) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/267",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-268",
+      "title": "The One-Way Traffic (Portrush) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/268",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-270",
+      "title": "The Pneumoconiosis, etc. (Workers' Compensation) (1979 Order) (Commencement) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/270",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-271",
+      "title": "The Pneumoconiosis, etc. (Workers' Compensation) (Determination of Claims) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/271",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-272",
+      "title": "The Child Benefit and Social Security (Fixing and Adjustment of Rates) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/272",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-273",
+      "title": "The Social Security Benefits Up-rating Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/273",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-274",
+      "title": "The Supplementary Benefit (Determination of Requirements) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/274",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-275",
+      "title": "The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment No. 4) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/275",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-276",
+      "title": "The Firearms (Prescribed Forms) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/276",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-277",
+      "title": "The Firearms (Air Weapons Lawfully Held in Great Britain) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/277",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-28",
+      "title": "The Stock Exchange (Completion of Bargains) (1977 Order) (Commencement) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/28",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-281",
+      "title": "The Diseases of Animals (Importation of Machinery) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/281",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-283",
+      "title": "The Maintenance Allowances (Pupils over Compulsory School Age) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/283",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-284",
+      "title": "The Office and Shop Premises Act (Repeals and Modifications) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/284",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-285",
+      "title": "The Seeds (Fees) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/285",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-286",
+      "title": "The Social Security (Unemployment, Sickness and Invalidity Benefit) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/286",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-287",
+      "title": "The Compulsory Acquisition (Interest) (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/287",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-288",
+      "title": "The Interest on Recoverable Sanitation Expenses (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/288",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-289",
+      "title": "The Welfare of Animals (Fees) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/289",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-29",
+      "title": "The Linen and Cotton Handkerchief and Household Goods and Linen Piece Goods Wages (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/29",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-290",
+      "title": "The Compressed Acetylene Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/290",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-291",
+      "title": "The Students Awards Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/291",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-292",
+      "title": "The Unsolicited Goods and Services (1976 Order) (Commencement) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/292",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-293",
+      "title": "The Price Marking (Cheese) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/293",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-294",
+      "title": "The Price Marking (Petrol Price Display) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/294",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-297",
+      "title": "The Institutions of Further Education Salaries (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/297",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-298",
+      "title": "The Marketing of Potatoes (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/298",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-299",
+      "title": "The Land Registry (Fees) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/299",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-3",
+      "title": "The Road Traffic (Payment of Fixed Penalty) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/3",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-30",
+      "title": "The Petty Sessions Districts Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/30",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-301",
+      "title": "The Social Security (1979 Order) (Commencement No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/301",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-302",
+      "title": "The Social Security Pensions (1975 Order) (Commencement No. 15) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/302",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-303",
+      "title": "The Social Security (Portugal) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/303",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-304",
+      "title": "The Retail Bespoke Tailoring Wages Regulation (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/304",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-305",
+      "title": "The Industrial Relations (Handling of Redundancies) Variation Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/305",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-306",
+      "title": "The Industrial Tribunals (Industrial Relations) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/306",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-307",
+      "title": "The Unfair Dismissal (Variation of Qualifying Period) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/307",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-308",
+      "title": "The Herring (Prohibition of Fishing) (No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/308",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-31",
+      "title": "The County Court Divisions Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/31",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-310",
+      "title": "The Firemen's Pension Schemes (Amendment No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/310",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-311",
+      "title": "The Ready-made and Wholesale Bespoke Tailoring Wages Regulation (Amendment) (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/311",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-312",
+      "title": "The Sugar Confectionery and Food Preserving Wages Regulation (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/312",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-313",
+      "title": "The Supplementary Benefit (General) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/313",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-314",
+      "title": "The Social Security (General Benefit) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/314",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-315",
+      "title": "The College of Education Salaries (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/315",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-316",
+      "title": "The One-Way Traffic (Millisle) Order (NI) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/316",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-317",
+      "title": "The Public Service Vehicles (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/317",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-318",
+      "title": "The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/318",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-319",
+      "title": "The Heavy Goods Vehicles (Drivers' Licences) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/319",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-32",
+      "title": "The Belfast Harbour Acts (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/32",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-320",
+      "title": "The Motor Cars (Driving Instruction) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/320",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-321",
+      "title": "The Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/321",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-322",
+      "title": "The Road Traffic (Crown Exemption) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/322",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-323",
+      "title": "The Unsolicited Goods and Services (Invoices, etc.) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/323",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-324",
+      "title": "The Industrial Tribunals (Improvement and Prohibition Notices Appeals) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/324",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-325",
+      "title": "The Companies (1978 Order) (Commencement No. 3) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/325",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-326",
+      "title": "The Transplantation of Ova (Animals) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/326",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-327",
+      "title": "The Building Regulations (1978 Order) (Commencement No. 1) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/327",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-33",
+      "title": "The Compulsory Acquisition (Interest) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/33",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-330",
+      "title": "The Weight Restriction (The Palms, Portadown) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/330",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-331",
+      "title": "The Royal Ulster Constabulary (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/331",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-332",
+      "title": "The Lough Erne (Navigation) (Amendment) Bye-Laws (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/332",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-333",
+      "title": "The Catering Establishments (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/333",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-334",
+      "title": "The Gas Cylinders (Conveyance) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/334",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-335",
+      "title": "The Registered Rents (Increase) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/335",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-338",
+      "title": "The Pensions Increase (Review) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/338",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-339",
+      "title": "The Pensions Increase (Modification) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/339",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-34",
+      "title": "The Interest on Recoverable Sanitation Expenses Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/34",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-341",
+      "title": "The Prohibition of Right-Hand Turn (Banbridge) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/341",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-342",
+      "title": "The Prohibition of Right-Hand Turn (Portadown) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/342",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-343",
+      "title": "The Prohibition of Right-Hand Turn (Newry) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/343",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-344",
+      "title": "The Prohibition of U - Turn (Lurgan) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/344",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-345",
+      "title": "The Prohibition of U - Turn (Banbridge) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/345",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-346",
+      "title": "The Workmen's Compensation (Supplementation) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/346",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-347",
+      "title": "The Shirtmaking Wages Regulation (Amendment) (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/347",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-348",
+      "title": "The Prohibition of Right or Left-Hand Turn (Craigavon) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/348",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-349",
+      "title": "The One-Way Traffic (Ballymena) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/349",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-35",
+      "title": "The Ready-made and Wholesale Bespoke Tailoring Wages Regulation (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/35",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-350",
+      "title": "The Prohibition of Right-Hand Turn (Larne) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/350",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-351",
+      "title": "The Roads (Speed Limit) (No. 3) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/351",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-352",
+      "title": "The Roads (Speed Limit) (No. 4) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/352",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-353",
+      "title": "The One-Way Traffic (Larne) (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/353",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-354",
+      "title": "The Social Security (Determination of Claims and Questions) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/354",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-355",
+      "title": "The Companies (Forms No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/355",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-356",
+      "title": "The Prohibition of Cycling (Newcastle, Co Down) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/356",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-357",
+      "title": "The Agricultural Trust (Market Development) (Revocation) Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/357",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-358",
+      "title": "The Rate Rebate (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/358",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-359",
+      "title": "The Dressmaking and Women's Light Clothing Wages Regulation (Second Amendment) (No. 1) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/359",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-36",
+      "title": "The Firearms (Variation of Fees) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/36",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-360",
+      "title": "The Dressmaking and Women's Light Clothing Wages Regulation (Second Amendment) (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/360",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-361",
+      "title": "The Child Benefit (General) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/361",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-362",
+      "title": "The #Pelican' Pedestrian Crossings (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/362",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-364",
+      "title": "The Chronically Sick and Disabled Persons (1978 Act) (Commencement No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/364",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-365",
+      "title": "The Disabled Persons (Badges for Motor Vehicles) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/365",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-371",
+      "title": "The Social Security Benefits Up-rating Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/371",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-372",
+      "title": "The Legal Aid (Financial Conditions) (No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/372",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-373",
+      "title": "The Legal Advice and Assistance (Financial Conditions) (No. 3) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/373",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-374",
+      "title": "The Rabies Virus Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/374",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-376",
+      "title": "The Agricultural Returns (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/376",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-377",
+      "title": "The Social Security (Unemployment, Sickness and Invalidity Benefit) (Amendment No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/377",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-378",
+      "title": "The Boiler Explosions Legislation (Repeals and Modifications) (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/378",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-379",
+      "title": "The Housing (Determination of Unfitness) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/379",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-38",
+      "title": "The One-Way Traffic (Larne) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/38",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-380",
+      "title": "The Teachers' Superannuation (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/380",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-381",
+      "title": "The Goods Vehicles (Certification) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/381",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-382",
+      "title": "The Employment Subsidies (Renewal) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/382",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-384",
+      "title": "The Weights and Measures (Coffee Extracts and Chicory Extracts) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/384",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-385",
+      "title": "The Off-Street Parking (Amendment) (No. 4) Bye-Laws (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/385",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-386",
+      "title": "The Traffic Signs Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/386",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-387",
+      "title": "The Firemen's Pension Scheme (Amendment No. 3) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/387",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-388",
+      "title": "The Prohibition of Overtaking (Motorway M1) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/388",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-389",
+      "title": "The Road Vehicles (Rear Fog Lamps) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/389",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-391",
+      "title": "The Social Security (Maximum Additional Component) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/391",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-392",
+      "title": "The Social Security Benefit (Persons Abroad) (Amendment No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/392",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-393",
+      "title": "The Family Income Supplements (Computation) (No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/393",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-394",
+      "title": "The Social Security (Earnings-Related Addition to Widow's Allowance) (Special Provisions) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/394",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-395",
+      "title": "The Importation of Bees (Prohibition) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/395",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-396",
+      "title": "The One-Way Traffic (Newcastle) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/396",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-397",
+      "title": "The Pensions Appeal Tribunals (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/397",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-399",
+      "title": "The Pensions Increase (Approved Schemes) (Health and Personal Social Services) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/399",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-4",
+      "title": "The Local Government (General Grant) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/4",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-400",
+      "title": "The Roads (Restriction of Waiting) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/400",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-401",
+      "title": "The European Communities (International Passenger Services) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/401",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-402",
+      "title": "The Fisheries (Licence Duties) Bye-Laws (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/402",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-404",
+      "title": "The Prohibition of Right or Left-Hand Turn (Lurgan) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/404",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-405",
+      "title": "The Price Marking (Pre-packed Milk in Vending Machines) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/405",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-406",
+      "title": "The Royal Ulster Constabulary (Amendment No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/406",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-407",
+      "title": "The Lead in Food Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/407",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-408",
+      "title": "The Price Marking (Fish) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/408",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-409",
+      "title": "The Weights and Measures (Potatoes) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/409",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-41",
+      "title": "The Pigs (Carcase Classification) (Amendment) Scheme Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/41",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-410",
+      "title": "The Price Marking (Fruit and Vegetables) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/410",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-411",
+      "title": "The Royal Ulster Constabulary Pensions (Lump Sum Payments to Widows) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/411",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-412",
+      "title": "The Ulster Special Constabulary Pensions (Lump Sum Payments to Widows) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/412",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-413",
+      "title": "The Linen and Cotton Handkerchief and Household Goods and Linen Piece Goods Wages Regulations (Holidays) (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/413",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-414",
+      "title": "The Price Marking (Food) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/414",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-415",
+      "title": "The Family Income Supplements (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/415",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-416",
+      "title": "The Fishing Vessels (Grants) (Amendment) Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/416",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-417",
+      "title": "The Eel Fishing (Licence Duties) (No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/417",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-418",
+      "title": "The Marketing of Poultry and Eggs (Metrication) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/418",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-419",
+      "title": "The Cereal Seeds (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/419",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-42",
+      "title": "The Pigs (Feed Price Allowance) (Revocation) Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/42",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-420",
+      "title": "The Ulster Savings Certificates (Index Linked Retirement Issue) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/420",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-421",
+      "title": "The Weight and Measures (Isle of Man) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/421",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-422",
+      "title": "The Weight and Measures (Jersey) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/422",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-423",
+      "title": "The Education and Library Boards (Payments to Chairmen) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/423",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-424",
+      "title": "The Homes Insulation Scheme Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/424",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-425",
+      "title": "The County Courts (Financial Limits) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/425",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-426",
+      "title": "The Family Income Supplements (General) (Amendment) (No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/426",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-427",
+      "title": "The Price Marking (Food and Drink on Premises) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/427",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-428",
+      "title": "The Rates (Recreational Hereditaments) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/428",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-429",
+      "title": "The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment No. 5) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/429",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-43",
+      "title": "The Foyle Area (Pension) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/43",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-430",
+      "title": "The Welfare Foods (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/430",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-431",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 3) (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/431",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-432",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 4) (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/432",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-433",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 5) (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/433",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-434",
+      "title": "The Pig Production Development (Contribution) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/434",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-435",
+      "title": "The Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/435",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-436",
+      "title": "The Weights and Measures (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/436",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-437",
+      "title": "The Safety Representatives and Safety Committees Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/437",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-438",
+      "title": "The Agriculture (First Aid) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/438",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-439",
+      "title": "The Legal Aid, Advice and Assistance (1979 Order) (Commencement No. 1) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/439",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-44",
+      "title": "The Education and Library Boards (Payments to Board Members) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/44",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-440",
+      "title": "The Off-Street Parking (Amendment No. 5) Bye-Laws (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/440",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-443",
+      "title": "The Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/443",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-444",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 6) (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/444",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-445",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 7) (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/445",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-446",
+      "title": "The Social Security (Claims and Payments) (Unemployment Benefit Transitory Provisions) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/446",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-447",
+      "title": "The County Court (Licensing) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/447",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-448",
+      "title": "The County Court (Amendment No. 3) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/448",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-449",
+      "title": "The Weights and Measures (Egg-Grading Machines) (Revocation) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/449",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-45",
+      "title": "The Family Income Supplements (General) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/45",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-450",
+      "title": "The Angling (Departure of Agriculture Waters) (No. 2) Bye-Laws (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/450",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-451",
+      "title": "The Electricity (Permitted Supply) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/451",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-452",
+      "title": "The Magistrates' Courts (Costs in Criminal Cases) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/452",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-453",
+      "title": "The Weights and Measures (Cocoa and Chocolate Products) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/453",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-454",
+      "title": "The Weight and Measures (Bread) (Termination of Imperial Quantities) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/454",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-455",
+      "title": "The Unfair Dismissal (Increase of Compensation Limit) (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/455",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-456",
+      "title": "The Industrial Relations (Variation of Limits) (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/456",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-457",
+      "title": "The Social Security (Contributions) (Earnings Limits) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/457",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-458",
+      "title": "The Social Security (Attendance Allowance) (Amendment No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/458",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-459",
+      "title": "The Social Security (Contributions, Re-rating) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/459",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-460",
+      "title": "The Medical Practitioners (Vocational Training) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/460",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-461",
+      "title": "The Magistrates' Courts (Recovery Abroad of Maintenance) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/461",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-462",
+      "title": "The Magistrates' Courts (Reciprocal Enforcement of Maintenance Os.) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/462",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-463",
+      "title": "The Road Traffic (Payment of Fixed Penalty) (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/463",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-464",
+      "title": "The Labelling of Food (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/464",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-465",
+      "title": "The Licensing Act 1971 (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/465",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-466",
+      "title": "The Cubic Measures (Sand, Ballast and Agricultural Materials) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/466",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-47",
+      "title": "The Social Security (Mobility Allowance) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/47",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-48",
+      "title": "The Births, Deaths and Marriages (Fees) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/48",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-49",
+      "title": "The Colouring Matter in Food (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/49",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-5",
+      "title": "The Child Benefit (General) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/5",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-50",
+      "title": "The Lands Tribunal (Salaries and Superannuation) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/50",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-51",
+      "title": "The Coffee and Coffee Products Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/51",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-52",
+      "title": "The Industrial and Provident Societies (Fees) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/52",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-53",
+      "title": "The Industrial and Provident Societies (Credit Union Fees) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/53",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-54",
+      "title": "The Social Security Pensions (1975 Order) (Commencement No. 13) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/54",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-55",
+      "title": "The Restriction of Traffic (Craigavon) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/55",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-56",
+      "title": "The Local Government (Superannuation) (Amendment) (No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/56",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-57",
+      "title": "The Misuse of Drugs (Licence Fees) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/57",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-58",
+      "title": "The Judgments Enforcement (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/58",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-59",
+      "title": "The Judgment Enforcement (Fees) (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/59",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-6",
+      "title": "The Unfair Dismissal (Increase of Compensation Limit) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/6",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-60",
+      "title": "The Treatment of Offenders (1976 Order) (Commencement No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/60",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-61",
+      "title": "The Roads (Speed Limit) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/61",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-62",
+      "title": "The Roads (Speed Limit) (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/62",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-64",
+      "title": "The Animals and Poultry Quarantine Fees Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/64",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-65",
+      "title": "The Road Vehicles (Rear Fog Lamps) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/65",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-66",
+      "title": "The Stock Transfer (Addition of Forms) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/66",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-67",
+      "title": "The Judicial Pensions (Northern Ireland) (Widows' and Children's Benefits) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/67",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-68",
+      "title": "The Social Security (Hospital In-Patients) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/68",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-69",
+      "title": "The One-Way Traffic (Newry) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/69",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-7",
+      "title": "The Industrial Relations (Variation of Limits) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/7",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-70",
+      "title": "The One-Way Traffic (Belfast-Newtownabbey) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/70",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-71",
+      "title": "The One-Way Traffic and Bus Lane (York Street) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/71",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-72",
+      "title": "The Friendly Societies (Fees) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/72",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-73",
+      "title": "The Building Societies (Fees) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/73",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-75",
+      "title": "The Restriction of Traffic (Lough Shore Lurgan) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/75",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-76",
+      "title": "The Stock Exchange (Designation of Nominees) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/76",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-77",
+      "title": "The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/77",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-78",
+      "title": "The Industrial Injuries) (Prescribed Diseases (Amendment No. 2) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/78",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-79",
+      "title": "The Building (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/79",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-8",
+      "title": "The Local Government (Payments to Councillors) (Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/8",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-80",
+      "title": "The Herring (Prohibition of Fishing) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/80",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-82",
+      "title": "The Coroners (Salaries, Fees and Expenses) (Amendment) Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/82",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-83",
+      "title": "The Off-Street Parking (Amendment) Bye-Laws (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/83",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-84",
+      "title": "The Urban Clearways (Belfast) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/84",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-85",
+      "title": "The Roads (Control of Builders' Skips) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/85",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-86",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Transitional Rules) (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/86",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-87",
+      "title": "The Judgment Enforcement Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/87",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-88",
+      "title": "The Firemen's Pension Scheme (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/88",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-89",
+      "title": "The Matrimonial Causes Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/89",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-90",
+      "title": "The Crown Court Rules (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/90",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-91",
+      "title": "The Firearms (Variation of Fees) (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/91",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-92",
+      "title": "The Social Security (Reciprocal Agreements) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/92",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-93",
+      "title": "The Paper Box Wages Regulation (Amendment) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/93",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-94",
+      "title": "The Dressmaking and Women's Light Clothing Wages Regulation (Amendment) (No. 1) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/94",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-95",
+      "title": "The Dressmaking and Women's Light Clothing Wages Regulation (Amendment) (No. 2) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/95",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-96",
+      "title": "The Bulk Milk Tanks (Assistance) Scheme (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/96",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-97",
+      "title": "The Social Security (Overlapping Benefits and Miscellaneous Amendment) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/97",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-98",
+      "title": "The Social Security (Benefit) (Transitional) Regulations (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/98",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1979-99",
+      "title": "The Matrimonial Causes (1978 Order) (Commencement No. 3) Order (Northern Ireland) 1979",
+      "year": 1979,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1979/99",
+      "source": "nisr"
     },
     {
       "id": "UKLA-1979-c1",

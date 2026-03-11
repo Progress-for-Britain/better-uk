@@ -1,126 +1,2558 @@
 {
   "year": 1984,
-  "count": 1421,
+  "count": 1725,
   "items": [
     {
       "id": "NISI-1984-1156",
       "title": "The Education (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/1156",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-1157",
       "title": "The Financial Provisions (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/1157",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-1158",
       "title": "The Health and Social Security (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/1158",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-1159",
       "title": "The Industrial Training (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/1159",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-1167",
       "title": "The University of Ulster (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/1167",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-1821",
       "title": "The Fire Services (Northern Ireland) Order 1984 (revoked)",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/1821",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-1822",
       "title": "The General Consumer Council (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/1822",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-1983",
       "title": "The Appropriation (No. 3) (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/1983",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-1984",
       "title": "The Family Law (Miscellaneous Provisions) (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/1984",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-1986",
       "title": "The Road Traffic, Transport and Roads (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/1986",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-359",
       "title": "The Appropriation (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/359",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-702",
       "title": "The Agriculture (Miscellaneous Provisions) (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/702",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-703",
       "title": "The Fines and Penalties (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/703",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-704",
       "title": "The Gas (Amendment) (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/704",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1984-858",
       "title": "The Appropriation (No. 2) (Northern Ireland) Order 1984",
       "year": 1984,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1984/858",
-      "source": "uksi"
+      "source": "nisi"
+    },
+    {
+      "id": "NISR-1984-1",
+      "title": "The Housing (Right to Buy) (Prescribed Forms) (No. 2) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/1",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-10",
+      "title": "The Level Crossing (Trooperslane) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/10",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-106",
+      "title": "The Marriages (Fees) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/106",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-107",
+      "title": "The Local Government (General Grant) (No. 2) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/107",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-108",
+      "title": "The Grassland Scheme (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/108",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-109",
+      "title": "The Ulster Savings Certificates (Twenty-seventh Issue) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/109",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-11",
+      "title": "The Control of Traffic (Newcastle) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/11",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-110",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment) (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/110",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-117",
+      "title": "Measuring Equipment (Liquid Fuel by Road Tanker) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/117",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-118",
+      "title": "The Marketing of Eggs (Sea Transport Subvention) (Amendment) Scheme (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/118",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-12",
+      "title": "The One-Way Traffic (Craigavon) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/12",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-120",
+      "title": "The Supplementary Benefit (Conditions of Entitlement) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/120",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-121",
+      "title": "The Change of District Name (Londonderry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/121",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-122",
+      "title": "The Homes Insulation Scheme and Grants (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/122",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-123",
+      "title": "The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/123",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-124",
+      "title": "The Industrial Training Levy (Textiles Industry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/124",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-126",
+      "title": "The Roads (Speed Limit) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/126",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-127",
+      "title": "The Roads (Speed Limit) (No. 2) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/127",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-13",
+      "title": "The Registered Rents (Increase) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/13",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-131",
+      "title": "The Social Security Revaluation of Earnings Factors Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/131",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-132",
+      "title": "The Agricultural Marketing (Public Inquiry) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/132",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-133",
+      "title": "The Agricultural Marketing (Committee of Investigation) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/133",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-135",
+      "title": "The Motor Vehicles (Variation of Speed Limits) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/135",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-136",
+      "title": "The Supplementary Benefit (Single Payments) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/136",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-137",
+      "title": "The County Court Fees (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/137",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-138",
+      "title": "The Magistrates' Courts Fees (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/138",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-139",
+      "title": "The Judgment Enforcement Fees (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/139",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-14",
+      "title": "The Supreme Court Fees Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/14",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-140",
+      "title": "The Prohibition of Traffic (Townhall Street, Strabane) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/140",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-141",
+      "title": "The One-Way Traffic (Belfast-Newtownabbey) (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/141",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-142",
+      "title": "The Control of Traffic (Belfast-Newtownabbey) (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/142",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-143",
+      "title": "The Social Security Adjudications (1983 Order) (Commencement No. 2) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/143",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-144",
+      "title": "The Social Security (Adjudication) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/144",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-145",
+      "title": "The Workmen's Compensation (Supplementation) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/145",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-15",
+      "title": "The Social Security Adjudications (1983 Order) (Commencement No. 1) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/15",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-153",
+      "title": "The Dogs (Grants to District Councils) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/153",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-156",
+      "title": "The One-Way Traffic (Belfast-Newtownabbey) (Amendment No. 2) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/156",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-157",
+      "title": "The Pigs (Carcase Classification Scheme) (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/157",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-158",
+      "title": "The One-Way Traffic (Larne) (Amendment) (Revocation) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/158",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-16",
+      "title": "The Equal Pay (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/16",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-160",
+      "title": "The Motorways Traffic Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/160",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-162",
+      "title": "The European Assembly Election Petition Rules (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/162",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-163",
+      "title": "The Companies (Winding-up) Rules (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/163",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-164",
+      "title": "The Companies (1978 Order) (Commencement No. 9) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/164",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-165",
+      "title": "The Companies (1981 Order) (Commencement No. 3) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/165",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-167",
+      "title": "The Companies (Winding-up) (Fees) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/167",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-168",
+      "title": "The Drift Netting Control Byelaws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/168",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-17",
+      "title": "The Misuse of Drugs (Notification of and Supply to Addicts) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/17",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-170",
+      "title": "The Foyle Area (Control of Netting) (Temporary Provisions) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/170",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-171",
+      "title": "The Foyle Area (Close Season) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/171",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-172",
+      "title": "The Employment Subsidies (Renewal) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/172",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-174",
+      "title": "The Social Security (Adjudication) (Consequential Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/174",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-175",
+      "title": "The Local Government (Superannuation) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/175",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-177",
+      "title": "The Notification of Installations Handling Hazardous Substances Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/177",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-178",
+      "title": "The Industrial Training Levy (Catering Industry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/178",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-179",
+      "title": "The Industrial Training Levy (Food and Drink Industry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/179",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-18",
+      "title": "The Foyle Area (Licensing of Fishing Engines) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/18",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-180",
+      "title": "The Judgments Enforcement (Attachment of Debts) (Commencement) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/180",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-181",
+      "title": "The Judgments Enforcement (Attachment of Debts) (Expenses) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/181",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-182",
+      "title": "The Judgment Enforcement (Amendment) Rules (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/182",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-183",
+      "title": "The Off-Street Parking (Amendment No. 3) Bye-Laws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/183",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-184",
+      "title": "The Industrial Training Levy (Road Transport Industry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/184",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-185",
+      "title": "The Industrial Training Levy (Clothing Industry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/185",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-186",
+      "title": "The Industrial Training Levy (Engineering Industry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/186",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-187",
+      "title": "The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/187",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-188",
+      "title": "The Measuring Equipment (Intoxicating Liquor) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/188",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-189",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 2) (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/189",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-190",
+      "title": "The Industrial and Provident Societies (Fees) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/190",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-191",
+      "title": "The Industrial and Provident Societies (Credit Union Fees) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/191",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-192",
+      "title": "The Friendly Societies (Fees) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/192",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-193",
+      "title": "The Building Societies (Fees) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/193",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-194",
+      "title": "The Industrial Assurance (Fees) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/194",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-199",
+      "title": "The Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/199",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-2",
+      "title": "The Housing (Right to Buy) (Mortgage Limit) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/2",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-203",
+      "title": "The Off-Street Parking (Amendment No. 4) Bye-Laws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/203",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-204",
+      "title": "The Departments (Transfer of Functions) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/204",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-205",
+      "title": "The Asbestos (Licensing) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/205",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-208",
+      "title": "The Local Government (Boundaries) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/208",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-209",
+      "title": "The Local Government (Boundaries) (Supplemental) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/209",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-215",
+      "title": "The Prohibition of Traffic (Giant's Causeway Road) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/215",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-216",
+      "title": "The Traffic Weight Restriction (Londonderry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/216",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-22",
+      "title": "The Emulsifiers and Stabilisers in Food (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/22",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-223",
+      "title": "The Commissioners for Oaths (Fees) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/223",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-224",
+      "title": "The Planning (Fees) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/224",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-225",
+      "title": "Magistrates’ Courts Rules (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/225",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-226",
+      "title": "The Child Benefit (Residence and Persons Abroad) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/226",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-227",
+      "title": "The Friendly Societies (Limits of Benefits) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/227",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-230",
+      "title": "The Friendly Societies (Life Assurance Premium Relief) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/230",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-231",
+      "title": "The Industrial Assurance (Life Assurance Premium Relief) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/231",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-232",
+      "title": "The Level Crossing (Aughalish) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/232",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-233",
+      "title": "The Level Crossing (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/233",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-236",
+      "title": "The Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/236",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-237",
+      "title": "The Large Private Passenger Vehicles (Certification) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/237",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-238",
+      "title": "The Ulster Savings Certificates (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/238",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-244",
+      "title": "The Child Benefit (General) (Amendment No. 2) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/244",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-245",
+      "title": "The Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/245",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-246",
+      "title": "The Horse Racing and Betting (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/246",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-247",
+      "title": "The Level Crossing (Bellarena) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/247",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-248",
+      "title": "The Ulster Savings Certificates (Index Linked) (Supplement) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/248",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-252",
+      "title": "The Level Crossing (Lissue) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/252",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-253",
+      "title": "The Criminal Penalties etc. (Increase) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/253",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-254",
+      "title": "The Public Service Vehicles (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/254",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-255",
+      "title": "The Goods Vehicles (Certification) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/255",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-258",
+      "title": "The Seeds (Fees) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/258",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-259",
+      "title": "The Interest on Recoverable Sanitation Expenses Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/259",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-26",
+      "title": "The Feeding Stuffs (Sampling and Analysis) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/26",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-260",
+      "title": "The Compulsory Acquisition (Interest) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/260",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-261",
+      "title": "The Salaries (Comptroller and Auditor General and Others) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/261",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-262",
+      "title": "The Lands Tribunal (Salaries) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/262",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-266",
+      "title": "The Supplementary Benefit (Miscellaneous Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/266",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-267",
+      "title": "The Family Income Supplements (General) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/267",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-268",
+      "title": "The Grammar Schools (Fees) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/268",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-269",
+      "title": "The Grammar School Pupils' (Admissions, Grants and Allowances) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/269",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-27",
+      "title": "The Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/27",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-270",
+      "title": "The Ulster Savings Certificates (Twenty-eighth Issue) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/270",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-271",
+      "title": "The Level Crossing (Killagan) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/271",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-272",
+      "title": "The Level Crossing (Damhead (South)) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/272",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-273",
+      "title": "The Social Security Benefits Up-rating Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/273",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-274",
+      "title": "The Level Crossing (Moira) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/274",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-275",
+      "title": "The Level Crossing (Maze) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/275",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-276",
+      "title": "The Child Benefit (Up-rating) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/276",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-277",
+      "title": "The Workmen's Compensation (Supplementation) (Amendment No. 2) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/277",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-278",
+      "title": "The Supplementary Benefit (Requirements and Resources) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/278",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-279",
+      "title": "The (Appointment of Specialists) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/279",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-280",
+      "title": "The Housing Benefits (Amendment No. 2) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/280",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-281",
+      "title": "The Housing Benefits (Increase of Needs Allowances) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/281",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-282",
+      "title": "The Level Crossing (Trummery) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/282",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-283",
+      "title": "The Factories Act (Metrication) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/283",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-291",
+      "title": "The Game Birds Preservation Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/291",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-292",
+      "title": "The One-Way Traffic (Magherafelt) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/292",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-293",
+      "title": "The One-Way Traffic (Newcastle) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/293",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-295",
+      "title": "The Building (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/295",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-297",
+      "title": "The Level Crossing (Barmouth) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/297",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-298",
+      "title": "The Motor Hackney Carriage (Belfast) (Amendment) Bye Laws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/298",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-299",
+      "title": "The Social Security (General Benefit) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/299",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-3",
+      "title": "The Local Government (General Grant) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/3",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-300",
+      "title": "The Health and Social Security (1984 Order) (Commencement No. 1) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/300",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-301",
+      "title": "The Roads (Speed Limit) (No. 3) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/301",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-302",
+      "title": "The Roads (Speed Limit) (No. 4) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/302",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-306",
+      "title": "The Level Crossing (Magilligan) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/306",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-307",
+      "title": "The Level Crossing (Duncrun: East) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/307",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-308",
+      "title": "The Level Crossing (Duncrun: West) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/308",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-309",
+      "title": "The Appointment of Specialists (No. 2) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/309",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-31",
+      "title": "The Occupational Pension Schemes (Contracting-out) (Miscellaneous Provisions) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/31",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-310",
+      "title": "The Homes Insulation Scheme and Grants Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/310",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-311",
+      "title": "The Blood Tests (Evidence of Paternity) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/311",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-316",
+      "title": "The Companies (Forms) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/316",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-317",
+      "title": "The Social Security (Severe Disablement Allowances) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/317",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-32",
+      "title": "The Road Transport Licensing (Authorisation of International Journeys) (Fees) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/32",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-320",
+      "title": "The Import and Export (Plants and Plant Products) (Plant Health) (Amendment No. 2) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/320",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-321",
+      "title": "The Interest on Recoverable Sanitation Expenses (No. 2) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/321",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-322",
+      "title": "The Compulsory Acquisition (Interest) (No. 2) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/322",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-323",
+      "title": "The Electricity (Permitted Supply) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/323",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-324",
+      "title": "The Level Crossing (Drumbane) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/324",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-325",
+      "title": "The Family Income Supplements (Computation) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/325",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-326",
+      "title": "The Social Security Appeal Tribunals (Transitional) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/326",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-327",
+      "title": "The Royal Ulster Constabulary Pensions (Lump Sum Payments to Widows) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/327",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-328",
+      "title": "The Ulster Special Constabulary Pensions (Lump Sum Payments to Widows) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/328",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-33",
+      "title": "The Strangford Lough Ferry (Maximum Charges) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/33",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-330",
+      "title": "The Off-Street Parking (Amendment No. 5) Bye-Laws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/330",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-331",
+      "title": "The University of Ulster (1984 Order) (Commencement) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/331",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-332",
+      "title": "The Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/332",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-333",
+      "title": "The Health and Social Security (1984 Order) (Commencement No. 1) (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/333",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-334",
+      "title": "The Building Societies (Accounts and Annual Return) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/334",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-335",
+      "title": "The Students Awards Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/335",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-336",
+      "title": "The Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/336",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-337",
+      "title": "The Linen and Cotton Handkerchief and Household Goods and Linen Piece Goods Wages Council (Northern Ireland) (Exclusion) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/337",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-34",
+      "title": "The Taxis (Craigavon) Bye-Laws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/34",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-340",
+      "title": "The Pensions Increase (Review) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/340",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-342",
+      "title": "The Access to the Countryside Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/342",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-343",
+      "title": "The Building (Amendment No. 2) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/343",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-345",
+      "title": "The Dogs (Grants to District Councils) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/345",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-346",
+      "title": "The Control of Traffic (Bangor) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/346",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-347",
+      "title": "The Institutions of Further Education Salaries (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/347",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-348",
+      "title": "The Supplementary Benefit (Up-rating and Additional Requirements) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/348",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-349",
+      "title": "The Colleges of Education Salaries (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/349",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-35",
+      "title": "The Off-Street Parking (Amendment) Bye-Laws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/35",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-350",
+      "title": "The Teachers' Salaries Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/350",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-351",
+      "title": "The Ulster Savings Certificates (Twenty-ninth Issue) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/351",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-352",
+      "title": "The Cheese (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/352",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-353",
+      "title": "Misuse of Drugs (Safe Custody) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/353",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-354",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 3) (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/354",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-355",
+      "title": "The Local Government (Superannuation) (Amendment) (No. 2) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/355",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-356",
+      "title": "The Social Security (1980 Order) (Commencement No. 4) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/356",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-357",
+      "title": "The Taxis (Armagh) Bye-Laws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/357",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-36",
+      "title": "The Level Crossing (Jordanstown) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/36",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-360",
+      "title": "The Legal Advice and Assistance (Financial Conditions) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/360",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-361",
+      "title": "The Legal Advice and Assistance (Amendment No. 2) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/361",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-362",
+      "title": "The Legal Aid (Financial Conditions) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/362",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-363",
+      "title": "The Fertilisers (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/363",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-364",
+      "title": "The Misuse of Drugs (Designation) (Variation) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/364",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-365",
+      "title": "The Misuse of Drugs (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/365",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-366",
+      "title": "The Compulsory Acquisition (Interest) (No. 3) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/366",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-367",
+      "title": "The Interest on Recoverable Sanitation Expenses (No. 3) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/367",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-368",
+      "title": "The Building Societies (Authorised Investments) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/368",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-369",
+      "title": "The Fees (Increase) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/369",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-370",
+      "title": "The Home Purchase Assistance (Price-limit) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/370",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-371",
+      "title": "The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/371",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-372",
+      "title": "The Social Security (Widow's Benefit and Retirement Pensions) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/372",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-373",
+      "title": "The Social Security Benefit (Dependency) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/373",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-374",
+      "title": "The Public Health (Fee for Notification of Infectious Disease) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/374",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-375",
+      "title": "The Supplementary Benefit (Resources) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/375",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-376",
+      "title": "The Social Security Benefits Up-rating Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/376",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-377",
+      "title": "The Social Security Benefit (Dependency) (Amendment No. 2) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/377",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-378",
+      "title": "The Social Security Benefit (Computation of Earnings) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/378",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-379",
+      "title": "The Housing Benefits (Amendment No. 3) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/379",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-38",
+      "title": "The Industrial Training (Clothing Board) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/38",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-380",
+      "title": "The Royal Ulster Constabulary (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/380",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-381",
+      "title": "The Social Security (Savings for Existing Beneficiaries) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/381",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-382",
+      "title": "The Social Security Benefit (Dependency, Claims and Payments and Hospital In-Patients) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/382",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-388",
+      "title": "The Roads (Speed Limit) (No. 5) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/388",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-389",
+      "title": "The Roads (Speed Limit) (No. 6) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/389",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-39",
+      "title": "The Off-Street Parking (Amendment No. 2) Bye-Laws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/39",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-390",
+      "title": "The Off-Street Parking (Amendment No. 6) Bye-Laws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/390",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-393",
+      "title": "The Eel Fishing (Licence Duties) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/393",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-394",
+      "title": "The Fisheries (Licence Exemption) Byelaws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/394",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-395",
+      "title": "The Fisheries (Licence Duties) Byelaws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/395",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-396",
+      "title": "The One-Way Traffic (Belfast-Newtownabbey) (Amendment No. 3) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/396",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-397",
+      "title": "The Level Crossing (Kellswater: North) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/397",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-398",
+      "title": "The Level Crossing (Kellswater: South) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/398",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-4",
+      "title": "The Social Security (Consolidated Fund of Northern Ireland Supplement to Contributions) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/4",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-40",
+      "title": "The Industrial Tribunals (Rules of Procedure) (Equal Value Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/40",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-400",
+      "title": "The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/400",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-401",
+      "title": "The Road Traffic (1981 Order) (Commencement No. 3) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/401",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-402",
+      "title": "The Meat Inspection Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/402",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-403",
+      "title": "The Social Security (Contributions) (Amendment No. 2) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/403",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-404",
+      "title": "The Social Security (1980 No. 2 Order) (Specified Sum) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/404",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-405",
+      "title": "The Medical Practitioners (Vocational Training) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/405",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-406",
+      "title": "The Bread and Flour Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/406",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-407",
+      "title": "The Food Labelling Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/407",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-408",
+      "title": "The Meat Products and Spreadable Fish Products Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/408",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-409",
+      "title": "The Home Purchase Assistance (Recognised Savings Institutions) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/409",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-41",
+      "title": "The Royal Ulster Constabulary Pensions (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/41",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-413",
+      "title": "The Traffic Weight Restriction (DR8265 Markethill) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/413",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-414",
+      "title": "The Chrysanthemum (Temporary Prohibition on Landing) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/414",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-415",
+      "title": "The Northern Ireland Co-operative Development Agency (Funding) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/415",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-416",
+      "title": "The Meat (Sterilisation and Staining) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/416",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-419",
+      "title": "The Supreme Court Fees (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/419",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-42",
+      "title": "The Angling (Department of Agriculture Waters) (Amendment) Byelaws (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/42",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-420",
+      "title": "The Matrimonial Causes Fees (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/420",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-421",
+      "title": "The Police Cadets (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/421",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-422",
+      "title": "The Agricultural Marketing (1982 Order) (Commencement No. 1) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/422",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-423",
+      "title": "The Pigs Marketing Service Scheme (Approval) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/423",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-424",
+      "title": "The Social Security (Contributions Re-rating) (No. 2) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/424",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-425",
+      "title": "The Social Security (Consolidated Fund of Northern Ireland Supplement to Contributions) (No. 2) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/425",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-428",
+      "title": "The Control of Traffic (Newtownards) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/428",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-429",
+      "title": "The Grassland (Amendment) Scheme (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/429",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-43",
+      "title": "The Social Security (Contributions) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/43",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-433",
+      "title": "The Planning (Use Classes) (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/433",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-434",
+      "title": "The Planning (General Development) (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/434",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-44",
+      "title": "The Prohibition of Traffic (Newry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/44",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-441",
+      "title": "The Compulsory Acquisition (Interest) (No. 4) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/441",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-442",
+      "title": "The Interest on Recoverable Sanitation Expenses (No. 4) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/442",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-443",
+      "title": "The Grassland (Amendment No. 2) Scheme (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/443",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-444",
+      "title": "The Contracting-out (Protection of Pensions) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/444",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-445",
+      "title": "The Social Security (Adjudication) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/445",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-446",
+      "title": "The Supplementary Benefit (Requirements) (Amendment and Temporary Provisions) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/446",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-449",
+      "title": "The Social Security (United States of America) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/449",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-45",
+      "title": "The European Communities (International Passenger Services) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/45",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-450",
+      "title": "The Housing Benefits (Amendment No. 4) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/450",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-451",
+      "title": "The Magistrates' Courts (Costs in Criminal Cases) Rules (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/451",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-46",
+      "title": "The Social Security (Contributions, Re-rating) Consequential Amendment Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/46",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-47",
+      "title": "The Companies (1982 Order) (Commencement No. 2) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/47",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-48",
+      "title": "The Companies (Index of Names) (Variation) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/48",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-49",
+      "title": "The Company and Business Names Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/49",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-5",
+      "title": "The Social Security (Contributions, Re-rating) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/5",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-51",
+      "title": "The Rates (Regional Rate) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/51",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-52",
+      "title": "The Misuse of Drugs (Licence Fees) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/52",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-53",
+      "title": "The Baking Wages Council (Northern Ireland) (Exclusion) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/53",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-54",
+      "title": "The Supplementary Benefit (Resources) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/54",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-55",
+      "title": "The Hoists and Lifts (Metrication) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/55",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-57",
+      "title": "The Welfare of Livestock (Prohibited Operations) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/57",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-58",
+      "title": "The Traffic Signs (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/58",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-59",
+      "title": "The One-Way Traffic (Ballymoney) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/59",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-6",
+      "title": "The Mental Health (Payment of Fees) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/6",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-60",
+      "title": "The Occupational Pension Schemes (Contracting-out) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/60",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-61",
+      "title": "The One-Way Traffic (Tandragee) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/61",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-62",
+      "title": "The Royal Ulster Constabulary Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/62",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-63",
+      "title": "The Smoke Control Areas (Exempted Fireplaces) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/63",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-64",
+      "title": "The General Dental Services (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/64",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-65",
+      "title": "The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/65",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-66",
+      "title": "The Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/66",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-68",
+      "title": "The Social Security (Finland) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/68",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-70",
+      "title": "The Import and Export (Plants and Plant Products) (Plant Health) (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/70",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-76",
+      "title": "The Traffic Weight Restriction (DR26 giant's Causeway) (Revocation) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/76",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-77",
+      "title": "The Housing Benefits (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/77",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-78",
+      "title": "The Child Benefit (General) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/78",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-79",
+      "title": "The Supplementary Benefit (Requirements) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/79",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-80",
+      "title": "The Social Security (Employed Earners' Employments for Industrial Injuries Purposes) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/80",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-81",
+      "title": "The Social Security (Categorisation of Earners) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/81",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-82",
+      "title": "The Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/82",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-83",
+      "title": "The Definitions of Mouths of Rivers Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/83",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-85",
+      "title": "The Capacity Measures (Intoxicating Liquor) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/85",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-86",
+      "title": "The Heavy Goods Vehicles (Drivers' Licences) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/86",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-87",
+      "title": "The Motor Hackney Carriage (Londonderry) (Amendment) Bye-law (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/87",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-89",
+      "title": "The Seed Potato (Improvement) (Amendment) Scheme (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/89",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-90",
+      "title": "The Social Security (Israel) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/90",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-91",
+      "title": "The Statutory Sick Pay (General) (Amendment) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/91",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-92",
+      "title": "The Social Security (General Benefit) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/92",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-93",
+      "title": "The Industrial Training Levy (Distributive Industry) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/93",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-94",
+      "title": "The Housing (Right to Buy) (Re-determination of Value Notice) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/94",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-95",
+      "title": "The Parsley (Temporary Prohibition on Landing) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/95",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-96",
+      "title": "The Marriage (Housebound and Detained Persons) Regulations (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/96",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1984-99",
+      "title": "The Firemen's Pension Scheme (Amendment) Order (Northern Ireland) 1984",
+      "year": 1984,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1984/99",
+      "source": "nisr"
     },
     {
       "id": "UKLA-1984-c1",

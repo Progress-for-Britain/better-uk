@@ -1,214 +1,4478 @@
 {
   "year": 1996,
-  "count": 2147,
+  "count": 2680,
   "items": [
     {
       "id": "NISI-1996-1141",
       "title": "The Juries (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1141",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1297",
       "title": "The Commissioner for Complaints (Northern Ireland) Order 1996 (revoked)",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1297",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1298",
       "title": "The Ombudsman (Northern Ireland) Order 1996 (revoked)",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1298",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1299",
       "title": "The Proceeds of Crime (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1299",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1320",
       "title": "The Road Traffic Offenders (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1320",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1632",
       "title": "The Deregulation and Contracting Out (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1632",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1633",
       "title": "The Food Safety (Amendment) (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1633",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1636",
       "title": "The Health and Personal Social Services (Residual Liabilities) (Northern Ireland) Order 1996 (repealed)",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1636",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1917",
       "title": "The Appropriation (No. 2) (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1917",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1918",
       "title": "The Education (Student Loans) (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1918",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1919",
       "title": "The Employment Rights (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1919",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1920",
       "title": "The Explosives (Amendment) (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1920",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1921",
       "title": "The Industrial Tribunals (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1921",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-1923",
       "title": "The Personal Social Services (Direct Payments) (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/1923",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-2597",
       "title": "The Housing Benefit (Payment to Third Parties) (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/2597",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-274",
       "title": "The Education (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/274",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-275",
       "title": "The Gas (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/275",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-277",
       "title": "The County Courts (Amendment) (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/277",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-2879",
       "title": "The Domestic Energy Efficiency Schemes (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/2879",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-3158",
       "title": "The Licensing (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/3158",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-3159",
       "title": "The Registration of Clubs (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/3159",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-3160",
       "title": "The Criminal Justice (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/3160",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-3162",
       "title": "The Rates (Amendment) (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/3162",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-3163",
       "title": "The Succession (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/3163",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-721",
       "title": "The Appropriation (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/721",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1996-725",
       "title": "The Business Tenancies (Northern Ireland) Order 1996",
       "year": 1996,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1996/725",
-      "source": "uksi"
+      "source": "nisi"
+    },
+    {
+      "id": "NISR-1996-1",
+      "title": "The Disability Discrimination Act 1995 (Commencement No. 1) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/1",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-10",
+      "title": "The Judicial Pensions (Additional Voluntary Contributions) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/10",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-100",
+      "title": "Supreme Court Fees Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/100",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-101",
+      "title": "The Judgment Enforcement Fees Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/101",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-102",
+      "title": "The Magistrates' Courts Fees Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/102",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-103",
+      "title": "The County Court Fees Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/103",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-104",
+      "title": "Supreme Court (Non-Contentious Probate) Fees Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/104",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-105",
+      "title": "The Matrimonial Causes Fees Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/105",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-106",
+      "title": "Dental Charges (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/106",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-107",
+      "title": "Travelling Expenses and Remission of Charges (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/107",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-108",
+      "title": "The Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/108",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-109",
+      "title": "Health and Safety (Medical Devices) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/109",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-11",
+      "title": "The Social Security (Persons from Abroad) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/11",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-110",
+      "title": "Housing Renovation etc. Grants (Reduction of Grant) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/110",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-111",
+      "title": "The Housing Benefit (General) (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/111",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-112",
+      "title": "Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/112",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-113",
+      "title": "Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/113",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-114",
+      "title": "General Dental Services (Amendment) Regulation z (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/114",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-115",
+      "title": "The Housing Benefit (General and Supply of Information) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/115",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-116",
+      "title": "The Sperrin Lakeland Health and Social Services Trust (Establishment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/116",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-117",
+      "title": "The Foyle Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/117",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-118",
+      "title": "Roads (Speed Limit) (No. 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/118",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-119",
+      "title": "Health and Safety (Safety Signs and Signals) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/119",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-12",
+      "title": "Motor Vehicle Testing (Extension) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/12",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-120",
+      "title": "The Income Support (General) (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/120",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-122",
+      "title": "The Children’s Evidence (1995 Order) (Commencement) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/122",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-123",
+      "title": "Health and Personal Social Services (Amendment) (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/123",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-124",
+      "title": "Optical Charges and Payments (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/124",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-125",
+      "title": "The Health and Social Services Trusts (Originating Capital Debt) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/125",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-126",
+      "title": "The Magistrates' Courts (Amendment) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/126",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-127",
+      "title": "The Magistrates' Courts (Children’s Evidence) (Notices of Transfer) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/127",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-128",
+      "title": "The Guardians Ad Litem (Panel) Regulation (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/128",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-13",
+      "title": "The Northern Ireland Disability Council Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/13",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-131",
+      "title": "The Health and Personal Social Services (Fund-holding Practices) Amendment Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/131",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-132",
+      "title": "Beef (Emergency Control) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/132",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-133",
+      "title": "Specified Bovine Material Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/133",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-134",
+      "title": "The Specified Bovine Material (Treatment and Disposal) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/134",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-135",
+      "title": "General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/135",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-136",
+      "title": "General Medical and Pharmaceutical Services (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/136",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-137",
+      "title": "Health and Personal Social Services (Disciplinary Procedures) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/137",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-139",
+      "title": "Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/139",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-14",
+      "title": "Health and Safety (Medical Fees) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/14",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-140",
+      "title": "Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/140",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-141",
+      "title": "Motor Vehicles (Driving Licences) (Amendment) (Test Fees) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/141",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-142",
+      "title": "Motor Vehicles (Taxi Drivers' Licences) (Fees) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/142",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-143",
+      "title": "Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/143",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-144",
+      "title": "International Transport of Goods under Cover of TIR Carnets (Fees) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/144",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-145",
+      "title": "Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/145",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-146",
+      "title": "Motor Vehicles (Payments in Respect of Applicants for Exemption from Wearing Seat Belts) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/146",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-147",
+      "title": "The Repairs Grants (Eligible Expense) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/147",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-148",
+      "title": "Housing Renovation etc. Grants (Grant Limit) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/148",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-149",
+      "title": "The Social Security (Reduced Rates of Class 1 Contributions) (Salary Related Contracted-out Schemes) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/149",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-15",
+      "title": "The Children (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/15",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-150",
+      "title": "The Social Security (Reduced Rates of Class 1 Contributions and Rebates) (Money Purchase Contracted-out Schemes) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/150",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-151",
+      "title": "The Social Security (Minimum Contributions to Appropriate Personal Pension Schemes) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/151",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-152",
+      "title": "The Social Security (Contributions) (Amendment No. 4) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/152",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-153",
+      "title": "The Children’s Evidence (Northern Ireland) Order 1995 (Notice of Transfer) Regulations 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/153",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-156",
+      "title": "Motor Vehicles (Type Approval) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/156",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-157",
+      "title": "Land Registry (Fees) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/157",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-159",
+      "title": "Health and Safety (Miscellaneous Fees Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/159",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-16",
+      "title": "Diseases of Fish (Control) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/16",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-160",
+      "title": "The Health and Social Services Trusts (Originating Capital Debt) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/160",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-161",
+      "title": "One-Way Traffic (Omagh) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/161",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-162",
+      "title": "Roads (Speed Limit) (No. 5) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/162",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-163",
+      "title": "One-Way Traffic (Killyleagh) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/163",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-164",
+      "title": "Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/164",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-165",
+      "title": "Fertilisers (Mammalian Meat and Bone Meal) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/165",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-168",
+      "title": "The Social Security Revaluation of Earnings Factors Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/168",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-17",
+      "title": "Price Marking (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/17",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-170",
+      "title": "Urban Clearways (Belfast) (No. 2) Order (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/170",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-171",
+      "title": "Traffic Weight Restriction (Rosscor Viaduct Bridge) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/171",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-172",
+      "title": "Community Work Programme (Miscellaneous Provisions) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/172",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-173",
+      "title": "Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/173",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-175",
+      "title": "Beef (Emergency Control) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/175",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-177",
+      "title": "Weights and Measures (Guernsey and Alderney) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/177",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-178",
+      "title": "Temporary Speed Limit (Sydenham By-Pass, Route A2, Belfast) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/178",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-179",
+      "title": "Companies (Summary Financial Statement) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/179",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-18",
+      "title": "Plant Health (Wood and Bark) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/18",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-180",
+      "title": "The Jobseekers (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/180",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-181",
+      "title": "The Housing Benefit (General) (Amendment No. 3) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/181",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-182",
+      "title": "The Bovine Animals (Enforcement of Community Purchase Scheme) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/182",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-183",
+      "title": "The Slaughter-houses (Licensing) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/183",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-184",
+      "title": "The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/184",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-185",
+      "title": "Specified Bovine Material (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/185",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-186",
+      "title": "Specified Bovine Material (Treatment and Disposal) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/186",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-187",
+      "title": "Pharmaceutical Society of Northern Ireland (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/187",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-188",
+      "title": "The Social Security (Additional Pension) (Contributions Paid in Error) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/188",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-189",
+      "title": "The Local Government (General Grant) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/189",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-19",
+      "title": "County Court (Amendment) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/19",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-190",
+      "title": "Students Awards Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/190",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-196",
+      "title": "Agricultural Processing and Marketing Grant Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/196",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-197",
+      "title": "Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/197",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-198",
+      "title": "The Jobseeker’s Allowance Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/198",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-199",
+      "title": "The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/199",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-2",
+      "title": "Roads (Speed Limit) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/2",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-20",
+      "title": "The Homefirst Community Health and Social Services Trust (Establishment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/20",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-200",
+      "title": "The Jobseeker’s Allowance (Transitional Provisions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/200",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-201",
+      "title": "The Social Security (Back to Work Bonus) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/201",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-202",
+      "title": "The Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/202",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-203",
+      "title": "The Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/203",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-204",
+      "title": "Plant Health (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/204",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-205",
+      "title": "Legal Advice and Assistance (Prospective Cost) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/205",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-206",
+      "title": "The Statutory Maternity Pay (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/206",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-207",
+      "title": "The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/207",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-208",
+      "title": "Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/208",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-209",
+      "title": "Travelling Expenses and Remission of Charges (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/209",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-21",
+      "title": "Health and Safety (Repeals and Revocations) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/21",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-210",
+      "title": "Compulsory Acquisition (Interest) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/210",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-211",
+      "title": "Interest on Recoverable Sanitation Expenses Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/211",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-212",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/212",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-213",
+      "title": "Countryside Access Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/213",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-214",
+      "title": "Certification Officer (Fees) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/214",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-215",
+      "title": "Roads (Speed Limit) (No. 6) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/215",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-216",
+      "title": "Gas (1996 Order) (Commencement) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/216",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-217",
+      "title": "The Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/217",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-218",
+      "title": "The Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/218",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-219",
+      "title": "The Disability Discrimination Act 1995 (Commencement No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/219",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-22",
+      "title": "The Litter (Statutory Undertakers) (Designation and Relevant Land) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/22",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-220",
+      "title": "The Sperrin Lakeland Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/220",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-221",
+      "title": "The Housing Benefit (General) (Amendment No. 4) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/221",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-222",
+      "title": "The Legal Aid in Criminal Proceedings (Costs) (Amendment) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/222",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-223",
+      "title": "The Street Works (1995 Order) (Commencement No. 1) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/223",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-224",
+      "title": "The Family Credit (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/224",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-225",
+      "title": "The Social Security (Disability Living Allowance, Attendance Allowance and Claims and Payments) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/225",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-228",
+      "title": "Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/228",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-229",
+      "title": "The Suckler Cow Premium (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/229",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-23",
+      "title": "The Air Quality Standards (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/23",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-230",
+      "title": "The Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/230",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-231",
+      "title": "Game Birds Preservation Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/231",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-232",
+      "title": "Planning (General Development) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/232",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-233",
+      "title": "On-Street Parking (Amendment) Bye-Laws (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/233",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-237",
+      "title": "Off-Street Parking Bye-Laws (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/237",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-238",
+      "title": "Diseases of Animals (Modification) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/238",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-239",
+      "title": "Brucellosis Control (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/239",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-24",
+      "title": "The Social Security (Adjudication) and Child Support (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/24",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-240",
+      "title": "Tuberculosis Control (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/240",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-241",
+      "title": "Parking Places on Roads (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/241",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-242",
+      "title": "Seed Potatoes (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/242",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-246",
+      "title": "Disclosure of Interests in Shares (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/246",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-247",
+      "title": "Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/247",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-248",
+      "title": "Planning (Use Classes) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/248",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-249",
+      "title": "Plant Health (Amendment No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/249",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-25",
+      "title": "The Registered Rents (Increase) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/25",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-250",
+      "title": "Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/250",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-251",
+      "title": "Offshore, and Pipelines, Safety (1992 Order) (Commencement No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/251",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-252",
+      "title": "Financial Markets and Insolvency Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/252",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-253",
+      "title": "Royal Ulster Constabulary (Discipline and Disciplinary Appeals) (Amendment) Regulations 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/253",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-254",
+      "title": "Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) (Amendment) Regulations 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/254",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-258",
+      "title": "Arable Area Payments (Grazing of Bovine Animals on Set-Aside Land) (Temporary Provisions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/258",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-259",
+      "title": "Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/259",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-26",
+      "title": "The Jobseekers (1995 Order) (Commencement No. 1) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/26",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-260",
+      "title": "Teachers' Superannuation (Additional Voluntary Contributions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/260",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-261",
+      "title": "Police and Criminal Evidence (Northern Ireland) Order 1989 (Codes of Practice) (No. 2) Order 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/261",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-262",
+      "title": "The Marking of Plastic Explosive for Detection Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/262",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-264",
+      "title": "Food Safety (Fishery Products and Live Bivalve Molluscs and Other Shellfish) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/264",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-265",
+      "title": "Registration of Deeds (Fees) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/265",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-267",
+      "title": "The Juries (1996 Order) (Commencement) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/267",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-268",
+      "title": "Form of Jurors Oath Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/268",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-269",
+      "title": "Juries Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/269",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-27",
+      "title": "Traffic Weight Restriction (Millbay Road, Islandmagee) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/27",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-272",
+      "title": "The Northern Ireland Disability Council (No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/272",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-273",
+      "title": "Diseases of Animals (Modification No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/273",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-274",
+      "title": "Equine Viral Arteritis Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/274",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-275",
+      "title": "Motor Vehicles (Construction and Use) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/275",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-276",
+      "title": "Industrial Training Levy (Construction Industry) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/276",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-280",
+      "title": "The Disability Discrimination Act 1995 (Commencement No. 3 and Saving and Transitional Provisions) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/280",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-281",
+      "title": "The Crown Court (Amendment No. 2) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/281",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-282",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 2) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/282",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-283",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 3) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/283",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-284",
+      "title": "The Pensions (1995 Order) (Commencement No. 3) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/284",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-285",
+      "title": "The Jobseekers (1995 Order) (Commencement No. 3) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/285",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-286",
+      "title": "Food Safety (General Food Hygiene) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/286",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-287",
+      "title": "Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/287",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-288",
+      "title": "The Child Benefit, Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/288",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-289",
+      "title": "The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/289",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-290",
+      "title": "The Social Security (Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/290",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-291",
+      "title": "The Income-Related Benefits (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/291",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-292",
+      "title": "The Police and Criminal Evidence (Application to Customs and Excise) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/292",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-293",
+      "title": "County Courts (Amendment) (1996 Order) (Commencement) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/293",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-294",
+      "title": "County Court (Amendment No. 2) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/294",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-295",
+      "title": "County Court (Amendment No. 3) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/295",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-296",
+      "title": "The Divorce etc. (Pensions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/296",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-297",
+      "title": "The Children (1995 Order) (Commencement No. 3) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/297",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-298",
+      "title": "Students Awards (No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/298",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-299",
+      "title": "Motor Vehicles (Driving Licences) (Fees) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/299",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-30",
+      "title": "The Employer’s Contributions Re-imbursement Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/30",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-300",
+      "title": "The Children (Allocation of Proceedings) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/300",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-301",
+      "title": "The Children (Admissibility of Hearsay Evidence) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/301",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-302",
+      "title": "Juvenile Courts and Assessors for County Courts (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/302",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-304",
+      "title": "Motor Vehicles (Taxi Drivers' Licences) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/304",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-305",
+      "title": "Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) (Fees) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/305",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-307",
+      "title": "The Pensions (1995 Order) (Commencement No. 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/307",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-309",
+      "title": "Parking Places on Roads (Amendment No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/309",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-310",
+      "title": "Control of Traffic (Antrim) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/310",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-311",
+      "title": "Fodder Plant Seeds (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/311",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-312",
+      "title": "Oil and Fibre Plant Seeds (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/312",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-313",
+      "title": "Vegetable Seeds (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/313",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-316",
+      "title": "Police (Amendment) (1995 Order) (Commencement No. 1) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/316",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-317",
+      "title": "The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/317",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-318",
+      "title": "The Income Support (General) (Standard Interest Rate Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/318",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-319",
+      "title": "The Social Security (Back to Work Bonus) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/319",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-32",
+      "title": "The Driver &amp; Vehicle Testing Agency Trading Fund Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/32",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-320",
+      "title": "Non-automatic Weighing Machines and Non-automatic Weighing Instruments (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/320",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-321",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 4) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/321",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-322",
+      "title": "The Family Proceedings Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/322",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-323",
+      "title": "Magistrates' Courts (Children (Northern Ireland) Order 1995) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/323",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-324",
+      "title": "Magistrates' Courts (Domestic Proceedings) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/324",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-325",
+      "title": "Magistrates' Courts (Children and Young Persons) (Amendment) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/325",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-327",
+      "title": "The Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/327",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-328",
+      "title": "Education Reform (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/328",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-329",
+      "title": "The Education (1996 Order) (Commencement No. 1) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/329",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-33",
+      "title": "Roads (Speed Limit) (No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/33",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-330",
+      "title": "Curriculum (Programmes of Study and Attainment Target in Home Economics at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/330",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-331",
+      "title": "Curriculum (Programmes of Study and Attainment Targets in Physical Education at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/331",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-332",
+      "title": "Curriculum (Programme of Study in Business Studies at Key Stage 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/332",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-333",
+      "title": "Curriculum (Programmes of Study in Economics, Political Studies and Social and Environmental Studies at Key Stage 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/333",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-334",
+      "title": "The Housing Benefit (General and Supply of Information) (Jobseeker’s Allowance) (Consequential Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/334",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-335",
+      "title": "Curriculum (Programmes of Study and Attainment Targets in Science at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/335",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-336",
+      "title": "Curriculum (Programme of Study in Drama at Key Stage 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/336",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-337",
+      "title": "Curriculum (Programmes of Study and Attainment Target in Art and Design at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/337",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-338",
+      "title": "Curriculum (Programmes of Study and Attainment Target in Technology and Design at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/338",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-339",
+      "title": "Curriculum (Programmes of Study and Attainment Target in Music at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/339",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-34",
+      "title": "Roads (Speed Limit) (No. 3) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/34",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-340",
+      "title": "Curriculum (Programme of Study and Attainment Targets in English at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/340",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-341",
+      "title": "Curriculum (Programme of Study and Attainment Targets in Mathematics at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/341",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-342",
+      "title": "Curriculum (Programme of Study and Attainment Targets in Modern Languages at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/342",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-343",
+      "title": "Royal Ulster Constabulary (Discipline and Disciplinary Appeals) (Amendment No. 2) Regulations 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/343",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-344",
+      "title": "Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) (Amendment No. 2) Regulations 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/344",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-345",
+      "title": "The Social Security (Malta) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/345",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-346",
+      "title": "Curriculum (Programmes of Study and Attainment Targets at Key Stages 1 and 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/346",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-347",
+      "title": "Curriculum (Programmes of Study and Attainment Target in History at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/347",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-348",
+      "title": "Curriculum (Programmes of Study and Attainment Target in Geography at Key Stages 3 and 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/348",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-349",
+      "title": "The Education (Student Loans) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/349",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-350",
+      "title": "Curriculum (English in Irish Speaking Schools) (Exceptions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/350",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-351",
+      "title": "Curriculum (Core Syllabus for Religious Education) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/351",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-352",
+      "title": "Taxis (Strabane) (Amendment) Bye-Laws (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/352",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-353",
+      "title": "Misuse of Drugs (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/353",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-354",
+      "title": "The Social Security (Claims and Payments) (Jobseeker’s Allowance Consequential Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/354",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-355",
+      "title": "The Social Security (Adjudication) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/355",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-356",
+      "title": "The Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/356",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-357",
+      "title": "The Jobseeker’s Allowance (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/357",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-358",
+      "title": "The Social Security and Child Support (Jobseeker’s Allowance) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/358",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-359",
+      "title": "Education (School Information and Prospectuses) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/359",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-360",
+      "title": "Specified Bovine Material (No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/360",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-361",
+      "title": "The Specified Bovine Material (Treatment and Disposal) (No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/361",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-362",
+      "title": "Bovine Spongiform Encephalopathy (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/362",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-363",
+      "title": "Education (Assessment Arrangements for Key Stages 1 and 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/363",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-364",
+      "title": "Education (Assessment Arrangements for Key Stage 3) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/364",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-367",
+      "title": "Temporary Speed Limit (Sydenham By-Pass, Route A2, Belfast) (No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/367",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-368",
+      "title": "Control of Traffic (Omagh) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/368",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-369",
+      "title": "The Harbour Works (Assessment of Environmental Effects) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/369",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-37",
+      "title": "Traffic Weight Restriction (British Road, Aldergrove, Crumlin) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/37",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-372",
+      "title": "One-Way Traffic (Ballymena) (Amendment No. 3) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/372",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-373",
+      "title": "One-Way Traffic (Ballymena) (Amendment No. 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/373",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-374",
+      "title": "Traffic Weight Restriction (Long Rig Road, Nutts Corner, Crumlin) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/374",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-375",
+      "title": "The Income-Related Benefits (Montserrat) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/375",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-376",
+      "title": "Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/376",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-377",
+      "title": "Lands Tribunal (Salaries) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/377",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-38",
+      "title": "Public Use of the Records (Management and Fees) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/38",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-382",
+      "title": "General Dental Services (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/382",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-383",
+      "title": "Food Labelling Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/383",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-384",
+      "title": "Food (Lot Marking) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/384",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-385",
+      "title": "Bread and Flour (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/385",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-387",
+      "title": "The Repairs Grants (Appropriate Percentage) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/387",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-389",
+      "title": "Bovine Embryo Collection, Production and Transplantation Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/389",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-39",
+      "title": "Experimental Speed Limit (Route A1) (Continuation) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/39",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-390",
+      "title": "The Specified Bovine Material (Treatment and Disposal) (No. 3) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/390",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-391",
+      "title": "Explosives (Fireworks) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/391",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-392",
+      "title": "Traffic Signs (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/392",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-393",
+      "title": "The Pharmaceutical Qualifications (Recognition) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/393",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-398",
+      "title": "Specified Diseases (Notification and Movement Restrictions) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/398",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-399",
+      "title": "Diseases of Animals (Modification) (No. 3) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/399",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-4",
+      "title": "The Royal Ulster Constabulary Pensions (Amendment) Regulations 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/4",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-40",
+      "title": "The Criminal Justice Act 1988 (Reviews of Sentencing) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/40",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-400",
+      "title": "Johne’s Disease (Revocation) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/400",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-401",
+      "title": "The Jobseekers (1995 Order) (Commencement No. 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/401",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-403",
+      "title": "Beef (Emergency Control) (Revocation) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/403",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-404",
+      "title": "Fresh Meat (Beef Controls) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/404",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-405",
+      "title": "The Income-Related Benefits and Social Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/405",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-406",
+      "title": "Temporary Speed Limit (Magheramason) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/406",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-407",
+      "title": "Electricity (Non-Fossil Fuel Sources) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/407",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-408",
+      "title": "Traffic Signs (Amendment No. 3) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/408",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-409",
+      "title": "Seeds (Fees) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/409",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-41",
+      "title": "Planning (Fees) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/41",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-410",
+      "title": "Legal Aid (Assessment of Resources) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/410",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-411",
+      "title": "Legal Advice and Assistance (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/411",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-416",
+      "title": "General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/416",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-417",
+      "title": "The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/417",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-418",
+      "title": "Sex Discrimination (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/418",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-419",
+      "title": "The Disability Discrimination (Employment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/419",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-42",
+      "title": "Temporary Speed Limit (Sydenham By-Pass, Route A2, Belfast) (Continuation) (Revocation) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/42",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-420",
+      "title": "The Disability Discrimination (Sub-leases and Sub-tenancies) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/420",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-421",
+      "title": "The Disability Discrimination (Meaning of Disability) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/421",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-422",
+      "title": "The Child Benefit (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/422",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-423",
+      "title": "The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/423",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-424",
+      "title": "Optical Charges and Payments (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/424",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-425",
+      "title": "Travelling Expenses and Remission of Charges (Amendment No. 3) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/425",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-426",
+      "title": "The Driving Licences (Community Driving Licence) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/426",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-427",
+      "title": "The Heads of Sheep and Goats Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/427",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-428",
+      "title": "The Heads of Sheep and Goats (Treatment and Disposal) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/428",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-429",
+      "title": "Explosives (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/429",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-430",
+      "title": "The Social Security (Credits and Contributions) (Jobseeker’s Allowance Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/430",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-431",
+      "title": "The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/431",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-432",
+      "title": "The Social Security (Claims and Payments and Adjudication) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/432",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-433",
+      "title": "The Social Security (Contributions) (Amendment No. 5) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/433",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-434",
+      "title": "Definition of Independent Visitors (Children) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/434",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-435",
+      "title": "The Emergency Protection Order (Transfer of Responsibilities) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/435",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-438",
+      "title": "The Adoption Allowance Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/438",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-439",
+      "title": "The Health and Social Services Trusts (Exercise of Functions) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/439",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-44",
+      "title": "One-Way Traffic (Belfast) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/44",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-440",
+      "title": "The Jobseeker’s Allowance and Income Support (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/440",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-441",
+      "title": "The Social Security and Child Support (Jobseeker’s Allowance) (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/441",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-442",
+      "title": "The Genetically Modified Organisms (Risk Assessment) (Records and Exemptions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/442",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-443",
+      "title": "Contact with Children Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/443",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-444",
+      "title": "Day Care (Exempt Supervised Activities) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/444",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-446",
+      "title": "Motor Vehicles (Prescribed Restrictions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/446",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-447",
+      "title": "Gas (Applications for Licences and Extensions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/447",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-448",
+      "title": "The Housing Benefit (General) (Amendment No. 5) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/448",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-449",
+      "title": "The Income Support and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/449",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-45",
+      "title": "One-Way Traffic (Ballymena) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/45",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-450",
+      "title": "Rural Regeneration and Cross-Border Development Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/450",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-451",
+      "title": "The Representations Procedure (Children) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/451",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-452",
+      "title": "The Children (Private Arrangements for Fostering) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/452",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-453",
+      "title": "The Arrangements for Placement of Children (General) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/453",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-454",
+      "title": "The Family Law (1993 Orders) (Commencement No. 1) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/454",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-455",
+      "title": "The Children (Parental Responsibility Agreement) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/455",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-456",
+      "title": "Plant Protection Products (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/456",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-457",
+      "title": "The Social Security (Adjudication) and Child Support (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/457",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-458",
+      "title": "Fertilisers (Mammalian Meat and Bone Meal) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/458",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-459",
+      "title": "The Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/459",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-46",
+      "title": "Rates (Regional Rate) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/46",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-460",
+      "title": "Export of Animals (Protection) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/460",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-461",
+      "title": "The Review of Children’s Cases Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/461",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-462",
+      "title": "Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/462",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-463",
+      "title": "The Placement of Children with Parents etc. Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/463",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-464",
+      "title": "The Social Security (Jobseeker’s Allowance and Payments on account) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/464",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-465",
+      "title": "Equal Pay (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/465",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-466",
+      "title": "Industrial Tribunals (Constitution and Rules of Procedure) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/466",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-467",
+      "title": "The Foster Placement (Children) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/467",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-468",
+      "title": "The Child Minding and Day Care (Applications for Registration) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/468",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-469",
+      "title": "The Child Benefit (General) (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/469",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-47",
+      "title": "Spreadable Fats (Marketing Standards) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/47",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-470",
+      "title": "The Child Benefit (General) (Amendment No. 3) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/470",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-471",
+      "title": "The Insolvent Companies (Disqualification of Unfit Directors) Proceedings (Amendment) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/471",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-472",
+      "title": "The Insolvent Partnerships (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/472",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-473",
+      "title": "Royal Ulster Constabulary Regulations 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/473",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-474",
+      "title": "Roads (Speed Limit) (No. 7) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/474",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-475",
+      "title": "Employment Rights (1996 Order) (Residuary Commencement No. 1) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/475",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-476",
+      "title": "The Income-Related Benefits and Jobseeker’s Allowance (Personal Allowances for Children and Young Persons) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/476",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-477",
+      "title": "The Employment of Children Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/477",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-478",
+      "title": "The Disqualification for Caring for Children Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/478",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-479",
+      "title": "The Children’s Homes Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/479",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-48",
+      "title": "Sweeteners in Food Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/48",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-480",
+      "title": "The Refuges (Children’s Homes and Foster Placements) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/480",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-481",
+      "title": "Children (Public Performances) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/481",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-482",
+      "title": "Legal Aid, Advice and Assistance (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/482",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-483",
+      "title": "Legal Advice and Assistance (Amendment No. 3) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/483",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-484",
+      "title": "Optical Charges and Payments (Amendment No. 3) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/484",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-485",
+      "title": "Pneumoconiosis, etc., (Workers' Compensation) (Payment of Claims) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/485",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-487",
+      "title": "The Children (Secure Accommodation) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/487",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-488",
+      "title": "The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/488",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-489",
+      "title": "The Income Support (General) (Amendment No. 3) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/489",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-49",
+      "title": "Colours in Food Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/49",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-490",
+      "title": "Education (Student Loans) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/490",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-491",
+      "title": "The Fire Services (Appointments and Promotion) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/491",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-492",
+      "title": "The Child Support (1995 Order) (Commencement No. 3) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/492",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-493",
+      "title": "The Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/493",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-494",
+      "title": "The Magistrates' Courts Fees (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/494",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-495",
+      "title": "The Family Proceedings Fees Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/495",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-497",
+      "title": "The Sheep Annual Premium (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/497",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-498",
+      "title": "The Hill Livestock (Compensatory Allowances) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/498",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-499",
+      "title": "The Social Security (Adjudication) (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/499",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-5",
+      "title": "The Royal Ulster Constabulary Reserve (Full-Time) Pensions (Amendment) Regulations 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/5",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-50",
+      "title": "Miscellaneous Food Additives Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/50",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-500",
+      "title": "Registration (Births, Still-Births and Deaths) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/500",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-501",
+      "title": "Marriage of Children (Consents) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/501",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-502",
+      "title": "Pig Production Development (Levy) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/502",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-503",
+      "title": "The Social Security and Child Support (Jobseeker’s Allowance) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/503",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-504",
+      "title": "Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/504",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-505",
+      "title": "Moorland (Livestock Extensification) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/505",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-506",
+      "title": "Fresh Meat (Beef Controls) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/506",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-508",
+      "title": "The Personal Pension Schemes (Appropriate Schemes and Disclosure of Information) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/508",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-509",
+      "title": "The Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/509",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-51",
+      "title": "Bread and Flour Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/51",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-510",
+      "title": "Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/510",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-511",
+      "title": "Health and Safety (Consultation with Employees) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/511",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-512",
+      "title": "Health and Safety Information for Employees (Amendments and Repeals) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/512",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-513",
+      "title": "Fertilisers (Sampling and Analysis) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/513",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-514",
+      "title": "Welfare of Animals (Scheduled Operations) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/514",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-515",
+      "title": "Spring Traps Approval Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/515",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-516",
+      "title": "The Health and Social Services Trusts (Establishment Orders) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/516",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-518",
+      "title": "The Jobseeker’s Allowance (Transitional Provisions) (No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/518",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-519",
+      "title": "The Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/519",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-52",
+      "title": "Cheese and Cream Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/52",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-520",
+      "title": "The Social Security Benefit (Computation of Earnings) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/520",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-521",
+      "title": "The Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/521",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-522",
+      "title": "Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/522",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-523",
+      "title": "Motor Hackney Carriages (Belfast) (Amendment No. 2) By-Laws (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/523",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-524",
+      "title": "The Potatoes Originating in the Netherlands (Notification) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/524",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-525",
+      "title": "Health and Safety at Work Order (Application to Environmentally Hazardous Substances) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/525",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-526",
+      "title": "Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (National Limits) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/526",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-527",
+      "title": "Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (EEC Limits) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/527",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-528",
+      "title": "The Children (Prescribed Orders — Isle of Man and Guernsey) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/528",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-53",
+      "title": "Food (Miscellaneous Revocations and Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/53",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-530",
+      "title": "Bus Lane (Upper Lisburn Road, Belfast) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/530",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-531",
+      "title": "Bus Lanes (Shaftesbury Square and Great Victoria Street, Belfast) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/531",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-532",
+      "title": "The Disability Discrimination (Questions and Replies) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/532",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-534",
+      "title": "The Pensions (1995 Order) (Commencement No. 5) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/534",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-535",
+      "title": "Temporary Speed Limit (Belfast) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/535",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-536",
+      "title": "Roads (Speed Limit) (No. 8) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/536",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-537",
+      "title": "Housing Investment Trusts (Assured Tenancies) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/537",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-538",
+      "title": "Specified Bovine Material (No. 2) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/538",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-539",
+      "title": "Eel Fishing (Licence Duties) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/539",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-54",
+      "title": "Magistrates' Courts (Drug Trafficking Act 1994) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/54",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-540",
+      "title": "Fisheries (Licence Duties) Byelaws (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/540",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-541",
+      "title": "The Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/541",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-542",
+      "title": "Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/542",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-543",
+      "title": "Motor Hackney Carriages (Belfast) (Amendment No. 3) By-Laws (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/543",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-544",
+      "title": "The Occupational Pensions (Revaluation) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/544",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-545",
+      "title": "The Income Support (General) (Standard Interest Rate Amendment No. 3) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/545",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-546",
+      "title": "Students Awards (No. 2) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/546",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-547",
+      "title": "Employment Rights (Health Service Employers) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/547",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-549",
+      "title": "Disability Discrimination (Guidance and Code of Practice) (Appointed Day) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/549",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-55",
+      "title": "Magistrates' Courts (Child Abduction and Custody) (Amendment) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/55",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-550",
+      "title": "Control of Traffic (Newry) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/550",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-552",
+      "title": "Control of Traffic (Castledawson) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/552",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-553",
+      "title": "Roads (Speed Limit) (No. 9) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/553",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-554",
+      "title": "Control of Traffic (Belfast) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/554",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-555",
+      "title": "Traffic Weight Restriction (Killynamph Road, Lisnaskea) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/555",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-556",
+      "title": "The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/556",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-557",
+      "title": "The Disability Discrimination (Services and Premises) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/557",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-558",
+      "title": "Welfare of Animals (Slaughter or Killing) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/558",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-559",
+      "title": "The Energy Conservation Act 1996 (Commencement) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/559",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-56",
+      "title": "Magistrates' Courts (Family Law Act 1986) (Amendment) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/56",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-560",
+      "title": "The Disability Discrimination Act 1995 (Commencement No. 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/560",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-561",
+      "title": "The Disability Discrimination Code of Practice (Goods, Facilities, Services and Premises) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/561",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-562",
+      "title": "Appointment of Consultants Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/562",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-563",
+      "title": "The Bovine Products (Despatch to Other Member States) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/563",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-564",
+      "title": "Royal Ulster Constabulary Reserve (Full-time) (Appointment and Conditions of Service) Regulations 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/564",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-565",
+      "title": "Royal Ulster Constabulary Reserve (Part-time) (Appointment and Conditions of Service) Regulations 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/565",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-566",
+      "title": "The Social Security (Contributions) (Amendment No. 6) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/566",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-567",
+      "title": "Education (Assessment Arrangements for Key Stages 1 and 2) (Exceptions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/567",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-568",
+      "title": "Temporary Speed Limit (Magheramason) (No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/568",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-569",
+      "title": "The Statutory Sick Pay (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/569",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-57",
+      "title": "The Social Security (Industrial Injuries and Diseases) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/57",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-570",
+      "title": "The Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/570",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-571",
+      "title": "The Social Fund (Maternity and Funeral Expenses) (General) (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/571",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-572",
+      "title": "Gaming and Amusements with Prizes (Variation of Monetary Limits) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/572",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-573",
+      "title": "Gaming (Bingo) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/573",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-574",
+      "title": "The Insolvency Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/574",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-575",
+      "title": "The Deeds of Arrangement Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/575",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-576",
+      "title": "Insolvency (Fees) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/576",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-577",
+      "title": "Insolvency (Deposits) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/577",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-578",
+      "title": "Maintenance Allowances (Pupils over Compulsory School Age) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/578",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-58",
+      "title": "The Social Security (Contributions) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/58",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-580",
+      "title": "Plastic Materials and Articles in Contact with Food (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/580",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-581",
+      "title": "Industrial Tribunals (Interest on Awards in Sex and Disability Discrimination Cases) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/581",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-582",
+      "title": "Northern Ireland Civil Service Pensions (Provision of Information and Administrative Charges etc) Scheme (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/582",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-583",
+      "title": "The Disability Working Allowance and Family Credit (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/583",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-584",
+      "title": "The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/584",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-585",
+      "title": "The Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/585",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-588",
+      "title": "Motor Vehicles (International Circulation) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/588",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-59",
+      "title": "Bus Lane (Queen’s Square, Belfast) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/59",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-590",
+      "title": "The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/590",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-591",
+      "title": "Diseases of Animals (Modification No. 5) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/591",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-592",
+      "title": "Diseases of Animals (Modification No. 4) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/592",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-593",
+      "title": "Bovine Spongiform Encephalopathy (Amendment) (No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/593",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-594",
+      "title": "The Specified Bovine Material (Treatment and Disposal) (No. 3) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/594",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-595",
+      "title": "Selective Cull (Enforcement of Community Compensation Conditions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/595",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-596",
+      "title": "Specified Bovine Material (No. 2) (Amendment No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/596",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-597",
+      "title": "The Bovine Products (Despatch to Other Member States) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/597",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-598",
+      "title": "Unfair Arbitration Agreements (Specified Amount) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/598",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-6",
+      "title": "Taxis (Newtownards) Bye-Laws (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/6",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-60",
+      "title": "One-Way Traffic (Belfast) (Amendment No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/60",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-601",
+      "title": "The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/601",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-602",
+      "title": "The Control of Asbestos in Water (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/602",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-603",
+      "title": "The Surface Waters (Abstraction for Drinking Water) (Classification) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/603",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-604",
+      "title": "Employment Protection (Continuity of Employment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/604",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-605",
+      "title": "Deseasonalisation Premium (Protection of Payments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/605",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-606",
+      "title": "Environmentally Sensitive Areas Designation Orders (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/606",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-607",
+      "title": "Moorland (Livestock Extensification) (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/607",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-608",
+      "title": "Habitat Improvement (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/608",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-609",
+      "title": "Countryside Access (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/609",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-61",
+      "title": "The Social Security (Incapacity for Work) (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/61",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-610",
+      "title": "Organic Farming Aid (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/610",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-611",
+      "title": "Beef Special Premium (Protection of Payments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/611",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-612",
+      "title": "The Laganside Development (Alteration of Designated Area) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/612",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-613",
+      "title": "The Road Humps (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/613",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-614",
+      "title": "Traffic Signs (Amendment No. 4) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/614",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-615",
+      "title": "Temporary Speed Limit (Belfast) (No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/615",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-616",
+      "title": "Urban Clearways (Londonderry) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/616",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-617",
+      "title": "Roads (Speed Limit) (No. 10) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/617",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-618",
+      "title": "The Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/618",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-619",
+      "title": "The Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/619",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-62",
+      "title": "The Guaranteed Minimum Pensions Increase Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/62",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-620",
+      "title": "The Personal and Occupational Pension Schemes (Preservation of Benefit and Perpetuities) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/620",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-621",
+      "title": "The Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/621",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-622",
+      "title": "The Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/622",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-623",
+      "title": "Control of Traffic (Belfast) (No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/623",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-63",
+      "title": "One-Way Traffic (Ballymena) (Amendment No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/63",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-65",
+      "title": "The Child Support (Maintenance Assessments and Special Cases) and Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/65",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-69",
+      "title": "Traffic Signs (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/69",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-7",
+      "title": "The Hill Livestock (Compensatory Allowances) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/7",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-70",
+      "title": "The Crown Court (Children’s Evidence) (Dismissal of Transferred Charges) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/70",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-71",
+      "title": "The Crown Court (Amendment) Rules (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/71",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-72",
+      "title": "The Social Security (Contributions) (Re-rating and Northern Ireland National Insurance Fund Payments) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/72",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-73",
+      "title": "The Social Security Benefits Up-rating Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/73",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-74",
+      "title": "The Social Security Benefits Up-rating Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/74",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-75",
+      "title": "The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/75",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-76",
+      "title": "The Workmen’s Compensation (Supplementation) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/76",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-77",
+      "title": "The Statutory Maternity Pay (Compensation of Employers) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/77",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-78",
+      "title": "The Income Support (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/78",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-79",
+      "title": "The Social Security (Contributions) (Amendment No. 2) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/79",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-81",
+      "title": "Diseases of Animals (Importation of Bird Products) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/81",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-82",
+      "title": "Diseases of Animals (Importation of Poultry) (Amendment) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/82",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-83",
+      "title": "The Health and Personal Social Services (Assessment of Resources) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/83",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-84",
+      "title": "The Housing Benefit (General) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/84",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-85",
+      "title": "The Social Security (Claims and Payments Etc.) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/85",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-86",
+      "title": "Judicial Pensions (Additional Voluntary Contributions) (No. 2) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/86",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-87",
+      "title": "The Department of the Environment (Fees) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/87",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-89",
+      "title": "The Social Security (Contributions) (Amendment No. 3) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/89",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-9",
+      "title": "Marking of Animals Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/9",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-90",
+      "title": "Pensions Increase (Review) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/90",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-91",
+      "title": "The Pensions (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/91",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-92",
+      "title": "The Income-Related Benefits (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/92",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-93",
+      "title": "The Income-Related Benefits (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/93",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-94",
+      "title": "The Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/94",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-95",
+      "title": "The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/95",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-96",
+      "title": "Legal Advice and Assistance (Financial Conditions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/96",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-97",
+      "title": "Legal Aid (Financial Conditions) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/97",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-98",
+      "title": "Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/98",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1996-99",
+      "title": "The Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 1996",
+      "year": 1996,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1996/99",
+      "source": "nisr"
+    },
+    {
+      "id": "UKCI-1996-1",
+      "title": "Team and Group Ministries Measure 1995 (Appointed Day Instrument 1996)",
+      "year": 1996,
+      "type": "Order",
+      "url": "http://www.legislation.gov.uk/ukci/1996/1",
+      "source": "ukci"
     },
     {
       "id": "UKLA-1996-c1",

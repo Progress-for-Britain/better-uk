@@ -1,134 +1,3318 @@
 {
   "year": 1993,
-  "count": 1954,
+  "count": 2352,
   "items": [
     {
       "id": "NISI-1993-1250",
       "title": "The Access to Health Records (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/1250",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-1252",
       "title": "The Financial Provisions (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/1252",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-1576",
       "title": "The Family Law (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/1576",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-1578",
       "title": "The Fire Services (Amendment) (Northern Ireland) Order 1993 (repealed)",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/1578",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-1579",
       "title": "The Social Security (Amendment) (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/1579",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-1788",
       "title": "The Appropriation (No. 2) (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/1788",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-225",
       "title": "The Aircraft and Shipbuilding Industries (Repeals) (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/225",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-2665",
       "title": "The Agriculture (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/2665",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-2668",
       "title": "The Industrial Relations (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/2668",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-2810",
       "title": "The Education and Libraries (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/2810",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-3146",
       "title": "The Criminal Justice (Confiscation) (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/3146",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-3159",
       "title": "The Environment and Safety Information (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/3159",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-3160",
       "title": "The Roads (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/3160",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-3165",
       "title": "The Water and Sewerage Services (Amendment) (Northern Ireland) Order 1993 (REPEALED)",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/3165",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-592",
       "title": "The Social Security (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/592",
-      "source": "uksi"
+      "source": "nisi"
     },
     {
       "id": "NISI-1993-600",
       "title": "The Appropriation (Northern Ireland) Order 1993",
       "year": 1993,
-      "type": "SI",
+      "type": "Order",
       "url": "http://www.legislation.gov.uk/nisi/1993/600",
-      "source": "uksi"
+      "source": "nisi"
+    },
+    {
+      "id": "NISR-1993-1",
+      "title": "The Police and Criminal Evidence (1989 Order) (Commencement No. 3) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/1",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-102",
+      "title": "The One-way Traffic (Portstewart) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/102",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-104",
+      "title": "The Child Support Appeals (Jurisdiction of Courts) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/104",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-105",
+      "title": "The Motor Vehicles (Driving Licences) (Heavy Goods and Public Service Vehicles) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/105",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-106",
+      "title": "The Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/106",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-107",
+      "title": "The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/107",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-108",
+      "title": "The Motor Vehicles (Taxi Drivers' Licences) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/108",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-111",
+      "title": "The Local Government (General Grant) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/111",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-114",
+      "title": "The Social Security (Contributions) (Amendment No. 4) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/114",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-115",
+      "title": "The National Board For Nursing, Midwifery and Health Visiting for Northern Ireland (Constitution and Administration) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/115",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-117",
+      "title": "The Child Support (Great Britain Reciprocal Arrangements) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/117",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-118",
+      "title": "The Control of Traffic (Bangor) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/118",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-12",
+      "title": "The Parking Places on Roads (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/12",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-120",
+      "title": "The Income-Related Benefits (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/120",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-121",
+      "title": "The Legal Aid (Financial Conditions) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/121",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-122",
+      "title": "The Legal Aid (Assessment of Resources) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/122",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-123",
+      "title": "The Legal Advice and Assistance (Financial Conditions) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/123",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-124",
+      "title": "The Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/124",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-125",
+      "title": "The Pensions Increase (Review) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/125",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-126",
+      "title": "The Occupational and Personal Pension Schemes (Miscellaneous Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/126",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-127",
+      "title": "The Health and Personal Social Services (Assessment of Resources) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/127",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-129",
+      "title": "The Rates (Regional Rate) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/129",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-130",
+      "title": "The Social Security (Contributions) (Amendment No. 5) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/130",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-131",
+      "title": "The Traffic Weight Restriction (Londonderry) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/131",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-132",
+      "title": "The Magistrate's Courts (Child Support) Rules (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/132",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-133",
+      "title": "The Magistrate's Courts Fees (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/133",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-134",
+      "title": "The Matrimonial Causes (Amendment) Rules (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/134",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-135",
+      "title": "The County Court (Amendment) Rules (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/135",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-136",
+      "title": "The Legal Advice and Assistance (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/136",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-137",
+      "title": "The Legal Aid (Scope) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/137",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-138",
+      "title": "The Magistrate's Courts (Domestic Proceedings) (Amendment) Rules (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/138",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-139",
+      "title": "The Dental Charges (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/139",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-140",
+      "title": "The Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/140",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-141",
+      "title": "The Optical Charges and Payments (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/141",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-142",
+      "title": "The Health and Personal Social Services (Fund-holding Practices) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/142",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-143",
+      "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment) (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/143",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-145",
+      "title": "The Housing Benefit (General) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/145",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-146",
+      "title": "The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/146",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-147",
+      "title": "Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/147",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-148",
+      "title": "The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/148",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-149",
+      "title": "The Social Security Benefits (Amendments Consequential Upon the Introduction of Community Care) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/149",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-15",
+      "title": "The Registered Rents (Increase) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/15",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-150",
+      "title": "The Social Security Benefits Up-rating Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/150",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-151",
+      "title": "The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/151",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-152",
+      "title": "The Statutory Sick Pay (Rate of Payment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/152",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-153",
+      "title": "The Workmen's Compensation (Supplementation) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/153",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-154",
+      "title": "The Housing Benefit (General) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/154",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-155",
+      "title": "The Inshore Fishing (Prohibition of Fishing and Fishing Methods) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/155",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-157",
+      "title": "The Child Support (Northern Ireland) Order 1991 (Consequential Amendments) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/157",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-158",
+      "title": "The General Medical and Pharmaceutical Services (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/158",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-159",
+      "title": "The Social Security Benefits Up-rating Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/159",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-16",
+      "title": "The Hill Livestock (Compensatory Allowances) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/16",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-161",
+      "title": "The Travelling Expenses and Remission of Charges (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/161",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-162",
+      "title": "The Health and Personal Social Services (1991 Order) (Commencement No. 3) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/162",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-163",
+      "title": "The Residential Accommodation (Other Premises, Persons Ordinarily Resident and Exemptions) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/163",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-164",
+      "title": "The Child Support (Miscellaneous Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/164",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-165",
+      "title": "The Social Security Benefits (Miscellaneous Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/165",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-166",
+      "title": "The Temporary Speed Limit (Route A2, Belfast/Holywood) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/166",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-167",
+      "title": "The Income Support (General) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/167",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-168",
+      "title": "The Social Security (Industrial Injuries and Adjudication) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/168",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-169",
+      "title": "The Child Benefit and Social Security (Miscellaneous Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/169",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-170",
+      "title": "The Control of Asbestos in the Air Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/170",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-173",
+      "title": "The Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/173",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-174",
+      "title": "The Child Support (1991 Order) (Commencement No. 3 and Transitional Provisions) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/174",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-175",
+      "title": "The Social Security (Payments on Account, Overpayments and Recovery) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/175",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-176",
+      "title": "The Beef Special Premium and Deseasonalisation Premium (Protection of Payments) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/176",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-178",
+      "title": "The Environmentally Sensitive Areas (Mourne Mountains and Slieve Croob) Designation Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/178",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-179",
+      "title": "The Environmentally Sensitive Areas (Antrim Coast, Glens and Rathlin) Designation Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/179",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-180",
+      "title": "The Environmentally Sensitive Areas (West Fermanagh and Erne Lakeland) Designation Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/180",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-181",
+      "title": "The Superannuation (Consumer Committee for Electricity) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/181",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-183",
+      "title": "The Friendly Societies (Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/183",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-184",
+      "title": "The Industrial Assurance (Fees) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/184",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-185",
+      "title": "The Code of Practice (Time Off for Trade Union Duties and Activities) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/185",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-186",
+      "title": "The Code of Practice (Redundancy Consultation and Procedures) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/186",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-187",
+      "title": "The Colleges of Education (Salaries) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/187",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-19",
+      "title": "Provision and Use of Work Equipment Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/19",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-191",
+      "title": "The Child Support (Maintenance Assessments and Special Cases) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/191",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-192",
+      "title": "The Animal By-Products Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/192",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-193",
+      "title": "The Diseases of Animals (Animal Protein) (No. 2) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/193",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-194",
+      "title": "The Magistrates' Courts (Costs in Criminal Cases) (Amendment) Rules (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/194",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-195",
+      "title": "The Social Security Benefits (Miscellaneous Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/195",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-197",
+      "title": "The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/197",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-198",
+      "title": "Part XXIII Companies and Credit and Financial Institutions (Branch Disclosure) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/198",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-199",
+      "title": "Companies (1986 Order) (Disclosure of Branches and Bank Accounts) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/199",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-20",
+      "title": "Personal Protective Equipment at Work Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/20",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-200",
+      "title": "The Companies (Forms) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/200",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-201",
+      "title": "The Parking Places on Roads Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/201",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-202",
+      "title": "The Disabled Persons (Badges for Motor Vehicles) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/202",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-203",
+      "title": "The Level Crossing (Barmouth) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/203",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-204",
+      "title": "The Belfast Harbour (Variation of Limits) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/204",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-205",
+      "title": "The Quality of Bathing Water Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/205",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-206",
+      "title": "The Child Support (1991 Order) (Commencement No. 3 and Transitional Provisions) (Amendment No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/206",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-207",
+      "title": "The Royal Ulster Constabulary (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/207",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-208",
+      "title": "The Royal Ulster Constabulary Reserve (Full-Time) (Appointment and Conditions of Service) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/208",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-209",
+      "title": "The Royal Ulster Constabulary Reserve (Part-Time) (Appointment and Conditions of Service) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/209",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-21",
+      "title": "The Electricity Supply (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/21",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-212",
+      "title": "The Control of Traffic (Dundonald) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/212",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-213",
+      "title": "The On-Street Parking (Amendment) Bye-Laws (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/213",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-214",
+      "title": "The Off-Street Parking (Amendment No. 2) Bye-Laws (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/214",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-215",
+      "title": "The One-Way Traffic (Belfast) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/215",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-217",
+      "title": "The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/217",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-218",
+      "title": "The Income-Related Benefits (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/218",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-219",
+      "title": "The Welfare Foods (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/219",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-220",
+      "title": "Companies (1986 Order) (Amendment of Articles 258 and 259) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/220",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-221",
+      "title": "The Offshore Installations (Safety Case) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/221",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-222",
+      "title": "The Social Security Revaluation of Earnings Factors Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/222",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-223",
+      "title": "The Royal Ulster Constabulary Pensions (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/223",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-225",
+      "title": "The Level Crossing (Duncrun West) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/225",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-226",
+      "title": "The Level Crossing (Duncrun East) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/226",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-227",
+      "title": "The Level Crossing (Clooney) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/227",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-229",
+      "title": "The Social Security (Widow's Benefit and Retirement Pensions) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/229",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-233",
+      "title": "The Income-Related Benefits and Social Security (Recoupment) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/233",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-234",
+      "title": "The Health and Personal Social Services (Assessment of Resources) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/234",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-235",
+      "title": "The Income Support (General) (Amendment No. 3) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/235",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-236",
+      "title": "The Emulsifiers and Stabilisers in Food (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/236",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-237",
+      "title": "The Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/237",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-239",
+      "title": "The Sheep Scab (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/239",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-24",
+      "title": "Radioactive Substances Act 1948 (Repeals) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/24",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-240",
+      "title": "The Road Traffic (Training of Drivers of Vehicles Carrying Dangerous Goods) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/240",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-246",
+      "title": "The Motor Vehicles (EC Type Approval) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/246",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-247",
+      "title": "The Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/247",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-249",
+      "title": "The Royal Ulster Constabulary Pensions (Additional Voluntary Contributions) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/249",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-25",
+      "title": "The Asbestos (Prohibitions) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/25",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-250",
+      "title": "The Soft Drinks (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/250",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-251",
+      "title": "The Poultry Laying Flocks (Registration and Testing etc.) (Revocation) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/251",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-252",
+      "title": "The Curriculum (Programme of Study and Attainment Targets in Drama) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/252",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-253",
+      "title": "The Curriculum (Programme of Study and Attainment Targets in Business Studies) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/253",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-254",
+      "title": "The Unfair Dismissal (Increase of Compensation Limit) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/254",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-255",
+      "title": "The Seeds (Fees) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/255",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-256",
+      "title": "The Plant Health Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/256",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-257",
+      "title": "The Education and Library Boards (Compulsory Acquisition of Land) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/257",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-258",
+      "title": "The Seed Potatoes (Crop Fees) (Revocation) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/258",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-259",
+      "title": "The One-Way Traffic (Belfast) (Amendment No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/259",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-26",
+      "title": "The Control of Asbestos at Work (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/26",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-260",
+      "title": "The One-Way Traffic (Ballyclare) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/260",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-261",
+      "title": "The Road Traffic (Fixed Penalty) (Extension) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/261",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-262",
+      "title": "Artificial Insemination of Pigs (EEC) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/262",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-264",
+      "title": "The Off-Street Parking (Amendment No. 3) Bye-Laws (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/264",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-266",
+      "title": "The Legal Aid in Criminal Proceedings (Costs) (Amendment) Rules (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/266",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-267",
+      "title": "The Companies (Summary Financial Statement) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/267",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-268",
+      "title": "The Packaging of Explosives for Carriage Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/268",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-27",
+      "title": "The Health and Safety (Leasing Arrangements) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/27",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-270",
+      "title": "The Destructive Imported Animals Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/270",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-272",
+      "title": "The Curriculum (Core Syllabus for Religious Education) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/272",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-273",
+      "title": "The Curriculum (Programmes of Study and Attainment Targets in Science) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/273",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-274",
+      "title": "The One-Way Traffic (Londonderry) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/274",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-275",
+      "title": "The Planning (Hazardous Substances) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/275",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-276",
+      "title": "The Planning (1991 Order) (Commencement No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/276",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-277",
+      "title": "The Planning (Use Classes) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/277",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-278",
+      "title": "The Planning (General Development) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/278",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-279",
+      "title": "The Game Birds Preservation Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/279",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-28",
+      "title": "The Income Support (General) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/28",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-280",
+      "title": "The Suckler Cow Premium Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/280",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-282",
+      "title": "The County Courts (Financial Limits) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/282",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-283",
+      "title": "The Financial Provisions (1993 Order) (Commencement) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/283",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-284",
+      "title": "The Foyle Area (Control of Fishing) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/284",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-286",
+      "title": "The Sheep Improvement Scheme (Revocation) Scheme (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/286",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-287",
+      "title": "The Pig Improvement Scheme (Revocation) Scheme (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/287",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-288",
+      "title": "The Education (Student Loans) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/288",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-289",
+      "title": "The Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/289",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-29",
+      "title": "The Roads (Speed Limit) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/29",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-290",
+      "title": "The Foyle Area (Close Season) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/290",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-292",
+      "title": "The Housing (Houses in Multiple Occupation) (Prescribed Forms) (Revocation) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/292",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-293",
+      "title": "The Housing Renovation etc. Grants (Grant Limit) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/293",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-298",
+      "title": "The Salaries (Comptroller and Auditor General) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/298",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-299",
+      "title": "The Electricity (Non-Fossil Fuel Sources) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/299",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-30",
+      "title": "The Roads (Speed Limit) (No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/30",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-302",
+      "title": "The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/302",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-303",
+      "title": "The Products of Animal Origin (Third Country Imports) (Charges) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/303",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-304",
+      "title": "The Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/304",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-305",
+      "title": "The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/305",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-306",
+      "title": "The Fish Health Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/306",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-307",
+      "title": "Animals (Post-Import Control) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/307",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-308",
+      "title": "The Education (Grant-maintained Integrated Schools) (Capital Grants) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/308",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-31",
+      "title": "The Aflatoxins in Nut, Nut Products, Dried Figs and Dried Fig Products Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/31",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-310",
+      "title": "The Departments (Transfer of Functions) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/310",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-311",
+      "title": "The Income Support (General) (Amendment No. 4) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/311",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-312",
+      "title": "The Income-Related Benefits (Amendment No. 3) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/312",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-313",
+      "title": "The Nurses, Midwives and Health Visitors (Professional Conduct) Rules 1993, Approval Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/313",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-315",
+      "title": "The Road Traffic (Training of Drivers of Vehicles Carrying Explosives) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/315",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-316",
+      "title": "The Social Security (Unemployment, Sickness and Invalidity Benefit) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/316",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-317",
+      "title": "The Insolvency Practitioners (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/317",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-318",
+      "title": "The Teachers' Salaries Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/318",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-319",
+      "title": "The Fire Services (Factory, Office and Shop Premises) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/319",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-320",
+      "title": "The Bus Lanes (Ormeau Road, Belfast) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/320",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-322",
+      "title": "The County Courts (Amendment No. 2) Rules (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/322",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-323",
+      "title": "The Offshore Installations and Pipeline Works (First-Aid) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/323",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-324",
+      "title": "The Occupational Pension Schemes (Preservation of Benefit) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/324",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-325",
+      "title": "The Pneumoconiosis, etc., (Worker's Compensation) (Payment of Claims) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/325",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-326",
+      "title": "General Dental Services Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/326",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-327",
+      "title": "The Royal Ulster Constabulary (Pensions and Injury Benefit) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/327",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-329",
+      "title": "The Egg Products Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/329",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-33",
+      "title": "The Judicial Pensions (1991 Order) (Commencement No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/33",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-330",
+      "title": "The Extraction Solvents in Food Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/330",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-332",
+      "title": "The Road Transport Licensing (Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/332",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-333",
+      "title": "The Salaries (Parliamentary Commissioner and Commissioner for Complaints) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/333",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-334",
+      "title": "The Judgment Enforcement (Amendment) Rules (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/334",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-335",
+      "title": "The Maintenance Allowances (Pupils over Compulsory School Age) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/335",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-337",
+      "title": "The Deseasonalisation Premium (Protection of Payments) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/337",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-338",
+      "title": "The Social Security (Introduction of Disability Living Allowance) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/338",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-339",
+      "title": "The Royal Ulster Constabulary (Promotion) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/339",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-34",
+      "title": "The Children and Young Persons (Protection from Tobacco) (1991 Order) (Commencement No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/34",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-340",
+      "title": "The Social Security (Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/340",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-341",
+      "title": "The Social Security (Invalid Care Allowance) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/341",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-342",
+      "title": "The Curriculum (Programmes of Study and Attainment Targets in Music) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/342",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-343",
+      "title": "The Curriculum (Programmes of Study and Attainment Target in Technology and Design) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/343",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-344",
+      "title": "The Curriculum (Programmes of Study and Attainment Targets in Art and Design) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/344",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-345",
+      "title": "The Curriculum (Core Syllabus for Religious Education) (No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/345",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-346",
+      "title": "The Education Reform (1989 Order) (Commencement No. 5) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/346",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-349",
+      "title": "The Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/349",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-35",
+      "title": "The Protection from Tobacco (Display of Warning Statements) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/35",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-350",
+      "title": "The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/350",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-351",
+      "title": "The Building (Prescribed Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/351",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-352",
+      "title": "The North and West Belfast Health and Social Services Trust (Establishment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/352",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-353",
+      "title": "The South and East Belfast Health and Social Services Trust (Establishment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/353",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-354",
+      "title": "The North Down and Ards Community Health and Social Services Trust (Establishment)) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/354",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-355",
+      "title": "The Down Lisburn Health and Social Services Trust (Establishment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/355",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-358",
+      "title": "The Criminal Justice (Confiscation) (Designated Countries and Territories) (1991 Order) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/358",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-359",
+      "title": "The Criminal Justice (Confiscation) (Designated Countries and Territories) (1992 Order) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/359",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-360",
+      "title": "The Fire Services (Appointments and Promotion) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/360",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-361",
+      "title": "The Road Traffic (1981 Order) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/361",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-362",
+      "title": "Motor Vehicles (Wearing of Seat Belts) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/362",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-363",
+      "title": "Motor Vehicles (Wearing of Seat Belts by Children in Front Seats) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/363",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-364",
+      "title": "The Magistrates' Courts (Domestic Proceedings) (Amendment No. 2) Rules (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/364",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-365",
+      "title": "The Employer's Liability (Compulsory Insurance) Exemption (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/365",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-366",
+      "title": "Lifting Plant and Equipment (Records of Test and Examination etc.) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/366",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-368",
+      "title": "The Social Security (Contributions) (Amendment No. 6) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/368",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-369",
+      "title": "The Motor Vehicles (Invalid Carriages) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/369",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-37",
+      "title": "Workplace (Health, Safety and Welfare) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/37",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-370",
+      "title": "The Education (School Information and Prospectuses) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/370",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-371",
+      "title": "The Sales, Markets and Lairs (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/371",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-372",
+      "title": "The Seed Potatoes (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/372",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-373",
+      "title": "The Income-Related Benefits (Amendment No. 4) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/373",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-375",
+      "title": "The Social Security (Claims and Payments) (Amendment No. 3) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/375",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-376",
+      "title": "The Secondary Schools (Admissions Criteria) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/376",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-378",
+      "title": "The Undersized Lobsters Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/378",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-379",
+      "title": "The Regulation of Road Traffic (Eglinton Airport) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/379",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-38",
+      "title": "The Housing (Management of Houses in Multiple Occupation) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/38",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-380",
+      "title": "The Beef Cattle Improvement Scheme (Revocation) Scheme (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/380",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-381",
+      "title": "The Housing Benefit (General) (Amendment No. 3) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/381",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-382",
+      "title": "The Control of Traffic (Ballynahinch) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/382",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-383",
+      "title": "The Prohibition of Traffic (Dunluce Street, Larne) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/383",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-384",
+      "title": "Offshore Safety (Repeals and Modifications) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/384",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-385",
+      "title": "The Urban Clearways (Belfast) (No. 2) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/385",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-386",
+      "title": "The Temporary Speed Limit (Motorway M1) (No. 6) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/386",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-387",
+      "title": "The On-Street Parking (Amendment No. 2) Bye-Laws (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/387",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-39",
+      "title": "The Motor Vehicles (Construction and Use) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/39",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-390",
+      "title": "The Motor Vehicles (Driving Licences) (Test Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/390",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-391",
+      "title": "The Motor Cars (Driving Instruction) (Amendment) (Fees) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/391",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-392",
+      "title": "The Passenger and Goods Vehicles (Recording Equipment) (Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/392",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-393",
+      "title": "The Motor Vehicles Testing (Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/393",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-394",
+      "title": "The Motor Vehicles (Taxi Driver's Licences) (Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/394",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-395",
+      "title": "The International Transport of Goods under Cover of TIR Carnets (Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/395",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-396",
+      "title": "The Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/396",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-399",
+      "title": "The Housing Renovation etc. Grants (Reduction of Grant) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/399",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-4",
+      "title": "The Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/4",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-40",
+      "title": "The Judicial Pensions (Spouses' and Children's Benefits) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/40",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-400",
+      "title": "The Prohibition of Traffic (Castle Centre Service Road, Antrim) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/400",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-401",
+      "title": "The General Dental Services (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/401",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-403",
+      "title": "The Teacher's Salaries (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/403",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-404",
+      "title": "The Fire Services (1984 Order) (Modifications) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/404",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-405",
+      "title": "The Fisheries Amendment Byelaws (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/405",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-406",
+      "title": "The Northern Ireland Electricity (Dissolution) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/406",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-407",
+      "title": "The Animals (Scientific Procedures) Act (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/407",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-408",
+      "title": "The Roads (Speed Limit) (No. 3) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/408",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-409",
+      "title": "The Roads (Speed Limit) (No. 4) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/409",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-41",
+      "title": "The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/41",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-410",
+      "title": "The Diseases of Animals (Therapeutic Substances) (Revocation) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/410",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-412",
+      "title": "Chemicals (Hazard Information and Packaging) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/412",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-413",
+      "title": "The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/413",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-414",
+      "title": "The Housing Benefit (General) (Amendment No. 4) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/414",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-415",
+      "title": "The Footways (Prohibition of Waiting) (No. 2) Order (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/415",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-416",
+      "title": "The Verges (Prohibition of Waiting) (Londonderry) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/416",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-417",
+      "title": "The Control of Traffic (Bangor) (No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/417",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-418",
+      "title": "The Commissioners for Oaths (Fees) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/418",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-42",
+      "title": "The Child Support Commissioners (Procedure) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/42",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-421",
+      "title": "The Credit Unions (Fees) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/421",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-422",
+      "title": "The Industrial and Provident Societies (Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/422",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-423",
+      "title": "The Food Premises (Registration) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/423",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-424",
+      "title": "The Goods Vehicles (Certification) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/424",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-425",
+      "title": "The Anthrax Prevention Order (Modification) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/425",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-426",
+      "title": "Administration of Estates (Rights of Surviving Spouse) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/426",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-427",
+      "title": "The General Medical and Pharmaceutical Services (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/427",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-428",
+      "title": "The Credit Unions (Limit on Shares) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/428",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-429",
+      "title": "The Credit Unions (Loans and Deposits) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/429",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-43",
+      "title": "The Diseases of Animals (Modification) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/43",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-430",
+      "title": "The Roads (Classification) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/430",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-431",
+      "title": "The Amusement Permit (Additional Grounds for Refusal) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/431",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-432",
+      "title": "The Social Security (Introduction of Disability Living Allowance) (Amendment No. 3) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/432",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-433",
+      "title": "The Prohibition of Traffic (North Street, Carrickfergus) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/433",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-434",
+      "title": "The One-Way Traffic (Larne) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/434",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-437",
+      "title": "The Social Security (Contributions) (Miscellaneous Amendments) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/437",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-438",
+      "title": "The Health and Personal Social Services (Assessment of Resources) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/438",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-439",
+      "title": "The Students Awards Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/439",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-440",
+      "title": "The Eel Fishing (Licence Duties) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/440",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-441",
+      "title": "The Capacity Serving Measures (Intoxicating Liquor) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/441",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-443",
+      "title": "The Maintained Schools (Equipment and Maintenance) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/443",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-444",
+      "title": "The Northern Ireland Electricity plc (Target Investment Limit) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/444",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-445",
+      "title": "The Further Education Teacher's Salaries (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/445",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-446",
+      "title": "The Teacher's Salaries (Reorganisation Allowances) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/446",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-447",
+      "title": "The Teacher's Salaries (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/447",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-448",
+      "title": "The Electricity (Standards of Performance) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/448",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-449",
+      "title": "The Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/449",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-45",
+      "title": "The Environmental Information Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/45",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-450",
+      "title": "The Fisheries (Licence Duties) Byelaws (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/450",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-451",
+      "title": "The Royal Ulster Constabulary (Complaints) (Informal Resolution) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/451",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-452",
+      "title": "The Offshore, and Pipelines, Safety (1992 Order) (Commencement No. 1) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/452",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-453",
+      "title": "The Dogs (Licensing and Identification) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/453",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-454",
+      "title": "The Insolvency Practitioners (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/454",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-455",
+      "title": "The Newry and Mourne Health and Social Services Trust (Establishment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/455",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-456",
+      "title": "The Craigavon and Banbridge Community Health and Social Services Trust (Establishment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/456",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-457",
+      "title": "The Voluntary Schools Building Grant Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/457",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-458",
+      "title": "The Control of Traffic (Belfast) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/458",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-459",
+      "title": "The Fair Employment (Specification of Public Authorities) (Amendment No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/459",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-460",
+      "title": "The Plant Health (Wood and Bark) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/460",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-461",
+      "title": "The Occupational Pensions (Revaluation) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/461",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-462",
+      "title": "The Planning (Use Classes) (Amendment No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/462",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-463",
+      "title": "The Social Security (Contributions) (Amendment No. 7) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/463",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-464",
+      "title": "The Royal Ulster Constabulary (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/464",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-465",
+      "title": "The Royal Ulster Constabulary Reserve (Full-Time) (Appointment and Conditions of Service) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/465",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-466",
+      "title": "The Farm and Conservation Grant (Amendment) Scheme (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/466",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-467",
+      "title": "The Farm and Conservation Grant (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/467",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-468",
+      "title": "The Parking Places on Roads Order (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/468",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-469",
+      "title": "The Ionising Radiations (Outside Workers) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/469",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-470",
+      "title": "The Measuring Instruments (EEC Requirements) (Verification Fees) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/470",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-471",
+      "title": "The Road Traffic Accidents (Payments for Treatment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/471",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-472",
+      "title": "The River Lagan (Extinguishment of Rights of Navigation) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/472",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-474",
+      "title": "The Hill Livestock (Compensatory Allowances) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/474",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-475",
+      "title": "The Deseasonalisation Premium (Protection of Payments) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/475",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-476",
+      "title": "Industrial Relations (1993 Order) (Commencement No. 1) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/476",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-477",
+      "title": "The Agriculture (Tractor Cabs) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/477",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-478",
+      "title": "The Sex Discrimination and Equal Pay (Remedies) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/478",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-479",
+      "title": "The Income Support (General) (Amendment No. 5) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/479",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-480",
+      "title": "The Beef Special Premium (Protection of Payments) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/480",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-481",
+      "title": "The Foyle Area (Licensing of Fishing Engines) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/481",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-482",
+      "title": "The Foyle Area (Control of Drift Net Fishing) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/482",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-483",
+      "title": "Commercial Agents (Council Directive) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/483",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-484",
+      "title": "The Level Crossing (Carrowreagh) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/484",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-485",
+      "title": "The Food Protection (Emergency Prohibitions) (Amendment No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/485",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-486",
+      "title": "The Importation of Semen, Embryos and Ova Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/486",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-487",
+      "title": "The Social Security (Severe Disablement Allowance) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/487",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-488",
+      "title": "The Placing on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/488",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-489",
+      "title": "The Milk Marketing (Period for Making Applications) (Extension) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/489",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-490",
+      "title": "The Level Crossing (Ballykelly) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/490",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-491",
+      "title": "The Level Crossing (Myroe) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/491",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-493",
+      "title": "The Departments (Transfer of Functions) (No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/493",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-494",
+      "title": "Departments (Transfer of Functions) (No. 3) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/494",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-495",
+      "title": "The Salaries (Comptroller and Auditor General) (No. 2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/495",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-5",
+      "title": "The Colleges of Education (Salaries) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/5",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-50",
+      "title": "The Child Support Appeal Tribunals (Procedure) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/50",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-51",
+      "title": "The Food Safety (Fishery Products) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/51",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-52",
+      "title": "The Food Safety (Live Bivalve Molluscs and Other Shellfish) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/52",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-53",
+      "title": "The Food Safety (Fishery Products on Fishery Vessels) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/53",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-54",
+      "title": "The Radioactive Substances (Hospitals) Exemption Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/54",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-55",
+      "title": "The Radioactive Substances (Appeals) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/55",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-56",
+      "title": "The Off-Street Parking (Amendment) Bye-Laws (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/56",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-57",
+      "title": "The Motor Vehicles (Compulsory Insurance) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/57",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-58",
+      "title": "The Mental Health (HSS Trusts - Consequential Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/58",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-59",
+      "title": "The Social Security (Contributions) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/59",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-6",
+      "title": "The Food Protection (Emergency Prohibitions) (Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/6",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-60",
+      "title": "The Social Security (Contributions) (Re-rating) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/60",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-61",
+      "title": "The Social Security (Contributions) (Amendment No. 2) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/61",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-62",
+      "title": "The Guaranteed Minimum Pensions Increase Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/62",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-63",
+      "title": "Companies (1990 Order) (Commencement No. 4) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/63",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-64",
+      "title": "Companies (1990 No. 2 Order) (Commencement No. 6) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/64",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-65",
+      "title": "Companies (1986 Order) (Disclosure of Remuneration for Non-Audit Work) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/65",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-66",
+      "title": "Companies (Inspection and Copying of Registers, Indices and Documents) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/66",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-67",
+      "title": "Companies (1990 Order) (Eligibility for Appointment as Company Auditor) (Consequential Amendments) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/67",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-68",
+      "title": "The Rates (Regional Rate) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/68",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-7",
+      "title": "The Smoke Control Areas (Authorised Fuels) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/7",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-70",
+      "title": "The Registered Housing Associations (Accounting Requirements) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/70",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-71",
+      "title": "The Social Security (Contributions) (Amendment No. 3) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/71",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-72",
+      "title": "The Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/72",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-73",
+      "title": "The Child Support Fees Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/73",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-74",
+      "title": "The Health and Personal Social Services and Public Health (1986 Order) (Commencement) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/74",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-75",
+      "title": "The Registered Homes (1992 Order) (Commencement) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/75",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-76",
+      "title": "The Registered Homes Tribunals Rules (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/76",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-77",
+      "title": "The Large Private Passenger Vehicles (Certification) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/77",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-78",
+      "title": "The Goods Vehicles (Certification) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/78",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-79",
+      "title": "The Temporary Speed Limit (Motorway M22) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/79",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-8",
+      "title": "The Radioactive Substances (Records of Convictions) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/8",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-80",
+      "title": "The Temporary Speed Limit (Motorway M2) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/80",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-81",
+      "title": "The Planning (Fees) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/81",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-82",
+      "title": "The Housing Renovation etc. Grants (Grant Limit) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/82",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-83",
+      "title": "The Road Traffic (Carriage of Explosives) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/83",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-84",
+      "title": "The Building (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/84",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-85",
+      "title": "The Undersized Whiting Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/85",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-86",
+      "title": "The Public Service Vehicles (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/86",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-88",
+      "title": "The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/88",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-9",
+      "title": "The Olive Oil (Marketing Standards) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/9",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-90",
+      "title": "The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/90",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-91",
+      "title": "The Residential Care Homes Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/91",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-92",
+      "title": "The Nursing Homes Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/92",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-94",
+      "title": "The Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/94",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-97",
+      "title": "The Child Maintenance (Consent Orders) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/97",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-98",
+      "title": "The Child Support (Consequential Amendment) Order (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/98",
+      "source": "nisr"
+    },
+    {
+      "id": "NISR-1993-99",
+      "title": "The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1993",
+      "year": 1993,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/nisr/1993/99",
+      "source": "nisr"
+    },
+    {
+      "id": "UKCI-1993-1",
+      "title": "Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (Appointed Day Instrument 1993)",
+      "year": 1993,
+      "type": "Order",
+      "url": "http://www.legislation.gov.uk/ukci/1993/1",
+      "source": "ukci"
     },
     {
       "id": "UKLA-1993-c1",

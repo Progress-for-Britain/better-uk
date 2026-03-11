@@ -1,51 +1,51 @@
 import { Link, useLocalSearchParams } from 'expo-router';
 import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import {
-    ActivityIndicator,
-    Animated,
-    Easing,
-    Platform,
-    Pressable,
-    ScrollView,
-    Text,
-    TextInput,
-    useWindowDimensions,
-    View
+  ActivityIndicator,
+  Animated,
+  Easing,
+  Platform,
+  Pressable,
+  ScrollView,
+  Text,
+  TextInput,
+  useWindowDimensions,
+  View
 } from 'react-native';
 
 import { FundReviewsModal } from '@/components/request-review';
 import { ContentBackground, HeroBackground } from '@/components/skia-background';
 import {
-    CS_REVIEW_COST_GBP,
-    csAbolishPercent,
-    csIndexItems,
-    csTotalReviewed,
-    deletePercent,
-    getYearStats,
-    GROK_MODEL,
-    GROK_PROMPT_CIVIL_SERVICE,
-    GROK_PROMPT_NGOS,
-    GROK_PROMPT_REGULATIONS,
-    legislationYears,
-    mockCivilService,
-    mockNGOs,
-    mockRegulations,
-    NGO_REVIEW_COST_GBP,
-    ngoDefundPercent,
-    ngoIndexItems,
-    ngoTotalReviewed,
-    REVIEW_COST_GBP,
-    TOTAL_UK_CHARITIES,
-    TOTAL_UK_CS_BODIES,
-    TOTAL_UK_REGULATIONS,
-    totalRegulations,
-    totalReviewed,
-    type CivilServiceBody,
-    type CSIndexItem,
-    type LegIndexItem,
-    type NGO,
-    type NGOIndexItem,
-    type Regulation
+  CS_REVIEW_COST_GBP,
+  csAbolishPercent,
+  csIndexItems,
+  csTotalReviewed,
+  deletePercent,
+  getYearStats,
+  GROK_MODEL,
+  GROK_PROMPT_CIVIL_SERVICE,
+  GROK_PROMPT_NGOS,
+  GROK_PROMPT_REGULATIONS,
+  legislationYears,
+  mockCivilService,
+  mockNGOs,
+  mockRegulations,
+  NGO_REVIEW_COST_GBP,
+  ngoDefundPercent,
+  ngoIndexItems,
+  ngoTotalReviewed,
+  REVIEW_COST_GBP,
+  TOTAL_UK_CHARITIES,
+  TOTAL_UK_CS_BODIES,
+  TOTAL_UK_REGULATIONS,
+  totalRegulations,
+  totalReviewed,
+  type CivilServiceBody,
+  type CSIndexItem,
+  type LegIndexItem,
+  type NGO,
+  type NGOIndexItem,
+  type Regulation
 } from '@/lib/data';
 
 // ─── Responsive breakpoint ────────────────────────────────────────────────────
@@ -224,15 +224,31 @@ function SiteHeader({
         paddingVertical: isWide ? 16 : 12,
         gap: isWide ? 0 : 8,
       }}>
-      <Text
-        style={{
-          fontFamily: "'Instrument Serif', serif",
-          fontStyle: 'italic',
-          fontSize: 20,
-          color: '#111',
-        }}>
-        better-uk
-      </Text>
+      <View style={{ flexDirection: 'row', alignItems: 'baseline', gap: 8 }}>
+        <Text
+          style={{
+            fontFamily: "'Instrument Serif', serif",
+            fontStyle: 'italic',
+            fontSize: 20,
+            color: '#111',
+          }}>
+          better-uk
+        </Text>
+        <Text
+          style={{
+            fontFamily: "'DM Mono', monospace",
+            fontSize: 10,
+            color: '#aaa',
+            cursor: 'pointer',
+          }}
+          onPress={() => {
+            if (typeof window !== 'undefined') {
+              window.open('https://www.progressforbritain.org/', '_blank');
+            }
+          }}>
+          by Progress for Britain
+        </Text>
+      </View>
       {isWide ? (
         <View
           style={{
@@ -2030,6 +2046,16 @@ export default function HomeScreen() {
           <Text
             style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#bbb' }}>
             Inspired by <Text style={{ color: '#888' }}>bettereu.com</Text>
+            {' · '}Created by{' '}
+            <Text
+              style={{ color: '#888' }}
+              onPress={() => {
+                if (typeof window !== 'undefined') {
+                  window.open('https://www.progressforbritain.org/', '_blank');
+                }
+              }}>
+              Progress for Britain
+            </Text>
           </Text>
           <Text
             style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#bbb' }}>

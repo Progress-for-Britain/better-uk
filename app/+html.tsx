@@ -32,6 +32,9 @@ export default function Root({ children }: PropsWithChildren) {
         />
         <meta property="og:site_name" content="better-uk" />
         <meta property="og:locale" content="en_GB" />
+        <meta property="og:image" content="https://better-uk-red.vercel.app/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
 
         {/* Twitter / X */}
         <meta name="twitter:card" content="summary_large_image" />
@@ -40,6 +43,11 @@ export default function Root({ children }: PropsWithChildren) {
           name="twitter:description"
           content="An AI review of the entire corpus of UK legislation, leading charities, and every government body. Keep or delete — transparent verdicts powered by Grok."
         />
+        <meta name="twitter:image" content="https://better-uk-red.vercel.app/og-image.png" />
+
+        {/* Favicon / Icons */}
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/icon.png" />
 
         {/* Fonts */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />

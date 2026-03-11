@@ -3,8 +3,8 @@ import Head from 'expo-router/head';
 import { useState } from 'react';
 import { Linking, Pressable, ScrollView, Text, View } from 'react-native';
 
-import { RequestReviewButton, ReviewPendingBanner } from '@/components/request-review';
-import { type CivilServiceBody, csIndexItems, GROK_MODEL, GROK_PROMPT_CIVIL_SERVICE, GROK_PROMPT_NGOS, GROK_PROMPT_REGULATIONS, mockCivilService, mockNGOs, mockRegulations, ngoIndexItems, type NGO, type Regulation } from '@/lib/data';
+import { RequestReviewButton } from '@/components/request-review';
+import { csIndexItems, GROK_MODEL, GROK_PROMPT_CIVIL_SERVICE, GROK_PROMPT_NGOS, GROK_PROMPT_REGULATIONS, mockCivilService, mockNGOs, mockRegulations, ngoIndexItems, type CivilServiceBody, type NGO, type Regulation } from '@/lib/data';
 
 function VerdictBadge({ verdict, label }: { verdict: string; label?: string }) {
   const isNegative = verdict === 'delete' || verdict === 'abolish';
@@ -265,9 +265,8 @@ export default function RegulationDetail() {
           </>
         ) : null}
 
-        {/* Unreviewed item: show pending banner or request button */}
-        {isUnreviewed && isPending ? <ReviewPendingBanner /> : null}
-        {isUnreviewed && !isPending ? (
+        {/* Unreviewed item: show request button */}
+        {isUnreviewed ? (
           <>
             {summaryText ? (
               <View style={{ marginBottom: 24 }}>
@@ -283,8 +282,6 @@ export default function RegulationDetail() {
               </View>
             ) : null}
             <RequestReviewButton
-              itemId={decodedId}
-              itemTitle={title}
               category={category}
             />
           </>

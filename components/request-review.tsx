@@ -1,13 +1,15 @@
+import { Link } from 'expo-router';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import {
-  ActivityIndicator,
-  Animated,
-  Easing,
-  Platform,
-  Pressable,
-  Text,
-  TextInput,
-  View,
+    ActivityIndicator,
+    Animated,
+    Easing,
+    Modal,
+    Platform,
+    Pressable,
+    Text,
+    TextInput,
+    View
 } from 'react-native';
 
 // £1 per review — keep in sync with api/create-checkout-session.js
@@ -82,28 +84,39 @@ function Pill({ amount, active, onPress }: { amount: number; active: boolean; on
   );
 }
 
-// ── Main fund card (used in hero section) ────────────────────────────────────
+// ── Main fund card (used in modal) ───────────────────────────────────────────
 
-interface FundReviewsCardProps {
+interface FundReviewsModalProps {
   category: 'regulations' | 'ngos' | 'civil-service';
+  visible: boolean;
+  onClose: () => void;
 }
 
-export function FundReviewsCard({ category }: FundReviewsCardProps) {
+export function FundReviewsModal({ category, visible, onClose }: FundReviewsModalProps) {
   const [amount, setAmount] = useState(10);
   const [customText, setCustomText] = useState('');
   const [isCustom, setIsCustom] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
 
-  // Mount animation
-  const fade = useRef(new Animated.Value(0)).current;
-  const slide = useRef(new Animated.Value(16)).current;
+  // Backdrop fade
+  const backdropOpacity = useRef(new Animated.Value(0)).current;
+  const cardScale = useRef(new Animated.Value(0.95)).current;
+  const cardOpacity = useRef(new Animated.Value(0)).current;
+
   useEffect(() => {
-    Animated.parallel([
-      Animated.timing(fade, { toValue: 1, duration: 500, delay: 300, easing: Easing.out(Easing.cubic), useNativeDriver: false }),
-      Animated.timing(slide, { toValue: 0, duration: 500, delay: 300, easing: Easing.out(Easing.cubic), useNativeDriver: false }),
-    ]).start();
-  }, [fade, slide]);
+    if (visible) {
+      Animated.parallel([
+        Animated.timing(backdropOpacity, { toValue: 1, duration: 200, useNativeDriver: false }),
+        Animated.timing(cardScale, { toValue: 1, duration: 250, easing: Easing.out(Easing.back(1.5)), useNativeDriver: false }),
+        Animated.timing(cardOpacity, { toValue: 1, duration: 200, useNativeDriver: false }),
+      ]).start();
+    } else {
+      backdropOpacity.setValue(0);
+      cardScale.setValue(0.95);
+      cardOpacity.setValue(0);
+    }
+  }, [visible, backdropOpacity, cardScale, cardOpacity]);
 
   const reviews = reviewsFor(amount);
   const label =
@@ -134,6 +147,8 @@ export function FundReviewsCard({ category }: FundReviewsCardProps) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ category, amountPence: amount * 100, quantity: reviews }),
       });
+      const ct = resp.headers.get('content-type') || '';
+      if (!ct.includes('application/json')) throw new Error('API unavailable — is STRIPE_SECRET_KEY set in Vercel?');
       const data = await resp.json();
       if (!resp.ok) throw new Error(data.error || 'Checkout failed');
       if (data.url && Platform.OS === 'web') window.location.href = data.url;
@@ -144,7 +159,20 @@ export function FundReviewsCard({ category }: FundReviewsCardProps) {
   };
 
   return (
-    <Animated.View style={{ opacity: fade, transform: [{ translateY: slide }], maxWidth: 420, width: '100%', marginTop: 32 }}>
+    <Modal visible={visible} transparent animationType="none" onRequestClose={onClose}>
+      <Pressable
+        onPress={onClose}
+        style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+        <Animated.View
+          style={{
+            position: 'absolute',
+            top: 0, left: 0, right: 0, bottom: 0,
+            backgroundColor: 'rgba(0,0,0,0.4)',
+            opacity: backdropOpacity,
+          }}
+        />
+        <Pressable onPress={(e) => e.stopPropagation()} style={{ maxWidth: 420, width: '90%' }}>
+          <Animated.View style={{ opacity: cardOpacity, transform: [{ scale: cardScale }] }}>
       <View
         style={{
           borderRadius: 16,
@@ -152,8 +180,26 @@ export function FundReviewsCard({ category }: FundReviewsCardProps) {
           borderColor: '#e5e5e5',
           backgroundColor: '#fff',
           overflow: 'hidden',
-          ...(Platform.OS === 'web' ? ({ boxShadow: '0 1px 3px rgba(0,0,0,0.04), 0 6px 20px rgba(0,0,0,0.03)' } as any) : {}),
+          ...(Platform.OS === 'web' ? ({ boxShadow: '0 4px 24px rgba(0,0,0,0.12), 0 1px 3px rgba(0,0,0,0.06)' } as any) : {}),
         }}>
+
+        {/* Close button */}
+        <Pressable
+          onPress={onClose}
+          style={({ pressed }) => ({
+            position: 'absolute',
+            top: 12,
+            right: 12,
+            zIndex: 10,
+            width: 28,
+            height: 28,
+            borderRadius: 14,
+            backgroundColor: pressed ? '#f0f0f0' : '#fafafa',
+            alignItems: 'center',
+            justifyContent: 'center',
+          })}>
+          <Text style={{ fontSize: 16, color: '#999', lineHeight: 18 }}>✕</Text>
+        </Pressable>
 
         {/* Counter */}
         <View style={{ paddingTop: 24, paddingBottom: 4, alignItems: 'center' }}>
@@ -253,40 +299,20 @@ export function FundReviewsCard({ category }: FundReviewsCardProps) {
           ) : null}
         </View>
       </View>
-    </Animated.View>
+          </Animated.View>
+        </Pressable>
+      </Pressable>
+    </Modal>
   );
 }
 
-// ── Single-item request (detail page) ────────────────────────────────────────
+// ── Unreviewed item CTA (detail page) ────────────────────────────────────────
 
 interface RequestReviewButtonProps {
-  itemId: string;
-  itemTitle: string;
   category: 'regulations' | 'ngos' | 'civil-service';
 }
 
-export function RequestReviewButton({ itemId, itemTitle, category }: RequestReviewButtonProps) {
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState('');
-
-  const handlePress = async () => {
-    setLoading(true);
-    setError('');
-    try {
-      const resp = await fetch('/api/create-checkout-session', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ itemId, itemTitle, category }),
-      });
-      const data = await resp.json();
-      if (!resp.ok) throw new Error(data.error || 'Checkout failed');
-      if (data.url && Platform.OS === 'web') window.location.href = data.url;
-    } catch (e: any) {
-      setError(e.message || 'Something went wrong');
-      setLoading(false);
-    }
-  };
-
+export function RequestReviewButton({ category }: RequestReviewButtonProps) {
   return (
     <View style={{ marginTop: 32, marginBottom: 32 }}>
       <View style={{ borderRadius: 12, borderWidth: 1, borderColor: '#e5e5e5', backgroundColor: '#fff', padding: 24 }}>
@@ -294,65 +320,29 @@ export function RequestReviewButton({ itemId, itemTitle, category }: RequestRevi
           AI Review not yet available
         </Text>
         <Text style={{ fontFamily: "'Instrument Serif', serif", fontSize: 22, color: '#111', marginBottom: 8 }}>
-          Request an AI Review
+          This item hasn't been reviewed yet
         </Text>
         <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#666', lineHeight: 20, marginBottom: 20 }}>
-          Pay £1 to have Grok AI analyse this {category === 'regulations' ? 'piece of legislation' : category === 'ngos' ? 'charity' : 'government body'}. Apple Pay, Google Pay, and cards accepted.
+          Help fund AI reviews — each £1 donation pays for one {category === 'regulations' ? 'piece of legislation' : category === 'ngos' ? 'charity' : 'government body'} to be reviewed by Grok AI. All results are public and permanent.
         </Text>
-        <Pressable
-          onPress={handlePress}
-          disabled={loading}
-          style={({ pressed }) => ({
-            backgroundColor: loading ? '#666' : pressed ? '#222' : '#111',
-            borderRadius: 8,
-            paddingVertical: 14,
-            paddingHorizontal: 24,
-            alignItems: 'center',
-            flexDirection: 'row',
-            justifyContent: 'center',
-            gap: 8,
-            opacity: loading ? 0.7 : 1,
-          })}>
-          {loading ? <ActivityIndicator size="small" color="#fff" /> : null}
-          <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 14, fontWeight: '600', color: '#fff' }}>
-            {loading ? 'Redirecting to checkout…' : 'Pay £1 — Request Review'}
-          </Text>
-        </Pressable>
+        <Link href="/" style={{ textDecorationLine: 'none' }}>
+          <View
+            style={{
+              backgroundColor: '#111',
+              borderRadius: 8,
+              paddingVertical: 14,
+              paddingHorizontal: 24,
+              alignItems: 'center',
+            }}>
+            <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 14, fontWeight: '600', color: '#fff' }}>
+              Fund reviews on the homepage →
+            </Text>
+          </View>
+        </Link>
         <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#bbb', textAlign: 'center', marginTop: 12 }}>
           Secure payment via Stripe · Apple Pay · Google Pay · Cards
         </Text>
-        {error ? (
-          <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#dc2626', marginTop: 12, textAlign: 'center' }}>{error}</Text>
-        ) : null}
       </View>
-    </View>
-  );
-}
-
-// ── Pending banner ───────────────────────────────────────────────────────────
-
-export function ReviewPendingBanner() {
-  const pulse = useRef(new Animated.Value(0.4)).current;
-  useEffect(() => {
-    Animated.loop(
-      Animated.sequence([
-        Animated.timing(pulse, { toValue: 1, duration: 1000, easing: Easing.inOut(Easing.cubic), useNativeDriver: false }),
-        Animated.timing(pulse, { toValue: 0.4, duration: 1000, easing: Easing.inOut(Easing.cubic), useNativeDriver: false }),
-      ])
-    ).start();
-  }, [pulse]);
-
-  return (
-    <View style={{ borderRadius: 16, borderWidth: 1, borderColor: '#fde68a', backgroundColor: '#fffbeb', padding: 24, marginTop: 32, marginBottom: 32 }}>
-      <View style={{ flexDirection: 'row', alignItems: 'center', gap: 12, marginBottom: 8 }}>
-        <Animated.View style={{ width: 8, height: 8, borderRadius: 4, backgroundColor: '#f59e0b', opacity: pulse }} />
-        <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 10, letterSpacing: 1.5, textTransform: 'uppercase', color: '#d97706' }}>
-          Review in progress
-        </Text>
-      </View>
-      <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#92400e', lineHeight: 22 }}>
-        Payment received. Grok AI is analysing this item — typically 30–60 seconds. Refresh to check for the result.
-      </Text>
     </View>
   );
 }

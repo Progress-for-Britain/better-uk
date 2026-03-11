@@ -1,4 +1,4 @@
-import { Link } from 'expo-router';
+import { Link, useLocalSearchParams } from 'expo-router';
 import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import {
   ActivityIndicator,
@@ -13,7 +13,7 @@ import {
   View
 } from 'react-native';
 
-import { FundReviewsCard } from '@/components/request-review';
+import { FundReviewsModal } from '@/components/request-review';
 import { ContentBackground, HeroBackground } from '@/components/skia-background';
 import {
   CS_REVIEW_COST_GBP,
@@ -306,6 +306,7 @@ function SiteHeader({
 
 function HeroSection({ category }: { category: ActiveCategory }) {
   const isWide = useIsWide();
+  const [showFundModal, setShowFundModal] = useState(false);
   const isNGO = category === 'ngos';
   const isCS = category === 'civil-service';
   const reviewed = isCS ? csTotalReviewed : isNGO ? ngoTotalReviewed : totalReviewed;
@@ -456,8 +457,28 @@ function HeroSection({ category }: { category: ActiveCategory }) {
             </View>
           </View>
 
-          {/* Fund reviews card */}
-          <FundReviewsCard category={category} />
+          {/* Fund reviews button */}
+          <Pressable
+            onPress={() => setShowFundModal(true)}
+            style={({ pressed }) => ({
+              marginTop: 20,
+              flexDirection: 'row',
+              alignItems: 'center',
+              alignSelf: 'flex-start',
+              gap: 6,
+              paddingVertical: 8,
+              paddingHorizontal: 16,
+              borderRadius: 99,
+              borderWidth: 1,
+              borderColor: pressed ? '#3b82f6' : '#e0e0e0',
+              backgroundColor: pressed ? '#eff6ff' : '#fff',
+              ...(Platform.OS === 'web' ? ({ transition: 'all .15s ease', cursor: 'pointer' } as any) : {}),
+            })}>
+            <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: '#3b82f6', fontWeight: '500' }}>
+              Fund reviews →
+            </Text>
+          </Pressable>
+          <FundReviewsModal visible={showFundModal} onClose={() => setShowFundModal(false)} category={category} />
         </View>
 
         {/* Right: Donut chart — wide viewports only */}
@@ -1303,6 +1324,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
   const isCS = category === 'civil-service';
   const isWide = useIsWide();
   const isLeg = category === 'regulations';
+  const [showFundModal, setShowFundModal] = useState(false);
 
   const [search, setSearch] = useState('');
   const [selectedType, setSelectedType] = useState<string | null>(null);
@@ -1457,6 +1479,64 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
         }}>
         {totalNote}
       </Text>
+
+      {/* Donate CTA */}
+      <View
+        style={{
+          flexDirection: isWide ? 'row' : 'column',
+          alignItems: isWide ? 'center' : 'stretch',
+          gap: isWide ? 20 : 12,
+          borderRadius: 12,
+          borderWidth: 1,
+          borderColor: '#e0eaff',
+          backgroundColor: '#f8faff',
+          padding: isWide ? 20 : 16,
+          marginBottom: 32,
+        }}>
+        <View style={{ flex: 1 }}>
+          <Text
+            style={{
+              fontFamily: "'Instrument Serif', serif",
+              fontSize: 18,
+              color: '#111',
+              marginBottom: 4,
+            }}>
+            Help us review{' '}
+            <Text style={{ fontStyle: 'italic', color: '#3b82f6' }}>everything</Text>
+          </Text>
+          <Text
+            style={{
+              fontFamily: "'DM Mono', monospace",
+              fontSize: 12,
+              color: '#888',
+              lineHeight: 18,
+            }}>
+            Each £1 funds one AI review. Every result is public and permanent.
+          </Text>
+        </View>
+        <Pressable
+          onPress={() => setShowFundModal(true)}
+          style={({ pressed }) => ({
+            paddingVertical: 10,
+            paddingHorizontal: 20,
+            borderRadius: 8,
+            backgroundColor: pressed ? '#1d4ed8' : '#3b82f6',
+            alignItems: 'center',
+            alignSelf: isWide ? 'center' : 'stretch',
+            ...(Platform.OS === 'web' ? ({ transition: 'all .15s ease', cursor: 'pointer' } as any) : {}),
+          })}>
+          <Text
+            style={{
+              fontFamily: "'DM Mono', monospace",
+              fontSize: 13,
+              fontWeight: '600',
+              color: '#fff',
+            }}>
+            Fund reviews
+          </Text>
+        </Pressable>
+      </View>
+      <FundReviewsModal visible={showFundModal} onClose={() => setShowFundModal(false)} category={category} />
 
       {/* Search + year/type filter + sort */}
       <View style={{ flexDirection: isWide ? 'row' : 'column', gap: 12, marginBottom: 24, alignItems: isWide ? 'flex-end' : 'stretch' }}>
@@ -1835,6 +1915,8 @@ function PromptSection({ category }: { category: ActiveCategory }) {
 
 export default function HomeScreen() {
   const isWide = useIsWide();
+  const { funded } = useLocalSearchParams<{ funded?: string }>();
+  const [showFundedBanner, setShowFundedBanner] = useState(!!funded);
   const [category, setCategory] = useState<ActiveCategory>('regulations');
   const [selectedFilter, setSelectedFilter] = useState<string | number | null>(null);
 
@@ -1858,6 +1940,44 @@ export default function HomeScreen() {
       <LoadInSection delay={40}>
         <SiteHeader category={category} onChangeCategory={handleCategoryChange} />
       </LoadInSection>
+
+      {/* Thank-you banner after successful payment */}
+      {showFundedBanner && funded ? (
+        <View
+          style={{
+            maxWidth: 1200,
+            width: '100%',
+            marginHorizontal: 'auto',
+            paddingHorizontal: 24,
+            marginTop: 16,
+          }}>
+          <View
+            style={{
+              flexDirection: 'row',
+              alignItems: 'center',
+              justifyContent: 'space-between',
+              borderRadius: 12,
+              borderWidth: 1,
+              borderColor: '#bbf7d0',
+              backgroundColor: '#f0fdf4',
+              paddingVertical: 14,
+              paddingHorizontal: 20,
+            }}>
+            <Text
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: 13,
+                color: '#15803d',
+                flex: 1,
+              }}>
+              Thank you! You funded {funded} review{funded === '1' ? '' : 's'}. We'll run them in the next batch.
+            </Text>
+            <Pressable onPress={() => setShowFundedBanner(false)}>
+              <Text style={{ fontSize: 16, color: '#86efac', marginLeft: 12 }}>✕</Text>
+            </Pressable>
+          </View>
+        </View>
+      ) : null}
 
       <LoadInSection delay={120}>
         <HeroSection category={category} />

@@ -41,12 +41,33 @@ const LEG_TYPES = [
   { slug: 'nisi', label: 'Order' },         // Orders in Council (NI)
 ];
 
-const DELAY_MS = 300; // Rate limit between requests
+const DELAY_MS = 250; // Minimum delay between requests
+const RATE_WINDOW_MS = 5 * 60 * 1000; // 5 minute window
+const RATE_LIMIT = 1400; // Stay safely under the 1500/5min limit
+const MAX_RETRIES = 3;
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 
 function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
+}
+
+// Sliding-window rate limiter
+const requestTimestamps = [];
+
+async function rateLimitedWait() {
+  const now = Date.now();
+  // Purge timestamps older than the window
+  while (requestTimestamps.length && requestTimestamps[0] < now - RATE_WINDOW_MS) {
+    requestTimestamps.shift();
+  }
+  if (requestTimestamps.length >= RATE_LIMIT) {
+    const waitUntil = requestTimestamps[0] + RATE_WINDOW_MS;
+    const waitMs = waitUntil - now + 1000; // +1s buffer
+    console.log(`\n    ⏳ Rate limit approaching (${requestTimestamps.length}/${RATE_LIMIT} in window), pausing ${Math.ceil(waitMs / 1000)}s...`);
+    await sleep(waitMs);
+  }
+  requestTimestamps.push(Date.now());
 }
 
 /**
@@ -118,16 +139,26 @@ function extractYear(uri, updated) {
 // ─── Main scraping logic ──────────────────────────────────────────────────────
 
 async function fetchFeedPage(url) {
-  const response = await fetch(url, {
-    headers: {
-      'Accept': 'application/atom+xml, application/xml, text/xml',
-      'User-Agent': 'better-uk-scraper/1.0 (research project)',
-    },
-  });
-  if (!response.ok) {
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    await rateLimitedWait();
+    const response = await fetch(url, {
+      headers: {
+        'Accept': 'application/atom+xml, application/xml, text/xml',
+        'User-Agent': 'better-uk-scraper/1.0 (research project)',
+      },
+    });
+    if (response.ok) {
+      return response.text();
+    }
+    if (response.status === 436 || response.status === 429) {
+      const backoff = attempt * 60_000; // 1min, 2min, 3min
+      console.log(`\n    ⚠ HTTP ${response.status} — rate limited, waiting ${backoff / 1000}s before retry ${attempt}/${MAX_RETRIES}...`);
+      await sleep(backoff);
+      continue;
+    }
     throw new Error(`HTTP ${response.status} for ${url}`);
   }
-  return response.text();
+  throw new Error(`Failed after ${MAX_RETRIES} retries for ${url}`);
 }
 
 async function scrapeType(legType, fromYear, toYear) {
@@ -167,7 +198,7 @@ async function scrapeType(legType, fromYear, toYear) {
 
         url = parseNextLink(xml);
         page++;
-        await sleep(DELAY_MS);
+        await sleep(DELAY_MS); // Small courtesy delay between pages
       } catch (err) {
         console.error(`    Error fetching ${url}: ${err.message}`);
         break;

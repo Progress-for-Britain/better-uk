@@ -71,8 +71,31 @@ async function rateLimitedWait() {
 }
 
 /**
+ * Strip all XML/HTML tags and collapse whitespace.
+ */
+function stripTags(str) {
+  return str.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+/**
+ * Extract the English text from an XHTML block.
+ * Looks for any element with xml:lang="en" (span, p, div, etc.),
+ * falls back to stripping all tags.
+ */
+function extractEnglishText(xhtml) {
+  // Match any element with xml:lang="en"
+  const enMatch = xhtml.match(/<(\w+)[^>]+xml:lang="en"[^>]*>([\s\S]*?)<\/\1>/);
+  if (enMatch) return stripTags(enMatch[2]).trim();
+  // Fallback: take everything before a " / " bilingual separator, or all text
+  const plain = stripTags(xhtml);
+  const sep = plain.indexOf(' / ');
+  return sep > 0 ? plain.slice(0, sep).trim() : plain;
+}
+
+/**
  * Parse a very simple Atom XML feed without requiring an XML library.
- * Extracts <entry> blocks and pulls out <id>, <title>, <updated>.
+ * Extracts <entry> blocks and pulls out <id>, <title>, <summary>, <updated>.
+ * Handles both plain-text and XHTML (type="xhtml") title/summary elements.
  */
 function parseAtomEntries(xml) {
   const entries = [];
@@ -81,10 +104,28 @@ function parseAtomEntries(xml) {
   while ((match = entryRegex.exec(xml)) !== null) {
     const block = match[1];
     const id = block.match(/<id>([^<]+)<\/id>/)?.[1]?.trim() ?? '';
-    const title = block.match(/<title[^>]*>([^<]+)<\/title>/)?.[1]?.trim() ?? '';
     const updated = block.match(/<updated>([^<]+)<\/updated>/)?.[1]?.trim() ?? '';
+
+    // Title: handle both plain and XHTML variants
+    let title = '';
+    const xhtmlTitle = block.match(/<title[^>]*type="xhtml"[^>]*>([\s\S]*?)<\/title>/);
+    if (xhtmlTitle) {
+      title = extractEnglishText(xhtmlTitle[1]);
+    } else {
+      title = block.match(/<title[^>]*>([^<]+)<\/title>/)?.[1]?.trim() ?? '';
+    }
+
+    // Summary/description: handle both plain and XHTML variants
+    let description = '';
+    const xhtmlSummary = block.match(/<summary[^>]*type="xhtml"[^>]*>([\s\S]*?)<\/summary>/);
+    if (xhtmlSummary) {
+      description = extractEnglishText(xhtmlSummary[1]);
+    } else {
+      description = block.match(/<summary[^>]*>([^<]*)<\/summary>/)?.[1]?.trim() ?? '';
+    }
+
     if (id) {
-      entries.push({ id, title, updated });
+      entries.push({ id, title, updated, description });
     }
   }
   return entries;
@@ -192,6 +233,7 @@ async function scrapeType(legType, fromYear, toYear) {
             type: legType.label,
             url: entry.id.replace('/id/', '/'),
             source: legType.slug,
+            description: entry.description,
           });
           yearCount++;
         }

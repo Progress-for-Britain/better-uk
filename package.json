@@ -11,6 +11,7 @@
     "build:web": "expo export --platform web",
     "lint": "expo lint",
     "scrape": "node scripts/scrape-legislation.mjs",
+    "scrape:clean": "node scripts/scrape-legislation.mjs --fresh",
     "scrape:charities": "node scripts/scrape-charities.mjs",
     "scrape:cs": "node scripts/scrape-civil-service.mjs",
     "review": "node scripts/review-regulations.mjs",

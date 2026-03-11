@@ -1358,7 +1358,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
         year: item.year ?? year,
         type: (item.type ?? 'Act') as any,
         url: item.url ?? '',
-        description: '',
+        description: item.description ?? '',
       }));
       fetchedYearsRef.current.set(year, items);
       setYearItems(items);

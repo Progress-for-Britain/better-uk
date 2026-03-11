@@ -142,7 +142,8 @@ export function FundReviewsModal({ category, visible, onClose }: FundReviewsModa
     setLoading(true);
     setError('');
     try {
-      const resp = await fetch('/api/create-checkout-session', {
+      const apiBase = __DEV__ ? 'https://better-uk-red.vercel.app' : '';
+      const resp = await fetch(`${apiBase}/api/create-checkout-session`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ category, amountPence: amount * 100, quantity: reviews }),

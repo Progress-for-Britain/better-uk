@@ -1,0 +1,2182 @@
+{
+  "year": 2026,
+  "count": 272,
+  "items": [
+    {
+      "id": "ASC-2026-c1",
+      "title": "",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/asc/2026/1",
+      "source": "asc"
+    },
+    {
+      "id": "ASC-2026-c2",
+      "title": "",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/asc/2026/2",
+      "source": "asc"
+    },
+    {
+      "id": "ASP-2026-c1",
+      "title": "Non-Domestic Rates (Liability for Unoccupied Properties) (Scotland) Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/asp/2026/1",
+      "source": "asp"
+    },
+    {
+      "id": "ASP-2026-c2",
+      "title": "Dog Theft (Scotland) Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/asp/2026/2",
+      "source": "asp"
+    },
+    {
+      "id": "ASP-2026-c3",
+      "title": "Schools (Residential Outdoor Education) (Scotland) Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/asp/2026/3",
+      "source": "asp"
+    },
+    {
+      "id": "ASP-2026-c4",
+      "title": "UEFA European Championship (Scotland) Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/asp/2026/4",
+      "source": "asp"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Eliz2/4-5/60",
+      "title": "Valuation and Rating (Scotland) Act 1956",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/60",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Eliz2/6-7/47",
+      "title": "Agricultural Marketing Act 1958",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/6-7/47",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Eliz2/6-7/51",
+      "title": "Public Records Act 1958",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/6-7/51",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Eliz2/9-10/33",
+      "title": "Land Compensation Act 1961",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/33",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Geo5/15-16/20",
+      "title": "Law of Property Act 1925",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/15-16/20",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Geo5/24-25/21",
+      "title": "Protection of Animals Act 1934 (repealed)",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/24-25/21",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Geo6/11-12/59",
+      "title": "Laying of Documents before Parliament (Interpretation) Act 1948",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/59",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Geo6/9-10/36",
+      "title": "Statutory Instruments Act 1946",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/9-10/36",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Geo6and1Eliz2/15-16/52",
+      "title": "Prison Act 1952",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/52",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Vict/1-2/110",
+      "title": "Judgments Act 1838",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/1-2/110",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Vict/10-11/27",
+      "title": "Harbours, Docks and Piers Clauses Act 1847",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/10-11/27",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Vict/13-14/26",
+      "title": "Piracy Act 1850",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/13-14/26",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Vict/29-30/39",
+      "title": "Exchequer and Audit Departments Act 1866",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/29-30/39",
+      "source": "ukpga"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Vict/41-42/73",
+      "title": "Territorial Waters Jurisdiction Act 1878",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/41-42/73",
+      "source": "ukpga"
+    },
+    {
+      "id": "NIA-2026-c1",
+      "title": "School Uniforms (Guidelines and Allowances) Act (Northern Ireland) 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/nia/2026/1",
+      "source": "nia"
+    },
+    {
+      "id": "NIA-2026-c2",
+      "title": "Deaths, Still-Births and Baby Loss Act (Northern Ireland) 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/nia/2026/2",
+      "source": "nia"
+    },
+    {
+      "id": "UKPGA-2026-c1",
+      "title": "Unauthorised Entry to Football Matches Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/2026/1",
+      "source": "ukpga"
+    },
+    {
+      "id": "UKPGA-2026-c2",
+      "title": "Sentencing Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/2026/2",
+      "source": "ukpga"
+    },
+    {
+      "id": "UKPGA-2026-c3",
+      "title": "Holocaust Memorial Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/2026/3",
+      "source": "ukpga"
+    },
+    {
+      "id": "UKPGA-2026-c4",
+      "title": "Licensing Hours Extensions Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/2026/4",
+      "source": "ukpga"
+    },
+    {
+      "id": "UKPGA-2026-c5",
+      "title": "Secure 16 to 19 Academies Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/2026/5",
+      "source": "ukpga"
+    },
+    {
+      "id": "UKPGA-2026-c6",
+      "title": "Biodiversity Beyond National Jurisdiction Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/2026/6",
+      "source": "ukpga"
+    },
+    {
+      "id": "UKPGA-2026-c7",
+      "title": "Medical Training (Prioritisation) Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/2026/7",
+      "source": "ukpga"
+    },
+    {
+      "id": "UKPGA-2026-c8",
+      "title": "Rare Cancers Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/2026/8",
+      "source": "ukpga"
+    },
+    {
+      "id": "UKPGA-2026-c9",
+      "title": "Sustainable Aviation Fuel Act 2026",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/2026/9",
+      "source": "ukpga"
+    },
+    {
+      "id": "UKSI-2026-10",
+      "title": "The Heat Networks (Market Framework) (Great Britain) (Amendment) (No. 2) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/10",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-100",
+      "title": "The Virgin Islands Constitution (Interim Amendment) (Revocation) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/100",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-101",
+      "title": "The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/101",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-102",
+      "title": "The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/102",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-103",
+      "title": "The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/103",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-104",
+      "title": "The Communications (Television Licensing) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/104",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-105",
+      "title": "The Sea Fisheries (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/105",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-106",
+      "title": "The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/106",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-107",
+      "title": "The Power to Award Degrees etc. (Point Blank Limited) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/107",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-108",
+      "title": "The Local Government Finance Act 1988 (Calculation of Non-Domestic Rating High-Value Multiplier) (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/108",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-109",
+      "title": "The Cosmetic Products Regulation (EC) No 1223/2009 (Restriction of Chemical Substances) (Amendment and Transitional Provisions) (No. 2) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/109",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-11",
+      "title": "The Access to the Countryside (Coastal Margin) (Mersea Island) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/11",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-110",
+      "title": "The Human Medicines (Authorisation by Pharmacists and Supervision by Pharmacy Technicians) Order 2025 (Commencement) Order of Council 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/110",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-111",
+      "title": "The Compulsory Purchase of Land (Prescribed Forms) (Ministers) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/111",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-112",
+      "title": "The Public Order Act 2023 (Interference With Use or Operation of Key National Infrastructure) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/112",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-113",
+      "title": "The Universal Credit and Employment and Support Allowance (Rates of Allowances) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/113",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-114",
+      "title": "The Employment Appeal Tribunal (Amendment) Rules 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/114",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-115",
+      "title": "The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/115",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-116",
+      "title": "The Air Navigation (Restriction of Flying) (Rochdale, Greater Manchester) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/116",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-117",
+      "title": "The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/117",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-118",
+      "title": "The Firearms (Revocation, Consequential Amendment and Saving Provision) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/118",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-119",
+      "title": "The Air Navigation (Restriction of Flying) (South East of Shanklin, Isle of Wight) (Emergency) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/119",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-12",
+      "title": "The Port of Tilbury (Expansion) (Correction) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/12",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-121",
+      "title": "The Air Navigation (Restriction of Flying) (South East of Shanklin, Isle of Wight) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/121",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-122",
+      "title": "The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/122",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-123",
+      "title": "The Air Navigation (Restriction of Flying) (Birmingham) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/123",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-124",
+      "title": "The Financial Services (Designated Consumer Body and Designated Representative Body) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/124",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-125",
+      "title": "The A46 Coventry Junctions (Walsgrave) Development Consent Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/125",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-126",
+      "title": "The Digital Economy Act 2017 (Commencement No. 2) (Northern Ireland) and Data (Use and Access) Act 2025 (Commencement No. 7) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/126",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-127",
+      "title": "The International Development Association (Twenty-First Replenishment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/127",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-128",
+      "title": "The Air Navigation (Restriction of Flying) (Torbay) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/128",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-129",
+      "title": "The Parole Board (Amendment) Rules 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/129",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-13",
+      "title": "The Infrastructure Planning (Business or Commercial Projects) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/13",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-130",
+      "title": "The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/130",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-131",
+      "title": "The Stonestreet Green Solar (Correction) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/131",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-132",
+      "title": "The Trade in Endangered Species of Wild Fauna and Flora (Council Regulation (EC) No 338/97) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/132",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-133",
+      "title": "The Guaranteed Minimum Pensions Increase Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/133",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-134",
+      "title": "The Pedicab Drivers (London) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/134",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-135",
+      "title": "The Pedicab Operators (London) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/135",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-136",
+      "title": "The Pedicab Vehicles (London) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/136",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-137",
+      "title": "The Pedicabs (London) (Fares and Fees) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/137",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-139",
+      "title": "The Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/139",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-14",
+      "title": "The Armed Forces Commissioner Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/14",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-140",
+      "title": "The Air Navigation (Restriction of Flying) (Leicestershire) (Emergency) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/140",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-141",
+      "title": "The Network Rail (Kettering to Wigston South Junction and Napsbury Lane) (Land Acquisition) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/141",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-142",
+      "title": "The Local Authorities (Changes to Years of Ordinary Elections) (England) (Revocation) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/142",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-143",
+      "title": "The Compulsory Purchase of Land (Prescribed Forms) (Ministers) (Amendment) (No. 2) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/143",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-144",
+      "title": "The Public Interest Merger Reference (Telegraph Media Group Holdings Limited) (Pre-emptive Action) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/144",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-145",
+      "title": "The Air Navigation (Restriction of Flying) (Newtown and Llanidloes) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/145",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-146",
+      "title": "The Air Navigation (Restriction of Flying) (Whitfield) (Restricted Area EGR1U100) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/146",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-147",
+      "title": "The Air Navigation (Restriction of Flying) (Royal Air Force Coningsby) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/147",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-148",
+      "title": "The Social Security Benefits Up-rating Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/148",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-149",
+      "title": "The Utilities Act 2000 (Amendment of Section 105) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/149",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-15",
+      "title": "The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/15",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-150",
+      "title": "The Diocese of Guildford (Educational Endowments) (St Bede’s Church of England Junior School) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/150",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-151",
+      "title": "The Fenwick Solar Farm Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/151",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-152",
+      "title": "The Local Government Finance Act 1988 (Prescription of Non-Domestic Rating Multipliers) (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/152",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-153",
+      "title": "The Registration and Inspection of Education, Children’s Services and Skills (Fees) (England) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/153",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-154",
+      "title": "The Police (Amendment) (Recruitment Standards) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/154",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-155",
+      "title": "The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/155",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-156",
+      "title": "The Annual Tax on Enveloped Dwellings (Indexation of Annual Chargeable Amounts) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/156",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-157",
+      "title": "The Financial Services and Markets Act 2000 (Exemption) (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/157",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-158",
+      "title": "The Cumbria Combined Authority Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/158",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-159",
+      "title": "The Cheshire and Warrington Combined Authority Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/159",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-16",
+      "title": "The A46 Newark Bypass Development Consent (Correction) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/16",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-160",
+      "title": "The Plant Varieties Act (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/160",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-161",
+      "title": "The Air Navigation (Restriction of Flying) (Trelewis, South Wales) (Emergency) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/161",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-162",
+      "title": "The Meters (Certification) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/162",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-163",
+      "title": "The Border Security, Asylum and Immigration Act 2025 (Commencement No. 3) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/163",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-164",
+      "title": "The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Temporary Continuation of 2022 Order and Adjustments) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/164",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-165",
+      "title": "The Nationality and Borders Act 2022 (Commencement No. 9) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/165",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-166",
+      "title": "The Royal Air Force Terms of Service (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/166",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-167",
+      "title": "The A249 Trunk Road (Key Street Slip Road) (Trunking) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/167",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-168",
+      "title": "The Levelling-up and Regeneration Act 2023 (Commencement No. 10) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/168",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-169",
+      "title": "The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/169",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-17",
+      "title": "The Non-Domestic Rating (Small Business Rate Relief and Demand Notices) (England) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/17",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-170",
+      "title": "The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/170",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-171",
+      "title": "The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/171",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-172",
+      "title": "The Central Rating List (England) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/172",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-173",
+      "title": "The Gender Recognition (Disclosure of Information) (England) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/173",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-174",
+      "title": "The Financial Services and Markets Act 2023 (Commencement No. 13) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/174",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-175",
+      "title": "The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/175",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-176",
+      "title": "The Waveney, Lower Yare, and Lothingland Internal Drainage Board (Reconstitution) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/176",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-177",
+      "title": "The Air Navigation (Restriction of Flying) (Trelewis, South Wales) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/177",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-178",
+      "title": "The Goole and Airmyn Internal Drainage Board (Reconstitution) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/178",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-18",
+      "title": "The Football Governance Act 2025 (Suitability Determination Period for Owners and Officers) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/18",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-180",
+      "title": "The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union) (Revocation etc.) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/180",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-181",
+      "title": "The Oil and Gas Authority (Levy and Fees) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/181",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-182",
+      "title": "The Ouse and Derwent Internal Drainage Board (Reconstitution) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/182",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-183",
+      "title": "The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/183",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-186",
+      "title": "The Town and Country Planning (Local Planning) (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/186",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-187",
+      "title": "The Town and Country Planning (Costs of Independent Examinations for Local Planning etc.) (Standard Daily Amount) (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/187",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-188",
+      "title": "The Requirement to Assist with Certain Plan Making (Prescribed Public Bodies) (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/188",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-189",
+      "title": "The Income Tax (Pay As You Earn) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/189",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-19",
+      "title": "The Compulsory Purchase of Land (Vesting Declarations) (England) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/19",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-190",
+      "title": "The Air Navigation (Restriction of Flying) (Cheltenham) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/190",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-191",
+      "title": "The Social Security (Contributions) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/191",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-192",
+      "title": "The Air Navigation (Restriction of Flying) (Edinburgh) (Emergency) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/192",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-193",
+      "title": "The National Ministry Register Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/193",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-194",
+      "title": "The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/194",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-195",
+      "title": "The REACH (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/195",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-196",
+      "title": "The Corporation Tax (Treatment of Unrelieved Surplus Advance Corporation Tax) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/196",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-197",
+      "title": "The Medical Devices (Fees Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/197",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-198",
+      "title": "The Church Representation Rules (Amendment) Resolution 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/198",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-199",
+      "title": "The Payments to the Churches Conservation Trust Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/199",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-2",
+      "title": "The Feed-in Tariffs (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/2",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-20",
+      "title": "The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/20",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-200",
+      "title": "The Church of England Pensions (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/200",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-201",
+      "title": "The Social Security and Statutory Maternity Pay (Evidence of Pregnancy and Compensation of Employers) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/201",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-202",
+      "title": "The National Institute for Health and Care Excellence (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/202",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-203",
+      "title": "The Wireless Telegraphy (Exemption) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/203",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-204",
+      "title": "The Parole Board (Amendment) (No. 2) Rules 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/204",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-205",
+      "title": "The National Health Service (Travel Expenses and Remission of Charges, Ophthalmic Services, and Optical Charges and Payments) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/205",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-206",
+      "title": "The Levelling-up and Regeneration Act 2023 (Consequential Amendments and Transitional Provisions) (No. 3) (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/206",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-207",
+      "title": "The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/207",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-208",
+      "title": "The Immigration (Passenger Transit Visa) (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/208",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-209",
+      "title": "The Asylum Support (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/209",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-21",
+      "title": "The Armed Forces (Service Complaints) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/21",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-210",
+      "title": "The Employment Rights Act 2025 (Statutory Sick Pay) (Consequential Amendments) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/210",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-211",
+      "title": "The Income Tax (Exemption of Social Security Benefits) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/211",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-212",
+      "title": "The Social Security Revaluation of Earnings Factors Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/212",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-213",
+      "title": "The Care and Support (Charging and Assessment of Resources) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/213",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-214",
+      "title": "The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/214",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-215",
+      "title": "The Town and Country Planning (Development Management Procedure) (England) (Amendment and Transitional Provision) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/215",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-216",
+      "title": "The Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/216",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-217",
+      "title": "The Sentencing Act 2026 (Commencement No. 2 and Transitional Provision) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/217",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-218",
+      "title": "The Social Security Benefits Up-rating Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/218",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-219",
+      "title": "The Air Navigation (Restriction of Flying) (Appleby-in-Westmorland) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/219",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-22",
+      "title": "The Air Navigation (Restriction of Flying) (Prescott, Merseyside) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/22",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-220",
+      "title": "The Code of Practice (Industrial Action Ballots and Notice to Employers) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/220",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-221",
+      "title": "The Medical Training (Prioritisation) Act 2026 (Commencement) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/221",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-222",
+      "title": "The Air Navigation (Restriction of Flying) (Saltby) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/222",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-223",
+      "title": "The Electricity Network Connections (Designated Strategic Plans) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/223",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-224",
+      "title": "The Code of Practice (Picketing) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/224",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-225",
+      "title": "The Buying Agency Trading Fund (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/225",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-226",
+      "title": "The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/226",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-227",
+      "title": "The Air Navigation (Restriction of Flying) (Edinburgh) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/227",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-228",
+      "title": "The Air Navigation (Restriction of Flying) (Falkirk, Scotland) (Emergency) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/228",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-23",
+      "title": "The Cosmetic Products Regulation (EC) No 1223/2009 (Restriction of Chemical Substances) (Amendment and Transitional Provisions) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/23",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-230",
+      "title": "The Aviation Security (Amendment, Revocation and Consequential Provision) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/230",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-231",
+      "title": "The Social Security (Contributions) (Rates, Limits and Thresholds Amendments, National Insurance Funds Payments and Extension of Veteran’s Relief) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/231",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-232",
+      "title": "The Child Benefit and Guardian’s Allowance Up-rating Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/232",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-233",
+      "title": "The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment and Transitional Provisions) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/233",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-234",
+      "title": "The Merchant Shipping (Light Dues) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/234",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-235",
+      "title": "The On-demand Programme Services (Tier 1 Services) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/235",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-24",
+      "title": "The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/24",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-240",
+      "title": "The Non-Domestic Rating (Renewable Energy Projects) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/240",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-241",
+      "title": "The Supreme Court Fees (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/241",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-242",
+      "title": "The Air Navigation (Restriction of Flying) (Sunderland) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/242",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-243",
+      "title": "The Energy-Intensive Industry Electricity Support Payments and Levy (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/243",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-244",
+      "title": "The Seafarers’ Wages (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/244",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-247",
+      "title": "The Non-Domestic Rating (Definition of Qualifying Retail, Hospitality or Leisure Hereditament) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/247",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-248",
+      "title": "The Individual Savings Account (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/248",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-249",
+      "title": "The Relief for Creative Industries (Additional Information Requirements and Miscellaneous Amendments) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/249",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-25",
+      "title": "The Air Navigation (Restriction of Flying) (Hall Farm, Langford, Newark) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/25",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-250",
+      "title": "The Child Trust Funds (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/250",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-251",
+      "title": "The Humber Bridge Act 1959 (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/251",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-252",
+      "title": "The Immigration and Nationality (Fees) (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/252",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-253",
+      "title": "The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/253",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-26",
+      "title": "The Air Navigation (Restriction of Flying) (Mountain Ash) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/26",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-265",
+      "title": "The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/265",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-266",
+      "title": "The National Savings (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/266",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-27",
+      "title": "The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/27",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-28",
+      "title": "The Air Navigation (Restriction of Flying) (Exmouth, Devon) (Emergency) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/28",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-29",
+      "title": "The Power to Award Degrees etc. (Lamda Limited) (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/29",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-3",
+      "title": "The Employment Rights Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/3",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-30",
+      "title": "The Stockport Town Centre Mayoral Development Corporation (Establishment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/30",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-31",
+      "title": "The Data (Use and Access) Act 2025 (Commencement No. 5) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/31",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-32",
+      "title": "The Air Navigation (Restriction of Flying) (Helicopter Flight) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/32",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-33",
+      "title": "The Air Navigation (Restriction of Flying) (Brimscombe) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/33",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-34",
+      "title": "The Air Navigation (Restriction of Flying) (Plymouth) (Emergency) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/34",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-35",
+      "title": "The Air Navigation (Restriction of Flying) (Exmouth, Devon) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/35",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-36",
+      "title": "The Customs (Tariff and Miscellaneous Amendments) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/36",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-37",
+      "title": "The School and Early Years Finance (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/37",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-38",
+      "title": "The Income Tax (Indexation of Blind Person’s Allowance and Married Couple’s Allowance) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/38",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-39",
+      "title": "The Income Tax (Indexation of Qualifying Care Relief Amounts) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/39",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-4",
+      "title": "The Local Government Finance Act 1988 (Calculation of Non-Domestic Rating Multipliers for Retail, Hospitality or Leisure) (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/4",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-40",
+      "title": "The Treatment of Conformity Assessment Bodies (Comprehensive Economic and Trade Agreement between the Government of Great Britain and Northern Ireland and the Government of the Republic of India) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/40",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-41",
+      "title": "The Rehabilitation of Offenders Act 1974 (Exceptions) (Amendment) (England and Wales) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/41",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-42",
+      "title": "The Employment Rights Act 2025 (Minimum Service Levels) (Consequential Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/42",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-43",
+      "title": "The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/43",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-44",
+      "title": "The Air Navigation (Restriction of Flying) (Plymouth) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/44",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-45",
+      "title": "The Financial Services and Markets Act 2023 (Commencement No. 12 and Saving Provisions) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/45",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-46",
+      "title": "The Bus Services Act 2025 (Commencement No. 1 and Transitional Provision) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/46",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-47",
+      "title": "The Criminal Procedure (Amendment) Rules 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/47",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-48",
+      "title": "The Air Navigation (Restriction of Flying) (Morthen, Yorkshire) (Emergency) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/48",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-49",
+      "title": "The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 2) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/49",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-5",
+      "title": "The Rent Officers (Housing Benefit and Universal Credit Functions) (Modification) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/5",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-50",
+      "title": "The Air Navigation (Restriction of Flying) (Myerscough) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/50",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-51",
+      "title": "The Air Navigation (Restriction of Flying) (Clitheroe) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/51",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-52",
+      "title": "The Air Navigation (Restriction of Flying) (Moreton in Marsh) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/52",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-53",
+      "title": "The East Riding of Yorkshire (Electoral Changes) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/53",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-54",
+      "title": "The Air Navigation (Restriction of Flying) (SS Richard Montgomery) (Restricted Area EG R162) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/54",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-55",
+      "title": "The Cheshire East (Electoral Changes) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/55",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-56",
+      "title": "The Air Navigation (Restriction of Flying) (Morthen, Yorkshire) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/56",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-57",
+      "title": "The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/57",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-58",
+      "title": "The Air Navigation (Restriction of Flying) (Millbay Marina, Plymouth) (Emergency) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/58",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-59",
+      "title": "The Border Security, Asylum and Immigration Act 2025 (Commencement No. 2) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/59",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-6",
+      "title": "The Universal Credit (Transitional Provisions) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/6",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-60",
+      "title": "The Football Spectators (2026 FIFA World Cup Control Period) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/60",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-61",
+      "title": "The Upper Ouse Water Management Board Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/61",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-62",
+      "title": "The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/62",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-63",
+      "title": "The Air Navigation (Restriction of Flying) (Millbay Marina, Plymouth) (Emergency) (Revocation) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/63",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-64",
+      "title": "The Air Navigation (Restriction of Flying) (Ministry of Defence Prohibited Places) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/64",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-65",
+      "title": "The Air Navigation (Restriction of Flying) (Brighton) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/65",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-66",
+      "title": "The Whole of Government Accounts (Designation of Bodies) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/66",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-67",
+      "title": "The Air Navigation (Restriction of Flying) (Aintree) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/67",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-68",
+      "title": "The Air Navigation (Restriction of Flying) (Birmingham) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/68",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-69",
+      "title": "The Air Navigation (Restriction of Flying) (Canterbury) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/69",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-7",
+      "title": "The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/7",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-70",
+      "title": "The Air Navigation (Restriction of Flying) (Wimbledon) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/70",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-71",
+      "title": "The Air Navigation (Restriction of Flying) (Brecon) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/71",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-73",
+      "title": "The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/73",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-74",
+      "title": "The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/74",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-75",
+      "title": "The Identity and Language (Northern Ireland) Act 2022 (Commencement No. 3) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/75",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-76",
+      "title": "The Diocese of Leicester (Educational Endowments) (Market Harborough Church of England Infant School) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/76",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-77",
+      "title": "The Access to the Countryside (Coastal Margin) (South Hayling to East Head) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/77",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-78",
+      "title": "The M6 Toll Motorway (M6 Junction 3a to M6 Junction 11a) and M42 Motorway (Temporary Prohibition of Traffic) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/78",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-79",
+      "title": "The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Glue Traps) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/79",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-8",
+      "title": "The Public Lending Right Scheme 1982 (Commencement of Variation) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/8",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-80",
+      "title": "The Free Zone (Customs Site No. 1 Celtic) Designation Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/80",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-81",
+      "title": "The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/81",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-82",
+      "title": "The Data (Use and Access) Act 2025 (Commencement No. 6 and Transitional and Saving Provisions) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/82",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-83",
+      "title": "The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/83",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-84",
+      "title": "The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 3) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/84",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-85",
+      "title": "The Sham Marriage and Civil Partnership (Referral of Proposed Marriages and Civil Partnerships) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/85",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-86",
+      "title": "The Sentencing Act 2026 (Commencement No. 1) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/86",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-87",
+      "title": "The Immigration (Electronic Travel Authorisations and the Islands) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/87",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-88",
+      "title": "The Air Navigation (Restriction of Flying) (Dedham) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/88",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-89",
+      "title": "The Forestry Act 1967 (Consent to Renewable Electricity Development) (England) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/89",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-9",
+      "title": "The Access to the Countryside (Coastal Margin) (Isle of Wight) (No. 2) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/9",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-90",
+      "title": "The Designation of Special Tax Sites (North East of Scotland Investment Zone) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/90",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-91",
+      "title": "The Air Navigation (Restriction of Flying) (Rochdale, Greater Manchester) (Emergency) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/91",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-92",
+      "title": "The Designation of Special Tax Sites (Glasgow City Region Investment Zone) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/92",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-93",
+      "title": "The Income Tax (Tax Treatment of Scottish Carer Supplement and Exemption of Carer’s Additional Person Payment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/93",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-94",
+      "title": "The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/94",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-95",
+      "title": "The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/95",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-96",
+      "title": "The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/96",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-97",
+      "title": "The Civil Procedure (Amendment) Rules 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/97",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-98",
+      "title": "The Immigration (Isle of Man) (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/98",
+      "source": "uksi"
+    },
+    {
+      "id": "UKSI-2026-99",
+      "title": "The Air Navigation (Amendment) Order 2026",
+      "year": 2026,
+      "type": "SI",
+      "url": "http://www.legislation.gov.uk/uksi/2026/99",
+      "source": "uksi"
+    }
+  ]
+}

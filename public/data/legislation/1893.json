@@ -1,0 +1,636 @@
+{
+  "year": 1893,
+  "count": 70,
+  "items": [
+    {
+      "id": "UKPGA-1893-c1",
+      "title": "Coinage Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c10",
+      "title": "Police Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c11",
+      "title": "Public Libraries (Amendment) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/11",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c12",
+      "title": "Day Industrial Schools (Scotland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/12",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c13",
+      "title": "Cholera Hospitals (Ireland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c14",
+      "title": "Statute Law Revision Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c15",
+      "title": "Reformatory Schools (Scotland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c16",
+      "title": "Consolidated Fund (No. 2) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c17",
+      "title": "North Sea Fisheries Act 1893 (repealed)",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/17",
+      "source": "ukpga",
+      "description": "An Act to carry into effect an International Convention respecting the Liquor Traffic in the North Sea."
+    },
+    {
+      "id": "UKPGA-1893-c18",
+      "title": "Treasury Chest Fund Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c19",
+      "title": "Weights and Measures Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c2",
+      "title": "Trade Union (Provident Funds) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c20",
+      "title": "Duchy Of Cornwall Management Act 1893 (repealed 1.2.2001)",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/20",
+      "source": "ukpga",
+      "description": "An Act to extend the Provisions of the Duchy of Cornwall Management Act, 1863, relating to the Powers of Sale and Enfranchisement, and for other purposes."
+    },
+    {
+      "id": "UKPGA-1893-c21",
+      "title": "Voluntary Conveyances Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c22",
+      "title": "Appeal (Forma Pauperis) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c23",
+      "title": "Seal Fishery (North Pacific) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c24",
+      "title": "Public Works Loans Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c25",
+      "title": "Burgh Police (Scotland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c26",
+      "title": "Prison (Officers’ Superannuation) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c27",
+      "title": "Land Tax Commissioners Names Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/27",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c28",
+      "title": "Consolidated Fund (No. 8) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c29",
+      "title": "Consolidated Fund (No. 3) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c3",
+      "title": "Consolidated Fund (No. 1) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c30",
+      "title": "Friendly Societies Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c31",
+      "title": "Rivers Pollution Prevention Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/31",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c32",
+      "title": "Barbed Wire Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c33",
+      "title": "An Act to remove certain doubts as to the application of Part III. of the Housing of the Working Classes Act, 1890, to certain authorities in Ireland.",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/33",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c34",
+      "title": "Improvement of Land (Scotland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c35",
+      "title": "Congested Districts Board (Ireland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c36",
+      "title": "Law of Distress and Small Debts (Ireland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c37",
+      "title": "Liverpool Court of Pussuye Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c38",
+      "title": "Conveyance of Mails Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c39",
+      "title": "Industrial and Provident Societies Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/39",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c4",
+      "title": "Annual Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c40",
+      "title": "Public Works Loans (No. 2) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c41",
+      "title": "Irish Education Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c42",
+      "title": "Education (Blind and Deaf Children) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c43",
+      "title": "Contagious Diseases (Animals) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/43",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c44",
+      "title": "Sheriff Courts Consignations (Scotland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/44",
+      "source": "ukpga",
+      "description": "An Act to make provision in regard to the Consignation of Money in the Sheriff Courts in Scotland."
+    },
+    {
+      "id": "UKPGA-1893-c45",
+      "title": "Naval Defence Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c46",
+      "title": "Consolidated Fund (No. 4) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/46",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c47",
+      "title": "Public Health (London) Act 1891 Amendment Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/47",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c48",
+      "title": "Reformatory Schools Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/48",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c49",
+      "title": "County Surveyors (Ireland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c5",
+      "title": "Debts (Deceased Servicemen etc) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/5",
+      "source": "ukpga",
+      "description": "An Act to consolidate and amend the Law relating to the Payment of Regimental Debts, and the Collection and Disposal of the Effects of Officers and Soldiers in case of Death, Desertion, Insanity, and other cases."
+    },
+    {
+      "id": "UKPGA-1893-c50",
+      "title": "Light Railways (Ireland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c51",
+      "title": "Elementary Education (School Attendance) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c52",
+      "title": "Burghs Gas Supply (Scotland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/52",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c53",
+      "title": "Trustee Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/53",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c54",
+      "title": "Statute Law Revision (No. 2) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/54",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c55",
+      "title": "Metropolis Management (Plumstead and Hackney) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/55",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c56",
+      "title": "Fertilisers and Feeding Stuffs Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/56",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c57",
+      "title": "Law of Commons Amendment Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/57",
+      "source": "ukpga",
+      "description": "An Act to amend the Law relating to Commons."
+    },
+    {
+      "id": "UKPGA-1893-c58",
+      "title": "Companies (Winding-up) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/58",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c59",
+      "title": "Laws Continuance Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/59",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c6",
+      "title": "Pulice Disabilities Removal Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c60",
+      "title": "Appropriation Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/60",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c61",
+      "title": "Public Authorities Protection Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c62",
+      "title": "Madras and Bombay Armies Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/62",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c63",
+      "title": "Married Women’s Property Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/63",
+      "source": "ukpga",
+      "description": "An Act to amend the Married Women's Property Act, 1882."
+    },
+    {
+      "id": "UKPGA-1893-c64",
+      "title": "National Debt Redemption Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/64",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c65",
+      "title": "Public Works Loans (No. 8) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/65",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c66",
+      "title": "Rules Publication Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/66",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c67",
+      "title": "Shop Hours Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/67",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c68",
+      "title": "Isolation Hospitals Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/68",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c69",
+      "title": "Savings Banks Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/69",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c7",
+      "title": "Customs and Inland Revenue Act 1893 (repealed)",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/7",
+      "source": "ukpga",
+      "description": "An Act to grant certain Duties of Customs and Inland Revenue, to repeal and alter other Duties, and to amend the Law relating to Inland Revenue."
+    },
+    {
+      "id": "UKPGA-1893-c70",
+      "title": "East India Loan Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/70",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c8",
+      "title": "Local Authorities Loans (Scotland) Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1893-c9",
+      "title": "Municipal Corporations Act 1893",
+      "year": 1893,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/56-57/9",
+      "source": "ukpga",
+      "description": ""
+    }
+  ]
+}

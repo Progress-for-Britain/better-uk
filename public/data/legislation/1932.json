@@ -1,6 +1,6 @@
 {
   "year": 1932,
-  "count": 1,
+  "count": 51,
   "items": [
     {
       "id": "UKLA-1932-c37",
@@ -10,6 +10,456 @@
       "url": "http://www.legislation.gov.uk/ukla/1932/37",
       "source": "ukla",
       "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c1",
+      "title": "Consolidated Fund (No. 1) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/23-24/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c10",
+      "title": "Veterinary Surgeons (Irish Free State Agreement) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c11",
+      "title": "Northern Ireland (Miscellaneous Provisions) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/11",
+      "source": "ukpga",
+      "description": "An Act to make miscellaneous amendments in the law applicable to Northern Ireland."
+    },
+    {
+      "id": "UKPGA-1932-c12",
+      "title": "Destructive Imported Animals Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/12",
+      "source": "ukpga",
+      "description": "An Act to make provision for prohibiting or controlling the importation into and the keeping within Great Britain of destructive non-indigenous animals, for exterminating any such animals which may be at large and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1932-c13",
+      "title": "Financial Emergency Enactments (Continuance) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c14",
+      "title": "Consolidated Fund (No. 1) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c15",
+      "title": "Dangerous Drugs Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c16",
+      "title": "Isle of Man (Customs) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c17",
+      "title": "Tanganyika and British Honduras Loans Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c18",
+      "title": "Rating and Valuation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c19",
+      "title": "Transitional Payments Prolongation (Unemployed Persons) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c2",
+      "title": "Expiring Laws Continuance Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/23-24/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c20",
+      "title": "Chancel Repairs Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/20",
+      "source": "ukpga",
+      "description": "An Act to abolish proceedings in ecclesiastical courts for enforcing liability to repair certain chancels and to substitute other proceedings in lieu thereof, and otherwise to amend the law relating to such liability."
+    },
+    {
+      "id": "UKPGA-1932-c21",
+      "title": "President of the Board of Trade Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c22",
+      "title": "Army and Air Force (Annual) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c23",
+      "title": "Grey Seals Protection Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c24",
+      "title": "Wheat Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c25",
+      "title": "Finance Act 1932 (repealed)",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/25",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties of Customs and Inland Revenue (including Excise), to alter other duties, to amend the law relating to the Inland Revenue (including Excise) and the National Debt, to amend the Import Duties Act, 1932, in certain particulars, and also other enactments relating to the Customs, and to make further provision in connection with Finance."
+    },
+    {
+      "id": "UKPGA-1932-c26",
+      "title": "Universities (Scotland) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/26",
+      "source": "ukpga",
+      "description": "An Act to transfer to the University Courts the right of presentation or appointment to certain chairs or professorships in the faculties of divinity or theology in the universities of Scotland; to remove restrictions as regards appointment to chairs or professorships in the said universities; to extend the powers of the University Courts of the said universities with regard to the making of ordinances, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1932-c27",
+      "title": "Law Of Property (Entailed Interests) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/27",
+      "source": "ukpga",
+      "description": "An Act to prevent the conversion of entailed interests into absolute interests and the destruction of interests expectant thereon by the statutory trusts for sale, and to define the expression \" rent charge in possession.\""
+    },
+    {
+      "id": "UKPGA-1932-c28",
+      "title": "Public Health (Cleansing of Shell-fish) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c29",
+      "title": "Coal Mines Act 1932 (repealed 20.11.1993)",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/29",
+      "source": "ukpga",
+      "description": "An Act to continue Part I of the Coal Mines Act, 1930, and section one of the Coal Mines Act, 1931."
+    },
+    {
+      "id": "UKPGA-1932-c30",
+      "title": "Irish Free State (Special Duties) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c31",
+      "title": "Marriage (Naval, Military and Air Force Chapels) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/31",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c32",
+      "title": "Patents and Designs Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c33",
+      "title": "Rating and Valuation (No. 2) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/33",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c34",
+      "title": "British Museum Act 1932 (repealed)",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/34",
+      "source": "ukpga",
+      "description": "An Act to enable the Trustees of the British Museum to except certain publications from the provisions of subsection (1) of section fifteen of the Copyright Act, 1911."
+    },
+    {
+      "id": "UKPGA-1932-c35",
+      "title": "Agricultural Credits Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/35",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to mortgages for securing loans made by the company formed for the purposes of Part I of the Agricultural Credits Act, 1928."
+    },
+    {
+      "id": "UKPGA-1932-c36",
+      "title": "Carriage by Air Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c37",
+      "title": "Solicitors Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c38",
+      "title": "Hire Purchase and Small Debt (Scotland) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c39",
+      "title": "Extradition Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/39",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c40",
+      "title": "Gas Undertakings Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c41",
+      "title": "Isle of Man (Customs) (No. 2) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c42",
+      "title": "Public Works Loans Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c43",
+      "title": "Malta Constitution Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/43",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c44",
+      "title": "Bills of Exchange Act (1882) Amendment Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/44",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c45",
+      "title": "Rights of Way Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c46",
+      "title": "Children and Young Persons Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/46",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c47",
+      "title": "Children and Young Persons (Scotland) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/47",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c48",
+      "title": "Town and Country Planning Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/48",
+      "source": "ukpga",
+      "description": "An Act to authorise the making of schemes with respect to the development and planning of land, whether urban or rural, and in that connection to repeal and re-enact with amendments the enactments relating to town planning; to provide for the protection of rural amenities and the preservation of buildings and other objects of interest or beauty; to facilitate the acquisition of land for garden cities; and to make other provision in connection with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1932-c49",
+      "title": "Town and Country Planning (Scotland) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c50",
+      "title": "Appropriation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c51",
+      "title": "Sunday Entertainments Act 1932 (repealed)",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/51",
+      "source": "ukpga",
+      "description": "An Act to permit and regulate the opening and use of places on Sundays for certain entertainments and for debates, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1932-c52",
+      "title": "National Health Insurance and Contributory Pensions Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/52",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c53",
+      "title": "Ottawa Agreements Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/53",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c54",
+      "title": "Transitional Payments (Determination of Need) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/54",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c55",
+      "title": "Administration of Justice Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/55",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c8",
+      "title": "Import Duties Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1932-c9",
+      "title": "Merchant Shipping (Safety And Load Line Conventions) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/22-23/9",
+      "source": "ukpga",
+      "description": "An Act to give effect to an International Convention for the Safety of Life at Sea, signed in London on the thirty-first day of May, nineteen hundred and twenty-nine, to give effect to an International Load Line Convention signed in London on the fifth day of July, nineteen hundred and thirty, and to amend the provisions of the Merchant Shipping Acts, 1894 to 1928, relating to passenger steamers, life-saving appliances, wireless telegraphy, load lines, timber cargoes, and other matters affected by the said Conventions."
     }
   ]
 }

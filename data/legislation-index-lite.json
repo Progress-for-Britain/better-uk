@@ -1,38 +1,586 @@
 {
-  "scrapedAt": "2026-03-12T13:34:27.494Z",
-  "totalItems": 178177,
+  "scrapedAt": "2026-03-12T13:48:16.291Z",
+  "totalItems": 185765,
   "yearRange": {
-    "from": 1866,
+    "from": 1801,
     "to": 2026
   },
   "yearStats": [
     {
-      "year": 1866,
+      "year": 1801,
+      "total": 4
+    },
+    {
+      "year": 1802,
       "total": 1
+    },
+    {
+      "year": 1803,
+      "total": 4
+    },
+    {
+      "year": 1804,
+      "total": 3
+    },
+    {
+      "year": 1805,
+      "total": 1
+    },
+    {
+      "year": 1806,
+      "total": 1
+    },
+    {
+      "year": 1808,
+      "total": 7
+    },
+    {
+      "year": 1809,
+      "total": 3
+    },
+    {
+      "year": 1811,
+      "total": 1
+    },
+    {
+      "year": 1812,
+      "total": 1
+    },
+    {
+      "year": 1814,
+      "total": 2
+    },
+    {
+      "year": 1815,
+      "total": 2
+    },
+    {
+      "year": 1816,
+      "total": 5
+    },
+    {
+      "year": 1817,
+      "total": 5
+    },
+    {
+      "year": 1818,
+      "total": 2
+    },
+    {
+      "year": 1819,
+      "total": 6
+    },
+    {
+      "year": 1820,
+      "total": 1
+    },
+    {
+      "year": 1821,
+      "total": 3
+    },
+    {
+      "year": 1822,
+      "total": 2
+    },
+    {
+      "year": 1823,
+      "total": 4
+    },
+    {
+      "year": 1824,
+      "total": 5
+    },
+    {
+      "year": 1825,
+      "total": 5
+    },
+    {
+      "year": 1826,
+      "total": 3
+    },
+    {
+      "year": 1827,
+      "total": 1
+    },
+    {
+      "year": 1828,
+      "total": 7
+    },
+    {
+      "year": 1829,
+      "total": 3
+    },
+    {
+      "year": 1830,
+      "total": 5
+    },
+    {
+      "year": 1831,
+      "total": 4
+    },
+    {
+      "year": 1832,
+      "total": 8
+    },
+    {
+      "year": 1833,
+      "total": 12
+    },
+    {
+      "year": 1834,
+      "total": 2
+    },
+    {
+      "year": 1835,
+      "total": 4
+    },
+    {
+      "year": 1836,
+      "total": 7
+    },
+    {
+      "year": 1837,
+      "total": 7
+    },
+    {
+      "year": 1838,
+      "total": 11
+    },
+    {
+      "year": 1839,
+      "total": 5
+    },
+    {
+      "year": 1840,
+      "total": 11
+    },
+    {
+      "year": 1841,
+      "total": 5
+    },
+    {
+      "year": 1842,
+      "total": 72
+    },
+    {
+      "year": 1843,
+      "total": 9
+    },
+    {
+      "year": 1844,
+      "total": 11
+    },
+    {
+      "year": 1845,
+      "total": 17
+    },
+    {
+      "year": 1846,
+      "total": 7
+    },
+    {
+      "year": 1847,
+      "total": 12
+    },
+    {
+      "year": 1848,
+      "total": 9
+    },
+    {
+      "year": 1849,
+      "total": 8
+    },
+    {
+      "year": 1850,
+      "total": 116
+    },
+    {
+      "year": 1851,
+      "total": 106
+    },
+    {
+      "year": 1852,
+      "total": 88
+    },
+    {
+      "year": 1853,
+      "total": 133
+    },
+    {
+      "year": 1854,
+      "total": 125
+    },
+    {
+      "year": 1855,
+      "total": 134
+    },
+    {
+      "year": 1856,
+      "total": 120
+    },
+    {
+      "year": 1857,
+      "total": 85
+    },
+    {
+      "year": 1858,
+      "total": 110
+    },
+    {
+      "year": 1859,
+      "total": 66
+    },
+    {
+      "year": 1860,
+      "total": 154
+    },
+    {
+      "year": 1861,
+      "total": 134
+    },
+    {
+      "year": 1862,
+      "total": 114
+    },
+    {
+      "year": 1863,
+      "total": 125
+    },
+    {
+      "year": 1864,
+      "total": 121
+    },
+    {
+      "year": 1865,
+      "total": 127
+    },
+    {
+      "year": 1866,
+      "total": 123
+    },
+    {
+      "year": 1867,
+      "total": 146
+    },
+    {
+      "year": 1868,
+      "total": 124
+    },
+    {
+      "year": 1869,
+      "total": 117
+    },
+    {
+      "year": 1870,
+      "total": 112
+    },
+    {
+      "year": 1871,
+      "total": 117
+    },
+    {
+      "year": 1872,
+      "total": 98
+    },
+    {
+      "year": 1873,
+      "total": 91
+    },
+    {
+      "year": 1874,
+      "total": 96
+    },
+    {
+      "year": 1875,
+      "total": 96
     },
     {
       "year": 1876,
-      "total": 1
+      "total": 82
+    },
+    {
+      "year": 1877,
+      "total": 69
+    },
+    {
+      "year": 1878,
+      "total": 79
+    },
+    {
+      "year": 1879,
+      "total": 78
+    },
+    {
+      "year": 1880,
+      "total": 48
+    },
+    {
+      "year": 1881,
+      "total": 72
+    },
+    {
+      "year": 1882,
+      "total": 82
+    },
+    {
+      "year": 1883,
+      "total": 62
+    },
+    {
+      "year": 1884,
+      "total": 78
+    },
+    {
+      "year": 1885,
+      "total": 75
+    },
+    {
+      "year": 1886,
+      "total": 58
+    },
+    {
+      "year": 1887,
+      "total": 65
+    },
+    {
+      "year": 1888,
+      "total": 66
+    },
+    {
+      "year": 1889,
+      "total": 76
+    },
+    {
+      "year": 1890,
+      "total": 72
+    },
+    {
+      "year": 1891,
+      "total": 74
+    },
+    {
+      "year": 1892,
+      "total": 65
+    },
+    {
+      "year": 1893,
+      "total": 70
+    },
+    {
+      "year": 1894,
+      "total": 63
+    },
+    {
+      "year": 1895,
+      "total": 44
+    },
+    {
+      "year": 1896,
+      "total": 59
+    },
+    {
+      "year": 1897,
+      "total": 67
+    },
+    {
+      "year": 1898,
+      "total": 62
+    },
+    {
+      "year": 1899,
+      "total": 51
     },
     {
       "year": 1900,
-      "total": 1
+      "total": 64
+    },
+    {
+      "year": 1901,
+      "total": 40
     },
     {
       "year": 1902,
-      "total": 1
+      "total": 43
+    },
+    {
+      "year": 1903,
+      "total": 47
+    },
+    {
+      "year": 1904,
+      "total": 36
+    },
+    {
+      "year": 1905,
+      "total": 21
+    },
+    {
+      "year": 1906,
+      "total": 58
+    },
+    {
+      "year": 1907,
+      "total": 56
+    },
+    {
+      "year": 1908,
+      "total": 68
+    },
+    {
+      "year": 1909,
+      "total": 49
+    },
+    {
+      "year": 1910,
+      "total": 38
+    },
+    {
+      "year": 1911,
+      "total": 58
+    },
+    {
+      "year": 1912,
+      "total": 20
+    },
+    {
+      "year": 1913,
+      "total": 38
+    },
+    {
+      "year": 1914,
+      "total": 91
+    },
+    {
+      "year": 1915,
+      "total": 76
     },
     {
       "year": 1916,
-      "total": 1
+      "total": 74
+    },
+    {
+      "year": 1917,
+      "total": 55
+    },
+    {
+      "year": 1918,
+      "total": 67
+    },
+    {
+      "year": 1919,
+      "total": 102
+    },
+    {
+      "year": 1920,
+      "total": 82
+    },
+    {
+      "year": 1921,
+      "total": 67
+    },
+    {
+      "year": 1922,
+      "total": 60
+    },
+    {
+      "year": 1923,
+      "total": 42
+    },
+    {
+      "year": 1924,
+      "total": 41
+    },
+    {
+      "year": 1925,
+      "total": 86
+    },
+    {
+      "year": 1926,
+      "total": 63
+    },
+    {
+      "year": 1927,
+      "total": 43
+    },
+    {
+      "year": 1928,
+      "total": 46
+    },
+    {
+      "year": 1929,
+      "total": 39
+    },
+    {
+      "year": 1930,
+      "total": 43
+    },
+    {
+      "year": 1931,
+      "total": 52
     },
     {
       "year": 1932,
-      "total": 1
+      "total": 51
+    },
+    {
+      "year": 1933,
+      "total": 53
+    },
+    {
+      "year": 1934,
+      "total": 57
+    },
+    {
+      "year": 1935,
+      "total": 47
+    },
+    {
+      "year": 1936,
+      "total": 54
+    },
+    {
+      "year": 1937,
+      "total": 70
+    },
+    {
+      "year": 1938,
+      "total": 69
     },
     {
       "year": 1939,
-      "total": 1
+      "total": 121
+    },
+    {
+      "year": 1940,
+      "total": 56
+    },
+    {
+      "year": 1941,
+      "total": 49
+    },
+    {
+      "year": 1942,
+      "total": 39
+    },
+    {
+      "year": 1943,
+      "total": 49
+    },
+    {
+      "year": 1944,
+      "total": 47
+    },
+    {
+      "year": 1945,
+      "total": 44
+    },
+    {
+      "year": 1946,
+      "total": 66
+    },
+    {
+      "year": 1947,
+      "total": 55
     },
     {
       "year": 1948,

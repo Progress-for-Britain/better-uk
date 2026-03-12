@@ -1,6 +1,6 @@
 {
   "year": 1900,
-  "count": 1,
+  "count": 64,
   "items": [
     {
       "id": "UKLA-1900-c269",
@@ -9,6 +9,573 @@
       "type": "Act",
       "url": "http://www.legislation.gov.uk/ukla/1900/269",
       "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c1",
+      "title": "Consolidated Fund (No 1) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c10",
+      "title": "Public Health (Ireland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c11",
+      "title": "Uganda Railway Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/11",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c12",
+      "title": "Commonwealth of Australia Constitution Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/12",
+      "source": "ukpga",
+      "description": "An Act to constitute the Commonwealth of Australia."
+    },
+    {
+      "id": "UKPGA-1900-c13",
+      "title": "County Councils (Elections) Amendments Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c14",
+      "title": "Colonial Solicitors Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/14",
+      "source": "ukpga",
+      "description": "An Act to provide for the admission of Solicitors of Courts of British Possessions to the Supreme Courts in the United Kingdom."
+    },
+    {
+      "id": "UKPGA-1900-c15",
+      "title": "Burial Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c16",
+      "title": "District Councillors and Guardians (Term of Office) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c17",
+      "title": "Naval Reserve (Mobilisation) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c18",
+      "title": "County Surveyors (Ireland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c19",
+      "title": "Land Registry (New Buildings) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c2",
+      "title": "War Loan Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c20",
+      "title": "Ecclestiastical Assessments (Scotland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/20",
+      "source": "ukpga",
+      "description": "An Act to amend the Law regarding Ecclesiastical Assessments in Scotland."
+    },
+    {
+      "id": "UKPGA-1900-c21",
+      "title": "Mines (Prohibition of Child Labour Underground) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c22",
+      "title": "Workmen’s Compensation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c23",
+      "title": "Poor Removal Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c24",
+      "title": "Veterinary Surgeons Amendment Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c25",
+      "title": "Charitable Loan Societies (Ireland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c26",
+      "title": "Land Charges Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c27",
+      "title": "Railway Employment (Prevention of Accidents) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/27",
+      "source": "ukpga",
+      "description": "An Act for the better Prevention of Accidents on Railways."
+    },
+    {
+      "id": "UKPGA-1900-c28",
+      "title": "Inebriates Amendment (Scotland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c29",
+      "title": "London County Council Electors Qualification Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c3",
+      "title": "Consolidated Fund (No. 2) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c30",
+      "title": "Beer Retailers’ and Spirit Grocers’ Retail Licences (Ireland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c31",
+      "title": "Isle of Man (Customs) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/31",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c32",
+      "title": "Merchant Shipping (Liability of Shipowners and Others) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/32",
+      "source": "ukpga",
+      "description": "An Act to amend the Merchant Shipping Act, 1894, with respect to the Liability of Shipowners and others."
+    },
+    {
+      "id": "UKPGA-1900-c33",
+      "title": "Wild Animals in Captivity Protection Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/33",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c34",
+      "title": "Ancient Monuments Protection Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c35",
+      "title": "Oil in Tobacco Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c36",
+      "title": "Public Works Loans Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c37",
+      "title": "Expiring Laws Continuace Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c38",
+      "title": "Elementary School Teachers Superannuation (Isle of Man) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c39",
+      "title": "Volunteer Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/39",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c4",
+      "title": "Census (Great Britain) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c40",
+      "title": "Elementary School Teachers Superannuation (Jersey) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c41",
+      "title": "Local Government (Ireland) (No. 2) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c42",
+      "title": "Reserve Forces Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c43",
+      "title": "Intermediate Education (Ireland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/43",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c44",
+      "title": "Exportation of Arms Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/44",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c45",
+      "title": "Poor Relief (Ireland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c46",
+      "title": "Members of Local Authorities Relief Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/46",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c47",
+      "title": "County Courts (Investment) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/47",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c48",
+      "title": "Companies Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/48",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c49",
+      "title": "Town Councils (Scotland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c5",
+      "title": "Army (Annual) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c50",
+      "title": "Agricultural Holdings Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c51",
+      "title": "Money-lenders Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c52",
+      "title": "Naval Reserve Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/52",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c53",
+      "title": "Elementary Education Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/53",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c54",
+      "title": "Lunacy Board (Scotland) Salaries and Clerks Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/54",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c55",
+      "title": "Executors (Scotland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/55",
+      "source": "ukpga",
+      "description": "An Act to amend the Law relating to Executors in Scotland."
+    },
+    {
+      "id": "UKPGA-1900-c56",
+      "title": "Military Lands Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/56",
+      "source": "ukpga",
+      "description": "An Act to amend the Military Lands Act, 1892."
+    },
+    {
+      "id": "UKPGA-1900-c57",
+      "title": "Appropriation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/57",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c58",
+      "title": "Tithe Rentcharge (Ireland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/58",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c59",
+      "title": "Housing of the Working Classes Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/59",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c6",
+      "title": "Census (Ireland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c60",
+      "title": "Tramways (Ireland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/60",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c61",
+      "title": "Supplemental War Loan Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c62",
+      "title": "Colonial Stock Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/62",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c63",
+      "title": "Local Government (Ireland) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/63",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c7",
+      "title": "Finance Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/7",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties of Customs and Inland Revenue, to alter other duties, and to amend the Law relating to Customs and Inland Revenue and the National Debt, and to make other provision for the financial arrangements of the year."
+    },
+    {
+      "id": "UKPGA-1900-c8",
+      "title": "Electoral Disabilities (Military Service) Removal Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1900-c9",
+      "title": "Police Reservists (Allowance) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Vict/63-64/9",
+      "source": "ukpga",
       "description": ""
     }
   ]

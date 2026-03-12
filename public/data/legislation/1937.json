@@ -1,0 +1,636 @@
+{
+  "year": 1937,
+  "count": 70,
+  "items": [
+    {
+      "id": "UKPGA-1937-c1",
+      "title": "Expiring Laws Continuance Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/1-2/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c10",
+      "title": "Unemployment Assistance (Temporary Provisions) (Amendment) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c11",
+      "title": "Public Works Loans Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/11",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c12",
+      "title": "Firearms Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/12",
+      "source": "ukpga",
+      "description": "An Act to consolidate the provisions of the Firearms Acts, 1920 to 1936, relating to firearms, imitation firearms and other weapons and to ammunition."
+    },
+    {
+      "id": "UKPGA-1937-c13",
+      "title": "Defence Loans Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c14",
+      "title": "East India Loans Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c15",
+      "title": "Geneva Convention Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c16",
+      "title": "Regency Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/16",
+      "source": "ukpga",
+      "description": "An Act to make provision for a Regency in the event of the Sovereign being on His Accession under the age of eighteen years, and in the event of the incapacity of the Sovereign through illness, and for the performance of certain of the royal functions in the name and on behalf of the Sovereign in certain other events; to repeal the Lords Justices Act, 1837; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1937-c17",
+      "title": "Reserve Forces Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c18",
+      "title": "Empire Settlement Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c19",
+      "title": "Merchant Shipping (Spanish Frontiers Observation) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c2",
+      "title": "Supreme Court of Judicature (Amendment) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/1-2/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c20",
+      "title": "Consolidated Fund (No. 2) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/20",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c21",
+      "title": "British Shipping (Continuance of Subsidy) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c22",
+      "title": "Local Government (Financial Provisions) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c23",
+      "title": "Merchant Shipping Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c24",
+      "title": "National Health Insurance (Amendment) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c25",
+      "title": "Education (Deaf Children) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c26",
+      "title": "Army and Air Force (Annual) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c27",
+      "title": "County Council Association Expenses (Amendment) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/27",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c28",
+      "title": "Harbours, Piers and Ferries (Scotland) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/28",
+      "source": "ukpga",
+      "description": "An Act to make provision for the acquisition and construction by local authorities of harbours, piers, ferries and boatslips in Scotland, for the construction of new works connected therewith, and for the fixing and revision of dues thereat, and at certain inland navigation undertakings, and for other purposes relating to the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1937-c29",
+      "title": "Local Government (Financial Provisions) (Scotland) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c3",
+      "title": "National Health Insurance (Juvenile Contributors and Young Persons) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/1-2/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c30",
+      "title": "Maternity Services (Scotland) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c31",
+      "title": "Special Areas (Amendment) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/31",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c32",
+      "title": "Civil List Act 1937 (repealed)",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/32",
+      "source": "ukpga",
+      "description": "An Act to make provision for the honour and dignity of the Crown and the Royal Family, and for the payment of certain allowances and pensions; to enable His Majesty to assent to arrangements on behalf of any son of His Majesty being Duke of Cornwall for the payment of certain sums out of the revenues of the Duchy during the minority of the said Duke; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1937-c33",
+      "title": "Diseases of Fish Act 1937 (repealed)",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/33",
+      "source": "ukpga",
+      "description": "An Act to prevent the spreading of disease among salmon and freshwater fish in Great Britain."
+    },
+    {
+      "id": "UKPGA-1937-c34",
+      "title": "Sheep Stocks Valuation (Scotland) Act 1937(repealed 25.9.1991)",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/34",
+      "source": "ukpga",
+      "description": "An Act to amend the law with respect to valuations of sheep stock in Scotland."
+    },
+    {
+      "id": "UKPGA-1937-c35",
+      "title": "Statutory Salaries Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c36",
+      "title": "Local Government (Members' Travelling Expenses) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c37",
+      "title": "Children and Young Persons (Scotland) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37",
+      "source": "ukpga",
+      "description": "An Act to consolidate in their application to Scotland certain enactments relating to persons under the age of eighteen years."
+    },
+    {
+      "id": "UKPGA-1937-c38",
+      "title": "Ministers of the Crown Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c39",
+      "title": "Widows', Orphans' and Old Age Contributory Pensions (Voluntary Contributors) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/39",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c4",
+      "title": "Merchant Shipping (Superannuation Contributions) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/1-2/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c40",
+      "title": "Public Health (Drainage of Trade Premises) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/40",
+      "source": "ukpga",
+      "description": "An Act to amend the law with respect to the discharge of trade effluents into public sewers of local authorities."
+    },
+    {
+      "id": "UKPGA-1937-c41",
+      "title": "Exchange Equalisation Account Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c42",
+      "title": "Exportation of Horses Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c43",
+      "title": "Public Records (Scotland) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/43",
+      "source": "ukpga",
+      "description": "An Act to make better provision for the preservation, care and custody of the Public Records of Scotland, and for the discharge of the duties of Principal Extractor of the Court of Session."
+    },
+    {
+      "id": "UKPGA-1937-c44",
+      "title": "Road Traffic Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/44",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c45",
+      "title": "Hydrogen Cyanide (Fumigation) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c46",
+      "title": "Physical Training and Recreation Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/46",
+      "source": "ukpga",
+      "description": "An Act to provide for the development of facilities for, and the encouragement of, physical training and recreation, and to facilitate the establishment of centres for social activities"
+    },
+    {
+      "id": "UKPGA-1937-c47",
+      "title": "Teachers (Superannuation) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/47",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c48",
+      "title": "Methylated Spirits (Sale by Retail) (Scotland) Act 1937 (repealed)",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/48",
+      "source": "ukpga",
+      "description": "An Act to control the sale in Scotland of methylated spirits or surgical spirit and of methylated spirits in admixture; and for other purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1937-c49",
+      "title": "Trade Marks (Amendment) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c5",
+      "title": "Quail Protection Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/1-2/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c50",
+      "title": "Livestock Industry Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c51",
+      "title": "Post Office and Telegraph (Money) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c52",
+      "title": "Chairmen of Traffic Commissioners, &amp;c. (Tenure of Office) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/52",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c53",
+      "title": "Agricultural Wages (Regulation) (Scotland) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/53",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c54",
+      "title": "Finance Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/54",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties of Customs and Inland Revenue (including Excise), to alter other duties, and to amend the law relating to Customs and Inland Revenue (including Excise) and the National Debt, and to make further provision in connection with finance."
+    },
+    {
+      "id": "UKPGA-1937-c55",
+      "title": "Appropriation Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/55",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c56",
+      "title": "Coal (Registration of Ownership) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/56",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c57",
+      "title": "Matrimonial Causes Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/57",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c58",
+      "title": "Summary Procedure (Domestic Proceedings) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/58",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c59",
+      "title": "Cinematograph Films (Animals) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/59",
+      "source": "ukpga",
+      "description": "An Act to prohibit the exhibition or distribution of cinematograph films in connection with the production of which suffering may have been caused to animals; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1937-c6",
+      "title": "Air-Raid Precautions Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/1-2/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c60",
+      "title": "Rating and Valuation Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/60",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c61",
+      "title": "Export Guarantees Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c62",
+      "title": "Coal Mines (Employment of Boys) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/62",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c63",
+      "title": "Nigeria (Remission of Payments) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/63",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c64",
+      "title": "Isle of Man (Customs) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/64",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c65",
+      "title": "London Naval Treaty Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/65",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c66",
+      "title": "Milk (Amendment) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/66",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c67",
+      "title": "Factories Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/67",
+      "source": "ukpga",
+      "description": "An Act to consolidate, with amendments, the Factory and Workshop Acts, 1901 to 1929, and other enactments relating to factories; and for purposes connected with the purposes aforesaid."
+    },
+    {
+      "id": "UKPGA-1937-c68",
+      "title": "Local Government Superannuation Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/68",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c69",
+      "title": "Local Government Superannuation (Scotland) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/69",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c7",
+      "title": "Consolidated Fund (No. 1) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/7",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c70",
+      "title": "Agriculture Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/70",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c8",
+      "title": "Beef and Veal Customs Duties Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1937-c9",
+      "title": "India and Burma (Existing Laws) Act 1937",
+      "year": 1937,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/9",
+      "source": "ukpga",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "year": 1826,
+  "count": 3,
+  "items": [
+    {
+      "id": "UKPGA-1826-c16",
+      "title": "Chelsea and Kilmainham Hospitals Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/7/16",
+      "source": "ukpga",
+      "description": "An Act to consolidate and amend several Acts relating to the Royal Hospitals for Soldiers at Chelsea and Kilmainham."
+    },
+    {
+      "id": "UKPGA-1826-c64",
+      "title": "Criminal Law Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/7/64",
+      "source": "ukpga",
+      "description": "An Act for improving the Administration of Criminal Justice in England."
+    },
+    {
+      "id": "UKPGA-1826-c8",
+      "title": "Juries (Scotland) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/7/8",
+      "source": "ukpga",
+      "description": "An Act to amend so much of an Act of the last Session of Parliament, for regulating the Qualification and the Manner of enrolling Jurors in Scotland, and of choosing Jurors in Criminal Trials there, and to unite Counties for the Purposes of Trial in Cases of High Treason in Scotland, as relates to the Qualification of Special Jurors."
+    }
+  ]
+}

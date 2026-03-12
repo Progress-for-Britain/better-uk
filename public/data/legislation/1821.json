@@ -1,0 +1,33 @@
+{
+  "year": 1821,
+  "count": 3,
+  "items": [
+    {
+      "id": "UKPGA-1821-c24",
+      "title": "Treason (Ireland) Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/1-2/24",
+      "source": "ukpga",
+      "description": "An Act to extend certain Provisions of an Act of King William the Third, intituled “An Act for regulating of Trials in Cases of Treason and Misprision of Treason,” to Ireland."
+    },
+    {
+      "id": "UKPGA-1821-c38",
+      "title": "Court of Session Act 1821 (repealed)",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/1-2/38",
+      "source": "ukpga",
+      "description": "An Act for establishing Regulations respecting certain Parts, of the Proceedings in the Court of Session, and in the Court of Commissioners for Teinds, and respecting the Duties, Qualifications, and Emoluments of certain Clerks and other Officers of the said. Courts."
+    },
+    {
+      "id": "UKPGA-1821-c76",
+      "title": "Cinque Ports Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/1-2/76",
+      "source": "ukpga",
+      "description": "An Act to continue and amend certain Acts for preventing the various Frauds and Depredations committed on Merchants, Shipowners, and Underwriters, by Boatmen and others, within the Jurisdiction of the Cinque Ports; and also for remedying certain Defects relative to the Adjustment of Salvage, under a Statute made in the Twelfth Year of the Reign of Her late Majesty Queen Anne."
+    }
+  ]
+}

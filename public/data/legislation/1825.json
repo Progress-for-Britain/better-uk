@@ -1,0 +1,51 @@
+{
+  "year": 1825,
+  "count": 5,
+  "items": [
+    {
+      "id": "UKPGA-1825-c120",
+      "title": "Court of Session Act 1825",
+      "year": 1825,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/6/120",
+      "source": "ukpga",
+      "description": "An Act for the better regulating of the Forms of Process in the Courts of Law in Scotland."
+    },
+    {
+      "id": "UKPGA-1825-c22",
+      "title": "Jurors (Scotland) Act 1825",
+      "year": 1825,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/6/22",
+      "source": "ukpga",
+      "description": "An Act to regulate the Qualification and the Manner of enrolling Jurors in Scotland, and of choosing Jurors on Criminal Trials there; and to unite Counties for the Purposes of Trial in Cases of High Treason in Scotland."
+    },
+    {
+      "id": "UKPGA-1825-c50",
+      "title": "Juries Act 1825",
+      "year": 1825,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/6/50",
+      "source": "ukpga",
+      "description": "An Act for consolidating and amending the Laws relative to Jurors and Juries."
+    },
+    {
+      "id": "UKPGA-1825-c92",
+      "title": "Marriages Confirmation Act 1825",
+      "year": 1825,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/6/92",
+      "source": "ukpga",
+      "description": "An Act to render valid Marriages solemnized in. certain Churches and Public Chapels in which Banns have not usually been published."
+    },
+    {
+      "id": "UKPGA-1825-c97",
+      "title": "Universities Act 1825",
+      "year": 1825,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/6/97",
+      "source": "ukpga",
+      "description": "An Act for the better Preservation of the Peace and good Order in the Universities of England."
+    }
+  ]
+}

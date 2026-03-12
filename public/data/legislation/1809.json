@@ -1,0 +1,33 @@
+{
+  "year": 1809,
+  "count": 3,
+  "items": [
+    {
+      "id": "UKPGA-1809-c126",
+      "title": "Sale of Offices Act 1809 (repealed)",
+      "year": 1809,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/49/126",
+      "source": "ukpga",
+      "description": "An Act for the further Prevention of the Sale and Brokerage of Offices."
+    },
+    {
+      "id": "UKPGA-1809-c14",
+      "title": "Concealment of Birth (Scotland) Act 1809",
+      "year": 1809,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/49/14",
+      "source": "ukpga",
+      "description": "An Act for repealing an Act of the Parliament of Scotland, relative to Child Murder; and for making other Provisions in lieu thereof."
+    },
+    {
+      "id": "UKPGA-1809-c42",
+      "title": "Public Records (Scotland) Act 1809",
+      "year": 1809,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/49/42",
+      "source": "ukpga",
+      "description": "An Act for better regulating the Publick Records of Scotland."
+    }
+  ]
+}

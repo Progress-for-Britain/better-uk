@@ -1,0 +1,33 @@
+{
+  "year": 1829,
+  "count": 3,
+  "items": [
+    {
+      "id": "UKPGA-1829-c19",
+      "title": "Register of Sasines Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/10/19",
+      "source": "ukpga",
+      "description": "An Act to explain and amend an Act of the Parliament of Scotland, intituled An Act concerning the registration of seisins and reversions of tenements within burgh."
+    },
+    {
+      "id": "UKPGA-1829-c44",
+      "title": "Metropolitan Police Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/10/44",
+      "source": "ukpga",
+      "description": "An Act for improving the Police in and near the Metropolis."
+    },
+    {
+      "id": "UKPGA-1829-c7",
+      "title": "Roman Catholic Relief Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/10/7",
+      "source": "ukpga",
+      "description": "An Act for the Relief of His Majesty’s Roman Catholic Subjects"
+    }
+  ]
+}

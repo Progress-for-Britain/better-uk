@@ -1,0 +1,24 @@
+{
+  "year": 1822,
+  "count": 2,
+  "items": [
+    {
+      "id": "UKPGA-1822-c33",
+      "title": "Riotous Assemblies (Scotland) Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/3/33",
+      "source": "ukpga",
+      "description": "An Act for altering and amending several Acts passed in the First and Ninth Years of the Reign of King George the First, and in the Forty-first, Fifty-second, Fifty-sixth, and Fifty-seventh Years of the Reign of His late Majesty King George the Third, so far as the same relate to the Recovery of Damages committed by riotous and tumultuous Assemblies and unlawful and malicious Offenders."
+    },
+    {
+      "id": "UKPGA-1822-c72",
+      "title": "Church Building Act 1822 (repealed)",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/3/72",
+      "source": "ukpga",
+      "description": "An Act to amend and render more effectual Two Acts, passed in the Fifty-eighth and Fifty-ninth Years of His late Majesty, for building and promoting the building of additional Churches in populous Parishes."
+    }
+  ]
+}

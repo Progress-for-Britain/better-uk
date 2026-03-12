@@ -1,0 +1,42 @@
+{
+  "year": 1801,
+  "count": 4,
+  "items": [
+    {
+      "id": "UKPGA-1801-c52",
+      "title": "House of Commons (Disqualifications) Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/41/52",
+      "source": "ukpga",
+      "description": "An Act for declaring what Persons shall be disabled from sitting and voting in the House of Commons of the United Kingdom of Great Britain and Ireland; and also for carrying into effect Part of the Fourth Article of the Union of Great Britain and Ireland, by providing in what cases Persons holding Offices or Places of Profit under the Crown of Ireland shall be incapable of being Members of the House of Commons of the Parliament of the said United Kingdom."
+    },
+    {
+      "id": "UKPGA-1801-c63",
+      "title": "House of Commons (Clergy Disqualification) Act 1801 (repealed)",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/41/63",
+      "source": "ukpga",
+      "description": "An Act to remove Doubts respecting the Eligibility of Persons in Holy Orders to sit in the House of Commons."
+    },
+    {
+      "id": "UKPGA-1801-c79",
+      "title": "Public Notaries Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/41/79",
+      "source": "ukpga",
+      "description": "An Act for the better Regulation of Publick Notaries in England."
+    },
+    {
+      "id": "UKPGA-1801-c90",
+      "title": "Crown Debts Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/41/90",
+      "source": "ukpga",
+      "description": "An Act for the more speedy and effectual Recovery of Debts due to his Majesty, his Heirs and Successors, in right of the Crown of the United Kingdom of Great Britain and Ireland; and for the better Administration of Justice within the same."
+    }
+  ]
+}

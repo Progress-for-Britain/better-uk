@@ -1,0 +1,33 @@
+{
+  "year": 1804,
+  "count": 3,
+  "items": [
+    {
+      "id": "UKPGA-1804-c102",
+      "title": "Habeas Corpus Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/44/102",
+      "source": "ukpga",
+      "description": "An Act for the more effectual Administration of Justice in England and Ireland by the issuing of Writs of Habeas Corpus ad testificandum, in certain Cases."
+    },
+    {
+      "id": "UKPGA-1804-c42",
+      "title": "An Act to amend an Act, made in the Forty second Year of His present Majesty, to amend the Laws for the better Regulation of the Linen Manufacture in Ireland.",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/44/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1804-c43",
+      "title": "Clergy Ordination Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/44/43",
+      "source": "ukpga",
+      "description": "An Act to enforce the due Observance of the Canons and Rubrick respecting the Ages of Persons to be admitted into the sacred Orders of Deacon and Priest."
+    }
+  ]
+}

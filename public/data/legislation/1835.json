@@ -1,0 +1,42 @@
+{
+  "year": 1835,
+  "count": 4,
+  "items": [
+    {
+      "id": "UKPGA-1835-c35",
+      "title": "Paymaster General Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Will4/5-6/35",
+      "source": "ukpga",
+      "description": "An Act for consolidating the Offices of Paymaster General, Paymaster and Treasurer of Chelsea Hospital, Treasurer of the Navy, and Treasurer of the Ordnance."
+    },
+    {
+      "id": "UKPGA-1835-c41",
+      "title": "Gaming Act 1835 (repealed)",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Will4/5-6/41",
+      "source": "ukpga",
+      "description": "An Act to amend the Law relating to Securities given for Considerations arising out of gaming, usurious, and certain other illegal Transactions."
+    },
+    {
+      "id": "UKPGA-1835-c50",
+      "title": "Highway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Will4/5-6/50",
+      "source": "ukpga",
+      "description": "An Act to consolidate and amend the Laws relating to Highways in that Part of Great Britain called England."
+    },
+    {
+      "id": "UKPGA-1835-c62",
+      "title": "Statutory Declarations Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Will4/5-6/62",
+      "source": "ukpga",
+      "description": "An Act to repeal an Act of the present Session of Parliaments intituled An Act for the more effectual Abolition of Oaths and Affirmations taken and made in various Departments of the State, and to substitute Declarations in lieu thereof, and for the more entire, Suppression of voluntary and extra-judicial Oaths and Affidavits; and to make other Provisions for the Abolition of unnecessary Oaths."
+    }
+  ]
+}

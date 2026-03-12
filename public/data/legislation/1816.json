@@ -1,0 +1,51 @@
+{
+  "year": 1816,
+  "count": 5,
+  "items": [
+    {
+      "id": "UKPGA-1816-c100",
+      "title": "Habeas Corpus Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/56/100",
+      "source": "ukpga",
+      "description": "An Act for more effectually securing the Liberty of the Subject."
+    },
+    {
+      "id": "UKPGA-1816-c141",
+      "title": "Burial Ground Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/56/141",
+      "source": "ukpga",
+      "description": "An Act for enabling Ecclesiastical Corporate Bodies, under certain Circumstances, to alienate Lands for enlarging Cemeteries or Churchyards."
+    },
+    {
+      "id": "UKPGA-1816-c46",
+      "title": "Civil List Audit Act 1816 (repealed)",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/56/46",
+      "source": "ukpga",
+      "description": "An Act for the better Regulation of the Civil List."
+    },
+    {
+      "id": "UKPGA-1816-c50",
+      "title": "Sale of Farming Stock Act 1816 (repealed)",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/56/50",
+      "source": "ukpga",
+      "description": "An Act to regulate the Sale of Farming Stock taken in Execution."
+    },
+    {
+      "id": "UKPGA-1816-c98",
+      "title": "Consolidated Fund Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/56/98",
+      "source": "ukpga",
+      "description": "An Act to unite and consolidate into One Fund, all the Public Revenues of Great Britain and Ireland; and to provide for the Application thereof to the General Service of the United Kingdom."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "year": 1939,
-  "count": 1,
+  "count": 121,
   "items": [
     {
       "id": "UKLA-1939-c97",
@@ -9,6 +9,1086 @@
       "type": "Act",
       "url": "http://www.legislation.gov.uk/ukla/1939/97",
       "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c1",
+      "title": "Expiring Laws Continuance Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/3-4/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c10",
+      "title": "Bacon Industry (Amendment) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c100",
+      "title": "Government and Other Stocks (Emergency Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/100",
+      "source": "ukpga",
+      "description": "An Act to make temporary provision for rendering inscribed stocks transferable by instrument in writing, and for extending, in certain circumstances arising from war, the time limited by the National Debt Act, 1870, for the payment of coupons."
+    },
+    {
+      "id": "UKPGA-1939-c101",
+      "title": "Exchequer and Audit Departments (Temporary Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/101",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c102",
+      "title": "Liability for War Damage (Miscellaneous Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/102",
+      "source": "ukpga",
+      "description": "An Act to modify certain rights and liabilities with respect to goods lost or damaged by war."
+    },
+    {
+      "id": "UKPGA-1939-c103",
+      "title": "Police and Firemen (War Service) Act 1939 (repealed)",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/103",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to constables I and firemen serving in His Majesty's forces during the period of the present emergency, to suspend the right of constables and firemen to retire on pension during that period, to provide that war injuries shall be deemed to be non-accidental injuries for the purpose of enactments and other instruments relating to the pensions of constables and firemen, to amend section sixteen of the Fire Brigade Pensions Act, 1925, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1939-c104",
+      "title": "Control of Employment Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/104",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c105",
+      "title": "Administration of Justice (Emergency Provisions) (Northern Ireland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/105",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c106",
+      "title": "Universities and Colleges (Emergency Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/106",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c107",
+      "title": "Patents, Designs, Copyright and Trade Marks (Emergency) Act",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/107",
+      "source": "ukpga",
+      "description": "An Act to make such special provision with respect to patents, registered designs, copyright and trade marks, as is expedient to meet any emergency which may arise as a result of war."
+    },
+    {
+      "id": "UKPGA-1939-c108",
+      "title": "Possession of Mortgaged Land (Emergency Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/108",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c109",
+      "title": "Finance (No. 2) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/109",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c11",
+      "title": "Czecho-Slovakia (Restrictions on Banking Accounts, &amp;c.) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/11",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c110",
+      "title": "Solicitors (Disciplinary Committee) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/110",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c111",
+      "title": "Education (Emergency) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/111",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c112",
+      "title": "Education (Emergency) (Scotland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/112",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c113",
+      "title": "Courts (Emergency Powers) (Scotland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/113",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c114",
+      "title": "Execution of Trusts (Emergency Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/114",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c115",
+      "title": "Local Elections and Register of Electors (Temporary Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/115",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c116",
+      "title": "Cotton Industry (Reorganisation) (Postponement) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/116",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c117",
+      "title": "National Loans Act 1939 (c.117)",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/117",
+      "source": "ukpga",
+      "description": "An Act to confer on the Treasury powers to raise money and exchange securities, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1939-c118",
+      "title": "Prices of Goods Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/118",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c119",
+      "title": "Chartered and Other Bodies (Temporary Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/119",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c12",
+      "title": "Consolidated Fund (No. 1) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/12",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c120",
+      "title": "Restriction of Advertisement (War Risks Insurance) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/120",
+      "source": "ukpga",
+      "description": "An Act to restrict the distribution of circulars, and the publication of advertisements, relating to the insurance of property against war risks, to provide for the imposition of certain conditions and requirements in cases where permission for such distribution or publication is granted, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1939-c121",
+      "title": "Official Secrets Act 1939 (repealed)",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/121",
+      "source": "ukpga",
+      "description": "An Act to amend section six of the Official Secrets Act, 1920."
+    },
+    {
+      "id": "UKPGA-1939-c13",
+      "title": "Cancer Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/13",
+      "source": "ukpga",
+      "description": "An Act to make further provision for the treatment of cancer, to authorise the Minister of Health to lend money to the National Radium Trust, to prohibit certain advertisements relating to cancer, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1939-c14",
+      "title": "China (Currency Stabilisation) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c15",
+      "title": "Census of Production Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c16",
+      "title": "Prevention of Fraud (Investments) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c17",
+      "title": "Army and Air Force (Annual) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c18",
+      "title": "Local Government Superannuation Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c19",
+      "title": "Wild Birds (Duck and Geese) Protection Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c2",
+      "title": "Postponement of Enactments (Miscellaneous Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/3-4/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c20",
+      "title": "Reorganisation of Offices (Scotland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/20",
+      "source": "ukpga",
+      "description": "An Act to provide for the transference of the functions of Scottish government departments to the Secretary of State, to make provision for the reorganisation of the General Board of Control for Scotland, and for purposes connected with the aforesaid matters."
+    },
+    {
+      "id": "UKPGA-1939-c21",
+      "title": "Limitation Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c22",
+      "title": "Camps Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/22",
+      "source": "ukpga",
+      "description": "An Act to promote and facilitate the construction, maintenance and management of camps of a permanent character."
+    },
+    {
+      "id": "UKPGA-1939-c23",
+      "title": "Public Health (Coal Mine Refuse) (Scotland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c24",
+      "title": "Reserve and Auxiliary Forces Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c25",
+      "title": "Military Training Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c26",
+      "title": "Charities (Fuel Allotments) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c27",
+      "title": "Adoption of Children (Regulation) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/27",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c28",
+      "title": "Local Government Amendment (Scotland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c29",
+      "title": "Unemployment Insurance Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c30",
+      "title": "Access to Mountains Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c31",
+      "title": "Civil Defence Act 1939 (Repealed)",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/31",
+      "source": "ukpga",
+      "description": "An Act to make further provision for civil defence and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1939-c32",
+      "title": "Patents and Designs (Limits of Time) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c33",
+      "title": "Marriage Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/33",
+      "source": "ukpga",
+      "description": "An Act to facilitate marriages in cases where one party resides in Scotland and the other in England and to make further provision as respects notices of marriage between parties one of whom resides in Scotland or England."
+    },
+    {
+      "id": "UKPGA-1939-c34",
+      "title": "Marriage (Scotland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c35",
+      "title": "Marriages (Validity) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c36",
+      "title": "Hall-marking of Foreign Plate Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c37",
+      "title": "Wheat (Amendment) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c38",
+      "title": "Ministry of Supply Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c39",
+      "title": "Coast Protection Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/39",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c4",
+      "title": "Custody of Children (Scotland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c40",
+      "title": "London Government Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c41",
+      "title": "Finance Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/41",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties of Customs and Inland Revenue (including Excise), to alter other duties, and to amend the law relating to Customs and Inland Revenue (including Excise) and the National Debt, and to make further provision in connection with finance."
+    },
+    {
+      "id": "UKPGA-1939-c42",
+      "title": "Post Office and Telegraph (Money) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c43",
+      "title": "Prevention of Damage by Rabbits Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/43",
+      "source": "ukpga",
+      "description": "An Act to make provision for the prevention of damage by rabbits; and to amend the law relating to the use of poison and the use of spring traps above ground for the purpose of killing hares or rabbits."
+    },
+    {
+      "id": "UKPGA-1939-c44",
+      "title": "House to House Collections Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/44",
+      "source": "ukpga",
+      "description": "An Act to provide for the regulation of house to house collections for charitable purposes; and for matters connected therewith."
+    },
+    {
+      "id": "UKPGA-1939-c45",
+      "title": "Mining Industry (Amendment) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c46",
+      "title": "Milk Industry Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/46",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c47",
+      "title": "Overseas Trade Guarantees Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/47",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c48",
+      "title": "Agricultural Development Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/48",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c49",
+      "title": "House of Commons Members’ Fund Act 1939 (repealed)",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/49",
+      "source": "ukpga",
+      "description": "An Act to provide for the making, in certain cases, of grants to, and to the widows and to the children of, persons who have been members of the House of Commons; and for purposes connected with the matter aforesaid."
+    },
+    {
+      "id": "UKPGA-1939-c5",
+      "title": "Export Guarantees Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c50",
+      "title": "Prevention of Violence (Temporary Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c51",
+      "title": "Public Trustee (General Deposit Fund) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/51",
+      "source": "ukpga",
+      "description": "An Act to amend the law with respect to the manner in which the public trustee may deal with certain trust moneys, to confirm the legality of certain dealings by the public trustee with such moneys and to require certain moneys in the hands of the public trustee to be paid into the Exchequer; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1939-c52",
+      "title": "Appropriation Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/52",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c53",
+      "title": "Isle of Man (Customs) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/53",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c54",
+      "title": "Cotton Industry (Reorganisation) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/54",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c55",
+      "title": "Building Societies Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/55",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c56",
+      "title": "Riding Establishments Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/56",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c57",
+      "title": "War Risks Insurance Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/57",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c58",
+      "title": "Public Health (Coal Mine Refuse) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/58",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c59",
+      "title": "Air Ministry (Heston and Kenley Aerodromes Extension) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/59",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c6",
+      "title": "Czecho-Slovakia (Financial Assistance) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c60",
+      "title": "Senior Public Elementary Schools (Liverpool) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/60",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c61",
+      "title": "British Overseas Airways Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c62",
+      "title": "Emergency Powers (Defence) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/62",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c63",
+      "title": "Appropriation (No. 2) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/63",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c64",
+      "title": "Currency (Defence) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/64",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c65",
+      "title": "Prize Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/65",
+      "source": "ukpga",
+      "description": "An Act to apply prize law to aircraft; to amend and explain the enactments relating to prize; and to provide for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1939-c66",
+      "title": "Government of India (Amendment) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/66",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c67",
+      "title": "Courts (Emergency Powers) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/67",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c68",
+      "title": "Armed Forces (Conditions of Service) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/68",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c69",
+      "title": "Import, Export and Customs Powers (Defence) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/69",
+      "source": "ukpga",
+      "description": "An Act to provide for controlling the importation, exportation and carriage coastwise of goods and the shipment of goods as ships' stores; to provide for facilitating the enforcement of the law relating to the matters aforesaid and the law relating to trading with the enemy; and to provide for purposes connected with the matters aforesaid,"
+    },
+    {
+      "id": "UKPGA-1939-c7",
+      "title": "Currency and Bank Notes Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/7",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c70",
+      "title": "Ships and Aircraft (Transfer Restriction) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/70",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c71",
+      "title": "Rent and Mortgage Interest Restrictions Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/71",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c72",
+      "title": "Landlord and Tenant (War Damage) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/72",
+      "source": "ukpga",
+      "description": "An Act to modify the rights and liabilities of landlords, tenants and other persons interested in land damaged by war."
+    },
+    {
+      "id": "UKPGA-1939-c73",
+      "title": "Housing (Emergency Powers) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/73",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c74",
+      "title": "Essential Buildings and Plant (Repair of War Damage) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/74",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c75",
+      "title": "Compensation (Defence) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/75",
+      "source": "ukpga",
+      "description": "An Act to provide for compensation in respect of action taken on behalf of His Majesty in the exercise of certain emergency powers; and for purposes connected with the matter aforesaid."
+    },
+    {
+      "id": "UKPGA-1939-c76",
+      "title": "Regional Commissioners Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/76",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c77",
+      "title": "Ministers of the Crown (Emergency Appointments) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/77",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c78",
+      "title": "Administration of Justice (Emergency Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/78",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c79",
+      "title": "Administration of Justice (Emergency Provisions) (Scotland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/79",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c8",
+      "title": "Defence Loans Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c80",
+      "title": "War Damage to Land (Scotland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/80",
+      "source": "ukpga",
+      "description": "An Act to modify the rights and liabilities of persons interested in land in Scotland damaged by war."
+    },
+    {
+      "id": "UKPGA-1939-c81",
+      "title": "National Service (Armed Forces) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/81",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c82",
+      "title": "Personal Injuries (Emergency Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/82",
+      "source": "ukpga",
+      "description": "An Act to make provision as respects certain personal injuries sustained during the period of the present emergency."
+    },
+    {
+      "id": "UKPGA-1939-c83",
+      "title": "Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/83",
+      "source": "ukpga",
+      "description": "An Act to make provision for the transfer to the Minister of Pensions of powers and duties with respect to pensions and grants vested in certain Naval, Military and Air Force authorities, to amend section nine of the War Pensions (Administrative Provisions) Act, 1918, to make provision for awards in respect of war injuries to, and the detention of, mariners and other seafaring persons and war damage to their effects, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1939-c84",
+      "title": "National Health Insurance and Contributory Pensions (Emergency Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/84",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c85",
+      "title": "House of Commons (Service in His Majesty's Forces) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/85",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c86",
+      "title": "Isle of Man (War Legislation) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/86",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c87",
+      "title": "Navy and Marines (Wills) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/87",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c88",
+      "title": "Royal Marines Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/88",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c89",
+      "title": "Trading with the Enemy Act",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/89",
+      "source": "ukpga",
+      "description": "An Act to impose penalties for trading with the enemy, to make provision as respects the property of enemies and enemy subjects, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1939-c9",
+      "title": "Mining Industry (Welfare Fund) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/9",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c90",
+      "title": "Military and Air Forces (Prolongation of Service) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/90",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c91",
+      "title": "National Registration Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/91",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c92",
+      "title": "Unemployment Insurance (Emergency Powers) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/92",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c93",
+      "title": "Unemployment Assistance (Emergency Powers) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/93",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c94",
+      "title": "Local Government Staffs (War Service) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/94",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c95",
+      "title": "Teachers Superannuation (War Service) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/95",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c96",
+      "title": "Education (Scotland) (War Service Superannuation) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/96",
+      "source": "ukpga",
+      "description": "An Act to enable war service to be treated as service under any scheme framed in pursuance of the Education (Scotland) (Superannuation) Acts, 1919 to 1937."
+    },
+    {
+      "id": "UKPGA-1939-c97",
+      "title": "Import Duties (Emergency Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/97",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c98",
+      "title": "Sheriff Courts (Scotland) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/98",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1939-c99",
+      "title": "Income Tax Procedure (Emergency Provisions) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/2-3/99",
+      "source": "ukpga",
       "description": ""
     }
   ]

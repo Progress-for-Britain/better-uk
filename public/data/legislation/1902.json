@@ -1,6 +1,6 @@
 {
   "year": 1902,
-  "count": 1,
+  "count": 43,
   "items": [
     {
       "id": "UKLA-1902-c211",
@@ -9,6 +9,384 @@
       "type": "Act",
       "url": "http://www.legislation.gov.uk/ukla/1902/211",
       "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c1",
+      "title": "Consolidated Fund (No. 1) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c10",
+      "title": "Police Reservists Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c11",
+      "title": "Immoral Traffic (Scotland) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/11",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c12",
+      "title": "British Museum Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/12",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c13",
+      "title": "Labour Bureaux (London) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c14",
+      "title": "University of Wales Act 1902 (repealed 19.11.1998)",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/14",
+      "source": "ukpga",
+      "description": "An Act to extend the privileges of the Graduates of the University of Wales."
+    },
+    {
+      "id": "UKPGA-1902-c15",
+      "title": "Musical (Summary Proceedings) Copyright Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c16",
+      "title": "Pauper Children (Ireland) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c17",
+      "title": "Midwives Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c18",
+      "title": "Licensing (Ireland) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c19",
+      "title": "Education Act 1901 (Renewal) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c2",
+      "title": "Army (Annual) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c20",
+      "title": "Public Libraries (Ireland) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/20",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c21",
+      "title": "Shop Clubs Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c22",
+      "title": "Public Works Loans Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c23",
+      "title": "Isle of Man (Customs) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c24",
+      "title": "Marine Works (Ireland) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c25",
+      "title": "Lands Valuation (Scotland) Amendment Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/25",
+      "source": "ukpga",
+      "description": "An Act to amend the Lands Valuation (Scotland) Acts in regard to the Law relating to the Rating of Machinery."
+    },
+    {
+      "id": "UKPGA-1902-c26",
+      "title": "Pacific Cable (Amendment) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c27",
+      "title": "Appropriation Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/27",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c28",
+      "title": "Licensing Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/28",
+      "source": "ukpga",
+      "description": "An Act to amend the Law relating to the Sale of Intoxicating Liquors and to Drunkenness, and to provide for the Registration of Clubs."
+    },
+    {
+      "id": "UKPGA-1902-c29",
+      "title": "Freshwater Fish (Scotland) Act 1902 (repealed)",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/29",
+      "source": "ukpga",
+      "description": "An Act for the better protection of Freshwater Fish in Scotland."
+    },
+    {
+      "id": "UKPGA-1902-c3",
+      "title": "Agriculture and Technical Instruction (Ireland) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c30",
+      "title": "Appropriation (No. 2) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c31",
+      "title": "Supreme Court of Judicature Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/31",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c32",
+      "title": "Expiring Laws Continuance Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c33",
+      "title": "Agriculture and Technical Instruction (Ireland) (No. 2) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/33",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c34",
+      "title": "Patent Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c35",
+      "title": "Electric Lighting (Scotland) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c36",
+      "title": "Mail Ships Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c37",
+      "title": "Osborne Estate Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c38",
+      "title": "Local Government (Ireland) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c39",
+      "title": "Militia and Yeomanry Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/39",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c4",
+      "title": "Loan Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c40",
+      "title": "Uganda Railway Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c41",
+      "title": "Metropolis Water Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c42",
+      "title": "Education Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c5",
+      "title": "Royal Naval Reserve Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c6",
+      "title": "Wild Birds Protection Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1902-c7",
+      "title": "Finance Act 1902 (repealed)",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/7",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties of Customs and Inland Revenue, to alter other duties, and to amend the Law relating to Customs and Inland Revenue and the National Debt, and to make other provision for the financial arrangements of the year."
+    },
+    {
+      "id": "UKPGA-1902-c8",
+      "title": "Cremation Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/8",
+      "source": "ukpga",
+      "description": "An Act for the regulation of the burning of Human Remains, and to enable Burial Authorities to establish Crematoria."
+    },
+    {
+      "id": "UKPGA-1902-c9",
+      "title": "Prison Officers (Pensions) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Edw7/2/9",
+      "source": "ukpga",
       "description": ""
     }
   ]

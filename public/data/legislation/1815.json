@@ -1,0 +1,24 @@
+{
+  "year": 1815,
+  "count": 2,
+  "items": [
+    {
+      "id": "UKPGA-1815-c184",
+      "title": "Stamp Act 1815",
+      "year": 1815,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/55/184",
+      "source": "ukpga",
+      "description": "An Act for repealing the Stamp Duties on Deeds, Law Proceedings, and other written or printed Instruments, and the Duties on Fire Insurances, and on Legacies and Successions to Personal Estate upon Intestacies, now payable in Great Britain; and for granting other Duties in lieu thereof."
+    },
+    {
+      "id": "UKPGA-1815-c42",
+      "title": "Jury Trials (Scotland) Act 1815",
+      "year": 1815,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/55/42",
+      "source": "ukpga",
+      "description": "An Act to facilitate the Administration of Justice in Scotland by the extending Trial by Jury to Civil Causes."
+    }
+  ]
+}

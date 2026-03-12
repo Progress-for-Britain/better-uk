@@ -1,0 +1,24 @@
+{
+  "year": 1814,
+  "count": 2,
+  "items": [
+    {
+      "id": "UKPGA-1814-c146",
+      "title": "Treason Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/54/146",
+      "source": "ukpga",
+      "description": "An Act to alter the Punishment in certain Cases of High Treason."
+    },
+    {
+      "id": "UKPGA-1814-c96",
+      "title": "Apprentices Act 1814 (repealed)",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/54/96",
+      "source": "ukpga",
+      "description": "An Act to amend an Act passed in the Fifth Year of Queen Elizabeth, intituled “An Act containing divers Orders for “Artificers, Labourers, Servants of Husbandry, and “Apprentices.”"
+    }
+  ]
+}

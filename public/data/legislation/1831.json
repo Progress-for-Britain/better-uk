@@ -1,0 +1,42 @@
+{
+  "year": 1831,
+  "count": 4,
+  "items": [
+    {
+      "id": "UKPGA-1831-c22",
+      "title": "London Hackney Carriage Act 1831",
+      "year": 1831,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Will4/1-2/22",
+      "source": "ukpga",
+      "description": "An Act to amend the Laws relating to Hackney Carriages, and to Waggons, Carts, and Drays, used in the Metropolis; and to place the Collection of the Duties on Hackney Carriages and on Hawkers and Pedlars in England under the Commissioners of Stamps."
+    },
+    {
+      "id": "UKPGA-1831-c32",
+      "title": "Game Act 1831",
+      "year": 1831,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Will4/1-2/32",
+      "source": "ukpga",
+      "description": "An Act to amend the Laws in England relative to Game."
+    },
+    {
+      "id": "UKPGA-1831-c37",
+      "title": "Truck Act 1831",
+      "year": 1831,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Will4/1-2/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1831-c60",
+      "title": "Vestries Act 1831(repealed 1.6.1992)",
+      "year": 1831,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Will4/1-2/60",
+      "source": "ukpga",
+      "description": "An Act for the better Regulation of Vestries, and for the Appointment of Auditors of Accounts, in certain Parishes of England and Wales."
+    }
+  ]
+}

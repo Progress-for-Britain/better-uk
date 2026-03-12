@@ -1,7 +1,439 @@
 {
   "year": 1916,
-  "count": 1,
+  "count": 74,
   "items": [
+    {
+      "id": "UKPGA-1916-c1",
+      "title": "Consolidated Fund (No. 1) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c10",
+      "title": "Education (Provision of Meals) (Ireland) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c100",
+      "title": "Parliament and Registration Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/5-6/100",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c101",
+      "title": "Naval Forces (Service on Shore) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/5-6/101",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c102",
+      "title": "Customs (War Powers) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/5-6/102",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c103",
+      "title": "Army (Suspension of Sentences) Amendment Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/5-6/103",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c104",
+      "title": "Military Service Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/5-6/104",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c105",
+      "title": "Trading with the Enemy Amendment Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/5-6/105",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c12",
+      "title": "Local Government (Emergency Provisions) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/12",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to Officers and Servants of Local Authorities serving in or with His Majesty's Forces and to make various administrative-provisions with a view to economy in money and labour in connection with the present War."
+    },
+    {
+      "id": "UKPGA-1916-c13",
+      "title": "Courts (Emergency Powers) (Amendment) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c14",
+      "title": "Summer Time Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c15",
+      "title": "Military Service (Session 2) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c16",
+      "title": "Consolidated Fund (No. 3) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c17",
+      "title": "Naval Discipline (Delegation of Powers) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c18",
+      "title": "Courts (Emergency Power) (No. 2) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c19",
+      "title": "British North America Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c2",
+      "title": "Naval Prize (Procedure) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/2",
+      "source": "ukpga",
+      "description": "An Act to amend the Law as to the Jurisdiction of Prize Courts in the case of proceedings against persons in His Majesty's Naval Service or in the employment of the Admiralty, and as to the transfer of Proceedings in Prize."
+    },
+    {
+      "id": "UKPGA-1916-c20",
+      "title": "National Insurance (pt. II.) (Munition Workers) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/20",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c21",
+      "title": "Marriage of British Subjects (Facilities) Amendment Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/21",
+      "source": "ukpga",
+      "description": "An Act to amend the Marriage of British Subjects (Facilities) Act, 1915."
+    },
+    {
+      "id": "UKPGA-1916-c22",
+      "title": "Re-election of Ministers Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c23",
+      "title": "Royal Marines Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c24",
+      "title": "Finance Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/24",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties of Customs and Inland Revenue (including Excise), to alter other duties, and to amend the Law relating to Customs and Inland Revenue (including Excise) and the National Debt, and to make further provision in connexion with Finance."
+    },
+    {
+      "id": "UKPGA-1916-c25",
+      "title": "Gas (Standard of Calorific Power) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c27",
+      "title": "Isle of Man (Customs) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/27",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c28",
+      "title": "Public Works Loans Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c29",
+      "title": "Expiring Laws Continuance Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c3",
+      "title": "Consolidated Fund (No. 2) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c30",
+      "title": "Consolidated Fund (No. 4) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c31",
+      "title": "Police, Factories, &amp; c. (Miscellaneous Provisions) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/31",
+      "source": "ukpga",
+      "description": "An Act to amend the Enactments relating to the Police and certain other Enactments with the administration of which the Secretary of State for the Home Department is concerned."
+    },
+    {
+      "id": "UKPGA-1916-c32",
+      "title": "Trading with the Enemy (Copyright) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c33",
+      "title": "Army (Courts of Inquiry) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/33",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c34",
+      "title": "Special Commissions (Dardanelles and Mesopotamia) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c35",
+      "title": "Elementary Education (Fee Grant) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c36",
+      "title": "Finance (Exchequer Bonds) Amendment Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c37",
+      "title": "Government of India (Amendment) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c38",
+      "title": "Small Holding Colonies Act 1916 (repealed)",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/38",
+      "source": "ukpga",
+      "description": "An Act to provide for the acquisition and management of land by the State for experimental Small Holding Colonies, and to extend the powers of acquisition and management of land by certain Government Departments under the Development and Road Improvement Funds Act, 1909, and for other purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1916-c39",
+      "title": "Anglo-Portuguese Commercial Treaty Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/39",
+      "source": "ukpga",
+      "description": "An Act to amend the Anglo-Portuguese Commercial Treaty Act, 1914."
+    },
+    {
+      "id": "UKPGA-1916-c4",
+      "title": "Naval and Military War Pensions, &amp;c. (Expenses) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c40",
+      "title": "Telegraph (Construction) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c42",
+      "title": "British Ships (Transfer Restriction) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c43",
+      "title": "War Charities Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/43",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c44",
+      "title": "Parliament and Local Elections Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/44",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c45",
+      "title": "Time (Ireland) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c46",
+      "title": "Law and Procedure (Emergency Provisions) (Ireland) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/46",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c47",
+      "title": "Municipal Savings Banks (War Loan Investment) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/47",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c48",
+      "title": "Consolidated Fund (No. 5) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/48",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c49",
+      "title": "Court of Session (Extracts) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c5",
+      "title": "Army (Annual) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/5",
+      "source": "ukpga",
+      "description": ""
+    },
     {
       "id": "UKPGA-1916-c50",
       "title": "Larceny Act 1916",
@@ -10,6 +442,231 @@
       "url": "http://www.legislation.gov.uk/ukpga/1916/50",
       "source": "ukpga",
       "description": "An Act to consolidate and simplify the Law relating to Larceny triable on Indictment and Kindred Offences."
+    },
+    {
+      "id": "UKPGA-1916-c51",
+      "title": "“Anzac” (Restriction on Trade Use of Word) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/51",
+      "source": "ukpga",
+      "description": "An Act to prohibit the use of the word Anzac in connection with any trade, business, calling, or profession."
+    },
+    {
+      "id": "UKPGA-1916-c52",
+      "title": "Trading with the Enemy and Export of Prohibited Goods Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/52",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c53",
+      "title": "National Insurance (Temporary Employment in Agriculture) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/53",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c54",
+      "title": "Friendly Societies Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/54",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c55",
+      "title": "Local Government Emergency Provisions (No. 2) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/55",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c56",
+      "title": "Re-election of Ministers (No. 2) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/56",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c57",
+      "title": "Output of Beer (Restriction) Amendment Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/57",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c58",
+      "title": "Registration of Business Names Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/58",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c59",
+      "title": "Constabulary and Police (Ireland) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/59",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c6",
+      "title": "War Risks (Insurance by Trustees) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c60",
+      "title": "Sailors and Soldiers (Gifts for Land Settlement) Act 1916 (repealed)",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/60",
+      "source": "ukpga",
+      "description": "An Act to authorise the acceptance and administration by certain Government Departments and Local Authorities of Gifts for the settlement or employment on land of men who have served in His Majesty's Forces."
+    },
+    {
+      "id": "UKPGA-1916-c61",
+      "title": "Munitions (Liability for Explosions) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c62",
+      "title": "Volunteer Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/62",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c63",
+      "title": "Defence of the Realm (Aquisition of Land) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/63",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to the possession and acquisition of land occupied or used for the Defence of the Realm in connection with the present War and for other purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1916-c64",
+      "title": "Prevention of Corruption Act 1916 (repealed)",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/64",
+      "source": "ukpga",
+      "description": "An Act to amend the Law relating to the Prevention of Corruption."
+    },
+    {
+      "id": "UKPGA-1916-c65",
+      "title": "Ministry of Pensions Act 1916 (repealed 5.11.1993)",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/65",
+      "source": "ukpga",
+      "description": "An Act for establishing a Ministry of Pensions and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1916-c66",
+      "title": "Dublin Reconstruction (Emergency Provisions) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/66",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c67",
+      "title": "War Loan Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/67",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c69",
+      "title": "Public Authorities and Bodies (Loans) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/69",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c7",
+      "title": "Marriage (Scotland) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/7",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c70",
+      "title": "Government War Obligations Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/70",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c71",
+      "title": "Appropriation Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/71",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c8",
+      "title": "Imperial Institute (Management) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c9",
+      "title": "Pacific Islands Regulations (Validation) Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/6-7/9",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1916-c99",
+      "title": "Munitions of War Amendment Act 1916",
+      "year": 1916,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo5/5-6/99",
+      "source": "ukpga",
+      "description": ""
     }
   ]
 }

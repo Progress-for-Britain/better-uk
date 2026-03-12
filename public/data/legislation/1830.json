@@ -1,0 +1,51 @@
+{
+  "year": 1830,
+  "count": 5,
+  "items": [
+    {
+      "id": "UKPGA-1830-c18",
+      "title": "Marriage Confirmation Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/18",
+      "source": "ukpga",
+      "description": "An Act to render valid Marriages solemnized in certain Churches and Chapels."
+    },
+    {
+      "id": "UKPGA-1830-c37",
+      "title": "Criminal Law (Scotland) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/37",
+      "source": "ukpga",
+      "description": "An Act to amend an Act of the ninth year of His late Majesty King George the Fourth, to facilitate Criminal Trials in Scotland, and to abridge the Period now required between the pronouncing of Sentence and Execution thereof, in cases importing a Capital Punishment."
+    },
+    {
+      "id": "UKPGA-1830-c64",
+      "title": "Beerhouse Act 1830 (repealed 5.11.1993)",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/64",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1830-c68",
+      "title": "Carriers Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/68",
+      "source": "ukpga",
+      "description": "An Act for the more effectual Protection of Mail Contractors, Stage Coach Proprietors, and other Common Carriers for Hire, against the Loss of or Injury to Parcels or Packages delivered to them for Conveyance or Custody, the Value and Contents of which shall not be declared to them by the Owners thereof."
+    },
+    {
+      "id": "UKPGA-1830-c69",
+      "title": "Court Of Session Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/69",
+      "source": "ukpga",
+      "description": "An Act for uniting the Benefits of Jury Trial in Civil Causes with the ordinary Jurisdiction of the Court of Session, and for making certain other Alterations and Reduction in the Judicial Establishments of Scotland."
+    }
+  ]
+}

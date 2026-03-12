@@ -1,0 +1,24 @@
+{
+  "year": 1834,
+  "count": 2,
+  "items": [
+    {
+      "id": "UKPGA-1834-c16",
+      "title": "Exchequer (Scotland) Act 1834",
+      "year": 1834,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Will4/4-5/16",
+      "source": "ukpga",
+      "description": "An Act to abolish the Office of Recorder of the Great Roll or Clerk of the Pipe in the Exchequer in Scotland."
+    },
+    {
+      "id": "UKPGA-1834-c41",
+      "title": "New Churches (Scotland) Act 1834",
+      "year": 1834,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Will4/4-5/41",
+      "source": "ukpga",
+      "description": "An Act to regulate the Appointment of Ministers to Churches in Scotland erected by voluntary contribution."
+    }
+  ]
+}

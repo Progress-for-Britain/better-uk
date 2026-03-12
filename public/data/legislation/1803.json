@@ -1,0 +1,42 @@
+{
+  "year": 1803,
+  "count": 4,
+  "items": [
+    {
+      "id": "UKPGA-1803-c108",
+      "title": "Gifts for Churches Act 1803 (repealed 1.6.1992)",
+      "year": 1803,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/43/108",
+      "source": "ukpga",
+      "description": "[An Act to promote the building, repairing, or otherwise providing of Churches and Chapels, and of Houses for the Residence of Ministers, and the providing of Church Yards and Glebes."
+    },
+    {
+      "id": "UKPGA-1803-c139",
+      "title": "Forgery of Foreign Bills Act 1803 (repealed)",
+      "year": 1803,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/43/139",
+      "source": "ukpga",
+      "description": "An Act for preventing the forging and counterfeiting of Foreign Bills of Exchange, and of Foreign Promissory Notes and Orders for the Payment of Money; and for preventing the counterfeiting of Foreign Copper Money."
+    },
+    {
+      "id": "UKPGA-1803-c140",
+      "title": "Habeas Corpus Act 1803",
+      "year": 1803,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/43/140",
+      "source": "ukpga",
+      "description": "An Act to enable the Judges of His Majesty’s Courts of Record at Westminster to award Writs of Habeas Corpus for bringing persons detained in Gaol before Courts Martial, and the several Commissioners therein mentioned."
+    },
+    {
+      "id": "UKPGA-1803-c141",
+      "title": "Justices Protection Act 1803",
+      "year": 1803,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/43/141",
+      "source": "ukpga",
+      "description": "An Act to render Justices of the Peace more safe in the Execution of their Duty."
+    }
+  ]
+}

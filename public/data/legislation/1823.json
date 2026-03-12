@@ -1,0 +1,42 @@
+{
+  "year": 1823,
+  "count": 4,
+  "items": [
+    {
+      "id": "UKPGA-1823-c18",
+      "title": "Crown Lands Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/4/18",
+      "source": "ukpga",
+      "description": "An Act concerning the Disposition of certain Property of His Majesty, His Heirs and Successors."
+    },
+    {
+      "id": "UKPGA-1823-c19",
+      "title": "National Debt Reduction Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/4/19",
+      "source": "ukpga",
+      "description": "An Act for further regulating the Reduction of the National Debt."
+    },
+    {
+      "id": "UKPGA-1823-c55",
+      "title": "Parliamentary Elections (Ireland) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/4/55",
+      "source": "ukpga",
+      "description": "An Act to consolidate and amend the several Acts now in force, so far as the same relate to the Election and Return of Members to serve in Parliament, for Counties of Cities and Counties of Towns in Ireland."
+    },
+    {
+      "id": "UKPGA-1823-c98",
+      "title": "Confirmation of Executors (Scotland) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo4/4/98",
+      "source": "ukpga",
+      "description": "An Act for the better granting of Confirmations in Scotland."
+    }
+  ]
+}

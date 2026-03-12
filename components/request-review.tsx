@@ -1,19 +1,19 @@
 import { Link } from 'expo-router';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import {
-    ActivityIndicator,
-    Animated,
-    Easing,
-    Modal,
-    Platform,
-    Pressable,
-    Text,
-    TextInput,
-    View
+  ActivityIndicator,
+  Animated,
+  Easing,
+  Modal,
+  Platform,
+  Pressable,
+  Text,
+  TextInput,
+  View
 } from 'react-native';
 
-// £1 per review — keep in sync with api/create-checkout-session.js
-const COST_PER_REVIEW_PENCE = 100;
+// 1p per review — keep in sync with api/create-checkout-session.js
+const COST_PER_REVIEW_PENCE = 1;
 const PRESETS = [5, 10, 25, 50];
 const MIN_AMOUNT = 1;
 const MAX_AMOUNT = 999;
@@ -259,7 +259,7 @@ export function FundReviewsModal({ category, visible, onClose }: FundReviewsModa
 
           {/* Micro copy */}
           <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 10, color: '#ccc', marginTop: 8, textAlign: 'center', letterSpacing: 0.3 }}>
-            £1 per review · Grok reads the full text · results are public
+            1p per review · Grok reads the full text · results are public
           </Text>
         </View>
 
@@ -324,7 +324,7 @@ export function RequestReviewButton({ category }: RequestReviewButtonProps) {
           This item hasn't been reviewed yet
         </Text>
         <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#666', lineHeight: 20, marginBottom: 20 }}>
-          Help fund AI reviews — each £1 donation pays for one {category === 'regulations' ? 'piece of legislation' : category === 'ngos' ? 'charity' : 'government body'} to be reviewed by Grok AI. All results are public and permanent.
+          Help fund AI reviews — each 1p funds one {category === 'regulations' ? 'piece of legislation' : category === 'ngos' ? 'charity' : 'government body'} review by Grok AI. All results are public and permanent.
         </Text>
         <Link href="/" style={{ textDecorationLine: 'none' }}>
           <View

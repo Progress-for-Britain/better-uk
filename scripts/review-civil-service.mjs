@@ -329,8 +329,7 @@ async function main() {
     reviews.meta.totalReviewed = successItems.length;
     reviews.meta.totalKeep = successItems.filter(r => r.verdict === 'keep').length;
     reviews.meta.totalAbolish = successItems.filter(r => r.verdict === 'abolish').length;
-    // costTicks are in 1/1000th of a cent USD; convert to GBP (approx 0.79)
-    reviews.meta.costGBP = (totalCostTicks / 100_000) * 0.79;
+    reviews.meta.costGBP = Math.round((totalCostTicks / 1e10) * 0.79 * 100) / 100;
     reviews.meta.lastUpdated = new Date().toISOString();
 
     saveReviews(reviews);

@@ -1527,7 +1527,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
               color: '#888',
               lineHeight: 18,
             }}>
-            Each £1 funds one AI review. Every result is public and permanent.
+            Each 1p funds one AI review. Every result is public and permanent.
           </Text>
         </View>
         <Pressable

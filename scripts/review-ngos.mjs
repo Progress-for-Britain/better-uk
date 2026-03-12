@@ -354,7 +354,7 @@ async function main() {
         reviews.meta.totalReviewed = reviews.items.filter(r => !r.error).length;
         reviews.meta.totalKeep = reviews.items.filter(r => r.verdict === 'keep').length;
         reviews.meta.totalDefund = reviews.items.filter(r => r.verdict === 'delete').length;
-        reviews.meta.costGBP = Math.round((totalCostTicks / 100_000) * 78) / 100;
+        reviews.meta.costGBP = Math.round((totalCostTicks / 1e10) * 0.79 * 100) / 100;
         reviews.meta.lastUpdated = new Date().toISOString();
 
         saveReviews(reviews);

@@ -590,7 +590,7 @@ function updateMeta(type, reviews) {
     reviews.meta.totalDefund = items.filter(r => r.verdict === 'delete').length;
   }
 
-  reviews.meta.costGBP = Math.round((totalCostTicks / 100_000) * 78) / 100;
+  reviews.meta.costGBP = Math.round((totalCostTicks / 1e10) * 0.79 * 100) / 100;
   reviews.meta.lastUpdated = new Date().toISOString();
 }
 

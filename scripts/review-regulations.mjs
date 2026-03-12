@@ -453,7 +453,7 @@ async function main() {
         reviews.meta.totalReviewed = reviews.items.filter(r => !r.error).length;
         reviews.meta.totalKeep = reviews.items.filter(r => r.verdict === 'keep').length;
         reviews.meta.totalDelete = reviews.items.filter(r => r.verdict === 'delete').length;
-        reviews.meta.costGBP = Math.round((totalCostTicks / 100_000) * 78) / 100; // Approximate USD ticks to GBP
+        reviews.meta.costGBP = Math.round((totalCostTicks / 1e10) * 0.79 * 100) / 100;
         reviews.meta.lastUpdated = new Date().toISOString();
 
         // Save after each review (incremental)

@@ -3,7 +3,7 @@ import Stripe from 'stripe';
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
 // Price in pence for one AI review
-const REVIEW_PRICE_PENCE = 100; // £1.00
+const REVIEW_PRICE_PENCE = 1; // £0.01
 
 export default async function handler(req, res) {
   // Allow cross-origin requests from local dev

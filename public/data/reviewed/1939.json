@@ -1,0 +1,19 @@
+{
+  "year": 1939,
+  "count": 1,
+  "items": [
+    {
+      "id": "UKLA-1939-c97",
+      "title": "London Building Acts (Amendment) Act 1939",
+      "year": 1939,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/1939/97",
+      "source": "ukla",
+      "verdict": "delete",
+      "summary": "The London Building Acts (Amendment) Act 1939 is a local UK Act amending prior London Building Acts, regulating construction standards, procedures, and safety requirements for buildings in London.",
+      "reason": "Such regulations distort market incentives by mandating one-size-fits-all standards, inflating construction costs, reducing housing supply and affordability, and creating barriers to entry that favor entrenched interests over innovation. Private property rights, tort liability, insurance markets, and reputational effects already incentivize safe building practices more efficiently than bureaucratic oversight. This 1939 amendment, likely obsolete or superseded, perpetuates regulatory accretion, administrative burdens, and unintended consequences like slower development and higher prices, harming prosperity without clear evidence of net safety gains that markets couldn't achieve.",
+      "costTicks": 3473750,
+      "reviewedAt": "2026-03-12T12:38:13.882Z"
+    }
+  ]
+}

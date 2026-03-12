@@ -1,0 +1,19 @@
+{
+  "year": 1902,
+  "count": 1,
+  "items": [
+    {
+      "id": "UKLA-1902-c211",
+      "title": "Education Board Provisional Order Confirmation (London) Act 1902",
+      "year": 1902,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/1902/211",
+      "source": "ukla",
+      "verdict": "delete",
+      "summary": "Confirms a provisional order establishing or authorizing an Education Board in London in 1902, a local act now only available as PDF and likely obsolete.",
+      "reason": "This 120-year-old local act exemplifies early state expansion into education via tax-funded boards, distorting incentives by crowding out private schooling, creating monopolies, and imposing unseen costs like reduced innovation and choice. It clutters the statute book, fostering legal uncertainty and symbolic government overreach; modern education is governed by subsequent laws, so deletion incurs no loss while promoting institutional clarity and liberty for market-driven alternatives.",
+      "costTicks": 2988250,
+      "reviewedAt": "2026-03-12T12:37:59.236Z"
+    }
+  ]
+}

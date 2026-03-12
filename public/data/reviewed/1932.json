@@ -1,0 +1,19 @@
+{
+  "year": 1932,
+  "count": 1,
+  "items": [
+    {
+      "id": "UKLA-1932-c37",
+      "title": "Thames Conservancy Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/1932/37",
+      "source": "ukla",
+      "verdict": "delete",
+      "summary": "The Thames Conservancy Act 1932 is a local UK Act that consolidated and updated powers for the Thames Conservancy Board to manage the non-tidal River Thames, including navigation, flood control, dredging, water supply, and related infrastructure.",
+      "reason": "This 1932 Act established a government monopoly over Thames management, distorting market incentives by preventing private enterprise in navigation, maintenance, and recreational services; it imposed taxpayer-funded bureaucracy with unseen costs like inefficiency, overregulation, and stifled innovation (e.g., private toll bridges or competitive dredging). Much of it has been superseded by later legislation (e.g., transfers to the Environment Agency in 1996), making it redundant; deletion eliminates legal clutter, reduces compliance burdens, and allows superior market-based or minimalist institutions to emerge without harming navigation or flood control, which persist under modern frameworks.",
+      "costTicks": 2836500,
+      "reviewedAt": "2026-03-12T12:38:07.094Z"
+    }
+  ]
+}

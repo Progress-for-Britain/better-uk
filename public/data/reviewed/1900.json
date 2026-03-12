@@ -1,0 +1,19 @@
+{
+  "year": 1900,
+  "count": 1,
+  "items": [
+    {
+      "id": "UKLA-1900-c269",
+      "title": "London County Council (Improvements) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/1900/269",
+      "source": "ukla",
+      "verdict": "delete",
+      "summary": "Local Act authorizing the London County Council to undertake specific public improvements in London, such as infrastructure projects, likely involving compulsory purchase and funding in 1900.",
+      "reason": "This 124-year-old local act relates to long-completed works by the now-abolished London County Council (dissolved 1965). No ongoing effects or powers remain relevant; retaining it bloats the statute book, raising search and compliance costs for citizens, businesses, and legal professionals, distorting incentives through legal uncertainty without delivering any current benefits or institutions for prosperity.",
+      "costTicks": 3450750,
+      "reviewedAt": "2026-03-12T12:37:55.579Z"
+    }
+  ]
+}

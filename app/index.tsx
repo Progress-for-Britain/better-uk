@@ -840,6 +840,130 @@ function RegulationRow({ item, isNGO, isCS }: { item: Regulation | NGO | CivilSe
   );
 }
 
+// ─── Compact Year Selector (decade-based) ─────────────────────────────────────
+
+function YearSelector({
+  years,
+  selectedYear,
+  onSelectYear,
+}: {
+  years: (string | number)[];
+  selectedYear: string | number | null;
+  onSelectYear: (y: string | number | null) => void;
+}) {
+  const numericYears = years.filter((y): y is number => typeof y === 'number').sort((a, b) => a - b);
+  if (numericYears.length === 0) return null;
+
+  // Group into decades
+  const decades = [...new Set(numericYears.map((y) => Math.floor(y / 10) * 10))].sort((a, b) => b - a);
+  const selectedDecade = typeof selectedYear === 'number'
+    ? Math.floor(selectedYear / 10) * 10
+    : null;
+  const [expandedDecade, setExpandedDecade] = useState<number | null>(selectedDecade);
+
+  const decadeYears = expandedDecade !== null
+    ? numericYears.filter((y) => Math.floor(y / 10) * 10 === expandedDecade)
+    : [];
+
+  return (
+    <View style={{ gap: 6 }}>
+      {/* Decade pills */}
+      <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+        <View
+          style={{
+            flexDirection: 'row',
+            borderWidth: 1,
+            borderColor: '#e5e5e5',
+            borderRadius: 8,
+            overflow: 'hidden',
+            backgroundColor: '#fafaf8',
+          }}>
+          <Pressable
+            onPress={() => { onSelectYear(null); setExpandedDecade(null); }}
+            style={{
+              paddingHorizontal: 12,
+              paddingVertical: 7,
+              backgroundColor: selectedYear === null ? '#3b82f6' : 'transparent',
+              borderRightWidth: 1,
+              borderRightColor: '#e5e5e5',
+            }}>
+            <Text
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: 12,
+                color: selectedYear === null ? '#fff' : '#666',
+              }}>
+              All
+            </Text>
+          </Pressable>
+          {decades.map((d, i) => {
+            const isActive = expandedDecade === d;
+            const hasSelected = selectedDecade === d;
+            return (
+              <Pressable
+                key={d}
+                onPress={() => setExpandedDecade(isActive ? null : d)}
+                style={{
+                  paddingHorizontal: 10,
+                  paddingVertical: 7,
+                  backgroundColor: hasSelected ? '#dbeafe' : isActive ? '#f0f0ee' : 'transparent',
+                  borderRightWidth: i < decades.length - 1 ? 1 : 0,
+                  borderRightColor: '#e5e5e5',
+                }}>
+                <Text
+                  style={{
+                    fontFamily: "'DM Mono', monospace",
+                    fontSize: 12,
+                    color: hasSelected ? '#1d4ed8' : isActive ? '#111' : '#666',
+                    fontWeight: hasSelected ? '600' : '400',
+                  }}>
+                  {d}s
+                </Text>
+              </Pressable>
+            );
+          })}
+        </View>
+      </ScrollView>
+      {/* Individual years within selected decade */}
+      {decadeYears.length > 0 && (
+        <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+          <View
+            style={{
+              flexDirection: 'row',
+              borderWidth: 1,
+              borderColor: '#e5e5e5',
+              borderRadius: 8,
+              overflow: 'hidden',
+              backgroundColor: '#fafaf8',
+            }}>
+            {decadeYears.map((y, i) => (
+              <Pressable
+                key={y}
+                onPress={() => onSelectYear(selectedYear === y ? null : y)}
+                style={{
+                  paddingHorizontal: 10,
+                  paddingVertical: 7,
+                  backgroundColor: selectedYear === y ? '#3b82f6' : 'transparent',
+                  borderRightWidth: i < decadeYears.length - 1 ? 1 : 0,
+                  borderRightColor: '#e5e5e5',
+                }}>
+                <Text
+                  style={{
+                    fontFamily: "'DM Mono', monospace",
+                    fontSize: 12,
+                    color: selectedYear === y ? '#fff' : '#666',
+                  }}>
+                  {y}
+                </Text>
+              </Pressable>
+            ))}
+          </View>
+        </ScrollView>
+      )}
+    </View>
+  );
+}
+
 // ─── Verdicts Table ───────────────────────────────────────────────────────────
 
 function VerdictsTable({
@@ -848,16 +972,19 @@ function VerdictsTable({
   onSelectFilter,
   isNGO,
   isCS,
+  category,
 }: {
   items: (Regulation | NGO | CivilServiceBody)[];
   selectedFilter: string | number | null;
   onSelectFilter: (v: string | number | null) => void;
   isNGO: boolean;
   isCS: boolean;
+  category: ActiveCategory;
 }) {
   const isWide = useIsWide();
   const [search, setSearch] = useState('');
   const [verdictPage, setVerdictPage] = useState(0);
+  const [showFundModal, setShowFundModal] = useState(false);
   const VERDICT_PAGE_SIZE = 25;
   const filterField = isCS ? 'type' : isNGO ? 'sector' : 'year';
   const filterValues: (string | number)[] = isCS
@@ -928,7 +1055,7 @@ function VerdictsTable({
           </Text>
         </View>
 
-        {/* Search + filter pills */}
+        {/* Search + filter */}
         <View style={{ alignItems: isWide ? 'flex-end' : 'stretch', gap: 8 }}>
           {/* Text search */}
           <TextInput
@@ -959,7 +1086,13 @@ function VerdictsTable({
             }}>
             Filter by {isCS ? 'type' : isNGO ? 'sector' : 'year'}
           </Text>
-          {filterValues.length > 0 && (
+          {!isCS && !isNGO && filterValues.length > 0 ? (
+            <YearSelector
+              years={filterValues}
+              selectedYear={selectedFilter}
+              onSelectYear={onSelectFilter}
+            />
+          ) : filterValues.length > 0 ? (
             <ScrollView horizontal showsHorizontalScrollIndicator={false}>
               <View
                 style={{
@@ -993,7 +1126,7 @@ function VerdictsTable({
                 ))}
               </View>
             </ScrollView>
-          )}
+          ) : null}
         </View>
       </View>
 
@@ -1026,6 +1159,64 @@ function VerdictsTable({
           </Text>
         </View>
       </View>
+
+      {/* Help us review CTA */}
+      <View
+        style={{
+          flexDirection: isWide ? 'row' : 'column',
+          alignItems: isWide ? 'center' : 'stretch',
+          gap: isWide ? 20 : 12,
+          borderRadius: 12,
+          borderWidth: 1,
+          borderColor: '#e0eaff',
+          backgroundColor: '#f8faff',
+          padding: isWide ? 20 : 16,
+          marginBottom: 24,
+        }}>
+        <View style={{ flex: 1 }}>
+          <Text
+            style={{
+              fontFamily: "'Instrument Serif', serif",
+              fontSize: 18,
+              color: '#111',
+              marginBottom: 4,
+            }}>
+            Help us review{' '}
+            <Text style={{ fontStyle: 'italic', color: '#3b82f6' }}>everything</Text>
+          </Text>
+          <Text
+            style={{
+              fontFamily: "'DM Mono', monospace",
+              fontSize: 12,
+              color: '#888',
+              lineHeight: 18,
+            }}>
+            Each 1p funds one AI review. Every result is public and permanent.
+          </Text>
+        </View>
+        <Pressable
+          onPress={() => setShowFundModal(true)}
+          style={({ pressed }) => ({
+            paddingVertical: 10,
+            paddingHorizontal: 20,
+            borderRadius: 8,
+            backgroundColor: pressed ? '#1d4ed8' : '#3b82f6',
+            alignItems: 'center',
+            alignSelf: isWide ? 'center' : 'stretch',
+            ...(Platform.OS === 'web' ? ({ transition: 'all .15s ease', cursor: 'pointer' } as any) : {}),
+          })}>
+          <Text
+            style={{
+              fontFamily: "'DM Mono', monospace",
+              fontSize: 13,
+              fontWeight: '600',
+              color: '#fff',
+            }}>
+            Fund reviews
+          </Text>
+        </Pressable>
+      </View>
+      <FundReviewsModal visible={showFundModal} onClose={() => setShowFundModal(false)} category={category} />
 
       {/* Table */}
       <View
@@ -1655,39 +1846,11 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
         />
         {/* Year selector for legislation */}
         {isLeg && legislationYears.length > 0 && (
-          <ScrollView horizontal showsHorizontalScrollIndicator={false}>
-            <View
-              style={{
-                flexDirection: 'row',
-                borderWidth: 1,
-                borderColor: '#e5e5e5',
-                borderRadius: 8,
-                overflow: 'hidden',
-                backgroundColor: '#fafaf8',
-              }}>
-              {legislationYears.map((ys, i) => (
-                <Pressable
-                  key={ys.year}
-                  onPress={() => { setSelectedType(null); setSelectedYear(ys.year); }}
-                  style={{
-                    paddingHorizontal: 10,
-                    paddingVertical: 8,
-                    backgroundColor: selectedYear === ys.year ? '#3b82f6' : 'transparent',
-                    borderRightWidth: i < legislationYears.length - 1 ? 1 : 0,
-                    borderRightColor: '#e5e5e5',
-                  }}>
-                  <Text
-                    style={{
-                      fontFamily: "'DM Mono', monospace",
-                      fontSize: 11,
-                      color: selectedYear === ys.year ? '#fff' : '#666',
-                    }}>
-                    {ys.year}
-                  </Text>
-                </Pressable>
-              ))}
-            </View>
-          </ScrollView>
+          <YearSelector
+            years={legislationYears.map(ys => ys.year)}
+            selectedYear={selectedYear}
+            onSelectYear={(y) => { setSelectedType(null); setSelectedYear(typeof y === 'number' ? y : null); }}
+          />
         )}
         {isCS && (
           <View
@@ -2103,6 +2266,7 @@ export default function HomeScreen() {
             onSelectFilter={setSelectedFilter}
             isNGO={isNGO}
             isCS={isCS}
+            category={category}
           />
           <IndexBrowser category={category} />
         </View>

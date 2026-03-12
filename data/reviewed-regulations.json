@@ -1,11 +1,11 @@
 {
   "meta": {
     "totalCorpus": 186900,
-    "totalReviewed": 2499,
-    "totalKeep": 119,
-    "totalDelete": 2380,
-    "costGBP": 0.51,
-    "lastUpdated": "2026-03-12T13:15:39.948Z",
+    "totalReviewed": 2784,
+    "totalKeep": 131,
+    "totalDelete": 2653,
+    "costGBP": 0.58,
+    "lastUpdated": "2026-03-12T13:28:00.065Z",
     "reviewedYears": [
       {
         "year": 1866,
@@ -57,21 +57,21 @@
       },
       {
         "year": 1949,
-        "count": 1000,
-        "keep": 64,
-        "delete": 936
+        "count": 1097,
+        "keep": 68,
+        "delete": 1029
       },
       {
         "year": 1950,
-        "count": 313,
-        "keep": 18,
-        "delete": 295
+        "count": 395,
+        "keep": 24,
+        "delete": 371
       },
       {
         "year": 1951,
-        "count": 179,
-        "keep": 6,
-        "delete": 173
+        "count": 285,
+        "keep": 8,
+        "delete": 277
       }
     ]
   },

@@ -118,6 +118,7 @@ The Batch API processes requests asynchronously at ~50% lower cost with no rate 
 # Submit a batch (regulations, civil-service, or ngos)
 npm run batch:submit -- --type regulations --limit 1000
 npm run batch:submit -- --type regulations --year 2020 --limit 500
+npm run batch:submit -- --type regulations --year 1801-1866  # year range
 npm run batch:submit -- --type civil-service
 npm run batch:submit -- --type ngos --limit 5000
 

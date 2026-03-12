@@ -679,7 +679,19 @@ async function cmdSubmit(flags) {
   }
 
   const limit = parseInt(flags.limit) || (type === 'civil-service' ? 450 : 1000);
-  const yearFilter = flags.year ? parseInt(flags.year) : null;
+  // Support single year (--year 2020) or range (--year 1801-1866)
+  let yearFilter = null;
+  let yearFrom = null;
+  let yearTo = null;
+  if (flags.year) {
+    const rangeMatch = flags.year.match(/^(\d{4})-(\d{4})$/);
+    if (rangeMatch) {
+      yearFrom = parseInt(rangeMatch[1]);
+      yearTo = parseInt(rangeMatch[2]);
+    } else {
+      yearFilter = parseInt(flags.year);
+    }
+  }
   const model = flags.model || MODEL;
 
   console.log(`\n╔══════════════════════════════════════════════════════════╗`);
@@ -689,6 +701,7 @@ async function cmdSubmit(flags) {
   console.log(`  Model: ${model}`);
   console.log(`  Limit: ${limit}`);
   if (yearFilter) console.log(`  Year filter: ${yearFilter}`);
+  if (yearFrom != null) console.log(`  Year range: ${yearFrom}–${yearTo}`);
 
   // Load index
   const indexPath = INDEX_PATHS[type];
@@ -723,6 +736,7 @@ async function cmdSubmit(flags) {
 
   let candidates = allItems.filter(item => !reviewedIds.has(item.id) && !inFlightIds.has(item.id));
   if (yearFilter) candidates = candidates.filter(item => item.year === yearFilter);
+  if (yearFrom != null) candidates = candidates.filter(item => item.year >= yearFrom && item.year <= yearTo);
   console.log(`  Already reviewed: ${reviewedIds.size}`);
   if (inFlightIds.size) console.log(`  In-flight (pending batches): ${inFlightIds.size}`);
   console.log(`  Candidates: ${candidates.length}`);
@@ -747,7 +761,8 @@ async function cmdSubmit(flags) {
   }
 
   // Phase 2: Create batch
-  const batchName = `better-uk-${type}${yearFilter ? `-${yearFilter}` : ''}-${Date.now()}`;
+  const yearLabel = yearFilter ? `-${yearFilter}` : yearFrom != null ? `-${yearFrom}-${yearTo}` : '';
+  const batchName = `better-uk-${type}${yearLabel}-${Date.now()}`;
   console.log(`\n  Creating batch: ${batchName}...`);
   const batchResponse = await createBatch(apiKey, batchName);
   const batchId = batchResponse.batch_id || batchResponse.id;
@@ -762,7 +777,7 @@ async function cmdSubmit(flags) {
     name: batchName,
     type,
     model,
-    yearFilter: yearFilter || null,
+    yearFilter: yearFilter || (yearFrom != null ? `${yearFrom}-${yearTo}` : null),
     itemCount: valid.length,
     createdAt: new Date().toISOString(),
     status: 'submitting',
@@ -1205,7 +1220,7 @@ const USAGE = `
     submit    Submit a batch for review
               --type <regulations|civil-service|ngos>  (required)
               --limit <n>      Max items to submit (default: 1000)
-              --year <year>    Filter by year (regulations only)
+              --year <year>    Filter by year or range, e.g. 2020 or 1801-1866
               --model <model>  Override model (default: grok-4-1)
 
     status    Check batch progress

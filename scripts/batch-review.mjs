@@ -420,22 +420,43 @@ async function prepareItems(type, items) {
 
 // ─── xAI Batch API ────────────────────────────────────────────────────────────
 
-async function apiFetch(apiKey, path, options = {}) {
+async function apiFetch(apiKey, path, options = {}, retries = 3) {
   const url = `${API_BASE}${path}`;
-  const response = await fetch(url, {
-    ...options,
-    signal: AbortSignal.timeout(120_000), // 2 minute timeout
-    headers: {
-      'Authorization': `Bearer ${apiKey}`,
-      'Content-Type': 'application/json',
-      ...options.headers,
-    },
-  });
-  if (!response.ok) {
-    const body = await response.text().catch(() => '');
-    throw new Error(`xAI API ${response.status}: ${body.slice(0, 300)}`);
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const response = await fetch(url, {
+        ...options,
+        signal: AbortSignal.timeout(120_000), // 2 minute timeout
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json',
+          ...options.headers,
+        },
+      });
+      if (!response.ok) {
+        const body = await response.text().catch(() => '');
+        const isRetryable = response.status >= 500 || response.status === 429;
+        if (isRetryable && attempt < retries) {
+          const delay = attempt * 5_000; // 5s, 10s, 15s
+          console.warn(`\n    ⚠ ${response.status} on attempt ${attempt}/${retries}, retrying in ${delay / 1000}s...`);
+          await new Promise(r => setTimeout(r, delay));
+          continue;
+        }
+        throw new Error(`xAI API ${response.status}: ${body.slice(0, 300)}`);
+      }
+      return response.json();
+    } catch (err) {
+      // Retry on network errors / timeouts (but not on non-retryable HTTP errors)
+      if (err.message?.startsWith('xAI API')) throw err;
+      if (attempt < retries) {
+        const delay = attempt * 5_000;
+        console.warn(`\n    ⚠ ${err.name || 'Error'}: ${err.message?.slice(0, 100)} — attempt ${attempt}/${retries}, retrying in ${delay / 1000}s...`);
+        await new Promise(r => setTimeout(r, delay));
+        continue;
+      }
+      throw err;
+    }
   }
-  return response.json();
 }
 
 async function createBatch(apiKey, name) {

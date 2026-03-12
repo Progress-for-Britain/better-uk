@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "count": 12,
+  "count": 14,
   "items": [
     {
       "id": "http://www.legislation.gov.uk/id/ukpga/Eliz2/6-7/51",
@@ -157,6 +157,32 @@
       "reason": "Clear jurisdictional rules over territorial waters are a foundational institution for rule of law, security, and protection of life and property near coasts, enabling safe trade, fishing, and defense essential for prosperity and liberty. Without this Act, legal ambiguity would foster lawlessness, unchecked crimes (e.g., murder, smuggling), and deter economic activity, as private incentives alone cannot reliably establish uniform admiralty enforcement. Safeguards on foreign prosecutions minimize overreach, avoiding distortion of international relations or trade; unseen costs of deletion outweigh minimal bureaucratic burdens.",
       "costTicks": 4015750,
       "reviewedAt": "2026-03-12T11:15:39.246Z"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Eliz2/4-5/60",
+      "title": "Valuation and Rating (Scotland) Act 1956",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/60",
+      "source": "ukpga",
+      "verdict": "delete",
+      "summary": "1956 Act amending Scotland's property valuation and rating laws: centralizes valuation authorities and assessors under Secretary of State oversight; mandates 5-year revaluations; defines gross/net/rateable values with deductions; shifts all rates to occupiers (reducing rents); exempts agricultural lands, churches/charities; special rules for gas boards; adjusts Exchequer grants to locals; numerous repeals/amendments.",
+      "reason": "This Act expands bureaucratic centralization over local property taxation via government-appointed assessors, mandatory revaluations every 5 years, Secretary of State regulations/schemes/advisory councils, and appeal committees, imposing unseen administrative costs (salaries, compliance, litigation) funded by rates that distort private property incentives and suppress development/investment. Shifting liability to occupiers unpredictably burdens tenants, reduces rental market flexibility/supply, and ignores rent control interactions; exemptions for farms/churches/charities favor select uses, creating monopolies/distortions; formulaic valuations ignore dispersed market knowledge (Hayek); Exchequer grants foster fiscal dependency/illusions, eroding local accountability. Without it, simpler market-oriented local assessments would prevail, enhancing liberty/prosperity by minimizing interventionist costs unseen in political rhetoric of 'fair rating'.",
+      "costTicks": 33916750,
+      "reviewedAt": "2026-03-12T11:16:25.734Z"
+    },
+    {
+      "id": "http://www.legislation.gov.uk/id/ukpga/Eliz2/6-7/47",
+      "title": "Agricultural Marketing Act 1958",
+      "year": 2026,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/6-7/47",
+      "source": "ukpga",
+      "verdict": "delete",
+      "summary": "Consolidates prior Agricultural Marketing Acts (1931-1949, excluding eggs) to enable producer-submitted schemes, approved by Ministers, establishing boards to regulate marketing of agricultural products (e.g., milk): requiring producer registration, controlling sales/prices/quantities, imposing penalties, funding via contributions/loans, with oversight committees and ministerial directions.",
+      "reason": "Mandates coercive cartels via state-backed boards that restrict supply, fix prices, limit sales channels, and penalize non-compliance, distorting incentives, raising consumer costs, creating monopolies/barriers to entry, enabling rent-seeking, and reducing efficiency/innovation; unseen costs include suppressed competition, producer exodus, supply shortages, and failure to achieve efficient production/marketing without free markets.",
+      "costTicks": 33524250,
+      "reviewedAt": "2026-03-12T11:16:25.735Z"
     }
   ]
 }

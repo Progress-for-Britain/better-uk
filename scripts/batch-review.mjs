@@ -697,6 +697,22 @@ async function cmdSubmit(flags) {
   const batchId = batchResponse.batch_id || batchResponse.id;
   console.log(`  Batch ID: ${batchId}`);
 
+  // Save job + item map immediately so Ctrl+C during chunking doesn't lose the batch
+  const itemMap = Object.fromEntries(valid.map(({ item }) => [item.id, item]));
+  saveItemsForBatch(batchId, itemMap);
+
+  jobs.jobs.push({
+    batchId,
+    name: batchName,
+    type,
+    model,
+    yearFilter: yearFilter || null,
+    itemCount: valid.length,
+    createdAt: new Date().toISOString(),
+    status: 'submitting',
+  });
+  saveJobs(jobs);
+
   // Phase 3: Submit requests in chunks
   const prompt = PROMPTS[type];
   const batchRequests = valid.map(({ item, promptText }) => ({
@@ -745,21 +761,9 @@ async function cmdSubmit(flags) {
     if (i < chunks.length - 1) await sleep(350);
   }
 
-  // Phase 4: Save job info + items for later result mapping
-  const itemMap = Object.fromEntries(valid.map(({ item }) => [item.id, item]));
-  saveItemsForBatch(batchId, itemMap);
-
-  jobs.jobs.push({
-    batchId,
-    name: batchName,
-    type,
-    model,
-    yearFilter: yearFilter || null,
-    itemCount: valid.length,
-    createdAt: new Date().toISOString(),
-    status: 'submitted',
-  });
-  saveJobs(jobs);
+  // Update status now that all chunks are submitted
+  const job = jobs.jobs.find(j => j.batchId === batchId);
+  if (job) { job.status = 'submitted'; saveJobs(jobs); }
 
   console.log(`\n  ✓ Batch submitted successfully!`);
   console.log(`  Batch ID: ${batchId}`);
@@ -828,25 +832,36 @@ async function cmdResults(flags) {
   const jobs = loadJobs();
 
   let batchId = flags['batch-id'];
-  let job;
 
-  if (!batchId) {
-    // Use most recent job
-    job = jobs.jobs.filter(j => j.status !== 'completed').pop() || jobs.jobs[jobs.jobs.length - 1];
+  if (batchId) {
+    // Process a specific batch
+    const job = jobs.jobs.find(j => j.batchId === batchId);
     if (!job) {
-      console.error('\n  ✗ No batch jobs found.\n');
+      console.error(`\n  ✗ No local job found for batch ${batchId}.`);
+      console.error(`    Only batches submitted by this script can have results processed.\n`);
       return;
     }
-    batchId = job.batchId;
+    await fetchResultsForJob(apiKey, jobs, job);
   } else {
-    job = jobs.jobs.find(j => j.batchId === batchId);
+    // Process ALL non-completed jobs
+    const pending = jobs.jobs.filter(j => j.status !== 'completed');
+    if (pending.length === 0) {
+      // Fall back to latest job
+      const last = jobs.jobs[jobs.jobs.length - 1];
+      if (!last) { console.error('\n  ✗ No batch jobs found.\n'); return; }
+      console.log(`\n  All jobs completed. Re-checking latest...`);
+      await fetchResultsForJob(apiKey, jobs, last);
+    } else {
+      console.log(`\n  Found ${pending.length} non-completed job(s).\n`);
+      for (const job of pending) {
+        await fetchResultsForJob(apiKey, jobs, job);
+      }
+    }
   }
+}
 
-  if (!job) {
-    console.error(`\n  ✗ No local job found for batch ${batchId}.`);
-    console.error(`    Only batches submitted by this script can have results processed.\n`);
-    return;
-  }
+async function fetchResultsForJob(apiKey, jobs, job) {
+  const batchId = job.batchId;
 
   console.log(`\n  Fetching results for: ${job.name} (${job.type})`);
   console.log(`  Batch ID: ${batchId}\n`);

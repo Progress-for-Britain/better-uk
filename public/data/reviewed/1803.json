@@ -1,6 +1,6 @@
 {
   "year": 1803,
-  "count": 134,
+  "count": 140,
   "items": [
     {
       "id": "UKLA-1803-c10",
@@ -1743,6 +1743,84 @@
       "reason": "This 220-year-old private Act addresses a long-resolved historical estate matter with no modern application or enforcement. Keeping it imposes unseen costs: clutters the statute book, inflating legal research expenses for professionals and businesses; perpetuates administrative bloat in maintaining obsolete records; distorts incentives by signaling tolerance for irrelevant laws that complicate the institutional framework without benefits, hindering clarity in property rights essential for prosperity.",
       "costTicks": 1983500,
       "reviewedAt": "2026-03-12T13:59:25.073Z"
+    },
+    {
+      "id": "UKLA-1803-c97",
+      "title": "Earl Ferrers' Estate Act 1803",
+      "year": 1803,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/43/97",
+      "source": "ukla",
+      "verdict": "delete",
+      "summary": "Earl Ferrers' Estate Act 1803: A local private act from 1803 (c. xcvii) concerning specific arrangements for the estate of Earl Ferrers, likely permitting land sales, divisions, or management not allowed under general law at the time; content available only as PDF, indicating obscurity.",
+      "reason": "This 221-year-old private act addresses a one-off historical estate matter with no relevance to modern property rights or economy. Keeping it burdens the legal system with obsolete clutter, raising unseen costs in legal research, compliance checks, and statute maintenance; it distorts incentives by perpetuating an archaic permission structure that favors historical privilege over general liberty, with zero benefits today as affected parties and properties have long evolved.",
+      "costTicks": 2414000,
+      "reviewedAt": "2026-03-12T14:02:43.171Z"
+    },
+    {
+      "id": "UKLA-1803-c99",
+      "title": "Lowther and Lonsdale Estates Act 1803",
+      "year": 1803,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/43/99",
+      "source": "ukla",
+      "verdict": "delete",
+      "summary": "Lowther and Lonsdale Estates Act 1803: A local private act granting specific permissions or arrangements for managing the estates of the Lowther and Lonsdale families, likely related to property division, inheritance, or improvements.",
+      "reason": "This 220-year-old local act is obsolete, with no ongoing relevance to modern property law or economic activity. Retaining it clutters the legal code, imposes maintenance costs on archives and courts, creates potential uncertainty in property titles, and distorts incentives by preserving archaic privileges that hinder clear, general rules favoring private property and liberty. Deletion simplifies institutions without harm, as general common law suffices.",
+      "costTicks": 2326500,
+      "reviewedAt": "2026-03-12T14:02:43.171Z"
+    },
+    {
+      "id": "UKPGA-1803-c108",
+      "title": "Gifts for Churches Act 1803 (repealed 1.6.1992)",
+      "year": 1803,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/43/108",
+      "source": "ukpga",
+      "verdict": "delete",
+      "summary": "The Gifts for Churches Act 1803 was an Act to promote the building, repairing, or providing of churches, chapels, ministers' residences, churchyards, and glebes through gifts. It was repealed on 1 June 1992 by the Church of England (Miscellaneous Provisions) Measure 1992 (except in Channel Islands and Isle of Man).",
+      "reason": "Already repealed over 30 years ago with no outstanding effects; its deletion has imposed no unseen costs on British prosperity, liberty, or property rights. Government facilitation of gifts to established churches distorted private charity incentives and favored state religion over individual choice; confirming deletion prevents any revival and aligns with institutions prioritizing voluntary private action over state-promoted outcomes.",
+      "costTicks": 3717500,
+      "reviewedAt": "2026-03-12T14:02:47.063Z"
+    },
+    {
+      "id": "UKPGA-1803-c139",
+      "title": "Forgery of Foreign Bills Act 1803 (repealed)",
+      "year": 1803,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/43/139",
+      "source": "ukpga",
+      "verdict": "delete",
+      "summary": "The Forgery of Foreign Bills Act 1803 was a statute criminalizing the forgery of foreign bills of exchange. It has been fully repealed since 31 January 2013 by the Statute Law (Repeals) Act 2013 and has no remaining effects.",
+      "reason": "This obsolete 1803 law is already repealed, creating statutory bloat and potential legal uncertainty if retained on the books. Modern forgery laws (e.g., Forgery and Counterfeiting Act 1981) adequately protect property rights and contracts against fraud without needing this archaic, narrow provision on foreign bills, avoiding distortion from redundant regulations.",
+      "costTicks": 2803500,
+      "reviewedAt": "2026-03-12T14:02:47.063Z"
+    },
+    {
+      "id": "UKPGA-1803-c140",
+      "title": "Habeas Corpus Act 1803",
+      "year": 1803,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/43/140",
+      "source": "ukpga",
+      "verdict": "keep",
+      "summary": "1803 Act empowering judges of King's Bench, Common Pleas, and Exchequer to issue writs of habeas corpus, bringing prisoners from English gaols before courts martial, bankruptcy commissioners, public accounts auditors, or other royal commissioners for trial or examination.",
+      "reason": "Deleting this would deny habeas corpus protection for detentions under military or special administrative proceedings, enabling potential arbitrary state detentions without judicial oversight; this legislation upholds the rule of law and individual liberty against unchecked executive/military power—essential institutions that prevent tyranny and foster the security needed for prosperity, which would erode without it.",
+      "costTicks": 2797250,
+      "reviewedAt": "2026-03-12T14:02:47.063Z"
+    },
+    {
+      "id": "UKPGA-1803-c141",
+      "title": "Justices Protection Act 1803",
+      "year": 1803,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo3/43/141",
+      "source": "ukpga",
+      "verdict": "delete",
+      "summary": "An 1803 Act protecting Justices of the Peace from substantial liability for summary convictions or related acts, limiting damages to 2d (nominal amount) unless malice and lack of reasonable cause are alleged and proven, with no recovery if guilt is established; repealed in England/Wales (1848) and Ireland (1849).",
+      "reason": "This legislation was repealed over 170 years ago and has no current legal effect, yet retaining it on the statute books creates administrative bloat, confuses legal practitioners and citizens during research, and imposes unseen costs in time and resources verifying obsolete laws. Modern common law provides qualified immunity for magistrates and judges, ensuring they can execute duties without undue fear of suits; deletion imposes zero risk to justice administration or public safety while simplifying the legal codebase and reducing compliance burdens.",
+      "costTicks": 4966250,
+      "reviewedAt": "2026-03-12T14:02:47.063Z"
     }
   ]
 }

@@ -868,62 +868,76 @@ async function cmdResults(flags) {
     return;
   }
 
-  // Paginate through all results
-  const allResults = [];
-  let paginationToken = null;
-  let page = 0;
-
-  while (true) {
-    page++;
-    const resultPage = await getBatchResults(apiKey, batchId, 100, paginationToken);
-    const items = resultPage.results || [];
-    allResults.push(...items);
-
-    process.stdout.write(`\r  Fetched page ${page}: ${allResults.length} results`);
-
-    paginationToken = resultPage.pagination_token;
-    if (!paginationToken) break;
-  }
-
-  console.log(`\n\n  Processing ${allResults.length} results...`);
-
-  // Load existing reviews and merge
+  // Load existing reviews and merge incrementally (save after each page)
   const reviews = loadReviews(job.type);
   const reviewedIds = new Set(reviews.items.map(r => r.id));
   let added = 0;
   let parseErrors = 0;
   let skippedDupes = 0;
+  let totalFetched = 0;
 
-  for (const result of allResults) {
-    const reqId = result.batch_request_id;
-    if (reviewedIds.has(reqId)) { skippedDupes++; continue; }
+  let paginationToken = null;
+  let page = 0;
 
-    const item = itemMap[reqId];
-    if (!item) { parseErrors++; continue; }
-
-    // xAI batch response: batch_result.response.chat_get_completion
-    const completion = result.batch_result?.response?.chat_get_completion;
-    if (!completion) { parseErrors++; continue; }
-
-    const content = completion.choices?.[0]?.message?.content;
-    if (!content) { parseErrors++; continue; }
-
-    const parsed = parseJsonResponse(content);
-    if (!parsed || !parsed.verdict || !parsed.summary) {
-      parseErrors++;
-      continue;
+  while (true) {
+    page++;
+    let resultPage;
+    try {
+      resultPage = await getBatchResults(apiKey, batchId, 100, paginationToken);
+    } catch (err) {
+      // Save what we have so far and report the error
+      if (added > 0) {
+        updateMeta(job.type, reviews);
+        saveReviews(job.type, reviews);
+        console.log(`\n\n  ⚠ Page ${page} failed: ${err.message?.slice(0, 120)}`);
+        console.log(`  Saved ${added} reviews from pages 1-${page - 1}. Run results again to continue.`);
+      } else {
+        console.error(`\n\n  ✗ Page ${page} failed: ${err.message?.slice(0, 120)}`);
+      }
+      break;
     }
 
-    const costTicks = completion.usage?.cost_in_usd_ticks ?? 0;
-    const review = buildReviewResult(job.type, item, parsed, costTicks);
-    reviews.items.push(review);
-    reviewedIds.add(reqId);
-    added++;
+    const items = resultPage.results || [];
+    totalFetched += items.length;
+
+    // Process this page's results immediately
+    for (const result of items) {
+      const reqId = result.batch_request_id;
+      if (reviewedIds.has(reqId)) { skippedDupes++; continue; }
+
+      const item = itemMap[reqId];
+      if (!item) { parseErrors++; continue; }
+
+      const completion = result.batch_result?.response?.chat_get_completion;
+      if (!completion) { parseErrors++; continue; }
+
+      const content = completion.choices?.[0]?.message?.content;
+      if (!content) { parseErrors++; continue; }
+
+      const parsed = parseJsonResponse(content);
+      if (!parsed || !parsed.verdict || !parsed.summary) {
+        parseErrors++;
+        continue;
+      }
+
+      const costTicks = completion.usage?.cost_in_usd_ticks ?? 0;
+      const review = buildReviewResult(job.type, item, parsed, costTicks);
+      reviews.items.push(review);
+      reviewedIds.add(reqId);
+      added++;
+    }
+
+    // Save incrementally after each page
+    updateMeta(job.type, reviews);
+    saveReviews(job.type, reviews);
+
+    process.stdout.write(`\r  Page ${page}: ${totalFetched} fetched, ${added} new, ${skippedDupes} dupes`);
+
+    paginationToken = resultPage.pagination_token;
+    if (!paginationToken) break;
   }
 
-  // Update meta and save
-  updateMeta(job.type, reviews);
-  saveReviews(job.type, reviews);
+  console.log(`\n\n  Processing complete.`);
 
   // Update job status
   const isPending = (state.num_pending || 0) > 0;

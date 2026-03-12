@@ -36,16 +36,16 @@ function VerdictBadge({ verdict, label }: { verdict: string; label?: string }) {
 export default function RegulationDetail() {
   const { id, review } = useLocalSearchParams<{ id: string; review?: string }>();
   const decodedId = decodeURIComponent(id ?? '');
-  const regulation = mockRegulations.find((r) => r.id === decodedId);
-  const ngo = mockNGOs.find((n) => n.id === decodedId);
-  const csBody = mockCivilService.find((b) => b.id === decodedId);
+  const regulation = mockRegulations.find((r: { id: string; }) => r.id === decodedId);
+  const ngo = mockNGOs.find((n: { id: string; }) => n.id === decodedId);
+  const csBody = mockCivilService.find((b: { id: string; }) => b.id === decodedId);
   const item = regulation ?? ngo ?? csBody;
   const isNGO = !!ngo;
   const isCS = !!csBody;
 
   // Check unreviewed index items if not found in reviewed data
-  const indexNGO = !item ? ngoIndexItems.find((n) => n.id === decodedId) : null;
-  const indexCS = !item ? csIndexItems.find((b) => b.id === decodedId) : null;
+  const indexNGO = !item ? ngoIndexItems.find((n: { id: string; }) => n.id === decodedId) : null;
+  const indexCS = !item ? csIndexItems.find((b: { id: string; }) => b.id === decodedId) : null;
   const indexItem = indexNGO ?? indexCS;
   const isUnreviewed = !item && !!indexItem;
   const isPending = review === 'pending';

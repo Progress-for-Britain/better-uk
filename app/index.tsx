@@ -22,6 +22,7 @@ import {
   deletePercent,
   fetchCSIndex,
   fetchNGOIndex,
+  fetchReviewedRegulations,
   getYearStats,
   GROK_MODEL,
   GROK_PROMPT_CIVIL_SERVICE,
@@ -2016,6 +2017,11 @@ export default function HomeScreen() {
   const [showFundedBanner, setShowFundedBanner] = useState(!!funded);
   const [category, setCategory] = useState<ActiveCategory>('regulations');
   const [selectedFilter, setSelectedFilter] = useState<string | number | null>(null);
+  const [loadedRegulations, setLoadedRegulations] = useState<Regulation[]>(mockRegulations);
+
+  useEffect(() => {
+    fetchReviewedRegulations().then(setLoadedRegulations);
+  }, []);
 
   const handleCategoryChange = (c: ActiveCategory) => {
     setCategory(c);
@@ -2028,7 +2034,7 @@ export default function HomeScreen() {
     ? mockCivilService
     : isNGO
       ? mockNGOs
-      : mockRegulations;
+      : loadedRegulations;
 
   return (
     <ScrollView

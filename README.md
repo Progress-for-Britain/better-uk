@@ -108,6 +108,7 @@ The same three-tier pattern applies to reviewed data — as the reviewed corpus 
 | `npm run batch:results`    | Download results and merge into reviewed JSON                 |
 | `npm run batch:list`       | List all batches from xAI                                     |
 | `npm run batch:cancel`     | Cancel a running batch                                        |
+| `npm run batch:recheck`    | Rebuild year files & meta from all batch results              |
 
 ### 3. Batch review — xAI Batch API (cheaper, async)
 
@@ -131,6 +132,11 @@ npm run batch:results -- --batch-id <id>
 # List all batches / cancel a batch
 npm run batch:list
 npm run batch:cancel -- --batch-id <id>
+
+# Rebuild per-year files and meta from all reviewed data
+npm run batch:recheck
+npm run batch:recheck -- --type ngos
+npm run batch:recheck -- --type civil-service
 ```
 
 The batch script pre-fetches content in parallel (20 concurrent requests), submits to xAI in chunks of 200, and tracks jobs locally in `data/batch-jobs.json`. Results merge into the same `reviewed-*.json` files as the real-time scripts — fully compatible.

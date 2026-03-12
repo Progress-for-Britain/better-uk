@@ -29,29 +29,88 @@ export interface YearStat {
 }
 
 // --- Regulation data from reviewed JSON ---
+// NOTE: Items live in per-year files under public/data/reviewed/ (too large for bundle).
+// The monolith (reviewed-regulations.json) carries only meta + reviewedYears summary.
 
 export const TOTAL_UK_REGULATIONS = (legIndexJson as any).totalItems || (legIndexJson as any).items?.length || 0;
 const regsData = reviewedRegsJson as unknown as ReviewedJson;
+const regsMeta = regsData.meta;
 
-export const REVIEW_COST_GBP = regsData.meta.costGBP;
+export const REVIEW_COST_GBP = regsMeta.costGBP;
 
-export const regulations: Regulation[] = (regsData.items as any[])
-  .filter((item: any) => item.verdict && item.summary)
-  .map((item: any) => ({
-    id: item.id,
-    title: item.title ?? item.id,
-    year: item.year ?? 0,
-    type: (item.type ?? 'Act') as LegType,
-    verdict: item.verdict as Verdict,
-    summary: item.summary,
-    reason: item.reason ?? '',
-    url: item.url ?? '',
-  }));
+// Derive stats from meta.reviewedYears (items[] is intentionally empty in the monolith)
+const reviewedYears: { year: number; count: number; keep: number; delete: number }[] =
+  (regsMeta as any).reviewedYears ?? [];
 
-// Backward-compatible alias
+// Mutable array — empty at import time, populated by fetchReviewedRegulations()
+export const regulations: Regulation[] = [];
 export const mockRegulations = regulations;
 
-// --- Year statistics ---
+// Async loader: fetches all per-year reviewed files and populates `regulations`
+let _regsFetched = false;
+export async function fetchReviewedRegulations(): Promise<Regulation[]> {
+  if (_regsFetched) return regulations;
+  const years = reviewedYears.map((y) => y.year);
+  const results = await Promise.all(
+    years.map(async (year) => {
+      try {
+        const res = await fetch(`/data/reviewed/${year}.json`);
+        if (!res.ok) return [];
+        const json = await res.json();
+        return (json.items ?? []) as any[];
+      } catch {
+        return [];
+      }
+    })
+  );
+  const items = results.flat();
+  const mapped: Regulation[] = items
+    .filter((item: any) => item.verdict && item.summary)
+    .map((item: any) => ({
+      id: item.id,
+      title: item.title ?? item.id,
+      year: item.year ?? 0,
+      type: (item.type ?? 'Act') as LegType,
+      verdict: item.verdict as Verdict,
+      summary: item.summary,
+      reason: item.reason ?? '',
+      url: item.url ?? '',
+    }));
+  // Populate the shared mutable array so existing references update
+  regulations.length = 0;
+  regulations.push(...mapped);
+  _regsFetched = true;
+  return regulations;
+}
+
+// Fetch a single year's reviewed regulations (for detail page lookups)
+const _yearCache = new Map<number, Regulation[]>();
+export async function fetchReviewedYear(year: number): Promise<Regulation[]> {
+  if (_yearCache.has(year)) return _yearCache.get(year)!;
+  try {
+    const res = await fetch(`/data/reviewed/${year}.json`);
+    if (!res.ok) return [];
+    const json = await res.json();
+    const items: Regulation[] = (json.items ?? [])
+      .filter((item: any) => item.verdict && item.summary)
+      .map((item: any) => ({
+        id: item.id,
+        title: item.title ?? item.id,
+        year: item.year ?? year,
+        type: (item.type ?? 'Act') as LegType,
+        verdict: item.verdict as Verdict,
+        summary: item.summary,
+        reason: item.reason ?? '',
+        url: item.url ?? '',
+      }));
+    _yearCache.set(year, items);
+    return items;
+  } catch {
+    return [];
+  }
+}
+
+// --- Year statistics (derived from meta, no items needed) ---
 
 export function getYearStats(): YearStat[] {
   const yearMap = new Map<number, YearStat>();
@@ -61,13 +120,14 @@ export function getYearStats(): YearStat[] {
     yearMap.set(ys.year, { year: ys.year, total: ys.total ?? 0, reviewed: 0 });
   }
 
-  for (const reg of regulations) {
-    let stat = yearMap.get(reg.year);
+  // Overlay reviewed counts from the monolith meta
+  for (const ry of reviewedYears) {
+    let stat = yearMap.get(ry.year);
     if (!stat) {
-      stat = { year: reg.year, total: 0, reviewed: 0 };
-      yearMap.set(reg.year, stat);
+      stat = { year: ry.year, total: 0, reviewed: 0 };
+      yearMap.set(ry.year, stat);
     }
-    stat.reviewed++;
+    stat.reviewed = ry.count;
   }
 
   return Array.from(yearMap.values())
@@ -76,8 +136,8 @@ export function getYearStats(): YearStat[] {
 }
 
 export const totalRegulations = TOTAL_UK_REGULATIONS;
-export const totalReviewed = regulations.length;
-export const totalDeletes = regulations.filter((r) => r.verdict === 'delete').length;
+export const totalReviewed = regsMeta.totalReviewed ?? 0;
+export const totalDeletes = (regsMeta as any).totalDelete ?? 0;
 export const deletePercent =
   totalReviewed > 0 ? Math.round((totalDeletes / totalReviewed) * 100) : 0;
 

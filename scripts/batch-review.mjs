@@ -500,6 +500,17 @@ function loadJobs() {
 
 function saveJobs(data) {
   mkdirSync(DATA_DIR, { recursive: true });
+  // Re-read and merge to avoid clobbering entries added by concurrent processes
+  if (existsSync(JOBS_PATH)) {
+    const disk = JSON.parse(readFileSync(JOBS_PATH, 'utf-8'));
+    const memIds = new Set(data.jobs.map(j => j.batchId));
+    // Add any disk-only entries that our in-memory copy doesn't know about
+    for (const dj of disk.jobs) {
+      if (!memIds.has(dj.batchId)) {
+        data.jobs.push(dj);
+      }
+    }
+  }
   writeFileSync(JOBS_PATH, JSON.stringify(data, null, 2));
 }
 
@@ -555,6 +566,17 @@ function loadReviews(type) {
       const totalCostTicks = items.reduce((s, r) => s + (r.costTicks || 0), 0);
       meta.costGBP = Math.round((totalCostTicks / 1e10) * 0.79 * 100) / 100;
       meta.lastUpdated = new Date().toISOString();
+      // Build reviewedYears from per-year files
+      meta.reviewedYears = files.map(f => {
+        const yearData = JSON.parse(readFileSync(resolve(REVIEWED_YEAR_DIR, f), 'utf-8'));
+        const yr = Number(f.replace('.json', ''));
+        return {
+          year: yr,
+          count: yearData.items?.length || 0,
+          keep: yearData.items?.filter(r => r.verdict === 'keep').length || 0,
+          delete: yearData.items?.filter(r => r.verdict !== 'keep').length || 0,
+        };
+      }).sort((a, b) => a.year - b.year);
       return { items, meta };
     }
   }
@@ -581,6 +603,13 @@ function saveReviews(type, data) {
         JSON.stringify({ year: Number(year), count: items.length, items }, null, 2)
       );
     }
+    // Build reviewedYears summary for meta
+    data.meta.reviewedYears = Object.entries(yearGroups).map(([year, items]) => ({
+      year: Number(year),
+      count: items.length,
+      keep: items.filter(r => r.verdict === 'keep').length,
+      delete: items.filter(r => r.verdict !== 'keep').length,
+    })).sort((a, b) => a.year - b.year);
     // Write a lightweight meta file (no items) for the monolith path
     writeFileSync(REVIEW_PATHS[type], JSON.stringify({ meta: data.meta, items: [] }, null, 2));
   } else {
@@ -858,11 +887,35 @@ async function cmdResults(flags) {
 
   if (batchId) {
     // Process a specific batch
-    const job = jobs.jobs.find(j => j.batchId === batchId);
+    let job = jobs.jobs.find(j => j.batchId === batchId);
     if (!job) {
-      console.error(`\n  ✗ No local job found for batch ${batchId}.`);
-      console.error(`    Only batches submitted by this script can have results processed.\n`);
-      return;
+      // Recover: if items file exists, reconstruct the job entry
+      const itemMap = loadItemsForBatch(batchId);
+      if (itemMap) {
+        console.log(`\n  ⚠ Job entry missing from batch-jobs.json — reconstructing from items file...`);
+        const itemCount = Object.keys(itemMap).length;
+        // Try to infer type and year from the items
+        const firstItem = Object.values(itemMap)[0];
+        const type = flags.type || (firstItem?.source ? 'regulations' : firstItem?.sector ? 'ngos' : 'civil-service');
+        const yearFilter = flags.year ? Number(flags.year) : (firstItem?.year || null);
+        job = {
+          batchId,
+          name: `recovered-${batchId}`,
+          type,
+          model: MODEL,
+          yearFilter,
+          itemCount,
+          createdAt: new Date().toISOString(),
+          status: 'submitted',
+        };
+        jobs.jobs.push(job);
+        saveJobs(jobs);
+        console.log(`  Recovered job: type=${type}, year=${yearFilter}, items=${itemCount}`);
+      } else {
+        console.error(`\n  ✗ No local job found for batch ${batchId} and no items file to recover from.`);
+        console.error(`    Only batches submitted by this script can have results processed.\n`);
+        return;
+      }
     }
     await fetchResultsForJob(apiKey, jobs, job);
   } else {

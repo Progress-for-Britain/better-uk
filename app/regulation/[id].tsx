@@ -1,10 +1,10 @@
 import { Link, useLocalSearchParams } from 'expo-router';
 import Head from 'expo-router/head';
-import { useState } from 'react';
-import { Linking, Pressable, ScrollView, Text, View } from 'react-native';
+import { useEffect, useState } from 'react';
+import { ActivityIndicator, Linking, Pressable, ScrollView, Text, View } from 'react-native';
 
 import { RequestReviewButton } from '@/components/request-review';
-import { csIndexItems, GROK_MODEL, GROK_PROMPT_CIVIL_SERVICE, GROK_PROMPT_NGOS, GROK_PROMPT_REGULATIONS, mockCivilService, mockNGOs, mockRegulations, ngoIndexItems, type CivilServiceBody, type NGO, type Regulation } from '@/lib/data';
+import { csIndexItems, fetchReviewedRegulations, GROK_MODEL, GROK_PROMPT_CIVIL_SERVICE, GROK_PROMPT_NGOS, GROK_PROMPT_REGULATIONS, mockCivilService, mockNGOs, ngoIndexItems, type CivilServiceBody, type NGO, type Regulation } from '@/lib/data';
 
 function VerdictBadge({ verdict, label }: { verdict: string; label?: string }) {
   const isNegative = verdict === 'delete' || verdict === 'abolish';
@@ -36,7 +36,14 @@ function VerdictBadge({ verdict, label }: { verdict: string; label?: string }) {
 export default function RegulationDetail() {
   const { id, review } = useLocalSearchParams<{ id: string; review?: string }>();
   const decodedId = decodeURIComponent(id ?? '');
-  const regulation = mockRegulations.find((r: { id: string; }) => r.id === decodedId);
+  const [regs, setRegs] = useState<Regulation[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetchReviewedRegulations().then((r) => { setRegs(r); setLoading(false); });
+  }, []);
+
+  const regulation = regs.find((r: { id: string; }) => r.id === decodedId);
   const ngo = mockNGOs.find((n: { id: string; }) => n.id === decodedId);
   const csBody = mockCivilService.find((b: { id: string; }) => b.id === decodedId);
   const item = regulation ?? ngo ?? csBody;

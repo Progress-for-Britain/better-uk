@@ -424,6 +424,7 @@ async function apiFetch(apiKey, path, options = {}) {
   const url = `${API_BASE}${path}`;
   const response = await fetch(url, {
     ...options,
+    signal: AbortSignal.timeout(120_000), // 2 minute timeout
     headers: {
       'Authorization': `Bearer ${apiKey}`,
       'Content-Type': 'application/json',
@@ -709,8 +710,17 @@ async function cmdSubmit(flags) {
 
   for (let i = 0; i < chunks.length; i++) {
     const chunk = chunks[i];
-    await addBatchRequests(apiKey, batchId, chunk);
-    console.log(`    Chunk ${i + 1}/${chunks.length}: ${chunk.length} requests submitted`);
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      try {
+        await addBatchRequests(apiKey, batchId, chunk);
+        console.log(`    Chunk ${i + 1}/${chunks.length}: ${chunk.length} requests submitted`);
+        break;
+      } catch (err) {
+        if (attempt === 3) throw err;
+        console.log(`    Chunk ${i + 1}/${chunks.length}: retry ${attempt}/3 (${err.message.slice(0, 80)})`);
+        await sleep(2000 * attempt);
+      }
+    }
     if (i < chunks.length - 1) await sleep(350);
   }
 

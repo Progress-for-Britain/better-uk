@@ -42,7 +42,6 @@ app-example
 # Large data files not needed in the bundle (app uses *-lite.json / per-year files instead)
 data/ngo-index.json
 data/legislation-index.json
-data/reviewed-regulations.json
 data/batch-jobs.json
 data/batches/
 

@@ -18,9 +18,10 @@ import { ContentBackground, HeroBackground } from '@/components/skia-background'
 import {
   CS_REVIEW_COST_GBP,
   csAbolishPercent,
-  csIndexItems,
   csTotalReviewed,
   deletePercent,
+  fetchCSIndex,
+  fetchNGOIndex,
   getYearStats,
   GROK_MODEL,
   GROK_PROMPT_CIVIL_SERVICE,
@@ -32,7 +33,6 @@ import {
   mockRegulations,
   NGO_REVIEW_COST_GBP,
   ngoDefundPercent,
-  ngoIndexItems,
   ngoTotalReviewed,
   REVIEW_COST_GBP,
   TOTAL_UK_CHARITIES,
@@ -857,8 +857,8 @@ function VerdictsTable({
 }) {
   const isWide = useIsWide();
   const [search, setSearch] = useState('');
-
-  // Filter field: CS=type string, NGO=sector string, legislation=year number
+  const [verdictPage, setVerdictPage] = useState(0);
+  const VERDICT_PAGE_SIZE = 25;
   const filterField = isCS ? 'type' : isNGO ? 'sector' : 'year';
   const filterValues: (string | number)[] = isCS
     ? [...new Set(items.map((r) => (r as CivilServiceBody).type))].sort()
@@ -881,6 +881,12 @@ function VerdictsTable({
     }
     return result;
   }, [items, selectedFilter, search, filterField]);
+
+  // Reset page when filters change
+  useEffect(() => { setVerdictPage(0); }, [selectedFilter, search]);
+
+  const verdictTotalPages = Math.ceil(filtered.length / VERDICT_PAGE_SIZE);
+  const pagedItems = filtered.slice(verdictPage * VERDICT_PAGE_SIZE, (verdictPage + 1) * VERDICT_PAGE_SIZE);
 
   const keeps = filtered.filter((r) => r.verdict === 'keep').length;
   const deletes = isCS
@@ -1107,11 +1113,69 @@ function VerdictsTable({
             </Text>
           </View>
         ) : (
-          filtered.map((item) => (
+          pagedItems.map((item) => (
             <RegulationRow key={item.id} item={item} isNGO={isNGO} isCS={isCS} />
           ))
         )}
       </View>
+
+      {/* Pagination controls */}
+      {verdictTotalPages > 1 && (
+        <View
+          style={{
+            flexDirection: 'row',
+            justifyContent: 'center',
+            alignItems: 'center',
+            gap: 16,
+            marginTop: 24,
+          }}>
+          <Pressable
+            disabled={verdictPage === 0}
+            onPress={() => setVerdictPage((p) => Math.max(0, p - 1))}
+            style={{
+              paddingHorizontal: 16,
+              paddingVertical: 8,
+              borderRadius: 8,
+              backgroundColor: verdictPage === 0 ? '#f0f0ee' : '#3b82f6',
+            }}>
+            <Text
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: 12,
+                color: verdictPage === 0 ? '#ccc' : '#fff',
+              }}>
+              ← Prev
+            </Text>
+          </Pressable>
+          <Text
+            style={{
+              fontFamily: "'DM Mono', monospace",
+              fontSize: 12,
+              color: '#999',
+            }}>
+            {verdictPage + 1} of {verdictTotalPages}
+            {'  ·  '}{filtered.length} {isCS ? 'bodies' : isNGO ? 'organisations' : 'regulations'}
+          </Text>
+          <Pressable
+            disabled={verdictPage >= verdictTotalPages - 1}
+            onPress={() => setVerdictPage((p) => Math.min(verdictTotalPages - 1, p + 1))}
+            style={{
+              paddingHorizontal: 16,
+              paddingVertical: 8,
+              borderRadius: 8,
+              backgroundColor: verdictPage >= verdictTotalPages - 1 ? '#f0f0ee' : '#3b82f6',
+            }}>
+            <Text
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: 12,
+                color: verdictPage >= verdictTotalPages - 1 ? '#ccc' : '#fff',
+              }}>
+              Next →
+            </Text>
+          </Pressable>
+        </View>
+      )}
     </View>
   );
 }
@@ -1347,6 +1411,21 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
   const [sortBy, setSortBy] = useState<'name' | 'budget'>('name');
   const [page, setPage] = useState(0);
 
+  // Async-loaded index data for CS and NGO
+  const [csItems, setCsItems] = useState<CSIndexItem[]>([]);
+  const [ngoItems, setNgoItems] = useState<NGOIndexItem[]>([]);
+  const [indexLoading, setIndexLoading] = useState(false);
+
+  useEffect(() => {
+    if (isCS && csItems.length === 0) {
+      setIndexLoading(true);
+      fetchCSIndex().then(setCsItems).finally(() => setIndexLoading(false));
+    } else if (isNGO && ngoItems.length === 0) {
+      setIndexLoading(true);
+      fetchNGOIndex().then(setNgoItems).finally(() => setIndexLoading(false));
+    }
+  }, [isCS, isNGO]);
+
   // Per-year lazy loading for legislation
   const [selectedYear, setSelectedYear] = useState<number | null>(
     legislationYears.length > 0 ? legislationYears[0].year : null
@@ -1408,13 +1487,13 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
     }
   }, [isLeg, selectedYear]);
 
-  // For legislation, use lazy-loaded year items; for others, use static data
-  const allItems = isCS ? csIndexItems : isNGO ? ngoIndexItems : yearItems;
+  // For legislation, use lazy-loaded year items; for others, use async-loaded data
+  const allItems = isCS ? csItems : isNGO ? ngoItems : yearItems;
 
   const typeOptions: string[] = isCS
-    ? [...new Set(csIndexItems.map((i) => i.type))].sort()
+    ? [...new Set(csItems.map((i) => i.type))].sort()
     : isNGO
-      ? [...new Set(ngoIndexItems.map((i) => i.sector))].sort()
+      ? [...new Set(ngoItems.map((i) => i.sector))].sort()
       : [...new Set(yearItems.map((i) => i.type))].sort();
 
   const filtered = useMemo(() => {
@@ -1453,9 +1532,9 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
 
   const browseLabel = isCS ? 'civil service bodies' : isNGO ? 'charities' : 'regulations';
   const totalNote = isNGO
-    ? `Showing top ${ngoIndexItems.length.toLocaleString()} of 171,168 charities by annual income`
+    ? `Showing top ${ngoItems.length.toLocaleString()} of 171,168 charities by annual income`
     : isCS
-      ? `${csIndexItems.length.toLocaleString()} bodies scraped`
+      ? `${csItems.length.toLocaleString()} bodies scraped`
       : selectedYear
         ? `Showing ${selectedYear} · ${yearItems.length.toLocaleString()} of ${TOTAL_UK_REGULATIONS.toLocaleString()} regulations`
         : `${TOTAL_UK_REGULATIONS.toLocaleString()} regulations scraped · select a year to browse`;
@@ -1755,7 +1834,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
           </View>
         )}
 
-        {isLeg && loadingYear ? (
+        {(isLeg && loadingYear) || indexLoading ? (
           <View style={{ padding: 48, alignItems: 'center' }}>
             <ActivityIndicator size="small" color="#3b82f6" />
             <Text
@@ -1765,7 +1844,9 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
                 color: '#bbb',
                 marginTop: 12,
               }}>
-              Loading {selectedYear} legislation…
+              {indexLoading
+                ? `Loading ${isCS ? 'civil service' : 'charity'} data…`
+                : `Loading ${selectedYear} legislation…`}
             </Text>
           </View>
         ) : isLeg && yearError ? (

@@ -124,8 +124,12 @@ function parseAtomEntries(xml) {
       description = block.match(/<summary[^>]*>([^<]*)<\/summary>/)?.[1]?.trim() ?? '';
     }
 
+    // Extract ukm:Year (the actual enacted/made year — critical for pre-1963 regnal-year legislation)
+    const ukmYear = block.match(/<ukm:Year\s+Value="(\d+)"/)?.[1];
+    const ukmNumber = block.match(/<ukm:Number\s+Value="(\d+)"/)?.[1];
+
     if (id) {
-      entries.push({ id, title, updated, description });
+      entries.push({ id, title, updated, description, ukmYear: ukmYear ? parseInt(ukmYear) : null, ukmNumber: ukmNumber || null });
     }
   }
   return entries;
@@ -154,14 +158,26 @@ function parseTotalResults(xml) {
 /**
  * Derive a short legislation ID from the full URI.
  * e.g. "http://www.legislation.gov.uk/id/ukpga/2006/46" → "UKPGA-2006-c46"
+ * Pre-1963 legislation uses regnal years (e.g. /ukpga/Geo3/41/90) — needs ukmYear + ukmNumber fallback.
  */
-function uriToId(uri, legSlug) {
+function uriToId(uri, legSlug, ukmYear, ukmNumber) {
+  // Try standard 4-digit year format first
   const match = uri.match(/\/id\/([^/]+)\/(\d{4})\/(\d+)/);
-  if (!match) return uri;
-  const [, type, year, num] = match;
-  const prefix = type.toUpperCase();
-  const numPrefix = ['ukpga', 'asp', 'asc', 'nia', 'ukla'].includes(type) ? 'c' : '';
-  return `${prefix}-${year}-${numPrefix}${num}`;
+  if (match) {
+    const [, type, year, num] = match;
+    const prefix = type.toUpperCase();
+    const numPrefix = ['ukpga', 'asp', 'asc', 'nia', 'ukla'].includes(type) ? 'c' : '';
+    return `${prefix}-${year}-${numPrefix}${num}`;
+  }
+  // Regnal-year format: /id/ukpga/Geo3/41/90 — use ukm:Year and ukm:Number from the XML
+  if (ukmYear && ukmNumber) {
+    const typeMatch = uri.match(/\/id\/([^/]+)\//);
+    const type = typeMatch ? typeMatch[1] : legSlug;
+    const prefix = type.toUpperCase();
+    const numPrefix = ['ukpga', 'asp', 'asc', 'nia', 'ukla'].includes(type) ? 'c' : '';
+    return `${prefix}-${ukmYear}-${numPrefix}${ukmNumber}`;
+  }
+  return uri;
 }
 
 /**
@@ -225,9 +241,10 @@ async function scrapeType(legType, fromYear, toYear) {
         if (entries.length === 0) break;
 
         for (const entry of entries) {
-          const legYear = extractYear(entry.id, entry.updated) ?? year;
+          // Prefer ukm:Year (always correct), then URI year, then feed year as last resort
+          const legYear = entry.ukmYear ?? extractYear(entry.id, entry.updated) ?? year;
           items.push({
-            id: uriToId(entry.id, legType.slug),
+            id: uriToId(entry.id, legType.slug, legYear, entry.ukmNumber),
             title: entry.title,
             year: legYear,
             type: legType.label,
@@ -325,10 +342,14 @@ async function main() {
 
   const sortedItems = mergedItems.sort((a, b) => a.year - b.year || a.id.localeCompare(b.id));
 
+  // Derive yearRange from actual data, not CLI args
+  const actualFrom = yearStats.length ? yearStats[0].year : fromYear;
+  const actualTo = yearStats.length ? yearStats[yearStats.length - 1].year : toYear;
+
   const output = {
     scrapedAt: new Date().toISOString(),
     totalItems: mergedItems.length,
-    yearRange: { from: fromYear, to: toYear },
+    yearRange: { from: actualFrom, to: actualTo },
     yearStats,
     items: sortedItems,
   };

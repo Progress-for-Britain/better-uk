@@ -18,10 +18,9 @@ import { ContentBackground, HeroBackground } from '@/components/skia-background'
 import {
   CS_REVIEW_COST_GBP,
   csAbolishPercent,
+  csIndexItems,
   csTotalReviewed,
   deletePercent,
-  fetchCSIndex,
-  fetchNGOIndex,
   getYearStats,
   GROK_MODEL,
   GROK_PROMPT_CIVIL_SERVICE,
@@ -33,6 +32,7 @@ import {
   mockRegulations,
   NGO_REVIEW_COST_GBP,
   ngoDefundPercent,
+  ngoIndexItems,
   ngoTotalReviewed,
   REVIEW_COST_GBP,
   TOTAL_UK_CHARITIES,
@@ -1411,21 +1411,6 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
   const [sortBy, setSortBy] = useState<'name' | 'budget'>('name');
   const [page, setPage] = useState(0);
 
-  // Async-loaded index data for CS and NGO
-  const [csItems, setCsItems] = useState<CSIndexItem[]>([]);
-  const [ngoItems, setNgoItems] = useState<NGOIndexItem[]>([]);
-  const [indexLoading, setIndexLoading] = useState(false);
-
-  useEffect(() => {
-    if (isCS && csItems.length === 0) {
-      setIndexLoading(true);
-      fetchCSIndex().then(setCsItems).finally(() => setIndexLoading(false));
-    } else if (isNGO && ngoItems.length === 0) {
-      setIndexLoading(true);
-      fetchNGOIndex().then(setNgoItems).finally(() => setIndexLoading(false));
-    }
-  }, [isCS, isNGO]);
-
   // Per-year lazy loading for legislation
   const [selectedYear, setSelectedYear] = useState<number | null>(
     legislationYears.length > 0 ? legislationYears[0].year : null
@@ -1487,13 +1472,13 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
     }
   }, [isLeg, selectedYear]);
 
-  // For legislation, use lazy-loaded year items; for others, use async-loaded data
-  const allItems = isCS ? csItems : isNGO ? ngoItems : yearItems;
+  // For legislation, use lazy-loaded year items; for others, use static data
+  const allItems = isCS ? csIndexItems : isNGO ? ngoIndexItems : yearItems;
 
   const typeOptions: string[] = isCS
-    ? [...new Set(csItems.map((i) => i.type))].sort()
+    ? [...new Set(csIndexItems.map((i) => i.type))].sort()
     : isNGO
-      ? [...new Set(ngoItems.map((i) => i.sector))].sort()
+      ? [...new Set(ngoIndexItems.map((i) => i.sector))].sort()
       : [...new Set(yearItems.map((i) => i.type))].sort();
 
   const filtered = useMemo(() => {
@@ -1532,9 +1517,9 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
 
   const browseLabel = isCS ? 'civil service bodies' : isNGO ? 'charities' : 'regulations';
   const totalNote = isNGO
-    ? `Showing top ${ngoItems.length.toLocaleString()} of 171,168 charities by annual income`
+    ? `Showing top ${ngoIndexItems.length.toLocaleString()} of 171,168 charities by annual income`
     : isCS
-      ? `${csItems.length.toLocaleString()} bodies scraped`
+      ? `${csIndexItems.length.toLocaleString()} bodies scraped`
       : selectedYear
         ? `Showing ${selectedYear} · ${yearItems.length.toLocaleString()} of ${TOTAL_UK_REGULATIONS.toLocaleString()} regulations`
         : `${TOTAL_UK_REGULATIONS.toLocaleString()} regulations scraped · select a year to browse`;
@@ -1834,7 +1819,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
           </View>
         )}
 
-        {(isLeg && loadingYear) || indexLoading ? (
+        {isLeg && loadingYear ? (
           <View style={{ padding: 48, alignItems: 'center' }}>
             <ActivityIndicator size="small" color="#3b82f6" />
             <Text
@@ -1844,9 +1829,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
                 color: '#bbb',
                 marginTop: 12,
               }}>
-              {indexLoading
-                ? `Loading ${isCS ? 'civil service' : 'charity'} data…`
-                : `Loading ${selectedYear} legislation…`}
+              Loading {selectedYear} legislation…
             </Text>
           </View>
         ) : isLeg && yearError ? (

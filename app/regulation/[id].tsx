@@ -1,10 +1,10 @@
 import { Link, useLocalSearchParams } from 'expo-router';
 import Head from 'expo-router/head';
-import { useEffect, useState } from 'react';
-import { ActivityIndicator, Linking, Pressable, ScrollView, Text, View } from 'react-native';
+import { useState } from 'react';
+import { Linking, Pressable, ScrollView, Text, View } from 'react-native';
 
 import { RequestReviewButton } from '@/components/request-review';
-import { fetchCSIndex, fetchNGOIndex, GROK_MODEL, GROK_PROMPT_CIVIL_SERVICE, GROK_PROMPT_NGOS, GROK_PROMPT_REGULATIONS, mockCivilService, mockNGOs, mockRegulations, type CivilServiceBody, type CSIndexItem, type NGO, type NGOIndexItem, type Regulation } from '@/lib/data';
+import { csIndexItems, GROK_MODEL, GROK_PROMPT_CIVIL_SERVICE, GROK_PROMPT_NGOS, GROK_PROMPT_REGULATIONS, mockCivilService, mockNGOs, mockRegulations, ngoIndexItems, type CivilServiceBody, type NGO, type Regulation } from '@/lib/data';
 
 function VerdictBadge({ verdict, label }: { verdict: string; label?: string }) {
   const isNegative = verdict === 'delete' || verdict === 'abolish';
@@ -36,45 +36,19 @@ function VerdictBadge({ verdict, label }: { verdict: string; label?: string }) {
 export default function RegulationDetail() {
   const { id, review } = useLocalSearchParams<{ id: string; review?: string }>();
   const decodedId = decodeURIComponent(id ?? '');
-  const regulation = mockRegulations.find((r: { id: string; }) => r.id === decodedId);
-  const ngo = mockNGOs.find((n: { id: string; }) => n.id === decodedId);
-  const csBody = mockCivilService.find((b: { id: string; }) => b.id === decodedId);
+  const regulation = mockRegulations.find((r) => r.id === decodedId);
+  const ngo = mockNGOs.find((n) => n.id === decodedId);
+  const csBody = mockCivilService.find((b) => b.id === decodedId);
   const item = regulation ?? ngo ?? csBody;
   const isNGO = !!ngo;
   const isCS = !!csBody;
 
-  // Async lookup for unreviewed index items (only if not found in reviewed data)
-  const [indexNGO, setIndexNGO] = useState<NGOIndexItem | null>(null);
-  const [indexCS, setIndexCS] = useState<CSIndexItem | null>(null);
-  const [indexLoading, setIndexLoading] = useState(!item);
-
-  useEffect(() => {
-    if (item) return; // Already found in reviewed data
-    let cancelled = false;
-    (async () => {
-      try {
-        const [ngoItems, csItems] = await Promise.all([fetchNGOIndex(), fetchCSIndex()]);
-        if (cancelled) return;
-        setIndexNGO(ngoItems.find((n: { id: string; }) => n.id === decodedId) ?? null);
-        setIndexCS(csItems.find((b: { id: string; }) => b.id === decodedId) ?? null);
-      } finally {
-        if (!cancelled) setIndexLoading(false);
-      }
-    })();
-    return () => { cancelled = true; };
-  }, [decodedId, item]);
-
+  // Check unreviewed index items if not found in reviewed data
+  const indexNGO = !item ? ngoIndexItems.find((n) => n.id === decodedId) : null;
+  const indexCS = !item ? csIndexItems.find((b) => b.id === decodedId) : null;
   const indexItem = indexNGO ?? indexCS;
   const isUnreviewed = !item && !!indexItem;
   const isPending = review === 'pending';
-
-  if (!item && indexLoading) {
-    return (
-      <View style={{ flex: 1, backgroundColor: '#fafaf8', alignItems: 'center', justifyContent: 'center' }}>
-        <ActivityIndicator size="small" color="#3b82f6" />
-      </View>
-    );
-  }
 
   if (!item && !indexItem) {
     // Allow requesting a review for any legislation ID (e.g. ukpga/2020/1)

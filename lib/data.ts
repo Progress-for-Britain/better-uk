@@ -1,4 +1,6 @@
+import csIndexJson from '@/data/cs-index.json';
 import legIndexJson from '@/data/legislation-index-lite.json'; // meta only, see legislation-index.json for full corpus
+import ngoIndexJson from '@/data/ngo-index-lite.json'; // top-5k by income, see ngo-index.json for full corpus
 import reviewedCSJson from '@/data/reviewed-civil-service.json';
 import reviewedNGOsJson from '@/data/reviewed-ngos.json';
 import reviewedRegsJson from '@/data/reviewed-regulations.json';
@@ -88,7 +90,7 @@ export interface NGO {
   url: string;
 }
 
-export const TOTAL_UK_CHARITIES = 171_168; // from Charity Commission bulk extract
+export const TOTAL_UK_CHARITIES = (ngoIndexJson as any).meta?.totalScraped || (ngoIndexJson as any).items?.length || 0;
 export const NGO_REVIEW_COST_GBP = reviewedNGOsJson.meta.costGBP;
 
 export const ngos: NGO[] = (reviewedNGOsJson.items as any[])
@@ -138,7 +140,7 @@ export interface CivilServiceBody {
   url: string;
 }
 
-export const TOTAL_UK_CS_BODIES = 666; // from gov.uk organisations scrape
+export const TOTAL_UK_CS_BODIES = (csIndexJson as any).meta?.totalScraped || (csIndexJson as any).items?.length || 0;
 export const CS_REVIEW_COST_GBP = reviewedCSJson.meta.costGBP;
 
 export const civilServiceBodies: CivilServiceBody[] = (reviewedCSJson.items as any[])
@@ -192,31 +194,22 @@ export interface NGOIndexItem {
   web: string;
 }
 
-// Async loader for CS index (1.1 MB — fetched at runtime, not bundled)
-let _csIndexCache: CSIndexItem[] | null = null;
-export async function fetchCSIndex(): Promise<CSIndexItem[]> {
-  if (_csIndexCache) return _csIndexCache;
-  const res = await fetch('/data/cs-index.json');
-  const json = await res.json();
-  _csIndexCache = (json.items ?? []).map(
-    (item: any): CSIndexItem => ({
-      id: item.id ?? item.slug ?? '',
-      name: item.name ?? item.id ?? '',
-      slug: item.slug ?? '',
-      type: item.type ?? 'Other',
-      abbreviation: item.abbreviation ?? '',
-      description: item.description ?? '',
-      headcount: item.headcount ?? null,
-      budgetMn: item.budgetMn ?? null,
-      deptBudgetMn: item.deptBudgetMn ?? null,
-      url: item.url ?? `https://www.gov.uk/government/organisations/${item.slug ?? ''}`,
-      parentDept: item.parentDept ?? ''
-    })
-  );
-  return _csIndexCache!;
-}
-// Backward-compat sync export (empty until fetched — use fetchCSIndex() instead)
-export const csIndexItems: CSIndexItem[] = [];
+// All scraped civil service bodies
+export const csIndexItems: CSIndexItem[] = ((csIndexJson as any).items ?? []).map(
+  (item: any): CSIndexItem => ({
+    id: item.id ?? item.slug ?? '',
+    name: item.name ?? item.id ?? '',
+    slug: item.slug ?? '',
+    type: item.type ?? 'Other',
+    abbreviation: item.abbreviation ?? '',
+    description: item.description ?? '',
+    headcount: item.headcount ?? null,
+    budgetMn: item.budgetMn ?? null,
+    deptBudgetMn: item.deptBudgetMn ?? null,
+    url: item.url ?? `https://www.gov.uk/government/organisations/${item.slug ?? ''}`,
+    parentDept: item.parentDept ?? ''
+  })
+);
 
 // ── Legislation index items (for browsing reviewed regulations) ───────────────
 
@@ -244,31 +237,22 @@ export const legislationYears: { year: number; total: number }[] =
     .filter((s: any) => s.total > 0)
     .sort((a: any, b: any) => b.year - a.year); // most recent first
 
-// Async loader for NGO index (3.7 MB — fetched at runtime, not bundled)
-let _ngoIndexCache: NGOIndexItem[] | null = null;
-export async function fetchNGOIndex(): Promise<NGOIndexItem[]> {
-  if (_ngoIndexCache) return _ngoIndexCache;
-  const res = await fetch('/data/ngo-index-lite.json');
-  const json = await res.json();
-  _ngoIndexCache = (json.items ?? []).map(
-    (item: any): NGOIndexItem => ({
-      id: item.id,
-      name: item.name ?? '',
-      sector: item.sector ?? 'General',
-      founded: item.founded ?? 0,
-      annualIncome: item.annualIncome ?? '',
-      rawIncome: item.rawIncome ?? 0,
-      annualSpending: item.annualSpending ?? '',
-      rawSpending: item.rawSpending ?? 0,
-      description: item.description ?? '',
-      url: item.url ?? '',
-      web: item.web ?? '',
-    })
-  );
-  return _ngoIndexCache!;
-}
-// Backward-compat sync export (empty until fetched — use fetchNGOIndex() instead)
-export const ngoIndexItems: NGOIndexItem[] = [];
+// Top 5,000 NGOs by income (bundle-safe slice; full corpus in ngo-index.json)
+export const ngoIndexItems: NGOIndexItem[] = ((ngoIndexJson as any).items ?? []).map(
+  (item: any): NGOIndexItem => ({
+    id: item.id,
+    name: item.name ?? '',
+    sector: item.sector ?? 'General',
+    founded: item.founded ?? 0,
+    annualIncome: item.annualIncome ?? '',
+    rawIncome: item.rawIncome ?? 0,
+    annualSpending: item.annualSpending ?? '',
+    rawSpending: item.rawSpending ?? 0,
+    description: item.description ?? '',
+    url: item.url ?? '',
+    web: item.web ?? '',
+  })
+);
 
 // ── Grok prompts (shown transparently on each page) ──────────────────────────
 

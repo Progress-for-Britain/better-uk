@@ -27,7 +27,7 @@
  *   XAI_API_KEY  — Required. Your xAI API key from https://console.x.ai
  */
 
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 'fs';
 import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -538,6 +538,26 @@ const DEFAULT_META = {
 };
 
 function loadReviews(type) {
+  // For regulations, load from per-year files (much faster than parsing the monolith)
+  if (type === 'regulations' && existsSync(REVIEWED_YEAR_DIR)) {
+    const files = readdirSync(REVIEWED_YEAR_DIR).filter(f => f.endsWith('.json'));
+    if (files.length > 0) {
+      const items = [];
+      for (const f of files) {
+        const yearData = JSON.parse(readFileSync(resolve(REVIEWED_YEAR_DIR, f), 'utf-8'));
+        if (yearData.items) items.push(...yearData.items);
+      }
+      // Build meta from items
+      const meta = { ...DEFAULT_META[type] };
+      meta.totalReviewed = items.length;
+      meta.totalKeep = items.filter(r => r.verdict === 'keep').length;
+      meta.totalDelete = items.filter(r => r.verdict === 'delete').length;
+      const totalCostTicks = items.reduce((s, r) => s + (r.costTicks || 0), 0);
+      meta.costGBP = Math.round((totalCostTicks / 1e10) * 0.79 * 100) / 100;
+      meta.lastUpdated = new Date().toISOString();
+      return { items, meta };
+    }
+  }
   const path = REVIEW_PATHS[type];
   if (!existsSync(path)) return { items: [], meta: { ...DEFAULT_META[type] } };
   return JSON.parse(readFileSync(path, 'utf-8'));
@@ -545,10 +565,9 @@ function loadReviews(type) {
 
 function saveReviews(type, data) {
   mkdirSync(DATA_DIR, { recursive: true });
-  writeFileSync(REVIEW_PATHS[type], JSON.stringify(data, null, 2));
 
-  // For regulations, also write per-year files
   if (type === 'regulations') {
+    // Only write per-year files (skip the monolith — it's too large)
     mkdirSync(REVIEWED_YEAR_DIR, { recursive: true });
     const yearGroups = {};
     for (const item of data.items) {
@@ -562,6 +581,10 @@ function saveReviews(type, data) {
         JSON.stringify({ year: Number(year), count: items.length, items }, null, 2)
       );
     }
+    // Write a lightweight meta file (no items) for the monolith path
+    writeFileSync(REVIEW_PATHS[type], JSON.stringify({ meta: data.meta, items: [] }, null, 2));
+  } else {
+    writeFileSync(REVIEW_PATHS[type], JSON.stringify(data, null, 2));
   }
 }
 

@@ -1,6 +1,6 @@
 {
   "year": 1806,
-  "count": 146,
+  "count": 147,
   "items": [
     {
       "id": "UKLA-1806-c135",
@@ -1899,6 +1899,19 @@
       "reason": "This 218-year-old local act is obsolete, superseded by modern local government and planning laws. Keeping it burdens the legal system with unnecessary complexity, risking conflicts, administrative costs in research, and distorted incentives for property use; private arrangements or current institutions would handle square maintenance more efficiently without government-mandated levies.",
       "costTicks": 2963500,
       "reviewedAt": "2026-03-12T14:05:02.237Z"
+    },
+    {
+      "id": "UKLA-1806-c131",
+      "title": "Brand's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/131",
+      "source": "ukla",
+      "verdict": "delete",
+      "summary": "Brand's Estate Act 1806 (c. cxxxi), a UK Local Act concerning the administration or settlement of a specific private estate belonging to an individual or family named Brand.",
+      "reason": "This 218-year-old private local act addresses a one-off, long-resolved property matter from 1806. Retaining it clutters the statute book, increases legal research costs, and creates unnecessary complexity with no ongoing benefit to liberty or property rights, which are now handled by general common law and modern statutes; unseen consequences include distorting incentives for efficient legal navigation and preserving institutional deadweight that hinders prosperity.",
+      "costTicks": 2202500,
+      "reviewedAt": "2026-03-12T14:09:52.707Z"
     }
   ]
 }

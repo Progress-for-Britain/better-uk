@@ -1,11 +1,11 @@
 {
   "meta": {
     "totalCorpus": 186900,
-    "totalReviewed": 4520,
-    "totalKeep": 188,
-    "totalDelete": 4332,
-    "costGBP": 0.94,
-    "lastUpdated": "2026-03-12T14:05:07.458Z",
+    "totalReviewed": 4870,
+    "totalKeep": 207,
+    "totalDelete": 4663,
+    "costGBP": 1.03,
+    "lastUpdated": "2026-03-12T14:18:51.247Z",
     "reviewedYears": [
       {
         "year": 1801,
@@ -39,9 +39,9 @@
       },
       {
         "year": 1806,
-        "count": 146,
+        "count": 147,
         "keep": 3,
-        "delete": 143
+        "delete": 144
       },
       {
         "year": 1807,
@@ -51,9 +51,15 @@
       },
       {
         "year": 1808,
-        "count": 49,
+        "count": 163,
+        "keep": 3,
+        "delete": 160
+      },
+      {
+        "year": 1809,
+        "count": 22,
         "keep": 0,
-        "delete": 49
+        "delete": 22
       },
       {
         "year": 1866,
@@ -111,15 +117,15 @@
       },
       {
         "year": 1950,
-        "count": 783,
-        "keep": 46,
-        "delete": 737
+        "count": 981,
+        "keep": 61,
+        "delete": 920
       },
       {
         "year": 1951,
-        "count": 844,
-        "keep": 30,
-        "delete": 814
+        "count": 859,
+        "keep": 31,
+        "delete": 828
       }
     ]
   },

@@ -1,0 +1,19 @@
+{
+  "year": 1866,
+  "count": 1,
+  "items": [
+    {
+      "id": "UKLA-1866-c27",
+      "title": "Leicester Waterworks Act 1866",
+      "year": 1866,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/1866/27",
+      "source": "ukla",
+      "verdict": "delete",
+      "summary": "Local Act authorizing the establishment, operation, and regulation of waterworks infrastructure in Leicester, likely granting powers to a private company for water supply.",
+      "reason": "This 1866 local act is obsolete, superseded by modern water industry frameworks (e.g., Water Industry Act 1991, Ofwat regulation) and privatized utilities. Keeping it imposes unseen costs: legal clutter confusing practitioners, potential for archaic monopoly claims distorting property rights, and administrative burden on courts/archives with zero contribution to current prosperity or liberty, as infrastructure now thrives under competitive institutions.",
+      "costTicks": 3151750,
+      "reviewedAt": "2026-03-12T12:36:09.771Z"
+    }
+  ]
+}

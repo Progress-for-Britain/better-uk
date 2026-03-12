@@ -1,0 +1,19 @@
+{
+  "year": 1876,
+  "count": 1,
+  "items": [
+    {
+      "id": "UKLA-1876-c39",
+      "title": "Flookersbrook Improvement Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/1876/39",
+      "source": "ukla",
+      "verdict": "delete",
+      "summary": "1876 Local Act authorizing improvements, likely infrastructure such as drainage, roads, or sanitation, in the Flookersbrook area of Chester.",
+      "reason": "This 148-year-old local act imposes outdated compulsory powers on private property for specific 19th-century infrastructure needs, now superseded by modern laws and private development. Keeping it burdens the legal system with archaic regulations, creates uncertainty for property owners (e.g., dormant eminent domain risks), distorts incentives by preserving historical monopolies on local works, and incurs unseen costs in archival maintenance and compliance checks without delivering current benefits.",
+      "costTicks": 3030250,
+      "reviewedAt": "2026-03-12T12:34:45.814Z"
+    }
+  ]
+}

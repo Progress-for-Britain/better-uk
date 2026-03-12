@@ -1048,6 +1048,97 @@ async function cmdCancel(flags) {
   console.log();
 }
 
+// ─── Re-check: rebuild from all batch results ────────────────────────────────
+
+async function cmdRecheck(flags) {
+  const type = flags.type || 'regulations';
+  if (!PROMPTS[type]) {
+    console.error('\n  ✗ --type must be one of: regulations, civil-service, ngos\n');
+    process.exit(1);
+  }
+
+  console.log(`\n╔══════════════════════════════════════════════════════════╗`);
+  console.log(`║  better-uk: Re-check (rebuild from batch results)        ║`);
+  console.log(`╚══════════════════════════════════════════════════════════╝`);
+  console.log(`\n  Type: ${type}`);
+
+  const jobs = loadJobs();
+  const matchingJobs = jobs.jobs.filter(j => j.type === type);
+  console.log(`  Jobs found: ${matchingJobs.length}`);
+
+  if (matchingJobs.length === 0) {
+    console.log('\n  No jobs to re-check.\n');
+    return;
+  }
+
+  // Collect all batch items files as the source-of-truth for original metadata
+  const allItemMaps = new Map();
+  for (const job of matchingJobs) {
+    const items = loadItemsForBatch(job.batchId);
+    if (!items) { console.log(`    ⚠ No item file for batch ${job.batchId}, skipping`); continue; }
+    for (const [id, item] of Object.entries(items)) {
+      allItemMaps.set(id, item);
+    }
+  }
+  console.log(`  Unique items across batches: ${allItemMaps.size}`);
+
+  // Start fresh: load all existing reviews from current sources
+  const reviews = loadReviews(type);
+  const existingById = new Map(reviews.items.map(r => [r.id, r]));
+  console.log(`  Existing reviews loaded: ${existingById.size}`);
+
+  // Patch reviews: ensure year and other fields are populated from the batch item map
+  let patched = 0;
+  for (const [id, review] of existingById) {
+    const original = allItemMaps.get(id);
+    if (!original) continue;
+
+    let changed = false;
+    if (type === 'regulations') {
+      if (!review.year && original.year) { review.year = original.year; changed = true; }
+      if (!review.type && original.type) { review.type = original.type; changed = true; }
+      if (!review.url && original.url) { review.url = original.url; changed = true; }
+      if (!review.source && original.source) { review.source = original.source; changed = true; }
+      if (!review.title && original.title) { review.title = original.title; changed = true; }
+    } else if (type === 'civil-service') {
+      if (!review.name && original.name) { review.name = original.name; changed = true; }
+      if (!review.type && original.type) { review.type = original.type; changed = true; }
+      if (!review.parentDept && original.parentDept) { review.parentDept = original.parentDept; changed = true; }
+    } else if (type === 'ngos') {
+      if (!review.name && original.name) { review.name = original.name; changed = true; }
+      if (!review.sector && original.sector) { review.sector = original.sector; changed = true; }
+      if (!review.founded && original.founded) { review.founded = original.founded; changed = true; }
+    }
+    if (changed) patched++;
+  }
+
+  // Rebuild items array from the map
+  reviews.items = Array.from(existingById.values());
+
+  // Recalculate meta
+  updateMeta(type, reviews);
+
+  // Save (this writes per-year files for regulations)
+  saveReviews(type, reviews);
+
+  // Count year files written (for regulations)
+  let yearFileCount = 0;
+  if (type === 'regulations' && existsSync(REVIEWED_YEAR_DIR)) {
+    yearFileCount = readdirSync(REVIEWED_YEAR_DIR).filter(f => f.endsWith('.json')).length;
+  }
+
+  console.log(`\n  ─────────────────────────────────────`);
+  console.log(`  Total reviews:   ${reviews.items.length}`);
+  console.log(`  Patched fields:  ${patched}`);
+  if (yearFileCount) console.log(`  Year files:      ${yearFileCount}`);
+  console.log(`  Meta:`);
+  for (const [k, v] of Object.entries(reviews.meta)) {
+    console.log(`    ${k}: ${v}`);
+  }
+  console.log(`  ─────────────────────────────────────`);
+  console.log(`\n  ✓ Re-check complete.\n`);
+}
+
 // ─── CLI Router ───────────────────────────────────────────────────────────────
 
 const USAGE = `
@@ -1070,6 +1161,9 @@ const USAGE = `
 
     cancel    Cancel a running batch
               --batch-id <id>  (required)
+
+    recheck   Rebuild year files and meta from all batch results
+              --type <regulations|civil-service|ngos>  (default: regulations)
 `;
 
 async function main() {
@@ -1081,6 +1175,7 @@ async function main() {
     case 'results': return cmdResults(flags);
     case 'list':    return cmdList(flags);
     case 'cancel':  return cmdCancel(flags);
+    case 'recheck': return cmdRecheck(flags);
     default:
       console.log(USAGE);
       process.exit(command ? 1 : 0);

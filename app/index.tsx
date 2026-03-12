@@ -31,7 +31,6 @@ import {
   legislationYears,
   mockCivilService,
   mockNGOs,
-  mockRegulations,
   NGO_REVIEW_COST_GBP,
   ngoDefundPercent,
   ngoTotalReviewed,
@@ -2017,10 +2016,10 @@ export default function HomeScreen() {
   const [showFundedBanner, setShowFundedBanner] = useState(!!funded);
   const [category, setCategory] = useState<ActiveCategory>('regulations');
   const [selectedFilter, setSelectedFilter] = useState<string | number | null>(null);
-  const [loadedRegulations, setLoadedRegulations] = useState<Regulation[]>(mockRegulations);
+  const [loadedRegulations, setLoadedRegulations] = useState<Regulation[]>([]);
 
   useEffect(() => {
-    fetchReviewedRegulations().then(setLoadedRegulations);
+    fetchReviewedRegulations().then(regs => setLoadedRegulations([...regs]));
   }, []);
 
   const handleCategoryChange = (c: ActiveCategory) => {

@@ -43,7 +43,7 @@ const MODEL = 'grok-4-1-fast-reasoning';
 const API_BASE = 'https://api.x.ai/v1';
 const MAX_TEXT_LENGTH = 500_000; // ~125K tokens – fits within model context with room for prompt
 const FETCH_CONCURRENCY = 20;
-const REQUESTS_PER_CHUNK = 200; // batch requests per API call
+const MAX_CHUNK_BYTES = 1_500_000; // ~1.5MB per API call to stay under body size limit
 
 // ─── Prompts ──────────────────────────────────────────────────────────────────
 
@@ -688,16 +688,30 @@ async function cmdSubmit(flags) {
     },
   }));
 
-  const totalChunks = Math.ceil(batchRequests.length / REQUESTS_PER_CHUNK);
-  console.log(`  Submitting ${batchRequests.length} requests in ${totalChunks} chunks...`);
+  // Split into chunks by byte size to avoid 413 errors
+  const chunks = [];
+  let currentChunk = [];
+  let currentSize = 0;
 
-  for (let i = 0; i < batchRequests.length; i += REQUESTS_PER_CHUNK) {
-    const chunk = batchRequests.slice(i, i + REQUESTS_PER_CHUNK);
-    const chunkNum = Math.floor(i / REQUESTS_PER_CHUNK) + 1;
+  for (const req of batchRequests) {
+    const reqSize = JSON.stringify(req).length;
+    if (currentChunk.length > 0 && currentSize + reqSize > MAX_CHUNK_BYTES) {
+      chunks.push(currentChunk);
+      currentChunk = [];
+      currentSize = 0;
+    }
+    currentChunk.push(req);
+    currentSize += reqSize;
+  }
+  if (currentChunk.length > 0) chunks.push(currentChunk);
+
+  console.log(`  Submitting ${batchRequests.length} requests in ${chunks.length} chunks...`);
+
+  for (let i = 0; i < chunks.length; i++) {
+    const chunk = chunks[i];
     await addBatchRequests(apiKey, batchId, chunk);
-    console.log(`    Chunk ${chunkNum}/${totalChunks}: ${chunk.length} requests submitted`);
-    // Respect 100 API calls per 30 seconds limit
-    if (chunkNum < totalChunks) await sleep(350);
+    console.log(`    Chunk ${i + 1}/${chunks.length}: ${chunk.length} requests submitted`);
+    if (i < chunks.length - 1) await sleep(350);
   }
 
   // Phase 4: Save job info + items for later result mapping

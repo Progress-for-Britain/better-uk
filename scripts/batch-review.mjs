@@ -713,7 +713,11 @@ async function cmdSubmit(flags) {
     if (j.status === 'completed' || j.status === 'cancelled') continue;
     const batchItems = loadItemsForBatch(j.batchId);
     if (batchItems) {
-      for (const id of Object.keys(batchItems)) inFlightIds.add(id);
+      // Only count items that haven't already been reviewed (partial batches
+      // may have most results processed — don't block resubmission of the rest)
+      for (const id of Object.keys(batchItems)) {
+        if (!reviewedIds.has(id)) inFlightIds.add(id);
+      }
     }
   }
 

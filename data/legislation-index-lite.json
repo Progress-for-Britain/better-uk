@@ -1,9 +1,9 @@
 {
   "scrapedAt": "2026-03-12T13:52:53.344Z",
-  "totalItems": 203764,
+  "totalItems": 176104,
   "yearRange": {
     "from": 1801,
-    "to": 2026
+    "to": 2025
   },
   "yearStats": [
     {
@@ -848,7 +848,7 @@
     },
     {
       "year": 2011,
-      "total": 4107
+      "total": 4106
     },
     {
       "year": 2012,
@@ -888,7 +888,7 @@
     },
     {
       "year": 2021,
-      "total": 2382
+      "total": 2374
     },
     {
       "year": 2022,
@@ -896,19 +896,15 @@
     },
     {
       "year": 2023,
-      "total": 21053
+      "total": 2080
     },
     {
       "year": 2024,
-      "total": 2262
+      "total": 2027
     },
     {
       "year": 2025,
-      "total": 10444
-    },
-    {
-      "year": 2026,
-      "total": 14
+      "total": 2015
     }
   ]
 }

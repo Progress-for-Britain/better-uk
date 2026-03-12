@@ -12,7 +12,7 @@ A web app that uses Grok AI to review three pillars of UK public life and give e
 | **NGO Ecosystem** | ~168,000 registered charities                     | KEEP or DEFUND  |
 | **Civil Service** | ~450 departments, agencies & ALBs                 | KEEP or ABOLISH |
 
-Built with Expo Router, React Native for Web, and powered by Grok (`grok-4-1`) via the xAI API. Deployed as a static SPA on Vercel.
+Built with Expo Router, React Native for Web, and powered by Grok (`grok-4-1-fast-reasoning`) via the xAI API. Deployed as a static SPA on Vercel.
 
 ## Getting started
 
@@ -45,17 +45,17 @@ The legislation scraper paginates Atom feeds across 16 legislation types (UKPGA,
 
 ### 2. Review — send to Grok AI
 
-Requires a `XAI_API_KEY` environment variable ([get one here](https://console.x.ai)).
+Requires `XAI_API_KEY` in your `.env` file ([get one here](https://console.x.ai)).
 
 ```bash
 # Review legislation (reads data/legislation-index.json)
-XAI_API_KEY=xai-xxx npm run review -- --batch 20
+npm run review -- --batch 20
 
 # Review charities (reads data/ngo-index.json)
-XAI_API_KEY=xai-xxx npm run review:ngos -- --batch 20
+npm run review:ngos -- --batch 20
 
 # Review civil service bodies (reads data/cs-index.json)
-XAI_API_KEY=xai-xxx npm run review:cs -- --batch 20
+npm run review:cs -- --batch 20
 ```
 
 All review scripts are incremental — they skip items already reviewed and save after each item. They track Grok API costs in USD ticks and convert to GBP. Use `--year 2020` to filter to a specific year, or `--resume` to continue after rate limiting.
@@ -100,6 +100,37 @@ The same three-tier pattern applies to reviewed data — as the reviewed corpus 
 | `npm run scrape`           | Scrape legislation.gov.uk                                     |
 | `npm run scrape:charities` | Scrape Charity Commission                                     |
 | `npm run scrape:cs`        | Scrape gov.uk organisations                                   |
-| `npm run review`           | AI review of legislation                                      |
-| `npm run review:ngos`      | AI review of charities                                        |
-| `npm run review:cs`        | AI review of civil service                                    |
+| `npm run review`           | AI review of legislation (real-time, one at a time)           |
+| `npm run review:ngos`      | AI review of charities (real-time)                            |
+| `npm run review:cs`        | AI review of civil service (real-time)                        |
+| `npm run batch:submit`     | Submit a batch to the xAI Batch API                           |
+| `npm run batch:status`     | Check progress of batch jobs                                  |
+| `npm run batch:results`    | Download results and merge into reviewed JSON                 |
+| `npm run batch:list`       | List all batches from xAI                                     |
+| `npm run batch:cancel`     | Cancel a running batch                                        |
+
+### 3. Batch review — xAI Batch API (cheaper, async)
+
+The Batch API processes requests asynchronously at ~50% lower cost with no rate limits. Results are typically ready within 24 hours. Use this for large-scale reviews instead of the real-time scripts.
+
+```bash
+# Submit a batch (regulations, civil-service, or ngos)
+npm run batch:submit -- --type regulations --limit 1000
+npm run batch:submit -- --type regulations --year 2020 --limit 500
+npm run batch:submit -- --type civil-service
+npm run batch:submit -- --type ngos --limit 5000
+
+# Check progress
+npm run batch:status
+npm run batch:status -- --batch-id <id>
+
+# Download completed results into reviewed JSON files
+npm run batch:results
+npm run batch:results -- --batch-id <id>
+
+# List all batches / cancel a batch
+npm run batch:list
+npm run batch:cancel -- --batch-id <id>
+```
+
+The batch script pre-fetches content in parallel (20 concurrent requests), submits to xAI in chunks of 200, and tracks jobs locally in `data/batch-jobs.json`. Results merge into the same `reviewed-*.json` files as the real-time scripts — fully compatible.

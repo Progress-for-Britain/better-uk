@@ -1,4 +1,6 @@
 {
+  "year": 2026,
+  "count": 12,
   "items": [
     {
       "id": "http://www.legislation.gov.uk/id/ukpga/Eliz2/6-7/51",
@@ -156,13 +158,5 @@
       "costTicks": 4015750,
       "reviewedAt": "2026-03-12T11:15:39.246Z"
     }
-  ],
-  "meta": {
-    "totalCorpus": 186900,
-    "totalReviewed": 12,
-    "totalKeep": 8,
-    "totalDelete": 4,
-    "costGBP": 1978.52,
-    "lastUpdated": "2026-03-12T11:15:39.246Z"
-  }
+  ]
 }

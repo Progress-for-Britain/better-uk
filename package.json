@@ -16,7 +16,12 @@
     "scrape:cs": "node scripts/scrape-civil-service.mjs",
     "review": "node scripts/review-regulations.mjs",
     "review:ngos": "node scripts/review-ngos.mjs",
-    "review:cs": "node scripts/review-civil-service.mjs"
+    "review:cs": "node scripts/review-civil-service.mjs",
+    "batch:submit": "node scripts/batch-review.mjs submit",
+    "batch:status": "node scripts/batch-review.mjs status",
+    "batch:results": "node scripts/batch-review.mjs results",
+    "batch:list": "node scripts/batch-review.mjs list",
+    "batch:cancel": "node scripts/batch-review.mjs cancel"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",

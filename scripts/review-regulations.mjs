@@ -26,9 +26,9 @@ const REVIEWED_YEAR_DIR = resolve(__dirname, '..', 'public', 'data', 'reviewed')
 
 // ─── Configuration ────────────────────────────────────────────────────────────
 
-const MODEL = 'grok-4-1';
+const MODEL = 'grok-4-1-fast-reasoning';
 const API_URL = 'https://api.x.ai/v1/chat/completions';
-const MAX_TEXT_LENGTH = 30_000; // Truncate regulation text to this length
+const MAX_TEXT_LENGTH = 500_000; // ~125K tokens – fits within model context with room for prompt
 const DELAY_BETWEEN_REVIEWS_MS = 500;
 const MAX_RETRIES = 3;
 
@@ -65,10 +65,24 @@ function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
+function loadEnv() {
+  const envPath = resolve(__dirname, '..', '.env');
+  if (!existsSync(envPath)) return;
+  const lines = readFileSync(envPath, 'utf-8').split('\n');
+  for (const line of lines) {
+    const match = line.match(/^([A-Za-z_][A-Za-z0-9_]*)\s*=\s*['"]?(.*?)['"]?$/);
+    if (match && !process.env[match[1]]) {
+      process.env[match[1]] = match[2];
+    }
+  }
+}
+
+loadEnv();
+
 function getApiKey() {
   const key = process.env.XAI_API_KEY;
   if (!key) {
-    console.error('\n  ✗ XAI_API_KEY environment variable is required.');
+    console.error('\n  ✗ XAI_API_KEY not found. Set it in .env or pass as environment variable.');
     console.error('    Get your key from https://console.x.ai\n');
     process.exit(1);
   }
@@ -137,9 +151,6 @@ function extractContent(text) {
  * Fetch the full text of a piece of UK legislation from legislation.gov.uk
  */
 async function fetchLegislationText(url) {
-  // Try plain text version first
-  const textUrl = url.replace(/\/?$/, '/data.xht?view=snippet&wrap=true');
-  
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
       // First try the /contents endpoint for the full enacted version
@@ -166,14 +177,22 @@ async function fetchLegislationText(url) {
         }
         const html = await fallbackResp.text();
         const text = stripHtml(html);
-        const content = extractContent(text);
-        return content.slice(0, MAX_TEXT_LENGTH);
+        let content = extractContent(text);
+        if (content.length > MAX_TEXT_LENGTH) {
+          content = content.slice(0, MAX_TEXT_LENGTH)
+            + `\n\n[TEXT TRUNCATED — full legislation: ${url} ]`;
+        }
+        return content;
       }
 
       const html = await response.text();
       const text = stripHtml(html);
-      const content = extractContent(text);
-      return content.slice(0, MAX_TEXT_LENGTH);
+      let content = extractContent(text);
+      if (content.length > MAX_TEXT_LENGTH) {
+        content = content.slice(0, MAX_TEXT_LENGTH)
+          + `\n\n[TEXT TRUNCATED — full legislation: ${url} ]`;
+      }
+      return content;
     } catch (err) {
       if (attempt === MAX_RETRIES) {
         throw new Error(`Failed to fetch ${url} after ${MAX_RETRIES} attempts: ${err.message}`);

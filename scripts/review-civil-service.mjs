@@ -24,7 +24,7 @@ const REVIEWS_PATH = resolve(DATA_DIR, 'reviewed-civil-service.json');
 
 // ─── Configuration ────────────────────────────────────────────────────────────
 
-const MODEL = 'grok-4-1';
+const MODEL = 'grok-4-1-fast-reasoning';
 const API_URL = 'https://api.x.ai/v1/chat/completions';
 const MAX_TEXT_LENGTH = 15_000;
 const DELAY_BETWEEN_REVIEWS_MS = 500;
@@ -68,10 +68,24 @@ function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
+function loadEnv() {
+  const envPath = resolve(__dirname, '..', '.env');
+  if (!existsSync(envPath)) return;
+  const lines = readFileSync(envPath, 'utf-8').split('\n');
+  for (const line of lines) {
+    const match = line.match(/^([A-Za-z_][A-Za-z0-9_]*)\s*=\s*['"]?(.*?)['"]?$/);
+    if (match && !process.env[match[1]]) {
+      process.env[match[1]] = match[2];
+    }
+  }
+}
+
+loadEnv();
+
 function getApiKey() {
   const key = process.env.XAI_API_KEY;
   if (!key) {
-    console.error('\n  ✗ XAI_API_KEY environment variable is required.');
+    console.error('\n  ✗ XAI_API_KEY not found. Set it in .env or pass as environment variable.');
     console.error('    Get your key from https://console.x.ai\n');
     process.exit(1);
   }

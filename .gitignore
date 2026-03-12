@@ -43,6 +43,8 @@ app-example
 data/ngo-index.json
 data/legislation-index.json
 data/reviewed-regulations.json
+data/batch-jobs.json
+data/batches/
 
 # generated native folders
 /ios

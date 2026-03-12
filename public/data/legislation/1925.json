@@ -1,7 +1,1150 @@
 {
   "year": 1925,
-  "count": 86,
+  "count": 213,
   "items": [
+    {
+      "id": "UKLA-1925-c10",
+      "title": "Westlothian (Bathgate District) Water Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c100",
+      "title": "Newbury Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c101",
+      "title": "London, Midland and Scottish Railway Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c102",
+      "title": "Blackpool Improvement Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c103",
+      "title": "Ipswich Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c104",
+      "title": "Leek Urban District Council Water Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c105",
+      "title": "Scarborough Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c106",
+      "title": "Colonial Bank Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c107",
+      "title": "Barrow-in-Furness Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c108",
+      "title": "Uckfield Gas and Electricity Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c109",
+      "title": "Nottingham Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c11",
+      "title": "Bradford Corporation (Trolley Vehicles) Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c110",
+      "title": "Mersey Tunnel Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c111",
+      "title": "Boothferry Bridge Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c112",
+      "title": "West Ham Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c113",
+      "title": "West Cheshire Water Board Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c114",
+      "title": "Clydebank Burgh Extension Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c115",
+      "title": "Surrey County Council Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c116",
+      "title": "Darlington Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c117",
+      "title": "New Shoreham Harbour Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c118",
+      "title": "Hartlepool Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c119",
+      "title": "London County Council (General Powers) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c12",
+      "title": "Ministry of Health Provisional Order Confirmation (Blackpool Order) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c120",
+      "title": "Manchester Ship Canal Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c121",
+      "title": "Bradford Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c122",
+      "title": "Walsall Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c123",
+      "title": "Wolverhampton Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c124",
+      "title": "Bexhill Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c125",
+      "title": "Leith Harbour and Docks Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c126",
+      "title": "Campbeltown Harbour and Gas Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c127",
+      "title": "Sandwich Port and Haven Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c128",
+      "title": "Ministry of Health Provisional Order Confirmation (Bournemouth) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c129",
+      "title": "Aberdeen Corporation Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c13",
+      "title": "Isle of Wight Highways Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c130",
+      "title": "Baldovan Institute for the Treatment and Education of Defectives Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c131",
+      "title": "Glasgow Boundaries Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c132",
+      "title": "Bedfordshire, Cambridgeshire and Huntingdonshire Electricity Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c14",
+      "title": "Hamilton Burgh Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c15",
+      "title": "Dundee Harbour and Tay Ferries Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c16",
+      "title": "Advocates' Widows' Fund (Widowers' Provisions) Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c17",
+      "title": "Imperial Institute Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/17",
+      "source": "ukla",
+      "description": "An Act to amend the Law with respect to the Management of the Imperial Institute."
+    },
+    {
+      "id": "UKLA-1925-c18",
+      "title": "Air Ministry (Croydon Aerodrome Extension) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c19",
+      "title": "Ministry of Health Provisional Order Confirmation (Keighley Water Charges) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c20",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 1) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c21",
+      "title": "Forfar Gas Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c22",
+      "title": "Port of London Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c23",
+      "title": "South Wales Electrical Power Distribution Company Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c24",
+      "title": "Great Western Railway Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c25",
+      "title": "Aire and Calder Navigation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c26",
+      "title": "Lloyd's Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c27",
+      "title": "Burgess Hill Water Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c28",
+      "title": "Oxford Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c29",
+      "title": "Bideford Harbour Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c30",
+      "title": "Kingston-upon-Hull Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c31",
+      "title": "Westminster City Council (General Powers) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c32",
+      "title": "North Metropolitan Electric Power Supply Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c33",
+      "title": "Tyne Improvement Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c34",
+      "title": "Leicester Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c35",
+      "title": "Gas Light and Coke Company's Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c36",
+      "title": "Sheffield Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c37",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 2) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c38",
+      "title": "Kilmarnock Gas and Water Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c39",
+      "title": "Provisional Order (Marriages) Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c40",
+      "title": "St. Mildred Poultry Churchyard (Sale) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c41",
+      "title": "St. Mary's Church Birmingham and General Hospital Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c42",
+      "title": "Standard Life Assurance Company's Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c43",
+      "title": "London County Council (Tramways and Improvements) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c44",
+      "title": "Rochdale Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c45",
+      "title": "Royal Exchange Assurance Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c46",
+      "title": "French Protestant Episcopal Church of the Savoy Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c47",
+      "title": "Bolton Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c48",
+      "title": "Oakengates Urban District Council Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c49",
+      "title": "South Metropolitan Gas Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c50",
+      "title": "Southern Railway Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c51",
+      "title": "London, Midland and Scottish Railway (New Capital) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c52",
+      "title": "London and North Eastern Railway Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c53",
+      "title": "Great Yarmouth Haven Bridge Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c54",
+      "title": "Bedwellty Urban District Council Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c55",
+      "title": "Fylde Water Board Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c56",
+      "title": "Newport Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c57",
+      "title": "Nottinghamshire County Council (Gunthorpe Bridge) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c58",
+      "title": "Southampton Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c59",
+      "title": "Poole Harbour Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c6",
+      "title": "Buckhaven and Methil Burgh Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c60",
+      "title": "Leeds Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c61",
+      "title": "Pontypridd and Rhondda Water Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c62",
+      "title": "London Electricity (No. 1) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c63",
+      "title": "London Electricity (No. 2) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c64",
+      "title": "London County Council (Money) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c65",
+      "title": "Board of Education Scheme (Winchester Christ's Hospital School Foundation) Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c66",
+      "title": "Wemyss and District Water Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c67",
+      "title": "Glasgow Corporation Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c68",
+      "title": "Kirkcudbright Burgh Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c69",
+      "title": "Lanarkshire County Council Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c7",
+      "title": "Dumfries and Maxwelltown Bridge Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c70",
+      "title": "London and North Eastern Railway Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c71",
+      "title": "Land Drainage (Black Sluice) Provisional Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c72",
+      "title": "Land Drainage (Ouse) Provisional Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c73",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c74",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c75",
+      "title": "Tramways Provisional Orders Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c76",
+      "title": "Leicester Fire Brigade Provisional Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c77",
+      "title": "Salford Provisional Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c78",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 3) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c79",
+      "title": "Air Ministry (Cattewater Seaplane Station) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c8",
+      "title": "Dundee Corporation and Water and Gas Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c80",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 4) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c81",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 5) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c82",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 6) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c83",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 7) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c84",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 8) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c85",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 9) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c86",
+      "title": "Ministry of Health Provisional Orders Confirmation (Water) Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c87",
+      "title": "West Hartlepool Corporation (Trolley Vehicles) Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c88",
+      "title": "Irvine Burgh Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c89",
+      "title": "Victoria Infirmary of Glasgow Act 1888 (Amendment) Order Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c9",
+      "title": "Elizabeth Fry Refuge and Refuge for the Destitute Charities Scheme Confirmation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c90",
+      "title": "Stock Conversion and Investment Trust Limited Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c91",
+      "title": "Hoylake and West Kirby Urban District Council Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c92",
+      "title": "Burnley Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c93",
+      "title": "Bath Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c94",
+      "title": "Middlesex County Council Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c95",
+      "title": "Slough Trading Company Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c96",
+      "title": "Stockton-on-Tees Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c97",
+      "title": "Oldham Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c98",
+      "title": "Mansfield Corporation Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1925-c99",
+      "title": "Mid-Glamorgan Water Act 1925",
+      "year": 1925,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/15-16/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1925-c10",
       "title": "Agricultural Rates (Additional Grant) Continuance Act 1925",

@@ -1,7 +1,709 @@
 {
   "year": 1919,
-  "count": 102,
+  "count": 180,
   "items": [
+    {
+      "id": "UKLA-1919-c1",
+      "title": "Glasgow and South Western Railway (Ayr Harbour Transfer) Order Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c10",
+      "title": "Dover Harbour Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c11",
+      "title": "Blyth Harbour Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c12",
+      "title": "Bristol Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c13",
+      "title": "Dublin Port and Docks Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c14",
+      "title": "Mersey Docks and Harbour Board Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c15",
+      "title": "Newport Harbour Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c16",
+      "title": "Bankers Guarantee Trust Transfer to Alliance Assurance Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c17",
+      "title": "Board of Education Scheme (Crossley and Porter Orphan Home and School) Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c18",
+      "title": "Swansea Harbour Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c19",
+      "title": "Northampton Gas Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c2",
+      "title": "Leith Harbour and Docks Order Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c20",
+      "title": "Legal and General Assurance Society Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c21",
+      "title": "Hartlepool Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c22",
+      "title": "Mansfield Railway Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c23",
+      "title": "Reigate Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c24",
+      "title": "Hartlepool Gas and Water Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c25",
+      "title": "Beccles Waterworks Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c26",
+      "title": "Tees Conservancy Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c27",
+      "title": "Stourport Gas Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c28",
+      "title": "Sunderland Gas Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c29",
+      "title": "Wear Navigation and Sunderland Dock Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c3",
+      "title": "North British Railway Order Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c30",
+      "title": "Chepstow Water Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c31",
+      "title": "Bridge of Allan Water Order Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c32",
+      "title": "Edinburgh and Leith Corporations Gas Order Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c33",
+      "title": "London County Council (General Powers) Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c34",
+      "title": "Sheringham Gas and Water Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c35",
+      "title": "Fylde Water Board Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c36",
+      "title": "Llanelly Rural District Water Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c37",
+      "title": "Falmouth Docks Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c38",
+      "title": "Medway Conservancy Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c39",
+      "title": "Newark Gas Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c4",
+      "title": "Standard Life Assurance Company Order Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c40",
+      "title": "Stockton-on-Tees Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c41",
+      "title": "Stocksbridge Gas Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c42",
+      "title": "Waterford Harbour Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c43",
+      "title": "Nuneaton Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c44",
+      "title": "Poole Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c45",
+      "title": "London County Council (Money) Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c46",
+      "title": "Manchester Ship Canal Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c47",
+      "title": "Rotherham Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c48",
+      "title": "Bournemouth Gas and Water Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c49",
+      "title": "Sheffield Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c5",
+      "title": "Brentford Gas Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c50",
+      "title": "Birmingham Corporation Tramways Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c51",
+      "title": "Blackpool Improvement Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c52",
+      "title": "East Ham Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c53",
+      "title": "Leeds Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c54",
+      "title": "London Electric Railway Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c55",
+      "title": "Shoreham-by-Sea Urban District Council Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c56",
+      "title": "Tynemouth Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c57",
+      "title": "West Hartlepool Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c58",
+      "title": "Middlesbrough Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c59",
+      "title": "Workington Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c6",
+      "title": "South Shields Gas Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c60",
+      "title": "Tyne Improvement Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c61",
+      "title": "Huddersfield Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c62",
+      "title": "Dover Gas Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c63",
+      "title": "Pembroke District Gas Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c64",
+      "title": "Bedwellty Urban District Council Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c65",
+      "title": "Birmingham Corporation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c66",
+      "title": "Milford Docks Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c67",
+      "title": "Stretford Urban District Council Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c68",
+      "title": "Londonderry Port and Harbour Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c69",
+      "title": "Newcastle-upon-Tyne Corporation (Rates) Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c7",
+      "title": "D.H. Evans and Company Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c70",
+      "title": "Commons Regulation (Coity Wallia) Provisional Order Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c71",
+      "title": "Pier and Harbour Orders Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c72",
+      "title": "Electric Lighting Order Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c73",
+      "title": "City of London Police Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c74",
+      "title": "Gas and Water Orders Confirmation Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c75",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c76",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c77",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c78",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 4) Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c8",
+      "title": "St. George's Church Oxford Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1919-c9",
+      "title": "Belfast Harbour Act 1919",
+      "year": 1919,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/9-10/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1919-c1",
       "title": "Coal Industry Commission Act 1919",

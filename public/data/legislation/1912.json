@@ -1,7 +1,1555 @@
 {
   "year": 1912,
-  "count": 20,
+  "count": 192,
   "items": [
+    {
+      "id": "UKLA-1912-c1",
+      "title": "Central Argentine Railway Limited Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c10",
+      "title": "Everton, &amp;c. Drainage Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c100",
+      "title": "Midland Railway (London, Tilbury and Southend Railway Purchase) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c101",
+      "title": "West Riding of Yorkshire Asylums Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c102",
+      "title": "Metropolitan Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c103",
+      "title": "London County Council (Money) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c104",
+      "title": "London County Council (General Powers) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c105",
+      "title": "London County Council (Finance Consolidation) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c106",
+      "title": "London County Council (Tramways and Improvements) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c107",
+      "title": "Keighley Corporation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c108",
+      "title": "Bordon and District Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c109",
+      "title": "Blyth Harbour Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c11",
+      "title": "Penwortham Bridge Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c110",
+      "title": "Public Offices (Sites) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c111",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 1) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c112",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 2) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c113",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 3) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c114",
+      "title": "Electric Lighting Orders Confirmation (No. 1) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c115",
+      "title": "Electric Lighting Orders Confirmation (No. 2) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c116",
+      "title": "Electric Lighting Orders Confirmation (No. 3) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c117",
+      "title": "Military Lands Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c118",
+      "title": "Bradford Corporation Trolley Vehicles Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c119",
+      "title": "Education Board Provisional Orders Confirmation (Essex, &amp;c.) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c12",
+      "title": "Mersey Docks and Harbour Board Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c120",
+      "title": "Education Board Provisional Orders Confirmation (Kent, &amp;c.) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c121",
+      "title": "Education Board Provisional Orders Confirmation (London No. 1) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c122",
+      "title": "Education Board Provisional Order Confirmation (London No. 2) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c123",
+      "title": "Land Drainage (Lincoln West) (South District) Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c124",
+      "title": "Land Drainage (Billingham) Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c125",
+      "title": "Land Drainage (Pitsea) Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c126",
+      "title": "Gas and Water Orders Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c127",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c128",
+      "title": "Local Government Board's Provisional Orders Confimration (No. 2) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c129",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c13",
+      "title": "Liverpool Corporation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c130",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c131",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 5) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c132",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c133",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c134",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c135",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 9) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c136",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 10) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c137",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 11) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c138",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 12) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c139",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 14) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c14",
+      "title": "Dunstable Gas and Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c140",
+      "title": "Local Government Board's Provisional Orders Confirmation (Gas) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c141",
+      "title": "Sea Fisheries (Conway) Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c142",
+      "title": "Sea Fisheries (Lynn) Provisional Orders Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c143",
+      "title": "Exe Fisheries Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c144",
+      "title": "Tramways Orders Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c145",
+      "title": "Pier and Harbour Order Confirmation (No. 1) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c146",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c147",
+      "title": "Arbroath Corporation Gas Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c148",
+      "title": "Dunbar Water Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c149",
+      "title": "Glasgow Corporation Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c15",
+      "title": "Church Stretton Urban District Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c150",
+      "title": "Clyde Valley Electrical Power Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c151",
+      "title": "Kingston-upon-Hull Corporation Act Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c152",
+      "title": "Gas Orders Confirmation (No. 1) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c153",
+      "title": "Gas Orders Confirmation (No. 2) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c154",
+      "title": "Falkirk Burgh Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c155",
+      "title": "Electric Lighting Order Confirmation (No. 4) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c156",
+      "title": "Pier and Harbour Orders Confirmation (No. 3) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c157",
+      "title": "Pier and Harbour Orders Confirmation (No. 4) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c158",
+      "title": "Kent and Bela Fisheries Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c159",
+      "title": "Provisional Order (Marriages) Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c16",
+      "title": "Egremont Urban District Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c160",
+      "title": "North Killingholme (Admiralty Pier) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c161",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 13) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c162",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 15) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c163",
+      "title": "Water Orders Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c164",
+      "title": "Norfolk Fisheries Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c165",
+      "title": "Great Central Railway (Grimsby Fish Dock) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c166",
+      "title": "North Killingholme Pier Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c167",
+      "title": "Sheffield Corporation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c168",
+      "title": "Land Drainage (Braithwaite Moss) Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c17",
+      "title": "Ramsbottom Urban District Railless Traction Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c170",
+      "title": "Robinson's Trust Scheme Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c171",
+      "title": "Beverley Charities Schemes Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c172",
+      "title": "Whitby Charities Scheme Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c173",
+      "title": "Haberdashers' Company Loan Fund Bearing Interest Scheme Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c18",
+      "title": "Birkbeck Share and Debenture Trust Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c19",
+      "title": "Manchester Ship Canal Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c2",
+      "title": "Collooney, Ballina and Belmullet Railways and Piers Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c20",
+      "title": "Price's Patent Candle Company Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c21",
+      "title": "Aberdeen Market Company Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c22",
+      "title": "Glasgow and South Western Railway Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c23",
+      "title": "Prestonpans Combination Water Supply (Finance) Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c24",
+      "title": "Kilmarnock Gas Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c25",
+      "title": "Clyde Lighthouses Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c26",
+      "title": "Dundee Harbour and Tay Ferries Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c27",
+      "title": "Falkirk and District Tramways Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c28",
+      "title": "Allan Glen's School Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c29",
+      "title": "Metropolitan Police Provisional Order Confirmation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c3",
+      "title": "Weston-super-Mare Grand Pier Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c30",
+      "title": "Brighton and Hove Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c31",
+      "title": "Ystradfelte Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c32",
+      "title": "Stockport Corporation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c33",
+      "title": "Taff Vale Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c34",
+      "title": "Windermere District Gas and Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c35",
+      "title": "Annfield Plain and District Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c36",
+      "title": "Dublin and South Eastern Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c37",
+      "title": "Great Eastern Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c38",
+      "title": "Derwent Valley Water. Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c39",
+      "title": "Cardiff Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c4",
+      "title": "Wirral Railway (Extension of Time) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c40",
+      "title": "Southgate and District Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c41",
+      "title": "North Middlesex Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c42",
+      "title": "City of London (Various Powers) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c43",
+      "title": "Lea Bridge District Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c44",
+      "title": "Maidenhead Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c45",
+      "title": "Tendring Hundred Water and Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c46",
+      "title": "Brodsworth and District Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c47",
+      "title": "Wandsworth, Wimbledon and Epsom District Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c48",
+      "title": "Australian Agricultural Company Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c49",
+      "title": "Stepney Borough Council (Spitalfields Market) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c5",
+      "title": "Credit Foncier of Mauritius Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c50",
+      "title": "Bedwellty Urban District Council Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c51",
+      "title": "Belfast Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c52",
+      "title": "Port of London Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c53",
+      "title": "Scunthorpe Urban District Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c54",
+      "title": "Tavistock Urban District Council Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c55",
+      "title": "North Ormesby, South Bank, Normanby and Grangetown Railless Traction Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c56",
+      "title": "Shipley Urban District Council Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c57",
+      "title": "Brighton Corporation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c58",
+      "title": "Great Central Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c59",
+      "title": "Bawtry and District Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c6",
+      "title": "Leatherhead Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c60",
+      "title": "Hove Corporation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c61",
+      "title": "Houghton-le-Spring District Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c62",
+      "title": "Bognor Gas Light and Coke Company (Electricity) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c63",
+      "title": "Fleetwood Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c64",
+      "title": "Ivybridge Urban District Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c65",
+      "title": "Metropolitan District Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c66",
+      "title": "London and North Western Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c67",
+      "title": "Christchurch Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c68",
+      "title": "Herne Bay Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c69",
+      "title": "Wakefield Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c7",
+      "title": "Newry, Keady and Tynan Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c70",
+      "title": "Swanage Gas and Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c71",
+      "title": "York Gas (Consolidation) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c72",
+      "title": "Dover Corporation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c73",
+      "title": "London United Tramways Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c74",
+      "title": "Gas Companies (Standard Burner) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c75",
+      "title": "Staffordshire Potteries Waterworks Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c76",
+      "title": "Tees Conservancy Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c77",
+      "title": "Preston, Chorley and Horwich Tramways Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c78",
+      "title": "London Electric Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c79",
+      "title": "Llanelly Rural District Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c8",
+      "title": "Sidmouth Urban District Council Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c80",
+      "title": "London Trust Company Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c81",
+      "title": "Midland Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c82",
+      "title": "Birmingham Corporation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c83",
+      "title": "Ashbourne Urban District Council (Gas) Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c84",
+      "title": "Barry Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c85",
+      "title": "Edgware and Hampstead Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c86",
+      "title": "Great Western Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c87",
+      "title": "Great Northern Railway Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c88",
+      "title": "Rhymney Valley Sewerage Board Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c89",
+      "title": "Ericht Water and Electric Power Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c9",
+      "title": "Belfast Corporation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c90",
+      "title": "South Suburban Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c91",
+      "title": "Woking District Gas Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c92",
+      "title": "Lanark County Tramways Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c93",
+      "title": "Manchester Royal Exchange Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c94",
+      "title": "Nottingham Mechanics Institution Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c95",
+      "title": "Glasgow Boundaries Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c96",
+      "title": "Glasgow Water Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c97",
+      "title": "Fylde Water Board Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c98",
+      "title": "National Electric Construction Company Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1912-c99",
+      "title": "Swansea Corporation Act 1912",
+      "year": 1912,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/2-3/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1912-c1",
       "title": "Consolidated Fund (No. 1) Act 1912",

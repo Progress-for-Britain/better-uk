@@ -1,7 +1,1573 @@
 {
   "year": 1875,
-  "count": 96,
+  "count": 270,
   "items": [
+    {
+      "id": "UKLA-1875-c1",
+      "title": "Land Drainage Supplemental Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c10",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c100",
+      "title": "North British Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c101",
+      "title": "Salford Tramways and Improvement Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c102",
+      "title": "London and North Western Railway (Bletchley, Northampton and Rugby) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c103",
+      "title": "Sheffield and Midland Railway Companies' Committee Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c104",
+      "title": "Busby Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c105",
+      "title": "Hamilton Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c106",
+      "title": "Newport Pagnell Railway (Transfer and Dissolution) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c107",
+      "title": "Metropolitan Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c108",
+      "title": "Chelsea Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c109",
+      "title": "Cork Improvement Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c11",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c110",
+      "title": "Great Northern Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c111",
+      "title": "Midland Railway (Additional Powers) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c112",
+      "title": "Swindon and Highworth Light Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c113",
+      "title": "Greenock Police and Improvement Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c114",
+      "title": "London Central Railway (Abandonment) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c115",
+      "title": "Whitthread's Patent Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c116",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c117",
+      "title": "Pier and Harbour Orders Confirmation (No. 3) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c118",
+      "title": "Chelsea Hospital (Lands) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c119",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c12",
+      "title": "Public Health (Scotland) Act, 1867, Order Confirmation (No. 2) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c120",
+      "title": "Local Government Board (Ireland) Provisional Order (Coleraine) Confirmation Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c121",
+      "title": "Weardale and Shildon District Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c122",
+      "title": "Broadstairs Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c123",
+      "title": "Glasgow Corporation Tramways Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c124",
+      "title": "Great Western Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c125",
+      "title": "Lancashire and Yorkshire Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c126",
+      "title": "Southport Improvement Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c127",
+      "title": "Bristol and Exeter Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c128",
+      "title": "Edinburgh Tramways Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c129",
+      "title": "Cornwall Minerals Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c13",
+      "title": "Heckmondwike Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c130",
+      "title": "Dublin, Wicklow and Wexford Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c131",
+      "title": "Alford Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c132",
+      "title": "Belfast Street Tramways Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c133",
+      "title": "Caledonian Railway (Gordon Street Station Connectin Lines) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c134",
+      "title": "Great Eastern Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c14",
+      "title": "British Gaslight Company (Norwich) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c15",
+      "title": "Southampton Docks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c16",
+      "title": "Sutherland and Caithness Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c17",
+      "title": "East Norfolk Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c176",
+      "title": "Local Government Board's Provisional Orders Confirmation (Abingdon, &amp;c.) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c177",
+      "title": "Chelsea Bridge Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c178",
+      "title": "Birmingham (Corporation) Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c179",
+      "title": "Metropolitan Board of Works (Various Powers) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c18",
+      "title": "London, Tilbury and Southend Railway (Steamboats) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c180",
+      "title": "Oldham Corporation Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c181",
+      "title": "South Eastern Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c182",
+      "title": "West Lancashire Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c183",
+      "title": "Teign Valley Railway (Extension) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c184",
+      "title": "Carmarthen and Cardigan Railway (Arrangement) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c185",
+      "title": "Milford Docks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c186",
+      "title": "South Staffordshire Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c187",
+      "title": "Cardiff Improvement Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c188",
+      "title": "Birmingham (Corporation) Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c189",
+      "title": "Wigan Junction Railways Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c19",
+      "title": "Mersey Docks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c190",
+      "title": "Channel Tunnel Company Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c191",
+      "title": "Whitehaven, Cleator and Egremont Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c192",
+      "title": "Campbell's Sewage Patent Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c193",
+      "title": "Local Government Board's Provisional Orders Confirmation (Leyton, &amp;c.) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c194",
+      "title": "Annual Turnpike Acts Continuance Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c195",
+      "title": "Dublin Traffic Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c196",
+      "title": "Ely and Bury St. Edmunds (Light) Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c197",
+      "title": "Sligo, Leitrim and Northern Counties Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c198",
+      "title": "Cambrian Railways Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c199",
+      "title": "Sion College Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c2",
+      "title": "Local Government Board (Ireland) Provisional Orders (Kingstown and Galway) Confirmation Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c20",
+      "title": "Cleveland Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c200",
+      "title": "Commercial Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c201",
+      "title": "Galway, Oughterard and Clifden Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c202",
+      "title": "Metropolitan and South Western Junction Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c203",
+      "title": "Sevenoaks, Maidstone and Tonbridge Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c204",
+      "title": "Barrow-in-Furness Corporation Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c205",
+      "title": "Ely and Newmarket Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c206",
+      "title": "Regent's Canal and Dock Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c207",
+      "title": "Sutton Bridge Dock Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c208",
+      "title": "Metropolitan District Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c209",
+      "title": "North Dublin Street Tramways Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c21",
+      "title": "Girvan and Portpatrick Junction Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c210",
+      "title": "Derry Central Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c211",
+      "title": "Local Government Board's Provisional Orders Confirmation (Abingdon, Barnsley, &amp;c.) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/211",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c212",
+      "title": "Ramsey and Somersham Junction Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/212",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c213",
+      "title": "South Dublin Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/213",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c214",
+      "title": "Stroud Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/214",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c215",
+      "title": "Burntisland Harbour Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/215",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c22",
+      "title": "Longton Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c23",
+      "title": "Tyne Improvement Commission Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c24",
+      "title": "Crystal Palace Company's Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c25",
+      "title": "Cwm Park Bridge Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c26",
+      "title": "Midland and North Eastern Railways Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c27",
+      "title": "Broadstairs Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c28",
+      "title": "St. Philip's Bridge (Bristol) Transfer Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c29",
+      "title": "Southend Local Board Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c3",
+      "title": "Columbia Market Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c30",
+      "title": "Eastbourne Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c31",
+      "title": "Maidenhead Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c32",
+      "title": "Torbay and Brixham Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c33",
+      "title": "Carmarthen Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c34",
+      "title": "Military Manoeuvres Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c35",
+      "title": "Bristol Port and Channel Dock Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c36",
+      "title": "Greenock Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c37",
+      "title": "Ulster, and Portadown, Dungannon and Omagh Junction Railways Amalgamation Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c38",
+      "title": "Ashton-in-Makerfield Local Board Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c39",
+      "title": "Cleethorpes Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c4",
+      "title": "Commissioners of Sewers of the City of London Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c40",
+      "title": "Hindley Local Board Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c41",
+      "title": "Oxford (Corporation) Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c42",
+      "title": "Pemberton Local Board Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c43",
+      "title": "Pontypridd Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c44",
+      "title": "Staffordshire and Worcestershire Canal Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c45",
+      "title": "Truro and Perran Mineral Railway (Abandonment) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c46",
+      "title": "Metropolitan Cattle Market Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c47",
+      "title": "Gravesend Terrace Pier (Sale) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c48",
+      "title": "Liverpool Tramways Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c49",
+      "title": "Railway Passengers Assurance Company's Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c5",
+      "title": "Edinburgh Royal Infirmary Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c50",
+      "title": "Colchester Gas Company's Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c51",
+      "title": "Wye Valley Railway Amendment Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c52",
+      "title": "Birmingham and Lichfield Junction Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c53",
+      "title": "Glasgow Police Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c54",
+      "title": "Stapenhill Bridge Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c55",
+      "title": "Plymouth, Devonport and Stonehouse Cemetery (Extension) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c56",
+      "title": "Lymington Harbour and Docks (Extension of Time) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c57",
+      "title": "London, Tilbury and Southend Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c58",
+      "title": "Halkyn Distict Mines Drainage Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c59",
+      "title": "London Central Markets Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c6",
+      "title": "Glasgow Faculty of Procurators Widows Fund Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c60",
+      "title": "Ryde and Newport and Cowes and Newport Railways Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c61",
+      "title": "East London Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c62",
+      "title": "York (Skeldergate Bridge) Improvement Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c63",
+      "title": "Worksop Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c64",
+      "title": "Manchester, Sheffield and Lincolnshire Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c65",
+      "title": "Sandbach and Winsford Junction Railway Abandonment Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c66",
+      "title": "Banbridge Extension Railway (Sale) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c67",
+      "title": "Ashton-under-Lyne, Stalybridge and Dunkinfield (District) Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c68",
+      "title": "Baybridge Canal (Abandonment) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c69",
+      "title": "Ossett-cum-Gawthorpe Local Board Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c7",
+      "title": "Education Department Provisional Orders Confirmation (Caister, &amp;c.) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c70",
+      "title": "Rotherham Corporation Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c71",
+      "title": "Tillington Drainage Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c72",
+      "title": "St. Pancras and St. Giles in the Fields Disused Burial Grounds Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c73",
+      "title": "Public Health (Scotland) Act 1867, Order Confirmation (No. 3) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c74",
+      "title": "St. Paul's Cathedral, London, Minor Canonries Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c75",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c76",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c77",
+      "title": "Marlborough Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c78",
+      "title": "Prudential Assurance Company Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c79",
+      "title": "Bath Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c8",
+      "title": "Education Department Provisional Order Confirmation (Brighton) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c80",
+      "title": "Bradford Waterworks and Improvement Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c81",
+      "title": "Millom Gas and Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c82",
+      "title": "Pontefract Borough Extension Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c83",
+      "title": "Portishead District Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c84",
+      "title": "Truro Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c85",
+      "title": "Market Rasen Water Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c86",
+      "title": "Tees Conservancy Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c87",
+      "title": "Middlesex Industrial Schools Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c88",
+      "title": "Widnes Local Board Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c89",
+      "title": "Inverness Water and Gas Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c9",
+      "title": "Public Health (Scotland) Act 1867, Order Confirmation (No. 1) Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c90",
+      "title": "South Devon Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c91",
+      "title": "Cheshire Lines Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c92",
+      "title": "Leicester Waterworks Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c93",
+      "title": "North Eastern Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c94",
+      "title": "Rochdale Improvement Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c95",
+      "title": "Middlesbrough and Stockton Tramways Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c96",
+      "title": "London, Brighton and South Coast Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c97",
+      "title": "Glasgow and Yoker Road Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c98",
+      "title": "Brewood and Wolverhampton Railway Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1875-c99",
+      "title": "Glasgow and Kilmarnock Joint Line Act 1875",
+      "year": 1875,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/38-39/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1875-c1",
       "title": "An Act to apply the sum of eight hundred and eighty-two thousand six hundred and sixty-one pounds eight shillings and eleven-pence out of the Consolidated Fund to the service of the years ending the thirty-first day of March one thousand eight hundred and seventy-four and one thousand eight hundred and seventy-five.",

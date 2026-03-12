@@ -1,7 +1,1087 @@
 {
   "year": 1895,
-  "count": 44,
+  "count": 164,
   "items": [
+    {
+      "id": "UKLA-1895-c1",
+      "title": "Gas Orders Confirmation Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/VictSess2/59/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c10",
+      "title": "Legal and General Life Assurance Society's Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c102",
+      "title": "Electric Lighting Orders Confirmation (No. 5) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c103",
+      "title": "Electric Lighting Order Confirmation (No. 6) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c104",
+      "title": "Belfast and Northern Counties Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c105",
+      "title": "Greenock Harbour Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c107",
+      "title": "Staffordshire Potteries Stipendiary Justice Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c108",
+      "title": "Liskeard and Looe Railway Extension Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c109",
+      "title": "Rhondda and Swansea Bay Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c11",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 17) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/VictSess2/59/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c110",
+      "title": "Swansea Harbour Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c111",
+      "title": "Weaver Navigation Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c112",
+      "title": "Great Northern and City Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c113",
+      "title": "Warehousemen, Clerks and Drapers' Schools Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c114",
+      "title": "Land Securities Company Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c115",
+      "title": "Bridlington Water Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c116",
+      "title": "Lanarkshire and Dumbartonshire Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c117",
+      "title": "Sutton Harbour Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c118",
+      "title": "Great Western Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c119",
+      "title": "Oldham and Royton Canal Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c12",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 18) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/VictSess2/59/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c120",
+      "title": "Bute Docks Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c121",
+      "title": "North Pembrokeshire and Fishguard Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c122",
+      "title": "Taff Vale Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c123",
+      "title": "City of Dublin Steam Packet Company's Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c124",
+      "title": "Wirral Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c125",
+      "title": "Glasgow and South Western Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c126",
+      "title": "London and North Western Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c127",
+      "title": "London County Council (General Powers) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c128",
+      "title": "Brighouse Corporation Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c129",
+      "title": "London County Council (Vauxhall Bridge) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c13",
+      "title": "Felixstowe and Walton Waterworks Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c130",
+      "title": "London County Council (Tower Bridge Southern Approach) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c131",
+      "title": "Clonmel Corporation Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c132",
+      "title": "Solway Junction Railway (Transfer) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c133",
+      "title": "Midland Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c134",
+      "title": "Cranbrook District Water Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c135",
+      "title": "Tenterden Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c136",
+      "title": "Aberdeen Harbour Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c137",
+      "title": "West Highland Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c138",
+      "title": "Derry City and County Railway (Abandonment) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c139",
+      "title": "Torrington and Okehampton Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c14",
+      "title": "Saint Leonard and Saint Mary Magdalen Church Districts Amendment Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c140",
+      "title": "London County Council (Money) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c141",
+      "title": "Lancashire, Derbyshire and East Coast Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c142",
+      "title": "North Eastern Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c143",
+      "title": "Glasgow Corporation and Police Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c144",
+      "title": "South Western Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c145",
+      "title": "Neath, Pontardawe, and Bryn-aman Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c146",
+      "title": "Birmingham, North Warwickshire, and Stratford-upon-Avon Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c147",
+      "title": "Chesterfield Gas and Water Board Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c148",
+      "title": "Manchester, Sheffield and Lincolnshire Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c149",
+      "title": "Thames and Severn Canal Trust Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c15",
+      "title": "Military Lands Provisional Order Confirmation (No. 2) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/VictSess2/59/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c150",
+      "title": "Latimer Road and Acton Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c151",
+      "title": "North British Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c152",
+      "title": "Highland Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c153",
+      "title": "London, Walthamstow and Epping Forest Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c154",
+      "title": "Croydon Corporation Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c155",
+      "title": "Bray Township Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c156",
+      "title": "Merthyr Tydfil District Council Waterworks Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c157",
+      "title": "Bristol Corporation Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c158",
+      "title": "Southend-on-Sea Corporation Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c16",
+      "title": "George Heriot's Trust Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c17",
+      "title": "Wrexham and Ellesmere Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c18",
+      "title": "British Gas Light Company (Staffordshire Potteries) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c19",
+      "title": "City and South London Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c2",
+      "title": "Gas and Water Orders Confirmation Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/VictSess2/59/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c20",
+      "title": "East Indian Railway Company's Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c21",
+      "title": "North Staffordshire Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c22",
+      "title": "American Mortgage Company of Scotland Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c23",
+      "title": "Great Southern and Western Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c24",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 2) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c25",
+      "title": "Military Lands Provisional Orders Confirmation Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c26",
+      "title": "Great Eastern Railway (General Powers) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c27",
+      "title": "Edinburgh and District Waterworks (Additional Supply) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c28",
+      "title": "Fishguard and Rosslare Railways and Harbours (Steam Vessels) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c29",
+      "title": "North Middlesex Gas Company's Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c3",
+      "title": "Education Department Provisional Orders Confirmation (London) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/VictSess2/59/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c30",
+      "title": "Ayr Faculty of Solicitors Widows' Fund Society Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c31",
+      "title": "Hayward's Heath Gas Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c32",
+      "title": "London Street Tramways Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c33",
+      "title": "Aire and Calder Navigation Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c34",
+      "title": "Hebden Bridge and Mytholmroyd Gas Board Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c35",
+      "title": "Rhymney Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c36",
+      "title": "Great Northern Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c37",
+      "title": "Whitby Water Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c38",
+      "title": "Scarborough Gas Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c39",
+      "title": "York Waterworks Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c4",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/VictSess2/59/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c40",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c41",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c42",
+      "title": "Waterford and Limerick Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c43",
+      "title": "Brymbo Water Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c44",
+      "title": "Bank of Bolton Limited Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c45",
+      "title": "Ambleside Urban District Council (Gas and Water) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c46",
+      "title": "South Eastern Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c47",
+      "title": "Lancashire and Yorkshire Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c48",
+      "title": "Barry Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c49",
+      "title": "Vale of Glamorgan Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c5",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/VictSess2/59/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c50",
+      "title": "Education Department Provisional Order Confirmation (Acton) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c51",
+      "title": "Education Department Provisional Order Confirmation (Bristol) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c52",
+      "title": "Education Department Provisional Order Confirmation (Croydon) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c53",
+      "title": "Education Department Provisional Order Confirmation (Hornsey) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c54",
+      "title": "Education Department Provisional Orders Confirmation (Leeds) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c55",
+      "title": "Education Department Provisional Order Confirmation (Liverpool) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c56",
+      "title": "Education Department Provisional Order Confirmation (Llangollen) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c57",
+      "title": "Education Department Provisional Orders Confirmation (Longbenton) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c58",
+      "title": "Education Department Provisional Order Confirmation (Lowestoft) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c59",
+      "title": "Education Department Provisional Order Confirmation (Manchester) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c6",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/VictSess2/59/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c60",
+      "title": "Education Department Provisional Order Confirmation (Pwllheli) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c61",
+      "title": "Education Department Provisional Order Confirmation (Weston-super-Mare) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c62",
+      "title": "Education Department Provisional Order Confirmation (Wilmington) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c63",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 3) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c64",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 4) Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c7",
+      "title": "Newmarket Gas Company's Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c8",
+      "title": "Bristol Waterworks Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1895-c9",
+      "title": "Brecon and Merthyr Railway Act 1895",
+      "year": 1895,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/58-59/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1895-c1",
       "title": "Local Government (Scotland) Act 1894 Amendment Act 1895",

@@ -1,7 +1,1078 @@
 {
   "year": 1872,
-  "count": 98,
+  "count": 217,
   "items": [
+    {
+      "id": "UKLA-1872-c1",
+      "title": "Oyster and Mussel Fisheries Orders Confirmation Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c10",
+      "title": "Dundee Water Amendment Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c11",
+      "title": "Upwell, Outwell, Denver and Welney Level Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c12",
+      "title": "Glasgow and Kilmarnock Joint Line (Extension of Time) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c13",
+      "title": "Tyne Coal Dues Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c14",
+      "title": "Pontypridd Stipendiary Magistrate's Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c15",
+      "title": "Swansea Local Board of Health Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c150",
+      "title": "Southwark Bridge Company Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c151",
+      "title": "Tonbridge Gas Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c152",
+      "title": "Great Western Railway (Swansea Canal) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c153",
+      "title": "South Eastern Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c154",
+      "title": "William Lambe's Chapel and Estate Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c155",
+      "title": "Gorsedda Junction and Portmadoc Railways Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c156",
+      "title": "Pier and Harbour Orders Confirmation (No. 3) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c157",
+      "title": "Tramways Orders Confirmation (No. 3) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c158",
+      "title": "Tramways Orders Confirmation (No. 4) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c159",
+      "title": "Brighton and London Sea Water Supply Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c16",
+      "title": "Liverpool Hydraulic Power Company's Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c160",
+      "title": "Alloa Harbour Consolidation Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c161",
+      "title": "Girvan and Portpatrick Junction Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c162",
+      "title": "Bristol Port and Channel Dock Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c163",
+      "title": "Metropolitan Street Improvements Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c164",
+      "title": "Ocean, Railway and General Travellers Assurance Company Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c165",
+      "title": "Lymington Harbour and Docks (Extension of Time) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c166",
+      "title": "Medway Docks (Extension of Time) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c167",
+      "title": "Great Northern Railway (Newark and Melton) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c168",
+      "title": "Newcastle-upon-Tyne District Tramways Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c169",
+      "title": "Isle of Wight (Newport Junction) Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c17",
+      "title": "Dundee Gas Amendment Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c170",
+      "title": "Alcester Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c171",
+      "title": "Belfast Central Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c172",
+      "title": "Birmingham and Lichfield Junction Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c173",
+      "title": "Birmingham and Staffordshire Extension Tramways Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c174",
+      "title": "Leeds Tramways Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c175",
+      "title": "North Wales Narrow Gauge Railways Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c176",
+      "title": "Glencairn Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c177",
+      "title": "Continental Communication (Newhaven and Dieppe) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c178",
+      "title": "Manchester, Sheffield and Lincolnshire Railway (Additional Powers) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c179",
+      "title": "Daventry and Weedon Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c18",
+      "title": "Hull Hydraulic Power Company's Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c180",
+      "title": "Pneumatic Despatch Company Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c181",
+      "title": "Southampton Street Tramways Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c182",
+      "title": "Wolverhampton, Walsall and Midland Junction Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c183",
+      "title": "West Lancashire Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c184",
+      "title": "Cheltenham Gas Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c185",
+      "title": "Limerick and Castle Connell Railway (Transfer) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c186",
+      "title": "General Police and Improvement (Scotland) Supplemental Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c187",
+      "title": "Tivy Side Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c188",
+      "title": "Midland Counties and Shannon Junction Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c189",
+      "title": "Barnet District Gas and Water Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c19",
+      "title": "Castell Coch Bridge Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c190",
+      "title": "Metropolitan and South Western Junction Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c191",
+      "title": "Dundee Tramways Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c192",
+      "title": "South Kensington Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c193",
+      "title": "Belfast Street Tramways Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c194",
+      "title": "Aberdeen District Tramways Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c195",
+      "title": "Teign Valley Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c196",
+      "title": "Galway, Oughterard and Clifden Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c197",
+      "title": "London and Aylesbury Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c198",
+      "title": "Glasgow, Bothwell, Hamilton and Wishaw Tramways Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c199",
+      "title": "Accident Indemnity Company Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c2",
+      "title": "Bristol Waterworks Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c20",
+      "title": "Hutchesons Hospital Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c200",
+      "title": "Kingston-upon-Hull Water Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c21",
+      "title": "Rhondda Valley and Hirwain Junction Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c22",
+      "title": "Staines Town Hall and Market Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c23",
+      "title": "Gaslight and Coke Company's Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c24",
+      "title": "Great Eastern Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c25",
+      "title": "Glasgow, Renfrew and Three Mile House Turnpike Roads Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c26",
+      "title": "East Gloucestershire Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c27",
+      "title": "Serle Street and Cook's Court Improvement Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c28",
+      "title": "Yarmouth (Isle of Wight) and Ventnor Railway, Tramway and Pier (Deviations) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c29",
+      "title": "Trinity Church, Gray's Inn Road, Schools Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c3",
+      "title": "Southwark and Vauxhall Water Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c30",
+      "title": "Aberystwyth Improvement and Water Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c31",
+      "title": "Manchester Corporation Waterworks Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c32",
+      "title": "Paisley Burgh and Cart Navigation Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c33",
+      "title": "Ilfracombe Gas Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c34",
+      "title": "Darlington Borough Sewage Irrigation Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c35",
+      "title": "Newport and Pillgwenlly Waterworks Extension Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c36",
+      "title": "Corn Exchange Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c37",
+      "title": "Hill's Trust Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c38",
+      "title": "Wilmslow Gas Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c39",
+      "title": "Itchen Floating Bridge Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c4",
+      "title": "Watton and Swaffham Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c40",
+      "title": "Devon and Somerset Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c41",
+      "title": "Glasgow Municipal Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c42",
+      "title": "Altrincham Gas Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c43",
+      "title": "Metropolitan Commons Supplemental Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c44",
+      "title": "Public Health (Scotland) Supplemental Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c45",
+      "title": "Local Government Supplemental Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c46",
+      "title": "North British, Arbroath and Montrose Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c47",
+      "title": "Mid Wales Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c48",
+      "title": "Longton, Adderley Green and Bucknall Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c49",
+      "title": "Metropolis (Kilburn and Harrow) Roads Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c5",
+      "title": "Gloucester Gaslight Company's Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c50",
+      "title": "Blyth and Tyne Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c51",
+      "title": "Carnarvon Consumers Gas Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c52",
+      "title": "Whitby Market Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c53",
+      "title": "Severn Tunnel Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c54",
+      "title": "East Norfolk Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c55",
+      "title": "Neath and Brecon Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c56",
+      "title": "Newtown Waterworks Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c57",
+      "title": "Cheshire Lines Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c58",
+      "title": "Metropolitan Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c59",
+      "title": "Sheffield Market Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c6",
+      "title": "Glasgow Court Houses Amendment Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c60",
+      "title": "Crystal Palace and South London Junction Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c61",
+      "title": "Madras Irrigation and Canal Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c62",
+      "title": "Poole and Bournemouth Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c63",
+      "title": "Oyster and Mussel Fisheries Orders Confirmation (No. 2) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c64",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c65",
+      "title": "Education Department Provisional Order Confirmation Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c66",
+      "title": "Thames Embankment North Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c67",
+      "title": "Tramways Order Confirmation (Ireland) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c68",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c7",
+      "title": "Castleisland Railway Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c8",
+      "title": "Cork Improvement Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1872-c9",
+      "title": "Berwick-upon-Tweed Harbour Act 1872",
+      "year": 1872,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/35-36/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1872-c1",
       "title": "An Act to apply certain sums out of the Consolidated Fund to the service of the years ending the thirty-first day of March one thousand eight hundred and seventy-one, one thousand eight hundred and seventy-two, and one thousand eight hundred and seventy-three.",

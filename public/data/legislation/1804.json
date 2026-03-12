@@ -1,7 +1,799 @@
 {
   "year": 1804,
-  "count": 3,
+  "count": 91,
   "items": [
+    {
+      "id": "UKLA-1804-c1",
+      "title": "Road from Canterbury to Whitstable Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c10",
+      "title": "Ashborne and Leek, and Rushton Common and Congleton Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c11",
+      "title": "Wigan and Preston Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c12",
+      "title": "Road from Stafford to Sandon Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c13",
+      "title": "Burford Lane and Stow-on-the-Wold Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c14",
+      "title": "Roads from Littlegate and from Southwell Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c15",
+      "title": "Ramsey and Bury Drainage Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c16",
+      "title": "Roads from Tavistock to Plymouth and from Manadon Gate Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c17",
+      "title": "Roads from Winchester and Worthy Cow Down Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c18",
+      "title": "Roads from Whitchurch (Salop.) and Hinstock Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c19",
+      "title": "Milton-next-Sittingbourne Improvement Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c2",
+      "title": "Port of London Improvement Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c20",
+      "title": "Hesket and Cockermouth Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c21",
+      "title": "Road from Montrose to Brechin Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c22",
+      "title": "Dublin Watching Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c23",
+      "title": "Bank of Scotland Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c24",
+      "title": "Stockport and Saxon's Lane End Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c25",
+      "title": "Road from Ranton and Ellenhall to the Whitchurch Turnpike near Newport (Salop.) Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c27",
+      "title": "Temple Bar Improvement Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c28",
+      "title": "Road from Bawtry to the Rotherham and Sheffield Turnpike Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c29",
+      "title": "Brecknock and Abergavenny Canal Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c3",
+      "title": "Road to Smalley Common (Derbyshire) Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c30",
+      "title": "Roads from Stafford and from Bridgford Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c31",
+      "title": "Cleobury Mortimer, Glazely and Abberley Hill Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c32",
+      "title": "Earl of Arran's and Viscount Sudley's Estates Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c33",
+      "title": "Leavening Inclosure Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c34",
+      "title": "Leicester County Rate Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c35",
+      "title": "Worcester and Birmingham Canal Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c36",
+      "title": "Dalkeith Improvement and Market Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c37",
+      "title": "West India Docks, Cannon Street and East India Docks Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c38",
+      "title": "Roads from Brecon and the Furnace Turnpike Gate Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c39",
+      "title": "Brecon, Brobury and Whitney Passage Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c4",
+      "title": "Road from Trent Bridge to Cotes Bridge Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c40",
+      "title": "West Bromwich and Sutton Coldfield Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c41",
+      "title": "Maw's Estate Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c42",
+      "title": "Haddiscoe Inclosure Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c43",
+      "title": "Wetherby and Knaresborough Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c44",
+      "title": "Dynevor's Estate Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c45",
+      "title": "Solway Firth Fisheries Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c46",
+      "title": "Thames and Medway Canal Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c47",
+      "title": "St. Pancras Poor Relief, Workhouse and Rate Collectors Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c48",
+      "title": "Radnor and Hereford Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c49",
+      "title": "Rochdale and Manchester Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c5",
+      "title": "Southampton and Salisbury Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c50",
+      "title": "Grantham Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c51",
+      "title": "Haddington Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c52",
+      "title": "Renfrew, Lanark and Ayr Turnpike Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c53",
+      "title": "Deptford Improvement Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c54",
+      "title": "Ellesmere Canal, Railway and Water Supply Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c55",
+      "title": "Oystermouth Railway or Tramroad Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c56",
+      "title": "Swansea Harbour Amendment Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c57",
+      "title": "St. Mary Stratford Bow Poor Rates Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c58",
+      "title": "Carlisle Improvements Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c59",
+      "title": "Upton Bridge and Tirley Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c6",
+      "title": "Boydell's Lottery Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c60",
+      "title": "Appleby and Kendal Road and Brough Branch Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c61",
+      "title": "Westbury and Market Lavington Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c62",
+      "title": "Parton and Monkland Mill and other Roads in Herefordshire and Worcestershire Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c63",
+      "title": "Road from North Malton Gate Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c64",
+      "title": "Road from Derby to Uttoxeter Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c65",
+      "title": "Road from Glasgow to Redburn Bridge Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c66",
+      "title": "Road from Market Harborough to Coventry Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c67",
+      "title": "Road from Cromford to Five Lane Ends, Hopton Moor Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c68",
+      "title": "York and Oswaldkirk Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c69",
+      "title": "Chippenham Bridge Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c7",
+      "title": "West India Docks Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c70",
+      "title": "Cambridge to Downham Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c71",
+      "title": "Cureton's Estate Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c72",
+      "title": "Normanton and Woodhouse Inclosures Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c73",
+      "title": "Simonburn Inclosure Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c74",
+      "title": "Long Marton and Marton Park Inclosures Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c75",
+      "title": "Roads in the Highlands of Scotland Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c76",
+      "title": "Tavistock and New Bridge Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c77",
+      "title": "Canterbury Streets Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c78",
+      "title": "Staines Bridge Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c79",
+      "title": "Woodstock and Rollright Lane Roads Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c8",
+      "title": "St. Albans Improvement Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c80",
+      "title": "John Lyon Grammar School and Harrow to London Road Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c81",
+      "title": "Banff, Elgin, Aberdeen and Inverness County Roads and Spey Bridges Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c82",
+      "title": "City of London Coal Trade Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c83",
+      "title": "River Tone Navigation Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c84",
+      "title": "London Debtors' Prisons Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c85",
+      "title": "St. Martin-in-the-Fields Burial Ground, Chapel and Clergyman's House Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c86",
+      "title": "Southwark Improvement Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c87",
+      "title": "Lincoln City and County Drainage and Skellingthorpe Inclosure Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c88",
+      "title": "Voylas Chapel Weddings Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c89",
+      "title": "City of London Tithe Assessment Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1804-c9",
+      "title": "Rochdale Canal Act 1804",
+      "year": 1804,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/44/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1804-c102",
       "title": "Habeas Corpus Act 1804",

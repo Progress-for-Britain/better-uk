@@ -1,7 +1,691 @@
 {
   "year": 1817,
-  "count": 5,
+  "count": 81,
   "items": [
+    {
+      "id": "UKLA-1817-c1",
+      "title": "Middlesex and Essex Coal Trade Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c10",
+      "title": "West Houghton and Duxbury Stocks Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c11",
+      "title": "Towcester and Cotton End Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c12",
+      "title": "Madeley and Wellington (Salop.) Turnpike Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c13",
+      "title": "Road from Cromford to Belper (Derbyshire) Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c14",
+      "title": "Kentish Town Improvement Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c15",
+      "title": "Stratford-on-Avon Canal Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c16",
+      "title": "Penistone and Sheffield Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c17",
+      "title": "Aylesbury and West Wycombe Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c18",
+      "title": "Brough and Eamont Bridge Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c19",
+      "title": "Bathwick Parish Church and Workhouse Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c2",
+      "title": "Tetbury Improvement Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c20",
+      "title": "Ayr Harbour Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c21",
+      "title": "Sculcoates Parish Burial Ground Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c22",
+      "title": "Newton Chapel (Manchester) Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c23",
+      "title": "Metropolis Gas Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c24",
+      "title": "Worcester (City) Roads Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c25",
+      "title": "Yarmouth (Suffolk) Bridge and Gorleston Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c26",
+      "title": "Basingstoke and Farnham, and Alton and Winchester Roads Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c27",
+      "title": "Richmond (Yorkshire), Lancaster, Lucy Cross and Gatherley Moor Roads Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c28",
+      "title": "Bedford and Kimbolton Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c29",
+      "title": "Metropolitan Paving Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c3",
+      "title": "Roads from Henfield and from Poyning's Common Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c30",
+      "title": "Newcastle-upon-Tyne Coal Trade Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c31",
+      "title": "Penzance Pier and Harbour Dues Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c32",
+      "title": "Greenock Improvement Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c33",
+      "title": "Edinburgh Police Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c34",
+      "title": "Poplar and Blackwall Parish Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c35",
+      "title": "Christchurch (Surrey) Churchyard Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c36",
+      "title": "Bradford Burial Ground Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c37",
+      "title": "Mansfield and Pinxton Railway Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c38",
+      "title": "Norton and Heckingham Inclosures Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c39",
+      "title": "Dublin Improvement Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c4",
+      "title": "Coventry Roads Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c40",
+      "title": "Westminster Coal Trade Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c41",
+      "title": "Glasgow Gas Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c42",
+      "title": "Kent Coal Trade (Frauds Prevention) Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c43",
+      "title": "Stirling and Queensferry Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c44",
+      "title": "Truro Roads Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c45",
+      "title": "Road to Middleton Bridge (North Yorkshire) Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c46",
+      "title": "Road from Stamford to Greetham Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c47",
+      "title": "Manchester to Newton Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c48",
+      "title": "Christchurch (Surrey) Improvement Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c49",
+      "title": "Dublin and Mullingar Turnpike Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c5",
+      "title": "Road from Cross Hands to Halford Bridge Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c50",
+      "title": "Rochdale and Burnley Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c51",
+      "title": "Leeds and Homefield Lane End Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c52",
+      "title": "Roads in Kincardine Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c53",
+      "title": "Stansted Chapel, Staughton (Sussex) Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c54",
+      "title": "Road from Crowland to Eye Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c55",
+      "title": "Wrotham Heath Roads Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c56",
+      "title": "Edinburgh and Glasgow Union Canal Company Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c57",
+      "title": "Belfast Charitable Society and Water Supply Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c58",
+      "title": "Blackfriars Bridge (Manchester) Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c59",
+      "title": "Great Bolton Improvement Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c6",
+      "title": "Shrewsbury and Bridgnorth Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c60",
+      "title": "City of London Gauger Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c61",
+      "title": "British Gallery of Pictures Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c62",
+      "title": "Commercial Docks Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c63",
+      "title": "Portsmouth and Arundel Navigation Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c64",
+      "title": "Hull and Frodingham Beck Navigation Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c65",
+      "title": "Taunton Market Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c66",
+      "title": "Roads in the Forest of Dean Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c67",
+      "title": "Taunton Roads Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c68",
+      "title": "Road from Cambridge to Arrington Bridge Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c69",
+      "title": "South Holland Drainage and Road from Spalding High Bridge Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c7",
+      "title": "St. Olave Southwark Rectory Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c70",
+      "title": "Blakeney Harbour Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c71",
+      "title": "River Lark or Burn Navigation Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c72",
+      "title": "St. Paul Shadwell Church and Churchyard Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c73",
+      "title": "Wapping Workhouse Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c74",
+      "title": "Abernant and Abergavenny Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c75",
+      "title": "Macclesfield to Congleton Road Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c76",
+      "title": "Royal Naval Asylum Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c8",
+      "title": "East India Company and the Nabobs of the Carnatic Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1817-c9",
+      "title": "Northampton Judges' Accommodations Act 1817",
+      "year": 1817,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/57/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1817-c52",
       "title": "Deserted Tenements Act 1817 (repealed)",

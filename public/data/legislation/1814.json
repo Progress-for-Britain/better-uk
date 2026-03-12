@@ -1,7 +1,1465 @@
 {
   "year": 1814,
-  "count": 2,
+  "count": 164,
   "items": [
+    {
+      "id": "UKLA-1814-c100",
+      "title": "Aberdeen Courthouse, City and County Offices and Gaol Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c101",
+      "title": "Usk Tram Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c102",
+      "title": "Inverary Gaol and Courthouse Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c103",
+      "title": "Buckinghamshire County Rate Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c104",
+      "title": "Kent Justices Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c105",
+      "title": "Bath Improvement Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c106",
+      "title": "Wolverhampton Improvement and Markets Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c107",
+      "title": "Bristol Commercial Rooms Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c108",
+      "title": "Dartford Improvement Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c109",
+      "title": "Gateshead Improvement Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c111",
+      "title": "Liverpool Additional Church Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c112",
+      "title": "Lambeth Parish Churchyard and Approaches Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c113",
+      "title": "St. Mary, Newington, Poor Relief and Workhouse Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c114",
+      "title": "Canterbury Workhouse Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c115",
+      "title": "Sheepskin Inspectors (King's Place Market, St. Mary Newington) Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c116",
+      "title": "Gas Light and Coke Company Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c117",
+      "title": "Bishop Wearmouth Bridge (Mortgage Disposal by Lottery) Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c118",
+      "title": "London Faculty of Physic (Meetings) Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c119",
+      "title": "Hallamshire Company of Cutlers Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c120",
+      "title": "Hounslow Heath and Egham Hill Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c121",
+      "title": "Road from Dunstable to Hockliffe Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c122",
+      "title": "Tadcaster Bridge and Hob Moor Lane Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c123",
+      "title": "Road from Heage to Duffield Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c124",
+      "title": "Road from Bedford to the Olney and Newport Pagnell Turnpike Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c125",
+      "title": "Roads in Stafford and Derby Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c126",
+      "title": "Old Stratford and Dunchurch Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c127",
+      "title": "Burder's Estate Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c128",
+      "title": "Stoke Newington Prebendary Leases Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c129",
+      "title": "Estates of Talbot and Marquis of Hertford Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c130",
+      "title": "Lord Calthorpe's Estate Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c131",
+      "title": "Rugby School's Estate Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c132",
+      "title": "Prickard's Estate and Westminster Bridge Commissioners Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c133",
+      "title": "Symons' Estate Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c134",
+      "title": "Bonar's Estate Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c135",
+      "title": "St. Asaph's Cathedral Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c136",
+      "title": "Campsall, Norton and Askern Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c137",
+      "title": "Barnoldswick and Salterforth Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c138",
+      "title": "Potton Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c139",
+      "title": "Mursley Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c140",
+      "title": "Combe St. Nicholas Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c141",
+      "title": "Hilderstone Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c142",
+      "title": "Kirkdale and Hemsley Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c143",
+      "title": "Welford Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c144",
+      "title": "Tetbury Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c145",
+      "title": "Horton in Ribblesdale Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c146",
+      "title": "Scammonden Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c147",
+      "title": "Gowran Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c148",
+      "title": "East Overton, Lockeridge and Fyfield Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c149",
+      "title": "Boxford Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c15",
+      "title": "Solihull, Kenilworth and Stonebridge Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c150",
+      "title": "Cumnor and South Hincksey Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c151",
+      "title": "Netherall and Bradfield Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c152",
+      "title": "Thornton Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c153",
+      "title": "Egham Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c154",
+      "title": "Preston Patrick Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c155",
+      "title": "Broad Chalk and Chilmark Allotments Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c156",
+      "title": "East Bradenham Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c157",
+      "title": "Foxley Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c158",
+      "title": "Bexley Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c159",
+      "title": "Durrington Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c16",
+      "title": "Woodbridge and Eye Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c160",
+      "title": "Great and Little Chelworth Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c161",
+      "title": "Llandisilio and Llaneilian Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c162",
+      "title": "Aymestrey and Kingsland Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c163",
+      "title": "Coxheath Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c164",
+      "title": "Wargrave and Warfield Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c165",
+      "title": "Tunstal Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c166",
+      "title": "Church Coppenhall Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c167",
+      "title": "Egerton's Estate Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c168",
+      "title": "London and Cambridge Junction Canal Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c169",
+      "title": "Scottish Ministers' Widows' Fund Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c17",
+      "title": "Roads from Cardington and from Roxton Hill Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c170",
+      "title": "Edinburgh Gaol, Offices, Low Calton Bridge and Improvements Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c171",
+      "title": "Greenwich Ferry and Approaches Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c172",
+      "title": "Plymouth and Stoke Damarel Poor Relief and Improvement Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c173",
+      "title": "St. Pancras Improvement Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c174",
+      "title": "Sevenoaks and Tunbridge Wells Roads Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c175",
+      "title": "Gloucester City and County Offices Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c176",
+      "title": "River Ouse Navigation Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c177",
+      "title": "Norfolk Fen Drainage Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c18",
+      "title": "Ashford and Maidstone Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c19",
+      "title": "Cockerton Bridge and Staindrop Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c20",
+      "title": "Gosport Improvement Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c21",
+      "title": "South Molton Roads Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c22",
+      "title": "Road from Lyne Bridge Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c23",
+      "title": "Macclesfield Improvement Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c24",
+      "title": "Road from Burbage to Narborough Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c25",
+      "title": "Darlington and West Auckland Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c26",
+      "title": "Road from Burlington to Llanymynech Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c27",
+      "title": "Ashford and Romney Marsh Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c28",
+      "title": "Roads from West Harptree to the Bath and Wells Turnpike Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c29",
+      "title": "Turnpike Road between North Shields and Morpeth Castle Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c30",
+      "title": "Selby Ferry and Market Weighton Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c31",
+      "title": "Middleton and Bowes Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c32",
+      "title": "Newton Chapel (Manchester) Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c33",
+      "title": "Puttenham Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c34",
+      "title": "Bray Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c35",
+      "title": "Bewaldeth Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c36",
+      "title": "Hockwold-cum-Wilton Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c37",
+      "title": "Bewcastle Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c38",
+      "title": "Lowestoft Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c39",
+      "title": "Allonby in Bromfield Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c40",
+      "title": "London Docks Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c41",
+      "title": "St. George's Parish (Middlesex) Improvement Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c42",
+      "title": "Severn and Wye Valley Railway and Canal Company Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c43",
+      "title": "Lewisham Poor Relief and Parochial Rates Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c44",
+      "title": "Forehoe Poor Relief Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c45",
+      "title": "Warwickshire Judges' Lodgings Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c46",
+      "title": "Birmingham Mining and Copper Company Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c47",
+      "title": "Lobley Hill and Burtryford Road and Branches Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c48",
+      "title": "Roads from Swell Wold, Cheltenham and Winchcomb Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c49",
+      "title": "Besselsleigh and Hungerford Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c50",
+      "title": "Road from Swindon to Ramsbury Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c51",
+      "title": "Sturry and Herne Bay Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c52",
+      "title": "Road from Brent Bridge to Plymouth Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c53",
+      "title": "Roads through Lichfield Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c54",
+      "title": "Balderston and Walton-in-le-Dale Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c55",
+      "title": "New Sleaford and Anwick Road and Tattershall Witham Bridge Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c56",
+      "title": "Standedge and Oldham Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c57",
+      "title": "Maidstone and Sutton Valence Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c58",
+      "title": "Road from Crickhowell to Ross Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c59",
+      "title": "Hampton and Staines Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c60",
+      "title": "Road from Burnley to Edenfield Chapel Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c61",
+      "title": "Roads in Staffordshire Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c62",
+      "title": "Lees (Yorkshire) and Hebden Bridge Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c63",
+      "title": "York Minster Yard Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c64",
+      "title": "Hyett's Estate Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c65",
+      "title": "Middleton (Norfolk) Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c66",
+      "title": "Great and Little Clifton Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c67",
+      "title": "Hunton and Arrathore Tithes Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c68",
+      "title": "Beethom Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c69",
+      "title": "Chiswick Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c70",
+      "title": "Edington Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c71",
+      "title": "Renwick Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c72",
+      "title": "Mettingham and Bungay Trinity Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c73",
+      "title": "Bayton Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c74",
+      "title": "Sutton Mandeville Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c75",
+      "title": "Littlecot Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c76",
+      "title": "Aston Clinton Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c77",
+      "title": "Sculcoates Additional Church Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c78",
+      "title": "Parish of St. George, Dublin Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c79",
+      "title": "Atlas Assurance Company Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c80",
+      "title": "Roads from Stroud Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c81",
+      "title": "French Top and Glossop Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c82",
+      "title": "Roads from Stafford to Uttoxeter and to Newport (Salop.) Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c83",
+      "title": "Lincoln City Roads Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c84",
+      "title": "Alcester to Birmingham and Stratford-upon-Avon Road at Woolton Wawen Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c85",
+      "title": "Hungerford and Leckford Road Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c86",
+      "title": "Ashton Gifford Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c87",
+      "title": "Wallasey and West Kirby Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c88",
+      "title": "Ballymore Eustace Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c89",
+      "title": "Crewkerne Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c90",
+      "title": "Clayton with Frickley Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c91",
+      "title": "Barkisland Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c92",
+      "title": "Whixall Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c93",
+      "title": "Kilmington, Charlton Musgrave, Wincanton and Penselwood Inclosures Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c94",
+      "title": "Ovenden Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c95",
+      "title": "Streatley Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c96",
+      "title": "Woodland Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c97",
+      "title": "Dover Castle Gaol, Poor Debtors Relief Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c98",
+      "title": "Newport Pagnell Canal Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1814-c99",
+      "title": "Delamere Forest Inclosure Act 1814",
+      "year": 1814,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/54/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1814-c146",
       "title": "Treason Act 1814",

@@ -1,7 +1,619 @@
 {
   "year": 1841,
-  "count": 5,
+  "count": 73,
   "items": [
+    {
+      "id": "UKLA-1841-c100",
+      "title": "Henley-upon-Thames, Dorchester and Oxford Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c101",
+      "title": "Blakedown Pool and Birmingham Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c102",
+      "title": "Barnstaple and Braunton Turnpike Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c103",
+      "title": "Sedgley Roads (Staffordshire) Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c104",
+      "title": "Dewsbury and Leeds Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c105",
+      "title": "Brighton, Shoreham and Lancing Road and Adur Bridge Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c106",
+      "title": "Selby and Leeds Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c107",
+      "title": "Nuffield and Faringdon Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c108",
+      "title": "Lincoln Roads Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c109",
+      "title": "Tinsley and Doncaster Turnpike Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c110",
+      "title": "Cripps Corner and Gills Green Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c111",
+      "title": "Abingdon and Chilton Pond Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c112",
+      "title": "Blackburn Improvements, Town Hall and Markets Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c113",
+      "title": "Bourne Drainage Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c114",
+      "title": "Birkenhead and West Kirby Turnpike Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c47",
+      "title": "King's Lynn Port Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c48",
+      "title": "Belfast Port and Harbour Improvement Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c49",
+      "title": "Gourdon Harbour Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c50",
+      "title": "Scrabster Harbour Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c51",
+      "title": "Newport Dock Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c52",
+      "title": "Ipswich Dock Commission Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c53",
+      "title": "Portbury Pier (Somerset) Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c54",
+      "title": "Monkland Canal Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c55",
+      "title": "Forth and Clyde Navigation Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c56",
+      "title": "Newry Navigation Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c57",
+      "title": "St. Ives Pilchard Fishery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c58",
+      "title": "Burwell Drainage and Lodes Navigation Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c59",
+      "title": "Edinburgh and Glasgow Union Canal and Cobbinshaw Reservoir Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c60",
+      "title": "Deanhead Reservoir Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c61",
+      "title": "Wakefield Waterworks Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c62",
+      "title": "Birkenhead and Wirral Gas and Water Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c63",
+      "title": "City of London and Tower Hamlets Cemetery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c64",
+      "title": "Dublin Streets Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c65",
+      "title": "St. Pancras Streets Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c66",
+      "title": "Canterbury Improvement Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c67",
+      "title": "Kentish Town Improvement Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c68",
+      "title": "Middlesbrough Improvement and Market Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c69",
+      "title": "Stamford Improvement Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c70",
+      "title": "Walton-on-the-Naze Improvement Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c71",
+      "title": "Newcastle-upon-Tyne Improvement Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c72",
+      "title": "Kidderminster Poor Rates Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c73",
+      "title": "Exeter Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c74",
+      "title": "Hatfield Court of Requests Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c75",
+      "title": "Kingsnorton Court of Requests Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c76",
+      "title": "Launceston Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c77",
+      "title": "Blackburn Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c78",
+      "title": "Wigan, Chorley and Ormskirk Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c79",
+      "title": "Newark Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c80",
+      "title": "Totnes Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c81",
+      "title": "Staffordshire Potteries Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c82",
+      "title": "St. Helens and Prescot Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c83",
+      "title": "Burnley and Colne Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c84",
+      "title": "New Sarum Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c85",
+      "title": "New Sleaford Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c86",
+      "title": "Gainsborough Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c87",
+      "title": "East Retford Small Debts Recovery Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c88",
+      "title": "Meerbrook Sough Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c89",
+      "title": "Patent Rolling and Compressing Iron Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c90",
+      "title": "Rhymney Iron Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c91",
+      "title": "Stead's Patent Wooden Paving Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c92",
+      "title": "Church of England Life and Fire Assurance Trust and Annuity Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c93",
+      "title": "Neptune Marine Insurance Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c94",
+      "title": "Imperial Life Insurance Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c95",
+      "title": "Hull Flax and Cotton Mill Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c96",
+      "title": "Scottish Marine Insurance Company Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c97",
+      "title": "Roxburgh and Dumfries Turnpike Roads Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c98",
+      "title": "Wells, Highbridge and Cheddar Road Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1841-c99",
+      "title": "Bradford (Wiltshire) Roads and Stokeford Bridge Act 1841",
+      "year": 1841,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/4-5/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1841-c14",
       "title": "Trading Partnerships Act 1841 (repealed)",

@@ -1,7 +1,826 @@
 {
   "year": 1906,
-  "count": 58,
+  "count": 149,
   "items": [
+    {
+      "id": "UKLA-1906-c1",
+      "title": "Crystal Palace Company's Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c10",
+      "title": "Manchester and Milford Railway (Leasing) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c100",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c101",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c102",
+      "title": "Local Government Board's Provisional Orders (No. 3) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c103",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c104",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c105",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 6) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c106",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c107",
+      "title": "Local Government Board's Provisional Order Confirmation (Poor Law) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c108",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 2) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c109",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 3) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c11",
+      "title": "North Metropolitan Tramways (Winding Up) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c110",
+      "title": "Electric Lighting Orders Confirmation (No. 5) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c111",
+      "title": "Electric Lighting Orders Confirmation (No. 6) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c112",
+      "title": "Sea Fisheries Provisional Order Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c113",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c114",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c115",
+      "title": "Pier and Harbour Order Confirmation (No. 3) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c116",
+      "title": "Education Board Provisional Orders Confirmation (Devon, &amp;c.) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c117",
+      "title": "Education Board Provisional Orders Confirmation (Kesteven, &amp;c.) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c118",
+      "title": "Post Office (Sites) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c119",
+      "title": "Dean Forest Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/119",
+      "source": "ukla",
+      "description": "An Act to authorise the exchange of parcels of waste in the Forest of Dean and to amend the Dean Forest (Mines) Act 1904."
+    },
+    {
+      "id": "UKLA-1906-c12",
+      "title": "Carlisle Corporation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c120",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c121",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 9) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c122",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 10) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c123",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 11) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c124",
+      "title": "Local Government Board's Provisional Order Confirmation (Housing of Working Classes) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c125",
+      "title": "London Government Act Adjustment Schemes Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c126",
+      "title": "Education Board Provisional Order Confirmation (London No. 1) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c127",
+      "title": "Paisley Gas and Water Order Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c13",
+      "title": "Essex and Suffolk Equitable Insurance Society Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c14",
+      "title": "Milford Docks Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c15",
+      "title": "Mirfield Gas Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c16",
+      "title": "Thornton Urban District Gas Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c17",
+      "title": "Accrington District Gas and Water Board Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c18",
+      "title": "Great Eastern Railway Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c19",
+      "title": "Knott End Railway (Extension of Time) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c2",
+      "title": "Dover Harbour Board Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c20",
+      "title": "County of Aberdeen (Monymusk Bridge and Road) Order Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c21",
+      "title": "Cathcart District Railway (Superfluous Lands) Order Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c22",
+      "title": "North Berwick Corporation Order Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c23",
+      "title": "Metropolitan Police Provisional Order Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c24",
+      "title": "Electric Lighting Order Confirmation (No. 1) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c25",
+      "title": "Electric Lighting Orders Confirmation (No. 2) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c26",
+      "title": "Provisional Order (Marriages) Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c27",
+      "title": "Great North of Scotland Railway Order Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c28",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 1) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c29",
+      "title": "Holyhead Water Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c3",
+      "title": "Kidderminster Gas Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c30",
+      "title": "Norwich Union Life Insurance Society (Scottish Imperial Fusion) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c31",
+      "title": "Lancashire and Yorkshire Railway (Superannuation Fund) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c32",
+      "title": "Mersey Railway Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c33",
+      "title": "North Sussex Gas and Water Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c34",
+      "title": "Preston, Chorley and Horwich Tramways Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c35",
+      "title": "New Mills Urban District Council Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c36",
+      "title": "North East Lincolnshire Water Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c37",
+      "title": "National Assurance Company of Ireland Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c38",
+      "title": "South Lancashire Tramways Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c39",
+      "title": "Scottish Provident Institution Buildings Limited Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c4",
+      "title": "H. Royal Baines and Company Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c40",
+      "title": "Mersey Docks and Harbour Board Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c41",
+      "title": "Maryport Railways and Docks Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c42",
+      "title": "Southampton Gas Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c43",
+      "title": "Gas Companies Removal of Sulphur Restrictions Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c44",
+      "title": "Buenos Aires Grand National Tramways Company Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c45",
+      "title": "Channel Ferry (Dover) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c46",
+      "title": "Hull Joint Dock Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c47",
+      "title": "Crellin's Patents Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c48",
+      "title": "Rugby Lower School (Transfer) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c5",
+      "title": "Vauclain's Patent Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c6",
+      "title": "Bethnal Green Borough Council (Superannuation) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c7",
+      "title": "Millwall Dock Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c8",
+      "title": "Antofagasta (Chile) and Bolivia Railway (Conversion of Stock) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c85",
+      "title": "South Western Railway Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c86",
+      "title": "County Office Site (London) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c87",
+      "title": "Metropolitan Water Board Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c88",
+      "title": "North East London Railway Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c89",
+      "title": "Peterborough Gas Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c9",
+      "title": "Sheffield Assay Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c90",
+      "title": "Cardiff Gas Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c91",
+      "title": "Manchester Corporation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c92",
+      "title": "Cumberland Electricity and Power-Gas Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c93",
+      "title": "Folkestone and District Electricity Supply Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c94",
+      "title": "Glamorgan and South Wales Water Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c95",
+      "title": "Lancashire and Yorkshire Railway (Various Powers) Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c96",
+      "title": "Warboys (Union of Districts) Drainage Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c97",
+      "title": "Newport Corporation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c98",
+      "title": "Forfar Corporation Water Order Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1906-c99",
+      "title": "Land Drainage Provisional Order Confirmation Act 1906",
+      "year": 1906,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/6/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1906-c1",
       "title": "Consolidated Fund (No. 1) Act 1906",

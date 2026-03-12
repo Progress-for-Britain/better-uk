@@ -1,7 +1,1672 @@
 {
   "year": 1884,
-  "count": 78,
+  "count": 263,
   "items": [
+    {
+      "id": "UKLA-1884-c100",
+      "title": "West Metropolitan Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c101",
+      "title": "India Rubber, Gutta Percha and Telegraph Works Company Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c102",
+      "title": "Tramways Orders Confirmation (No. 4) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c103",
+      "title": "Education Department Provisional Order Confirmation (London) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c104",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (Dundalk Waterworks) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c105",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Naas and Thurles) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c106",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (Carrick-on-Suir Union) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c107",
+      "title": "Tramways Orders Confirmation (No. 3) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c108",
+      "title": "Aberdeen Improvement Confirmation Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c109",
+      "title": "Kirkintilloch Sewage Confirmation Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c110",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Cashel, &amp;c.) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c111",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Delvin, &amp;c.) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c112",
+      "title": "Tramways Orders Confirmation (No. 1) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c113",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 11) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c114",
+      "title": "Local Government Board's Provisional Order Confirmation (Poor Law) (No. 14) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c115",
+      "title": "Local Government Board's Provisional Order Confirmation (Poor Law) (No. 15) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c116",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (Nenagh Union) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c117",
+      "title": "Swanage Water Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c118",
+      "title": "Ventnor Local Board Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c119",
+      "title": "Cork Butter Market Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c120",
+      "title": "Belfast and County Down Railway (Bangor Transfer) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c121",
+      "title": "Liverpool Hydraulic Power Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c122",
+      "title": "Newport (Monmouthshire) Hydraulic Power Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c123",
+      "title": "Rochdale Corporation Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c124",
+      "title": "Ballyclare, Ligoniel and Belfast Junction Railway (Extension of Time) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c125",
+      "title": "Belfast Street Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c126",
+      "title": "Great Southern and Western Railway (Tullow Extension) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c127",
+      "title": "Cork and Bandon and Clonakilly Extension Railways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c128",
+      "title": "Belfast and Northern Counties Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c129",
+      "title": "Caledonian Railway (No. 1) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c130",
+      "title": "City of Dublin Steam Packet Company's Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c131",
+      "title": "Coventry Corporation (Gas Purchase) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c132",
+      "title": "Lancashire and Yorkshire and London and North Western Railways (Preston and Wyre Railway) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c133",
+      "title": "Caldicot and Wentlooge Level Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c134",
+      "title": "Jarrow Improvement Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c135",
+      "title": "London, Tilbury and Southend Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c136",
+      "title": "Woolwich Equitable Gas Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c137",
+      "title": "Cranbrook and Paddock Wood Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c138",
+      "title": "Newry Navigation Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c139",
+      "title": "Treferig Valley Railway (Lease) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c140",
+      "title": "Abercarn and Newbridge Gas and Water Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c141",
+      "title": "Croydon Corporation Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c142",
+      "title": "East London Railway Whitechapel Junction Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c143",
+      "title": "Great Southern and Western Railway (Additional Powers) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c144",
+      "title": "Kenmare Junction Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c145",
+      "title": "Lancashire and Yorkshire Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c146",
+      "title": "Manchester, Sheffield and Lincolnshire Railway (Additional Powers) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c147",
+      "title": "South East Metropolitan Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c148",
+      "title": "London, Chatham and Dover Railway (Further Powers) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c149",
+      "title": "Tees Conservancy Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c150",
+      "title": "Society of Solicitors at Law of Edinburgh Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c151",
+      "title": "Llanfairfechan Waterworks Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c152",
+      "title": "Llanfrechfa Upper Local Board Waterworks Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c153",
+      "title": "Teign Valley Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c154",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (Tipperary Union No. 2) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c155",
+      "title": "Benefices (Tiverton Portions) Consolidation Amendment Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c156",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (Enniscorthy, &amp;c.) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c157",
+      "title": "Local Government Board's Provisional Order Confirmation (Salt Works) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c158",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c159",
+      "title": "Walton-on-the-Naze and Frinton Improvement Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c160",
+      "title": "Gravesend Town Quay and Pier (Sale) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c161",
+      "title": "Ouse (Lower) Improvement Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c162",
+      "title": "West Derby Local Board Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c163",
+      "title": "Caledonian Railway (No. 2) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c164",
+      "title": "Manchester, Bury, Rochdale and Oldham Steam Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c165",
+      "title": "Manchester, Sheffield and Lincolnshire Railway (Chester to Connah's Quay) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c166",
+      "title": "Folkestone, Sandgate and Hythe Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c167",
+      "title": "City of London and Southwark Subway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c168",
+      "title": "North Metropolitan Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c169",
+      "title": "Perth General Station Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c170",
+      "title": "Sutton and Willoughby Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c171",
+      "title": "Burry Port and North Western Junction Railway Amendment Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c172",
+      "title": "Dundee Suburban Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c173",
+      "title": "South Stockton Local Board (Water) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c174",
+      "title": "Swansea (Corporation) Water Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c175",
+      "title": "Malvern Hills Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c176",
+      "title": "City of London Free Ferry Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c177",
+      "title": "Weston-super-Mare Grand Pier Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c178",
+      "title": "Bank of South Australia Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c179",
+      "title": "Lanarkshire and Ayrshire Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c180",
+      "title": "Dewsbury Improvement Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c181",
+      "title": "Dore and Chinley Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c182",
+      "title": "Dublin, Wicklow and Wexford Railway (City of Dublin Junction Railways) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c183",
+      "title": "Highland Railway (New Lines) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c185",
+      "title": "Metropolitan Railway (Various Powers) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c186",
+      "title": "Sutton Bridge Dock Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c187",
+      "title": "Reedness and Swinefleet Drainage Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c188",
+      "title": "Clacton-on-Sea Special Drainage District Amendment Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c189",
+      "title": "Maryport Improvement (Harbour) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c190",
+      "title": "North Cornwall Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c191",
+      "title": "London Southern Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c192",
+      "title": "North London Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c193",
+      "title": "Uxbridge and Rickmansworth Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c194",
+      "title": "Wright's Patent Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c195",
+      "title": "Liskeard and Caradon Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c196",
+      "title": "Neath Harbour Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c197",
+      "title": "West Worthing Waterworks and Baths Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c198",
+      "title": "South Eastern Railway (Various Powers) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c199",
+      "title": "Birmingham Compressed-Air Power Company's Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c200",
+      "title": "Cleveland Mineral Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c201",
+      "title": "Southwark and Vauxhall Water Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c202",
+      "title": "Taff Vale Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c203",
+      "title": "Stockton and Middlesbrough Corporations Waterworks Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c204",
+      "title": "Eastern Bengal Railway Company Purchase Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c205",
+      "title": "Great North of Scotland Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c206",
+      "title": "Great Western Railway (No. 2) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c207",
+      "title": "London and North Western Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c208",
+      "title": "Northampton Corporation Waterworks Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c209",
+      "title": "Strensall Common Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c210",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c211",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/211",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c212",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/212",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c213",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Clonmel, &amp;c.) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/213",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c214",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/214",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c215",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/215",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c216",
+      "title": "Pier and Harbour Orders Confirmation Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/216",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c217",
+      "title": "Tramways (Ireland) Provisional Order (West Clare Railway) Confirmation Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/217",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c218",
+      "title": "Tramways (Ireland) Provisional Order Confirmation (Clogher Valley) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/218",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c219",
+      "title": "Belfast Water Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/219",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c220",
+      "title": "Coventry and District Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/220",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c221",
+      "title": "Bishop's Castle and Montgomery Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/221",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c222",
+      "title": "Cardiff Corporation Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/222",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c223",
+      "title": "Metropolitan Board of Works (Various Powers) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/223",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c224",
+      "title": "Blackpool Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/224",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c225",
+      "title": "Metropolitan Railway (Hendon Extension) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/225",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c226",
+      "title": "Liverpool Southport and Preston Junction Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/226",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c227",
+      "title": "Mersey Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/227",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c228",
+      "title": "Metropolitan Board of Works (Bridges) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/228",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c229",
+      "title": "Metropolitan District Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/229",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c230",
+      "title": "West Lancashire Railway (Preston Docks Extension) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/230",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c231",
+      "title": "Plymouth, Devonport and South Western Junction Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/231",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c232",
+      "title": "York Extension and Improvement Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/232",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c233",
+      "title": "Leominster and Bromyard Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/233",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c234",
+      "title": "Chatham and Brompton Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/234",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c235",
+      "title": "Great Western Railway (No. 1) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/235",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c236",
+      "title": "North Pembrokeshire and Fishguard Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/236",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c237",
+      "title": "Folkestone Pier and Lift Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/237",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c238",
+      "title": "Llandrindod Wells Water Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/238",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c239",
+      "title": "Chester Improvement Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/239",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c240",
+      "title": "Plymouth, Devonport and District Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/240",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c241",
+      "title": "Edinburgh Northern Tramways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/241",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c242",
+      "title": "Halifax High Level and North and South Junction Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/242",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c243",
+      "title": "Poulnasherry Reclamation Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/243",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c244",
+      "title": "Lea Bridge, Leyton and Walthamstow Tramways (Extensions) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/244",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c245",
+      "title": "Rotherham and Bawtry Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/245",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c246",
+      "title": "Tendring Hundred Waterworks Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/246",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c247",
+      "title": "South Western Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/247",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c248",
+      "title": "Porthdinlleyn Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/248",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c249",
+      "title": "West Gloucestershire Water Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/249",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c250",
+      "title": "Scotch Education Department Provisional Order Confirmation (Ardchattan and Muckairn) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/250",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c251",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (Drogheda Union) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/251",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c252",
+      "title": "Golden Valley Railway (Hay Extension) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/252",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c253",
+      "title": "Wirral Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/253",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c254",
+      "title": "Hull, Barnsley and West Riding Junction Railway and Dock (Money) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/254",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c255",
+      "title": "Bristol Dock Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/255",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c256",
+      "title": "Great Western and Portishead Railways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/256",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c257",
+      "title": "Barry Dock and Railways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/257",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c258",
+      "title": "Easton and Church Hope Railway (Portland Extension) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/258",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c259",
+      "title": "South Western and District Railways Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/259",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c260",
+      "title": "Medina Subway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/260",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c261",
+      "title": "Milford Docks Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/261",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c262",
+      "title": "Brighton Improvement Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/262",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c77",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (North Dublin, &amp;c.) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c78",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Bandon Waterworks) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c79",
+      "title": "Water Orders Confirmation (No. 2) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c80",
+      "title": "Tramways Orders Confirmation (No. 2) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c81",
+      "title": "Local Government Board's Provisional Order Confirmation (Highways) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c82",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 12) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c83",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 13) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c84",
+      "title": "Electric Lighting Order Confirmation (No. 4) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c85",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Dublin City, &amp;c.) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c86",
+      "title": "Sandbach Gas Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c87",
+      "title": "Hamilton Court House and Lanarkshire County Buildings Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c88",
+      "title": "Cromwell Road Bridge Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c89",
+      "title": "Buenos Aires and Ensenada Port Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c90",
+      "title": "Stalybridge Gas Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c91",
+      "title": "Clyde Navigation Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c92",
+      "title": "Limerick and Kerry Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c93",
+      "title": "Belfast Improvement Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c94",
+      "title": "London Street Tramways (Extensions) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c95",
+      "title": "Metropolitan Board of Works (District Railway Ventilators) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c96",
+      "title": "Eastern and Midlands Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c97",
+      "title": "London, Brighton and South Coast Railway (Various Powers) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c98",
+      "title": "Midland Railway (Additional Powers) Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1884-c99",
+      "title": "Scarborough and Whitby Railway Act 1884",
+      "year": 1884,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/47-48/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1884-c1",
       "title": "An Act for settling and securing an Annuity upon the Right Honourable Sir Henry Bouverie William Brand, G.C.B., in consideration of his eminent Services.",

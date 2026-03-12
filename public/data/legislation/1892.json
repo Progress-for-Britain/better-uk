@@ -1,7 +1,1069 @@
 {
   "year": 1892,
-  "count": 65,
+  "count": 183,
   "items": [
+    {
+      "id": "UKLA-1892-c1",
+      "title": "South Yorkshire Junction Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c10",
+      "title": "East Indian Railway Company Sinking Fund Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c100",
+      "title": "South Eastern Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c101",
+      "title": "Halifax High Level Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c102",
+      "title": "Medina Tunnel Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c103",
+      "title": "North Pembrokeshire and Fishguard Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c104",
+      "title": "East Grinstead Gas and Water Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c105",
+      "title": "Leeds and Liverpool Canal Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c106",
+      "title": "Rhyl District Water Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c107",
+      "title": "Colchester Corporation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c108",
+      "title": "Pontypridd Waterworks Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c109",
+      "title": "Mumbles Railway and Pier Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c11",
+      "title": "Cathcart District Railway (Extension of Time) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c110",
+      "title": "Glasgow Bridge Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c111",
+      "title": "Glasgow Corporation Waterworks Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c112",
+      "title": "Liverpool Overhead Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c113",
+      "title": "Great Southern and Western Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c114",
+      "title": "Horsfall's Patent Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c115",
+      "title": "Nussey and Leachman's and Nussey's Patents Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c116",
+      "title": "Whiteheads' and Pickles' Patents Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c117",
+      "title": "Airdrie and Coatbridge Waterworks Amendment Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c118",
+      "title": "Blackburn Corporation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c12",
+      "title": "Clyde, Ardrishaig and Crinan Railway (Abandonment) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c13",
+      "title": "Barrow-in-Furness Corporation Water Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c14",
+      "title": "Neuchatel Asphalte Company Limited Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c15",
+      "title": "North British and Mercantile Insurance Company Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c16",
+      "title": "Felixstowe and Bawdsey Ferry Railway (Abandonment) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c17",
+      "title": "Scottish Union and National Insurance Company's Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c18",
+      "title": "Rathmines and Rathgar Township Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c19",
+      "title": "Oxford Gas Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c2",
+      "title": "Welshpool and Llanfair Railway (Abandonment) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c20",
+      "title": "Holsworthy and Bude Railway (Abandonment) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c21",
+      "title": "Ardrossan Harbour Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c22",
+      "title": "Lancaster Marsh Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c23",
+      "title": "Stourport Bridge Transfer Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c24",
+      "title": "Liverpool United Gaslight Company Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c25",
+      "title": "Llanarmon District Mines Drainage Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c26",
+      "title": "Southborough Local Board (Gas) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c27",
+      "title": "Tees Conservancy Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c28",
+      "title": "Dundee Suburban Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c29",
+      "title": "John Crossley and Sons, Limited Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c3",
+      "title": "City of Glasgow Life Assurance Company Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c30",
+      "title": "Borough Market (Southwark) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c31",
+      "title": "Pilotage Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c32",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 1) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c33",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c34",
+      "title": "Samuel Sunderland Charity Scheme Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c35",
+      "title": "St. Austell Valleys Railway and Dock (Abandonment) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c36",
+      "title": "Electric Lighting Order Confirmation (No. 1) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c37",
+      "title": "Electric Lighting Orders Confirmation (No. 2) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c38",
+      "title": "Electric Lighting Orders Confirmation (No. 3) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c39",
+      "title": "Railway Rates and Charges, No. 1 (Abbotsbury Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c4",
+      "title": "National Penny Bank Limited Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c40",
+      "title": "Railway Rates and Charges, No. 2 (Brecon and Merthyr Tydfil Junction Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c41",
+      "title": "Railway Rates and Charges, No. 3 (Cambrian Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c42",
+      "title": "Railway Rates and Charges, No. 4 (Cleator and Workington Junction Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c43",
+      "title": "Railway Rates and Charges, No. 5 (East London Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c44",
+      "title": "Railway Rates and Charges, No. 6 (Festiniog Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c45",
+      "title": "Railway Rates and Charges, No. 7 (Furness Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c46",
+      "title": "Railway Rates and Charges, No. 8 (Hull, Barnsley and West Riding Junction Railway) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c47",
+      "title": "Railway Rates and Charges, No. 9 (Isle of Wight Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c48",
+      "title": "Railway Rates and Charges, No. 10 (Lancashire and Yorkshire Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c49",
+      "title": "Railway Rates and Charges, No. 11 (London, Tilbury and Southend Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c5",
+      "title": "East and West India Dock Company Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c50",
+      "title": "Railway Rates and Charges, No. 12 (Manchester, Sheffield and Lincolnshire Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c51",
+      "title": "Railway Rates and Charges, No. 13 (Metropolitan Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c52",
+      "title": "Railway Rates and Charges, No. 14 (Midland and South Western Junction Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c53",
+      "title": "Railway Rates and Charges, No. 15 (North Eastern Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c54",
+      "title": "Railway Rates and Charges, No. 16 (North London Railway) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c55",
+      "title": "Railway Rates and Charges, No. 17 (North Staffordshire Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c56",
+      "title": "Railway Rates and Charges, No. 18 (Taff Vale Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c57",
+      "title": "Railway Rates and Charges, No. 19 (Caledonian Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c58",
+      "title": "Railway Rates and Charges, No. 20 (Callander and Oban Railway) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c59",
+      "title": "Railway Rates and Charges, No. 21 (City of Glasgow Union Railway) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c6",
+      "title": "Royal Bank of Scotland Officers' Widows' Fund (Amendment) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c60",
+      "title": "Railway Rates and Charges, No. 22 (Glasgow and South Western Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c61",
+      "title": "Railway Rates and Charges, No. 23 (Great North of Scotland Railway) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c62",
+      "title": "Railway Rates and Charges, No. 24 (Highland Railway) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c63",
+      "title": "Railway Rates and Charges, No. 25 (North British Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c64",
+      "title": "Railway Rates and Charges, No. 26 (Athenry and Ennis Junction Railway, &amp;c.) Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c65",
+      "title": "Milnathort Water Supply Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c66",
+      "title": "Gas Orders Confirmation (No. 1) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c67",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c68",
+      "title": "Local Government Board's Provisional Orders Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c69",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c7",
+      "title": "Caledonian Insurance Company Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c70",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c71",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c72",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c73",
+      "title": "Bathgate Water Supply Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c74",
+      "title": "Allotments Provisional Order Confirmation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c75",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 6) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c76",
+      "title": "Dublin Barracks Improvement Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c77",
+      "title": "Corporation of London (Loans) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c78",
+      "title": "Lanarkshire and Ayrshire Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c79",
+      "title": "Eastbourne, Seaford and Newhaven Railway (Abandonment) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c8",
+      "title": "Railway Passengers Assurance (Consolidation) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c80",
+      "title": "Mold Water Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c81",
+      "title": "Southend Gas Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c82",
+      "title": "Metropolitan Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c83",
+      "title": "Cleator Moor Local Board (Gas) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c84",
+      "title": "Dundee Harbour (Amendment) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c85",
+      "title": "Waterloo-with-Seaforth Local Board Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c86",
+      "title": "Rossendale Valley Tramways (Abandonment) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c87",
+      "title": "Medway (Upper) Navigation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c88",
+      "title": "Tredegar Waterworks Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c89",
+      "title": "Folkestone, Sandgate and Hythe Tramways Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c9",
+      "title": "Bristol Gas Company Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c90",
+      "title": "Ormskirk Gaslight Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c91",
+      "title": "Ribble Navigation Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c92",
+      "title": "Kilmarnock Corporation Water Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c93",
+      "title": "St. Margaret's, Leicester, Select Vestry (Parish Piece) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c94",
+      "title": "Ipswich Corporation (Purchase of Waterworks) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c95",
+      "title": "Southport and Cheshire Lines Extension Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c96",
+      "title": "Porthdinlleyn Railway (Abandonment) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c97",
+      "title": "Union Assurance Society Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c98",
+      "title": "Glasgow and South Western Railway (Ayrshire and Wigtownshire Railway and Bridge Street Joint Station Glasgow) Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1892-c99",
+      "title": "London, Chatham and Dover Railway Act 1892",
+      "year": 1892,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/55-56/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1892-c1",
       "title": "Millbank Prison Act 1892",

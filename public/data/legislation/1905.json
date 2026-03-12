@@ -1,7 +1,1807 @@
 {
   "year": 1905,
-  "count": 21,
+  "count": 221,
   "items": [
+    {
+      "id": "UKLA-1905-c1",
+      "title": "Leeds Corporation (Consolidation) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c10",
+      "title": "Brompton, Chatham, Gillingham and Rochester Water Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c100",
+      "title": "Clyde Navigation (Constitution) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c101",
+      "title": "Mansfield Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c102",
+      "title": "Education Board Provisional Orders Confirmation (Liverpool, &amp;c.) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c103",
+      "title": "Education Board Provisional Order Confirmation (London No. 1) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c104",
+      "title": "Education Board Provisional Order Confirmation (London No. 2) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c105",
+      "title": "Millport Piers and Burgh Extension Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c106",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c107",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 11) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c108",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 12) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c109",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 14) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c11",
+      "title": "Commercial Union Assurance Company Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c110",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 16) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c111",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 17) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c112",
+      "title": "Electric Lighting Orders Confirmation (No. 4) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c113",
+      "title": "Electric Lighting Orders Confirmation (No. 5) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c114",
+      "title": "Electric Lighting Orders Confirmation (No. 6) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c115",
+      "title": "Electric Lighting Orders Confirmation (No. 8) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c116",
+      "title": "Gas and Water Orders Confirmation (No. 1) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c117",
+      "title": "Gas and Water Orders Confirmation (No. 2) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c118",
+      "title": "Inverness Gas and Water Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c119",
+      "title": "Port Glasgow Improvement Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c12",
+      "title": "Mortgage Insurance Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c120",
+      "title": "Gas Orders Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c121",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c122",
+      "title": "Pier and Harbour Order Confirmation (No. 3) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c123",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 2) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c124",
+      "title": "Edinburgh Corporation Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c125",
+      "title": "Stonehaven Harbour Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c126",
+      "title": "Esk Valley Power-Gas Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c127",
+      "title": "Glasgow Corporation Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c128",
+      "title": "Glasgow Corporation (Tramways Consolidation) Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c129",
+      "title": "Glasgow University Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c13",
+      "title": "Truro Water Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c130",
+      "title": "Paisley District Tramways Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c131",
+      "title": "Hitchin and District Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c132",
+      "title": "Dublin, Wicklow and Wexford Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c133",
+      "title": "Worcestershire County Council (Bridges) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c134",
+      "title": "Tees Valley Water Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c135",
+      "title": "Whitby Urban District Council Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c136",
+      "title": "Metropolitan and Great Central Railways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c137",
+      "title": "Western Valleys (Monmouthshire) Water and Gas Amendment Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c138",
+      "title": "Andover Lighting and Power Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c139",
+      "title": "Great Western Railway (Additional Powers) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c14",
+      "title": "Hastings Harbour Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c140",
+      "title": "Southend and Colchester Light Railways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c141",
+      "title": "Whitechapel and Bow Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c142",
+      "title": "Great Northern Railway (Ireland) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c143",
+      "title": "London County Council (Money) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c144",
+      "title": "Hessle Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c145",
+      "title": "Great Central Railway (Pension Fund) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c146",
+      "title": "Metropolitan Electric Supply Company (Acton District) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c147",
+      "title": "Workington Harbour and Dock Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c148",
+      "title": "South Lancashire Tramways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c149",
+      "title": "Matlock Bath Improvement Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c15",
+      "title": "Weybridge and Walton-upon-Thames Electric Supply Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c150",
+      "title": "Llandrindod Wells Urban District Council Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c151",
+      "title": "Formby Urban District Council Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c152",
+      "title": "University of Sheffield Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c153",
+      "title": "Midland Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c154",
+      "title": "Bootle Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c155",
+      "title": "London Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c156",
+      "title": "Caledonian Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c157",
+      "title": "North British Railway (General Powers) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c158",
+      "title": "Rhondda Urban District Council Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c159",
+      "title": "Rotherham, Maltby and Laughton Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c16",
+      "title": "Chelsea Electricity Supply Company Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c160",
+      "title": "Shropshire, Worcestershire and Staffordshire Electric Power Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c161",
+      "title": "Woolwich Borough Council Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c162",
+      "title": "Skegness Water Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c163",
+      "title": "Great Northern, Piccadilly and Brompton Railway (Various Powers) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c164",
+      "title": "Metropolitan Electric Tramways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c165",
+      "title": "Dublin United Tramways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c166",
+      "title": "London and North Western Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c167",
+      "title": "Charing Cross, Euston and Hampstead Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c168",
+      "title": "Baker Street and Waterloo Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c169",
+      "title": "Edgware and Hampstead Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c17",
+      "title": "Epping Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c170",
+      "title": "Gosport and Fareham Tramways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c171",
+      "title": "Bristol Blind Asylum Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c172",
+      "title": "Newcastle-upon-Tyne Corporation (Tolls) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c173",
+      "title": "Blackpool Improvement Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c174",
+      "title": "London Electric Supply Company Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c175",
+      "title": "Nottingham Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c176",
+      "title": "North Metropolitan Electric Power Supply Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c177",
+      "title": "Liverpool Corporation (General Powers) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c178",
+      "title": "Great Central Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c179",
+      "title": "Humber Conservancy Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c18",
+      "title": "South Suburban Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c180",
+      "title": "Littlehampton Urban District Council (Arun Bridge) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c181",
+      "title": "Shepton Mallet Gas Company (Electric Lighting) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c182",
+      "title": "Southport, Birkdale and West Lancashire Water Board Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c183",
+      "title": "Ealing Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c184",
+      "title": "Malvern Water Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c185",
+      "title": "Central Electric Supply Company Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c186",
+      "title": "Rhymney and Aber Valleys Gas and Water Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c187",
+      "title": "Sandgate Urban District Council (Sanitary Powers) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c188",
+      "title": "London Government Scheme (London and Middlesex Adjustment) Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c189",
+      "title": "London Government Scheme (Hackney and Edmonton Unions Adjustment) Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c19",
+      "title": "Nottingham and Retford Railway (Extension of Time, &amp;c.) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c190",
+      "title": "Pier and Harbour Order Confirmation (No. 1) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c191",
+      "title": "Wemyss Tramways Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c192",
+      "title": "Electric Lighting Orders Confirmation (No. 9) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c193",
+      "title": "Tramways Orders Confirmation (No. 1) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c194",
+      "title": "Tramways Orders Confirmation (No. 2) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c195",
+      "title": "Fraserburgh Harbour Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c196",
+      "title": "Bangor (County Down) Water and Improvement Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c197",
+      "title": "Ribble Navigation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c198",
+      "title": "Thames Conservancy Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c199",
+      "title": "Oldham and Saddleworth District Tramways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c2",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c20",
+      "title": "Leeds and Liverpool Canal Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c200",
+      "title": "Metropolitan Electric Supply Company (Various Powers) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c21",
+      "title": "Metropolitan District Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c22",
+      "title": "Orphan Working School and Alexandra Orphanage Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c23",
+      "title": "East Cowes Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c24",
+      "title": "Hastings Harbour District Railway (Abandonment) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c25",
+      "title": "Tyneside Tramways and Tramroads Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c26",
+      "title": "Tralee Urban District Council Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c27",
+      "title": "Clay Cross Railway (Abandonment) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c28",
+      "title": "Berkhampstead Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c29",
+      "title": "Mexborough and Swinton Tramways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c3",
+      "title": "Walker and Wallsend Union Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c30",
+      "title": "Wrexham Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c31",
+      "title": "Dublin Corporation (Superannuation) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c32",
+      "title": "South Oxfordshire Water and Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c33",
+      "title": "Clyde Navigation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c34",
+      "title": "Great Eastern Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c35",
+      "title": "Loughborough Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c36",
+      "title": "Norwich Union Life Insurance Society Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c37",
+      "title": "Higham and Hundred of Hoo Water Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c38",
+      "title": "South Metropolitan Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c39",
+      "title": "Ilfracombe Harbour and Improvement Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c4",
+      "title": "Southampton and Winchester Great Western Junction Railway (Abandonment) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c40",
+      "title": "Accrington District Gas and Water Board Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c41",
+      "title": "Hull and Barnsley Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c42",
+      "title": "Otley Improvement Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c43",
+      "title": "Accrington Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c44",
+      "title": "Aylesbury Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c45",
+      "title": "Croydon Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c46",
+      "title": "Aberdare Urban District Council Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c47",
+      "title": "Colne Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c48",
+      "title": "North Sussex Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c49",
+      "title": "South Wales Electrical Power Distribution Company Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c5",
+      "title": "Cordova and Rosario Railway Company Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c50",
+      "title": "London United Tramways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c51",
+      "title": "Alexandra Park and Palace Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c52",
+      "title": "Metropolitan Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c53",
+      "title": "Barry Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c54",
+      "title": "Clacton Improvement Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c55",
+      "title": "Dearne Valley Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c56",
+      "title": "Croydon Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c57",
+      "title": "Stockport Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c58",
+      "title": "Birmingham Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c59",
+      "title": "Brentwood Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c6",
+      "title": "Entre Rios Railways Company Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c60",
+      "title": "Darien Gold Mining Company Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c61",
+      "title": "Leven Patent Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c62",
+      "title": "Rhymney Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c63",
+      "title": "Morley Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c64",
+      "title": "Metropolitan Police Provisional Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c65",
+      "title": "Alexander Scott's Hospital Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c66",
+      "title": "Grangemouth Waterworks and Burgh Extension Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c67",
+      "title": "Arbroath Corporation Water Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c68",
+      "title": "Dundee Water Order Confirmation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c69",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c7",
+      "title": "Marylebone Chapels (St. Paul, Great Portland Street and St. Peter, Vere Street) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c70",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c71",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c72",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c73",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c74",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c75",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 9) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c76",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 15) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c77",
+      "title": "Local Government Board's Provisional Order Confirmation (Gas) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c78",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c79",
+      "title": "Electric Lighting Orders Confirmation (No. 1) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c8",
+      "title": "West Cumberland Electric Tramways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c80",
+      "title": "Electric Lighting Order Confirmation (No. 2) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c81",
+      "title": "Electric Lighting Order Confirmation (No. 3) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c82",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 1) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c83",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 3) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c84",
+      "title": "Municipal Corporation (Merthyr Tydfil Scheme Confirmation) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c85",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 10) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c86",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 13) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c87",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 4) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c88",
+      "title": "Electric Lighting Orders Confirmation (No. 7) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c89",
+      "title": "Highland Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c9",
+      "title": "Holy Trinity Portsea Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c90",
+      "title": "Great Northern Railway Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c91",
+      "title": "University College London (Transfer) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c92",
+      "title": "Weaver Navigation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c93",
+      "title": "Seaham Gas Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c94",
+      "title": "Swansea Corporation Water Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c95",
+      "title": "South Eastern and London, Chatham and Dover Railways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c96",
+      "title": "Hythe Corporation Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c97",
+      "title": "Stepney Borough Council (Superannuation) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c98",
+      "title": "Great Western Railway (New Railways) Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1905-c99",
+      "title": "Hastings Tramways Act 1905",
+      "year": 1905,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/5/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1905-c1",
       "title": "Consolidated Fund (No. 1) Act 1905",

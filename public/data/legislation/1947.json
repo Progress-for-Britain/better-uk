@@ -1,7 +1,430 @@
 {
   "year": 1947,
-  "count": 55,
+  "count": 102,
   "items": [
+    {
+      "id": "UKLA-1947-c1",
+      "title": "Stornoway Harbour Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c10",
+      "title": "Felixstowe Urban District Council Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c11",
+      "title": "Nottingham and Derbyshire Traction Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c12",
+      "title": "Wear Navigation and Sunderland Dock Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c13",
+      "title": "Swindon Corporation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c14",
+      "title": "Luton Corporation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c15",
+      "title": "Felixstowe Pier Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c16",
+      "title": "London County Council (Money) Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c17",
+      "title": "Dundee Corporation Order Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c18",
+      "title": "Inverness Burgh Order Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c19",
+      "title": "Kingston-upon-Hull Provisional Order Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c2",
+      "title": "Edinburgh Merchant Company Widows' Fund (Amendment) Order Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c20",
+      "title": "Provisional Orders (Marriages) Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c21",
+      "title": "Ministry of Health Provisional Order Confirmation (Gloucester) Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c22",
+      "title": "Ministry of Health Provisional Order Confirmation (Tunbridge Wells) Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c23",
+      "title": "Ministry of Health Provisional Order Confirmation (Leeds) Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c24",
+      "title": "Ministry of Health Provisional Order Confirmation (Torquay) Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c25",
+      "title": "Brighton Corporation (Trolley Vehicles) Order Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c26",
+      "title": "Mexborough and Swinton Traction (Trolley Vehicles) Order Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c27",
+      "title": "Dudley Corporation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c28",
+      "title": "Tendring Hundred Water and Gas Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c29",
+      "title": "Cheshire and Lancashire County Councils (Runcorn-Widnes Bridge, &amp;c.) Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c3",
+      "title": "Coatbridge Burgh Extension, &amp;c. Order Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c30",
+      "title": "Hove Corporation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c31",
+      "title": "City of London (Tithes) Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c32",
+      "title": "Sunderland Corporation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c33",
+      "title": "Southend-on-Sea Corporation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c34",
+      "title": "Helston and Porthleven Water Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c35",
+      "title": "London, Midland and Scottish Railway Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c36",
+      "title": "Nottingham Corporation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c37",
+      "title": "Paisley Corporation Order Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c38",
+      "title": "National Trust for Scotland Order Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c39",
+      "title": "Nazeing Wood or Park Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c4",
+      "title": "Forth Road Bridge Order Confirmation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c40",
+      "title": "Borough of Croydon (Rating) Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c41",
+      "title": "Tynemouth Corporation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c42",
+      "title": "London and North Eastern Railway Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c43",
+      "title": "North Cumberland Water Board Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c44",
+      "title": "Newhaven and Seaford Sea Defences Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c45",
+      "title": "Preston Corporation Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c46",
+      "title": "London County Council (General Powers) Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c47",
+      "title": "London Passenger Transport Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c5",
+      "title": "Cotton Industry War Memorial Trust Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c6",
+      "title": "Havant and Waterloo Urban District Council Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c7",
+      "title": "Southern Railway Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c8",
+      "title": "South Metropolitan Gas Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1947-c9",
+      "title": "South-West Middlesex Crematorium Act 1947",
+      "year": 1947,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1947-c1",
       "title": "Expiring Laws Continuance Act 1947",

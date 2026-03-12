@@ -1,7 +1,1987 @@
 {
   "year": 1811,
-  "count": 1,
+  "count": 221,
   "items": [
+    {
+      "id": "UKLA-1811-c1",
+      "title": "East Grinstead Parish Church Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c10",
+      "title": "Barton and Brandon Road (Suffolk) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c100",
+      "title": "Woolhampton Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c101",
+      "title": "Roads in Stirling Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c102",
+      "title": "Plymouth Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c103",
+      "title": "Thornton's Paintings, Drawings, Engravings and Books Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c104",
+      "title": "St. Michael's Parish, Limerick, Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c105",
+      "title": "Birmingham Canal Navigations Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c106",
+      "title": "Penclawdd Canal and Railway or Tramroad Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c107",
+      "title": "Clapham Parochial and Poor Rates, Workhouse and Land Tax Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c108",
+      "title": "Suffolk Roads Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c109",
+      "title": "Road from Kingston-upon-Thames to Leatherhead Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c11",
+      "title": "Croydon Canal Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c110",
+      "title": "Roads to and through Goudhurst Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c111",
+      "title": "Long Preston and Sawley Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c112",
+      "title": "Brimington and Chesterfield Roads Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c113",
+      "title": "Little Yarmouth and Blythburgh and Brampton and Halesworth Roads Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c114",
+      "title": "Great Hadham Rectory and Gordon's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c115",
+      "title": "Seaton Ross Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c116",
+      "title": "King James' Hospital, Gateshead Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c117",
+      "title": "Newmarket (Flintshire) and CÃ«m Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c118",
+      "title": "Llanarmon, Llandegla and Bryneglwys Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c119",
+      "title": "Fundenhall and Ashwellthorpe Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c12",
+      "title": "Roads in Carmarthenshire Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c120",
+      "title": "Stoke Talmage Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c121",
+      "title": "Warton-with-Lindeth and Silverdale Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c122",
+      "title": "Hay Railway Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c123",
+      "title": "Llanvihangel Railway Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c124",
+      "title": "Braunton Inclosure and Drainage Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c125",
+      "title": "Bromley St. Leonard Poor Rates Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c126",
+      "title": "Hungerford Parish Church Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c127",
+      "title": "Haddington Roads Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c128",
+      "title": "Pudsey Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c129",
+      "title": "Caistor, North and South Kelsey, Clixby, Grasby and Searby-cum-Owmby Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c13",
+      "title": "Road from Hyde Park Corner to Counters Bridge Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c130",
+      "title": "Biddestone St. Nicholas, Biddestone St. Peters and Slaughterford Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c131",
+      "title": "Quernmore Moor Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c132",
+      "title": "Malldraeth and Corsddaugau Inclosing, Embanking and Draining Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c133",
+      "title": "Berwick and Kelso Railway and Bridge over Tweed Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c134",
+      "title": "St. Mary Islington Chapel of Ease and Burial Ground Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c135",
+      "title": "Marquis of Downshire's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c136",
+      "title": "See of Canterbury's Estates (Deal and Cliffe) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c137",
+      "title": "Elmswell, Great Ashfield, Hunston and Norton Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c138",
+      "title": "Hampton Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c139",
+      "title": "Wells-next-the-Sea, Warham All Saints, Warham St. Mary Magdalen and Warham St. Mary the Virgin Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c14",
+      "title": "Road from Carlisle to Newcastle-upon-Tyne Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c140",
+      "title": "Killington Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c141",
+      "title": "Tilehurst Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c142",
+      "title": "Beenham and Padworth Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c143",
+      "title": "Liverpool Port and Town Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c144",
+      "title": "St. Nicholas Bay Harbour and Canterbury Canal Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c145",
+      "title": "Kent Waterworks Acts Amendment Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c146",
+      "title": "Dumfries Improvement and Police Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c147",
+      "title": "Dumfries Harbour and River Nith Navigation Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c148",
+      "title": "Gloucester and Worcester Horse Towing-Path Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c149",
+      "title": "Llanasa Inclosure and Drainage Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c15",
+      "title": "Nethergate (Dundee) Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c150",
+      "title": "St. Paul's Covent Garden Clergy Stipends Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c151",
+      "title": "St. Marylebone Parish Church and Chapels Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c152",
+      "title": "Sevenoaks Parish Church Repair Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c153",
+      "title": "St. Botolph without Aldgate Poor Rates Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c154",
+      "title": "Barnstaple Improvement and Markets Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c155",
+      "title": "St. Pancras Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c156",
+      "title": "Road from Kentish Town to Upper Holloway Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c157",
+      "title": "Ightham and London to Maidstone Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c158",
+      "title": "St. Michael and South Mimms Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c159",
+      "title": "Bodmin and Lanhydrock Roads Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c16",
+      "title": "Roads from the South Gate of King's Lynn Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c160",
+      "title": "Kirtlington Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c161",
+      "title": "New Radnor Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c162",
+      "title": "Dolgelley and Llangelynin or Celynin Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c163",
+      "title": "Langset or Langside Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c164",
+      "title": "Burham Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c165",
+      "title": "Llanarthney, Llanon, Llandebye and Llanfihangel Aberbythick Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c166",
+      "title": "Southwark Bridge Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c167",
+      "title": "Bath and Bristol Canal and Bristol Waterworks Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c168",
+      "title": "Grand Western Canal Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c169",
+      "title": "Grand Junction Canal Company and Paddington Water Supply Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c17",
+      "title": "Roads from the East Gate of King's Lynn Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c170",
+      "title": "Grand Surrey Canal and Rotherhithe Branch Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c171",
+      "title": "East County Dock (Rotherhithe) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c172",
+      "title": "Gosport Market Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c173",
+      "title": "Glastonbury Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c174",
+      "title": "Road from Doncaster to Bawtry Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c175",
+      "title": "Road from Southwark to the Kent Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c176",
+      "title": "Coe or Cow Fen Leys (Cambridge) Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c177",
+      "title": "Tilshead Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c178",
+      "title": "Hamilton's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c179",
+      "title": "Earl Beaulieu's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c18",
+      "title": "Road from Livingstone to Glasgow Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c180",
+      "title": "Savile's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c181",
+      "title": "Dublin Cathedral Leases Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c182",
+      "title": "Dean of Windsor and Wolverhampton's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c183",
+      "title": "Daubuz's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c184",
+      "title": "Decreed Lands (Lincolnshire and Nottinghamshire) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c185",
+      "title": "Vipont's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c186",
+      "title": "Legh's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c187",
+      "title": "Hornchurch, Romford and Havering Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c188",
+      "title": "Norbury Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c189",
+      "title": "Kingston Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c19",
+      "title": "Shankhill and Waterford Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c190",
+      "title": "Bromham Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c191",
+      "title": "Minty Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c192",
+      "title": "Great and Little Wymondley and Ippollitts Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c193",
+      "title": "Severn and Wye Railway and Canal Company Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c194",
+      "title": "Simonburn Parishes and Rectors Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c195",
+      "title": "Porthleven Harbour Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c196",
+      "title": "Sutton Pool Harbour (Plymouth) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c197",
+      "title": "Statute Labour, Roads, Bridges and Ferries in Perthshire Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c198",
+      "title": "Roads and Bridges in Perthshire Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c199",
+      "title": "Woolwich Ferry Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c2",
+      "title": "Buckingham to Hanwell (Oxfordshire) Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c20",
+      "title": "Almond Bridge Roads Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c200",
+      "title": "Newry Parish Church Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c201",
+      "title": "Durham Gaol, House of Correction and Court Houses Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c202",
+      "title": "Itchin Coal Rates Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c203",
+      "title": "Temple Bar Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c204",
+      "title": "Bawtry and Selby Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c205",
+      "title": "Road from the Eynesford Turnpike Road to Farnborough Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c206",
+      "title": "East Malling Heath and Mereworth and Hadlow Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c207",
+      "title": "Isle of Man Clergy and others Agreement Confirmation Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c208",
+      "title": "Harthill Church Glebe Lands Rights of Common Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c209",
+      "title": "Canterbury Cathedral's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c21",
+      "title": "Whickham Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c210",
+      "title": "Whitechapel Charity Schools Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c211",
+      "title": "Graham's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/211",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c212",
+      "title": "Wallinger's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/212",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c213",
+      "title": "Collins' Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/213",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c214",
+      "title": "Beach's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/214",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c215",
+      "title": "Squire's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/215",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c216",
+      "title": "Clondysley's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/216",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c217",
+      "title": "Drayton Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/217",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c218",
+      "title": "Sulhamstead Abbotts and Sulhamstead Bannister Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/218",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c219",
+      "title": "Great Waldingfield-cum-Chilton and Great Cornard Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/219",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c22",
+      "title": "Barnham Broom and Bickerstone Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c220",
+      "title": "Road from Kent Road to Deptford and Horsleydown Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/220",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c221",
+      "title": "Ecclesfield Division and Tithes Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/221",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c23",
+      "title": "Finchley Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c24",
+      "title": "Lune, Holwick and Romaldkirk Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c25",
+      "title": "Chadlington West, Chadlington East and Chilson Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c26",
+      "title": "Bywell St. Peter Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c27",
+      "title": "Norwich, Aylsham and Cromer Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c28",
+      "title": "Road from Dudley to Pattingham Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c29",
+      "title": "Road from Harlow Bush Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c3",
+      "title": "Sunderland and Durham Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c30",
+      "title": "Hatfield, Thorne and Fishlake Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c31",
+      "title": "Barton Bridge and Stretford Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c32",
+      "title": "Christchurch (Surrey) Poor Rates and Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c33",
+      "title": "Dunure Harbour Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c34",
+      "title": "Perth Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c35",
+      "title": "Kirkcaldy Improvement and Water Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c36",
+      "title": "Dublin Roads Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c37",
+      "title": "Dumfries Two Pennies Scots Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c38",
+      "title": "Bridge of Doon Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c39",
+      "title": "Marykirk (North Esk) Bridge Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c4",
+      "title": "Road from Beverley and from Malton Guide Post Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c40",
+      "title": "Roads in Berwick (County) and Whitadder Bridge Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c41",
+      "title": "Berwick-upon-Tweed and Dunglas Bridge Road and Branches Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c42",
+      "title": "Roads communicating with the West India and East India Docks Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c43",
+      "title": "Colchester and Wivenhoe Navigation and Colchester Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c44",
+      "title": "Road from Wem and Whitchurch Road to Sandford and Hodnet Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c45",
+      "title": "Stoke Ferry Roads (Norfolk) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c46",
+      "title": "Abingdon and Swinford Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c47",
+      "title": "Road from Vinehall to Rye Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c49",
+      "title": "London Dock Company's Rates (Wines and Spirits) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c5",
+      "title": "Odiham and Farnham Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c50",
+      "title": "Viscount Sackville's Estate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c51",
+      "title": "Rectory of Nailsea with Chapel of Bourton Annexed Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c52",
+      "title": "Scarning, Hoe, Worthington and Dillington Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c53",
+      "title": "Westward Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c54",
+      "title": "Cholmondeston Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c55",
+      "title": "Fulwood Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c56",
+      "title": "Long Compton Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c57",
+      "title": "Great Paxton and Toseland Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c58",
+      "title": "Wigton, Woodside and Waverton Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c59",
+      "title": "St. John the Baptist Peterborough Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c6",
+      "title": "Bishop Wearmouth and Norton (Durham) Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c60",
+      "title": "Bristol and Taunton Canal Navigation Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c61",
+      "title": "Dunfermline Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c62",
+      "title": "Newport (Monmouthshire) Roads Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c63",
+      "title": "Roads from Cramond Bridge to Queensferry and Linlithgow Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c64",
+      "title": "St. Mary-le-Strand Workhouse and Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c65",
+      "title": "Robeston Wathan and St. Clears Road (Pembrokeshire) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c66",
+      "title": "Commercial Docks Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c67",
+      "title": "Rutland Gaol and Bridewell Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c68",
+      "title": "Chapels of St. Mary and St. Paul, Birmingham Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c69",
+      "title": "Buxton Church Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c7",
+      "title": "Rangeworthy Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c70",
+      "title": "Garion Bridge (Lanarkshire) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c71",
+      "title": "Fosdyke Bridge Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c72",
+      "title": "Road from Bromham Bridge to Olney Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c73",
+      "title": "Road from Derby to Mansfield Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c74",
+      "title": "Haddon and Bentley (Derbyshire) Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c75",
+      "title": "Roads from Little Sheffield Sparrow Pit Gate Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c76",
+      "title": "Roads from Fosbrook to Chedleton (Staffordshire) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c77",
+      "title": "Baldock, Royston and Bourn Bridge Roads Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c78",
+      "title": "Stevenage and Biggleswade Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c79",
+      "title": "Wimbourne Minster and Blandford Forum Road Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c8",
+      "title": "Ware Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c80",
+      "title": "Road from Billinsghurst to Broadbridge Heath Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c81",
+      "title": "Roads from Cranbrook and from Benenden Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c82",
+      "title": "Roads to and from Shawbury (Salop.) Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c83",
+      "title": "Brightwell Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c84",
+      "title": "Fyfield Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c85",
+      "title": "Garsington Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c86",
+      "title": "Little Ponton Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c87",
+      "title": "Llanfyllin and Mechen Ucheod Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c88",
+      "title": "Somerby Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c89",
+      "title": "Teirtref Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c9",
+      "title": "Bury St. Edmund's Improvement Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c90",
+      "title": "Beeley Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c91",
+      "title": "Wilden Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c92",
+      "title": "Astley Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c93",
+      "title": "Westbury-upon-Trym, Henbury and Compton Greenfield Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c94",
+      "title": "Leighton and Thornton Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c95",
+      "title": "Great and Little Chishill Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c96",
+      "title": "Pirton Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c97",
+      "title": "Osgodby Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c98",
+      "title": "Lyons, Kill, Clonoclis, Cellbridge and Donnacomport Inclosures Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1811-c99",
+      "title": "Stewkley Inclosure Act 1811",
+      "year": 1811,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/51/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1811-c115",
       "title": "Gifts for Churches Act 1811",

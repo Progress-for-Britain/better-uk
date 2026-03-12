@@ -1,7 +1,1474 @@
 {
   "year": 1885,
-  "count": 75,
+  "count": 238,
   "items": [
+    {
+      "id": "UKLA-1885-c1",
+      "title": "Local Government Board's Provisional Orders Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c10",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 1) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c100",
+      "title": "Metropolis (Tabard Street, Newington) Provisional Order Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c101",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c102",
+      "title": "Tramways Orders Confirmation (No. 2) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c103",
+      "title": "Tramways Orders Confirmation (No. 3) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c104",
+      "title": "Pier and Harbour Orders Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c105",
+      "title": "Local Government Board's Provisional Order Confirmation (Municipal Corporation) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c106",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c107",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c108",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 9) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c109",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (Mullingar) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c11",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c110",
+      "title": "District of St. John Cowley Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c111",
+      "title": "Selby and Mid Yorkshire Union Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c112",
+      "title": "Lower Thames Valley Main Sewerage Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c113",
+      "title": "Limehouse Subway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c114",
+      "title": "London and Blackwall Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c115",
+      "title": "London Street Tramways (Extensions) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c116",
+      "title": "Bermondsey Vestry Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c117",
+      "title": "Bootle-cum-Linacre (Fictitious Bonds) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c118",
+      "title": "South Western Railway (Various Powers) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c119",
+      "title": "North British Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c12",
+      "title": "Oyster and Mussel Fisheries Order Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c120",
+      "title": "Northwich Local Board Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c121",
+      "title": "St. Helens and Wigan Junction Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c122",
+      "title": "Southport Improvement Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c123",
+      "title": "Aberdeen Corporation Water Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c124",
+      "title": "Bradford Waterworks and Improvement Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c125",
+      "title": "Whitehaven Town and Harbour (Incorporation) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c126",
+      "title": "Manchester City Extension Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c127",
+      "title": "North Berwick Water Supply Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c128",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c129",
+      "title": "Education Department Provisional Orders Confirmation (Birmingham, &amp;c.) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c13",
+      "title": "Runcorn Gas Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c130",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Drumcondra and Cavan) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c131",
+      "title": "Mullingar Water Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c132",
+      "title": "Skegness and St. Leonards Tramway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c133",
+      "title": "Colne Valley Water Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c134",
+      "title": "North Wales Narrow Gauge Railways (Extensions, &amp;c.) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c135",
+      "title": "River Bann Navigation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c136",
+      "title": "Glasgow Corporation Waterworks Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c137",
+      "title": "South Eastern Railway (Various Powers) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c138",
+      "title": "Regent's Canal City and Docks Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c139",
+      "title": "Alexandra (Newport and South Wales) Docks and Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c14",
+      "title": "Skipton and Kettlewell Railway (Abandonment) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c140",
+      "title": "Glyn Valley Tramway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c141",
+      "title": "Barry Dock and Railways Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c142",
+      "title": "Hebburn Quay and Landing-Place Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c143",
+      "title": "Stratford-upon-Avon, Towcester and Midland Junction Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c144",
+      "title": "North London Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c145",
+      "title": "Liverpool Tramways Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c146",
+      "title": "Bury Improvement Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c147",
+      "title": "Great Western Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c148",
+      "title": "Stalybridge and Mossley Gas Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c149",
+      "title": "Wirral Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c15",
+      "title": "Glasgow Police Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c150",
+      "title": "Wrexham and Ellesmere Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c151",
+      "title": "Rathmines and Rathgar Improvement Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c152",
+      "title": "Renton Water Supply Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c153",
+      "title": "Bawtry and Trent Railway and Dock (Improvement) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c154",
+      "title": "Lynton Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c155",
+      "title": "River Witham Outfall Improvement (Extension of Time) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c156",
+      "title": "Glasgow Corporation Tramways Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c157",
+      "title": "Taff Vale Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c158",
+      "title": "Witham Drainage (Steeping River) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c159",
+      "title": "Horsforth Waterworks Extension Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c16",
+      "title": "Newark Cattle Markets and Fairs Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c160",
+      "title": "Greenwich and Millwall Subway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c161",
+      "title": "Ballyclare, Ligoniel and Belfast Junction Railway (Abandonment) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c162",
+      "title": "Belfast, Strandtown and High Holywood Railway (Abandonment) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c163",
+      "title": "Metropolitan Outer Circle Railway (Abandonment) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c17",
+      "title": "Port Glasgow Harbour Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c18",
+      "title": "Auld's Patent Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c19",
+      "title": "Blackburn Water Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c2",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c20",
+      "title": "Rickmansworth and Uxbridge Valley Water Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c21",
+      "title": "Tilbury and Gravesend Tunnel Junction Railway (Abandonment) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c22",
+      "title": "Ashton-under-Lyne Stalybridge and Dukinfield (District) Waterworks Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c23",
+      "title": "London, Chatham and Dover Railway (Capital) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c24",
+      "title": "Oxford (Corporation) Waterworks Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c25",
+      "title": "East and West India Dock Company's Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c26",
+      "title": "North Metropolitan Tramways Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c27",
+      "title": "Waterford, Dungarvan and Lismore Railway Extension (Abandonment) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c28",
+      "title": "East Surrey Water Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c29",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 2) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c3",
+      "title": "Eastern and Midlands Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c30",
+      "title": "Tramways (Ireland) Provisional Order (Mitchelstown and Fermoy) Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c31",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 4) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c32",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Labourers) (No. 3) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c33",
+      "title": "Liverpool Grain Storage and Transit Company (Delivery Warrants) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c34",
+      "title": "Central Argentine Railway Company Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c35",
+      "title": "Fulwood Local Board Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c36",
+      "title": "Albert Palace Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c37",
+      "title": "Liverpool and Birkenhead Subway (Extension of Time) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c38",
+      "title": "Elham Valley Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c39",
+      "title": "North Cornwall Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c4",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c40",
+      "title": "Airdrie Burgh Extension Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c41",
+      "title": "Coatbridge Burgh Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c42",
+      "title": "Maidstone Waterworks Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c43",
+      "title": "Oswestry (Corporation) Water and Markets Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c44",
+      "title": "Dore and Chinley Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c45",
+      "title": "East London Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c46",
+      "title": "Lincoln Corporation Gas Purchase Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c47",
+      "title": "Barrington's Hospital Amendment Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c48",
+      "title": "Llangammarch and Neath and Brecon Junction Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c49",
+      "title": "London Riverside Fish Market Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c5",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 2) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c50",
+      "title": "Woking Water and Gas Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c51",
+      "title": "Liverpool Cathedral Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c52",
+      "title": "Ward's City of London School for Girls Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c53",
+      "title": "Southport and Cheshire Lines Extension Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c54",
+      "title": "Isle of Axholme Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c55",
+      "title": "Gas Orders Confirmation (No. 1) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c56",
+      "title": "Commons Regulation (Ashdown Forest) Provisional Order Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c57",
+      "title": "Commons Regulation (Drumburgh) Provisional Order Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c58",
+      "title": "Inclosure (Llanybyther) Provisional Order Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c59",
+      "title": "Local Government Board's (Gas) Provisional Orders Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c6",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 3) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c60",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Bandon, Ennis and New Ross) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c61",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Mallow and Midleton) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c62",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c63",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) (No. 2) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c64",
+      "title": "Gas and Water Orders Confirmation (No. 2) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c65",
+      "title": "Water Orders Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c66",
+      "title": "Tramways Orders Confirmation (No. 1) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c67",
+      "title": "London, Brighton and South Coast Railway (Various Powers) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c68",
+      "title": "Canada North West Land Company's Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c69",
+      "title": "Longton Corporation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c7",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 5) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c70",
+      "title": "Northern Railway of Buenos Aires Company's Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c71",
+      "title": "Charing Cross and Waterloo Electric Railway (Abandonment) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c72",
+      "title": "Manchester Bury Rochdale and Oldham Steam Tramways (Extension of Time) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c73",
+      "title": "Ayr Burgh Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c74",
+      "title": "Columbia Market Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c75",
+      "title": "Ballymena and Larne Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c76",
+      "title": "Great Northern Railway (Various Powers) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c77",
+      "title": "Guiseley, Yeadon and Rawdon Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c78",
+      "title": "Latimer Road and Acton Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c79",
+      "title": "Cathcart District Railway (Extension of Time) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c8",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 6) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c80",
+      "title": "Brentford and District Tramways Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c81",
+      "title": "Didcot, Newbury and Southampton Railway (Extension of Time) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c82",
+      "title": "Hull, Barnsley and West Riding Junction Railway and Dock Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c83",
+      "title": "Lydd Railway (Various Powers) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c84",
+      "title": "Manchester, Sheffield and Lincolnshire Railway (Additional Powers) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c85",
+      "title": "Rhondda and Swansea Bay Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c86",
+      "title": "London, Tilbury and Southend Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c87",
+      "title": "Lanarkshire and Ayrshire Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c88",
+      "title": "London and North Western Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c89",
+      "title": "Metropolitan Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c9",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 7) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c90",
+      "title": "Midland Railway (Additional Powers) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c91",
+      "title": "Hartlepool Headland Protection and Improvement Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c92",
+      "title": "Plymouth, Devonport and South Western Junction Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c93",
+      "title": "Great Eastern Railway (General Powers) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c94",
+      "title": "Lancashire and Yorkshire Railway Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c95",
+      "title": "Liverpool Improvement Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c96",
+      "title": "Bexhill Water and Gas Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c97",
+      "title": "Hailsham Water Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c98",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Cootehill, Kildare and Thurles) Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1885-c99",
+      "title": "Metropolis (Hughes Fields, Deptford) Provisional Order Confirmation Act 1885",
+      "year": 1885,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/48-49/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1885-c10",
       "title": "Elections (Hours of Poll) Act 1885",

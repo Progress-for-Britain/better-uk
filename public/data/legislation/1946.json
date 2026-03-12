@@ -1,7 +1,439 @@
 {
   "year": 1946,
-  "count": 66,
+  "count": 114,
   "items": [
+    {
+      "id": "UKLA-1946-c1",
+      "title": "St. Andrews Links Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c15",
+      "title": "Ministry of Health Provisional Order Confirmation (Mortlake Crematorium Board) Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c16",
+      "title": "Inverness Water Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c17",
+      "title": "Metropolitan Water Board Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c18",
+      "title": "London Necropolis Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c19",
+      "title": "North West Midlands Joint Electricity Authority Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c2",
+      "title": "Arbroath Gas Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c20",
+      "title": "Bucks Water Board Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c21",
+      "title": "Newport (Isle of Wight) Corporation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c22",
+      "title": "Astley Ainslie Hospital Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c23",
+      "title": "London, Midland and Scottish Railway Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c24",
+      "title": "Great Western Railway Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c25",
+      "title": "Dundee Corporation Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c26",
+      "title": "Glasgow Corporation Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c27",
+      "title": "Newcastle-upon-Tyne Corporation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c29",
+      "title": "City of London (Various Powers) Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c3",
+      "title": "London and North Eastern Railway Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/10-11/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c30",
+      "title": "London County Council (Money) Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c31",
+      "title": "Rushden District Gas Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c32",
+      "title": "Breconshire County Council Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c33",
+      "title": "London, Midland and Scottish Railway Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c34",
+      "title": "Ministry of Health Provisional Order Confirmation (Wallasey) Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c35",
+      "title": "West Midlands Joint Electricity Authority Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c36",
+      "title": "Pier and Harbour Order (Skegness) Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c37",
+      "title": "Gas Light and Coke Company's Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c38",
+      "title": "Manchester Corporation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c39",
+      "title": "Portsmouth Corporation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c40",
+      "title": "Tyne Tunnel Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c41",
+      "title": "Caledonian Insurance Company's Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c42",
+      "title": "Moorfields, Westminster and Central Eye Hospital Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c45",
+      "title": "Derby Corporation (Trolley Vehicles) Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c46",
+      "title": "Ipswich Corporation (Trolley Vehicles) Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c47",
+      "title": "Maidstone Corporation (Trolley Vehicles) Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c48",
+      "title": "Reading Corporation (Trolley Vehicles) Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c49",
+      "title": "Long Eaton Urban District Council Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c50",
+      "title": "High Wycombe Corporation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c51",
+      "title": "Cardiff Corporation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c52",
+      "title": "Birmingham Corporation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c53",
+      "title": "Tees Conservancy Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c54",
+      "title": "Rotherham Corporation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c55",
+      "title": "Bromborough Dock Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c56",
+      "title": "West Yorkshire Gas Distribution Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c57",
+      "title": "Ardrossan Gas Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c58",
+      "title": "Ministry of Health Provisional Order Confirmation (Norwich) Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c59",
+      "title": "Aberdeen Harbour Order Confirmation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c60",
+      "title": "Northmet Power Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c61",
+      "title": "Glasgow Corporation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1946-c62",
+      "title": "Banbury Corporation Act 1946",
+      "year": 1946,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/62",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1946-c1",
       "title": "Expiring Laws Continuance Act 1946",

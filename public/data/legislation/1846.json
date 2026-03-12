@@ -1,7 +1,565 @@
 {
   "year": 1846,
-  "count": 7,
+  "count": 69,
   "items": [
+    {
+      "id": "UKLA-1846-c341",
+      "title": "Vale of Neath Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/341",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c342",
+      "title": "Cockermouth and Workington Extension Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/342",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c343",
+      "title": "Sligo and Shannon Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/343",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c344",
+      "title": "Portbury Pier and Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/344",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c345",
+      "title": "Cambridge Improvement Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/345",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c346",
+      "title": "Billingsgate Market Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/346",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c347",
+      "title": "Gorbals Gravitation Water Company Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/347",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c348",
+      "title": "Sheffield Streets Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/348",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c349",
+      "title": "Tunbridge Wells Improvement Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/349",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c350",
+      "title": "Surrey Roads Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/350",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c351",
+      "title": "Australian Agricultural Company Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/351",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c352",
+      "title": "Stamford and Spalding Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/352",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c353",
+      "title": "Llynvi Valley Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/353",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c354",
+      "title": "Sheffield, Rotherham, Barnsley, Wakefield, Huddersfield, and Goole Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/354",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c355",
+      "title": "Taw Vale Railway and Dock Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/355",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c356",
+      "title": "Wisbech, St. Ives and Cambridge Junction Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/356",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c357",
+      "title": "Enfield and Edmonton Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/357",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c358",
+      "title": "Manchester and Lincoln Union Railway and Chesterfield and Gainsborough Canal Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/358",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c359",
+      "title": "London and Birmingham Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/359",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c360",
+      "title": "Kilkenny and Great Southern and Western Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/360",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c361",
+      "title": "Dublin Cemeteries Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/361",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c362",
+      "title": "Argyll Canal Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/362",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c363",
+      "title": "Sligo Ship Canal Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/363",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c364",
+      "title": "Campbeltown Harbour and Burgh Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/364",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c365",
+      "title": "Edinburgh Middle District Roads and Bridges Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/365",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c366",
+      "title": "Yeovil Borough Estate Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/366",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c367",
+      "title": "Eastern Counties and Thames Junction Railway (Branches) Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/367",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c368",
+      "title": "Rugby and Leamington Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/368",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c369",
+      "title": "West London Railway and Extension Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/369",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c370",
+      "title": "London and South Western Railway (Basingstoke and Salisbury Extension) Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/370",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c371",
+      "title": "Monmouthshire Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/371",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c372",
+      "title": "Glasgow, Dumfries and Carlisle Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/372",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c373",
+      "title": "Andevor Canal Sale Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/373",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c374",
+      "title": "Tramore Estuary Reclamation Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/374",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c375",
+      "title": "British Guarantee Association Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/375",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c376",
+      "title": "North Lynn and St. Margaret Parishes, Union of Livings Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/376",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c377",
+      "title": "Airdrie and Bathgate Junction Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/377",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c378",
+      "title": "Manchester and Leeds Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/378",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c379",
+      "title": "Caledonian, Polloc and Govan, and Clydesdale Junction Railways Amalgamation Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/379",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c380",
+      "title": "Huddersfield and Manchester Railway and Canal (Oldham Branch) Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/380",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c381",
+      "title": "Liverpool, Ormskirk and Preston Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/381",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c382",
+      "title": "New Zealand Company Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/382",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c383",
+      "title": "Plymouth Great Western Dock Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/383",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c384",
+      "title": "Forth and Clyde Navigation Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/384",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c385",
+      "title": "Brighouse Improvement Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/385",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c386",
+      "title": "Salthouse Sands Reclamation Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/386",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c387",
+      "title": "Wexford Harbour Improvement Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/387",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c388",
+      "title": "Norfolk Estuary Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/388",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c389",
+      "title": "All Soul's College, Oxford, Leasing Powers Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/389",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c390",
+      "title": "West Riding Union Railways Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/390",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c391",
+      "title": "London and South Western Railway (London Bridge Extension) Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/391",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c392",
+      "title": "Glasgow and Belfast Union Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/392",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c393",
+      "title": "Taff Vale Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/393",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c394",
+      "title": "Newcastle-upon-Tyne and Carlisle Branch Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/394",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c395",
+      "title": "Caledonian Railway (Clydesdale Junction Railway Deviations) Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/395",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c396",
+      "title": "East and West India Docks and Birmingham Junction Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/396",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c397",
+      "title": "Cork and Waterford Railway Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/397",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c398",
+      "title": "Metropolitan Sewerage Manure Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/398",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c399",
+      "title": "Port of London (Legal Quays) Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/399",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c400",
+      "title": "Dublin Improvement Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/400",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c401",
+      "title": "Cameron's Coalbrook Steam Coal and Swansea and Loughor Railway Company's Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/401",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1846-c402",
+      "title": "South Devon Railway (Amendment and Branches) Act 1846",
+      "year": 1846,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/9-10/402",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1846-c17",
       "title": "Burgh Trading Act 1846",

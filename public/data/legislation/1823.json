@@ -1,7 +1,1141 @@
 {
   "year": 1823,
-  "count": 4,
+  "count": 130,
   "items": [
+    {
+      "id": "UKLA-1823-c1",
+      "title": "Haw Passage (Gloucestershire) Severn Bridge and Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c10",
+      "title": "Lary Bridge Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c100",
+      "title": "Mansfield Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c101",
+      "title": "Stamford and St. Martin's Stamford Baron Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c102",
+      "title": "Bristol and Clifton Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c103",
+      "title": "Fen Drainage Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c104",
+      "title": "Okehampton Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c105",
+      "title": "Banbury, Brailes and Barcheston Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c106",
+      "title": "Middlesex and Essex Turnpike Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c107",
+      "title": "Rochdale and Manchester Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c108",
+      "title": "Beaconsfield and Stokenchurch Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c109",
+      "title": "Roads from Modbury through Plymouth Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c11",
+      "title": "Forfar County Offices Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c110",
+      "title": "Skipton and Colne Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c111",
+      "title": "Wansford Bridge, Stamford and Bourn Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c112",
+      "title": "Roads from Redrow to Peathill (Stirlingshire) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c113",
+      "title": "Minehead Pier and Harbour Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c114",
+      "title": "City of London Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c115",
+      "title": "Manchester and Salford Water Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c116",
+      "title": "Southwark Bridge Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c117",
+      "title": "Christ Church at Wood House Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c118",
+      "title": "St. Andrew Holborn Tithes Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c119",
+      "title": "Gaslight and Coke Company Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c12",
+      "title": "Uckfield and Eastbourne, and Horsebridge and Cross in Hand Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c120",
+      "title": "Winchester Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c121",
+      "title": "Welsh Harp and Stonebridge, and Castle Bromwich and Birmingham Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c122",
+      "title": "Roads from Tamworth and from Harrington Bridge Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c123",
+      "title": "Southwark Court of Requests Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c124",
+      "title": "London Dock Company Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c125",
+      "title": "Middlesex Licensing of Alehouses Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c126",
+      "title": "Limerick Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c13",
+      "title": "Road from Preston to Garstang Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c14",
+      "title": "Stroud and Bisley Turnpike Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c15",
+      "title": "Stockbridge, Winchester and Southampton Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c16",
+      "title": "Road from Leeds to Wortley Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c17",
+      "title": "Newton Abbott and Torquay Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c18",
+      "title": "Edinburgh and Glasgow Union Canal Company Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c19",
+      "title": "Bridport Harbour Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c2",
+      "title": "Tewkesbury Severn Bridge and Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c20",
+      "title": "Scarborough Harbour Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c21",
+      "title": "St. Matthew's Bethnal Green Parish Officers Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c22",
+      "title": "Sharples and Hoghton Turnpike Road (Lancashire) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c23",
+      "title": "Cockermouth and Workington Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c24",
+      "title": "Road from Garstang to Lancaster and Heiring Syke Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c25",
+      "title": "Tenbury and Hereford Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c26",
+      "title": "Highways and Bridges in Wigtownshire Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c27",
+      "title": "Offington Corner and West Grinstead Park Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c28",
+      "title": "Roads from Chesterfield to Matlock Bridge Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c29",
+      "title": "Somerham Brook and Box (Wiltshire) Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c3",
+      "title": "Darlington Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c30",
+      "title": "Roads from Darlaston Bridge (Staffsordshire) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c31",
+      "title": "Road from Otley to Skipton Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c32",
+      "title": "Worcester Severn Bridge Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c33",
+      "title": "Stockton and Darlington Railway Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c34",
+      "title": "Borough Market (Southwark) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c35",
+      "title": "Knaresborough and Tentergate Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c36",
+      "title": "Rochdale Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c37",
+      "title": "Belfast Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c38",
+      "title": "Dublin Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c39",
+      "title": "Liverpool Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c4",
+      "title": "Portman Square Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c40",
+      "title": "Maidstone Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c41",
+      "title": "Alfreton and Derby Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c42",
+      "title": "Horsham to Crawley Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c43",
+      "title": "Mold and Wrexham Turnpike Road and Branches Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c44",
+      "title": "East Teignmouth and Exminster Turnpike Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c45",
+      "title": "Wrexham and Barnhill Road and Branch Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c46",
+      "title": "Road from the Botley Turnpike Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c47",
+      "title": "Three Districts of Road in Staffordshire and Salop Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c48",
+      "title": "Roads from Toller Lane near Bradford and from the Two Laws Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c49",
+      "title": "Keighley to Kirkby Road (Yorkshire District) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c5",
+      "title": "Plymouth Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c50",
+      "title": "Melton Mowbray and Grantham Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c51",
+      "title": "Newcastle-under-Lyme Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c52",
+      "title": "Liskeard Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c53",
+      "title": "Roads through Ilminster Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c54",
+      "title": "Bradford and Huddersfield Road and Branches Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c55",
+      "title": "Wisbech and King's Lynn Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c56",
+      "title": "Road from Bridgeford to Kettering Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c57",
+      "title": "Road from Canterbury to Barham Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c58",
+      "title": "Greenfield and Shepley Lane Head Road (Yorkshire,West Riding) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c59",
+      "title": "Uttoxeter District of Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c6",
+      "title": "Saltash Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c60",
+      "title": "Road from Hinckley to Lutterworth Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c61",
+      "title": "Road from Market Harborough to Coventry Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c62",
+      "title": "Somerton District of Roads (Somerset) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c63",
+      "title": "Road from Rugby to Kilworth Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c64",
+      "title": "Sparrows Herne (Hertfordshire) and Walton (Buckinghamshire) Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c65",
+      "title": "Staplecross (Sussex) Roads Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c66",
+      "title": "Roads from Barnsley Common and from Barugh (Yorkshire) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c67",
+      "title": "Road from Kettering to Newport Pagnell Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c68",
+      "title": "St. Paul Shadwell Church and Churchyard Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c69",
+      "title": "Worcester Water Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c7",
+      "title": "Lincoln Heath and Peterborough and Bourne and Spalding Roads Amendment Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c70",
+      "title": "Greenwich Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c71",
+      "title": "Gorbals Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c72",
+      "title": "Paisley Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c73",
+      "title": "Woolwich Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c74",
+      "title": "York Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c75",
+      "title": "St. Mary Magdalen Bermondsey Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c76",
+      "title": "Glen and Welland Drainage Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c77",
+      "title": "Wadsley and Langset Turnpike Road Extension Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c78",
+      "title": "Falmouth and Marazion Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c79",
+      "title": "Road from Kingston-upon-Thames to Sheetbridge Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c8",
+      "title": "Peterborough and Wellingborough Road Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c80",
+      "title": "Road from Norwich to Fakenham Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c81",
+      "title": "Roads from Dover to Barham Downs and Sandgate Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c82",
+      "title": "Tarporley and Weverham Road (Cheshire) Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c83",
+      "title": "Roads from Winchester and from Worthy Cow Down Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c84",
+      "title": "Roads in Bermondsey, Rotherhithe and Deptford Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c85",
+      "title": "Road from Great Staughton to Lavendon Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c86",
+      "title": "Road from Horsham to Epsom Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c87",
+      "title": "Trent and Mersey Navigation Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c88",
+      "title": "Tay Ferries Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c89",
+      "title": "Liverpool Parish Church and Cemeteries Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c9",
+      "title": "Hayling Bridge and Causeway Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c90",
+      "title": "Halifax Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c91",
+      "title": "Bermondsey Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c92",
+      "title": "Mansfield Improvement Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c93",
+      "title": "Skipton Water Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c94",
+      "title": "Limerick Bridge and Floating Dock Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c95",
+      "title": "Imperial Gas Light and Coke Company Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c96",
+      "title": "Northampton Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c97",
+      "title": "Brighthelmstone Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c98",
+      "title": "Middlesex Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1823-c99",
+      "title": "Dublin Gas Act 1823",
+      "year": 1823,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/4/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1823-c18",
       "title": "Crown Lands Act 1823",

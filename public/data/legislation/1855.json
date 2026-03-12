@@ -1,7 +1,1789 @@
 {
   "year": 1855,
-  "count": 134,
+  "count": 332,
   "items": [
+    {
+      "id": "UKLA-1855-c1",
+      "title": "Pudsey Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c10",
+      "title": "Monmouthshire Railway and Canal Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c100",
+      "title": "Newton District Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c101",
+      "title": "Cork and Youghal Railway (Queenstown Branch, &amp;c.) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c102",
+      "title": "Metropolitan Railway (Deviation) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c103",
+      "title": "Gomersal and Dewsbury Turnpike Roads Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c104",
+      "title": "Basingstoke, Stockbridge and Lobcomb Corner Turnpike Roads Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c105",
+      "title": "Dundalk and Enniskillen Railway Extensions Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c106",
+      "title": "Lightpill and Birdlip Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c107",
+      "title": "Peterborough and Wellingborough Turnpike Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c108",
+      "title": "Stroud, Cainscross and Minchinhampton Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c109",
+      "title": "Stroud and Chalford Turnpike Roads Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c11",
+      "title": "Bridport Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c110",
+      "title": "Rhymney Railway Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c111",
+      "title": "Bridport Roads (First District) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c112",
+      "title": "Bridport and Broadwinsor Roads Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c113",
+      "title": "Bombay, Baroda and Central India Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c114",
+      "title": "Bognor Railway (Extension of Time) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c115",
+      "title": "Scinde Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c116",
+      "title": "North Yorkshire and Cleveland Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c117",
+      "title": "International Life Assurance Society Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c118",
+      "title": "Glasgow Corporation Waterworks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c119",
+      "title": "Ayr Harbour Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c12",
+      "title": "Ratcliff Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c120",
+      "title": "Aberdare Valley Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c121",
+      "title": "Birmingham Canal Navigations Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c122",
+      "title": "Exeter and Exmouth Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c123",
+      "title": "Electric Telegraph Company's Consolidation Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c124",
+      "title": "Great Northern Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c125",
+      "title": "Colonial Life Assurance Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c126",
+      "title": "Hartlepool Port and Harbour Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c127",
+      "title": "Fife and Kinross Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c128",
+      "title": "Sunderland Dock Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c129",
+      "title": "Manchester, Sheffield and Lincolnshire Railway (Capital) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c13",
+      "title": "Leeds, Bradford and Halifax Junction Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c130",
+      "title": "Stockport, Disley and Whaley Bridge Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c131",
+      "title": "Carmarthen and Cardigan Railway (Deviation) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c132",
+      "title": "Leek Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c133",
+      "title": "Weymouth Waterworks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c134",
+      "title": "Grand Surrey Docks and Canal Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c135",
+      "title": "Torquay, Tor, and St. Mary Church Gas Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c136",
+      "title": "Hendon and Hull and Wyton and Flinton Turnpike Roads Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c137",
+      "title": "Sligo's Gas Company Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c138",
+      "title": "West Bromwich Improvement Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c139",
+      "title": "Staines, Wokingham and Woking Railway Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c14",
+      "title": "Sheffield Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c140",
+      "title": "Cape Town Railway and Dock Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c141",
+      "title": "Glasgow, Kirkintilloch and Baldernock Turnpike Road Trust Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c142",
+      "title": "Ballater Turnpike Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c143",
+      "title": "Gateshead Quay Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c144",
+      "title": "Halifax Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c145",
+      "title": "Royal London Militia Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c146",
+      "title": "Luton, Dunstable and Welwyn Junction Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c147",
+      "title": "Folkestone Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c148",
+      "title": "Gun Barrel Proof Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c149",
+      "title": "Stockton and Darlington Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c15",
+      "title": "Glossop Gas (Capital) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c150",
+      "title": "West Somerset Mineral Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c151",
+      "title": "Wolverhampton New Waterworks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c152",
+      "title": "Bradford Corporation Waterworks Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c153",
+      "title": "Carlisle and Silloth Bay Railway and Dock Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c154",
+      "title": "Keighley and Kendal Turnpike Road (Yorkshire District) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c155",
+      "title": "Liverpool Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c156",
+      "title": "Wadhurst and West Farleigh Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c157",
+      "title": "Waveney Valley Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c158",
+      "title": "Edinburgh and Glasgow Railway Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c159",
+      "title": "Great Northern London Cemetery Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c16",
+      "title": "South Eastern Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c160",
+      "title": "Wisbech Port Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c161",
+      "title": "Bolton and Nightingale Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c162",
+      "title": "Dagenham (Thames) Dock Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c163",
+      "title": "London Necropolis and National Mausoleum Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c164",
+      "title": "Honiton Turnpike Roads Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c165",
+      "title": "East of Fife Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c166",
+      "title": "Royal Medical Benevolent College Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c167",
+      "title": "Londonderry and Coleraine Railway Leasing Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c168",
+      "title": "Cavendish Bridge and Hulland Ward Roads Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c169",
+      "title": "Mid Kent Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c17",
+      "title": "Dursley and Midland Junction Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c170",
+      "title": "Barrow Harbour Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c171",
+      "title": "Birkenhead Docks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c172",
+      "title": "Improved Postal and Passenger Service between England and Ireland Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c173",
+      "title": "Furness Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c174",
+      "title": "Liverpool Dock Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c175",
+      "title": "South Staffordshire Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c176",
+      "title": "Gateshead and Hexham Turnpike Roads Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c177",
+      "title": "Portsmouth Railway Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c178",
+      "title": "Shrewsbury Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c179",
+      "title": "Hereford Improvement Act 1854 (Correction of Oversight) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c18",
+      "title": "Belfast and County Down Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c180",
+      "title": "Dearness Valley Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c181",
+      "title": "Oxford, Worcester and Wolverhampton Railway (Improvements and Branches) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c182",
+      "title": "Somerset Central Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c183",
+      "title": "Severn Valley Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c184",
+      "title": "Torquay Churches Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c185",
+      "title": "Airdrie Rural District Police and Airdrie District Courthouses Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c186",
+      "title": "Surrey Consumers Gas Company (Purchase of Deptford Gasworks) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c187",
+      "title": "East Kent Railway (Extension to Dover) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c188",
+      "title": "South Western Railway Capital and Works Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c189",
+      "title": "Dundalk Harbour and Port Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c19",
+      "title": "Colchester, Stour Valley, Sudbury and Halstead Railway Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c190",
+      "title": "Glasgow, Dumbarton and Helensburgh Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c191",
+      "title": "Great Western and Brentford Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c192",
+      "title": "Stokes Bay Railway and Pier Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c193",
+      "title": "Westminster Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c194",
+      "title": "Cannock Mineral Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c195",
+      "title": "Westminster Land Company Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c196",
+      "title": "River Lee Water Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c197",
+      "title": "Royal Conical Flour Mill Company's Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c198",
+      "title": "Westminster Terminus Railway Extension (Clapham to Norwood) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c2",
+      "title": "Woolwich, Plumstead and Charlton Consumers Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c20",
+      "title": "Heywood Waterworks Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c21",
+      "title": "Grand Junction Waterworks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c22",
+      "title": "Price's Patent Candle Company's Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c23",
+      "title": "South Wales Mineral Railway (Lease) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c24",
+      "title": "Southwark and Vauxhall Water Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c25",
+      "title": "Vale of Neath Railway (Capital) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c26",
+      "title": "Woolwich Equitable Gas Company's Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c27",
+      "title": "Torquay Market Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c28",
+      "title": "Great North of Scotland Railway Extension Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c29",
+      "title": "Chesterfield Waterworks and Gaslight Company's Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c3",
+      "title": "Cambridge University and Town Waterworks (Capital) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c30",
+      "title": "Jedburgh Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c31",
+      "title": "Bangor Markets and Public Institutions Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c32",
+      "title": "Rotherham Gaslight Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c33",
+      "title": "Medical, Invalid and General Life Assurance Society's Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c34",
+      "title": "Birmingham Waterworks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c35",
+      "title": "Plymouth and Stonehouse Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c36",
+      "title": "Surbiton Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c37",
+      "title": "Stourbridge Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c38",
+      "title": "East Indian Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c39",
+      "title": "Uxbridge Burgage Lands Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c4",
+      "title": "Taunton Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c40",
+      "title": "Madras Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c41",
+      "title": "Newport (Monmouthshire) Corporation Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c42",
+      "title": "Lancaster Waterworks and Gas Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c43",
+      "title": "Over Darwen Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c44",
+      "title": "Manchester Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c45",
+      "title": "Kingston-upon-Thames Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c46",
+      "title": "Plymouth Great Western Docks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c47",
+      "title": "Oldham Corporation Gas and Water Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c48",
+      "title": "Birmingham Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c49",
+      "title": "Hartlepool Gas and Waterworks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c5",
+      "title": "Hoarwithy Bridge Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c50",
+      "title": "Llynvi Valley Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c51",
+      "title": "Kelso Bridge Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c52",
+      "title": "St. George's Harbour Act Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c53",
+      "title": "Ulster Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c54",
+      "title": "Londonderry Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c55",
+      "title": "Kilmarnock Gaslight Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c56",
+      "title": "Dundee and Perth and Aberdeen Railway Junction (Consolidation) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c57",
+      "title": "Banff, Macduff and Turriff Junction Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c58",
+      "title": "Swansea Dock Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c59",
+      "title": "Cornwall Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c6",
+      "title": "Brighton Commissioners Transfer Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c60",
+      "title": "Swansea Vale Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c61",
+      "title": "Leominster and Ledbury Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c62",
+      "title": "Salisbury and Yeovil Railway Deviation Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c63",
+      "title": "Bristol and Exeter Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c64",
+      "title": "Hyde Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c65",
+      "title": "Inverury and Old Meldrum Junction Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c66",
+      "title": "Liverpool Corporation Waterworks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c67",
+      "title": "Commercial Roads Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c68",
+      "title": "Kingston-upon-Hull, Hessle and Ferriby Turnpike Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c69",
+      "title": "Abingdon Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c7",
+      "title": "Folkestone Waterworks Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c70",
+      "title": "Ashton-under-Lyne Corporation Waterworks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c71",
+      "title": "Nottingham and Loughborough Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c72",
+      "title": "Renfrew Police and Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c73",
+      "title": "Waterford and Limerick Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c74",
+      "title": "St. Helens Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c75",
+      "title": "Cromford and High Peak Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c76",
+      "title": "Limerick and Castle Connell Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c77",
+      "title": "Newcastle-under-Lyme Gaslight Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c78",
+      "title": "Limerick and Foynes Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c79",
+      "title": "Maryport and Carlisle Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c8",
+      "title": "Stalybridge Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c80",
+      "title": "Newport (Monmouthshire) Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c81",
+      "title": "Weston-super-Mare Gaslight Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c82",
+      "title": "Alford and Boston Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c83",
+      "title": "Wigan and Preston Roads North of Yarrow Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c84",
+      "title": "Lands Improvement Company's Amendment Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c85",
+      "title": "Charlbury Roads Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c86",
+      "title": "Oswestry, Welshpool and Newtown Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c87",
+      "title": "Lyme Regis Turnpike Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c88",
+      "title": "Dundalk and Black Rock Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c89",
+      "title": "Gloucester Waterworks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c9",
+      "title": "Ossett Gas Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c90",
+      "title": "London and Blackwall Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c91",
+      "title": "Manchester, Sheffield and Lincolnshire Railway (Lincoln Branch, &amp;c.) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c92",
+      "title": "Nottingham and Newhaven Turnpike Road Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c93",
+      "title": "Warrington Waterworks Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c94",
+      "title": "East Kent Railway Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c95",
+      "title": "Regent's and Hertford Union Canals Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c96",
+      "title": "Caledonian Railway (Plant and Station Accomodation) Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c97",
+      "title": "Glasgow and South Western Railway Consolidation Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c98",
+      "title": "South Wales Railway Consolidation Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1855-c99",
+      "title": "Newcastle-upon-Tyne Improvement Act 1855",
+      "year": 1855,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/18-19/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1855-c1",
       "title": "An Act to enable Her Majesty to accept the Services of the Militia out of the United Kingdom, for the vigorous Prosecution of the War.",

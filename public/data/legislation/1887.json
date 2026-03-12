@@ -1,7 +1,853 @@
 {
   "year": 1887,
-  "count": 65,
+  "count": 159,
   "items": [
+    {
+      "id": "UKLA-1887-c100",
+      "title": "Oyster and Mussel Fisheries Order Confirmation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c101",
+      "title": "Metropolis (Cable Street, Shadwell) Provisional Order Confirmation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c102",
+      "title": "Metropolis (Shelton Street, St. Giles) Provisional Order Confirmation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c103",
+      "title": "Kenmare Junction Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c104",
+      "title": "Witham Drainage (Hobhole Sluice) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c105",
+      "title": "City of London and Southwark Subway (Kennington Extensions, &amp;c.) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c106",
+      "title": "Metropolitan Board of Works (Various Powers) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c107",
+      "title": "Weston-super-Mare Improvement Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c108",
+      "title": "Merionethshire Railway (Abandonment) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c109",
+      "title": "Manchester Ship Canal Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c110",
+      "title": "South Eastern Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c111",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c112",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c113",
+      "title": "Local Government Board (Ireland) Provisional Order (Killiney and Ballybrack) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c114",
+      "title": "Whitehaven Harbour and Dock Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c115",
+      "title": "Trent (Burton-upon-Trent and Humber) Navigation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c116",
+      "title": "Isle of Wight Central Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c117",
+      "title": "Pudsey Gas Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c118",
+      "title": "Municipal Corporation of Belfast Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c119",
+      "title": "Education Department Provisional Order Confirmation (Christchurch) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c120",
+      "title": "Education Department Provisional Order Confirmation (London) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c121",
+      "title": "Potter's Patent Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c122",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c123",
+      "title": "Tramways Orders Confirmation (No. 2) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c124",
+      "title": "Water Orders Confirmation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c125",
+      "title": "Gas Orders Confirmation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c126",
+      "title": "Liskeard and Caradon Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c127",
+      "title": "Belfast Main Drainage Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c128",
+      "title": "Tunbridge Wells Gas Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c129",
+      "title": "Cathcart District Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c130",
+      "title": "Furness Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c131",
+      "title": "London and North Western Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c132",
+      "title": "Bradford Corporation (Various Powers) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c133",
+      "title": "Freshwater, Yarmouth, and Newport Railway (Deviations) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c134",
+      "title": "Newport Waterworks Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c135",
+      "title": "St. Pancras Loans Amendment Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c136",
+      "title": "Metropolitan Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c137",
+      "title": "Clissold Park (Stoke Newington) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c138",
+      "title": "Great North of Scotland Railway (Further Powers) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c139",
+      "title": "Mersey Docks and Harbour Board (Overhead Railways) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c140",
+      "title": "Plymouth, Devonport and South Western Junction Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c141",
+      "title": "Borough of Portsmouth, Kingston, Fratton and Southsea Tramways Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c142",
+      "title": "St. Austell Valleys Railway and Dock Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c143",
+      "title": "Burry Port and North Western Junction Railway Amendment Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c144",
+      "title": "Cowdenbeath Water Supply Confirmation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c145",
+      "title": "Duntocher and Dalmuir Water Supply Confirmation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c146",
+      "title": "Midland Great Western Railway of Ireland Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c147",
+      "title": "Tees Conservancy (No. 2) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c148",
+      "title": "National Provident Institution Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c149",
+      "title": "Willesden Local Board Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c150",
+      "title": "East Huntingdonshire Water Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c151",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Dublin, &amp;c.) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c152",
+      "title": "Darwen Corporation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c153",
+      "title": "Weymouth and Melcombe Regis Corporation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c154",
+      "title": "Caledonian Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c155",
+      "title": "Plymouth Corporation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c156",
+      "title": "Metropolitan District Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c63",
+      "title": "Hyde Park Corner (Streets Maintenance) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c64",
+      "title": "Kilrush and Kilkee Railway and Poulnasherry Reclamation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c65",
+      "title": "Downham and Stoke Ferry Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c66",
+      "title": "Basingstoke Gas Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c67",
+      "title": "Great Eastern and Felixstowe Railways Arrangement Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c68",
+      "title": "Bishop's Castle and Montgomery Railway (Abandonment) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c69",
+      "title": "Newark and Ollerton Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c70",
+      "title": "Edinburgh Northern Tramways Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c71",
+      "title": "Wakefield Corporation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c72",
+      "title": "Dundee Street Tramways, Recreation Grounds, Police and Improvement Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c73",
+      "title": "Holywell and District Water Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c74",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c75",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (Limerick Waterworks) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c76",
+      "title": "Commons Regulation (Ewer) Provisional Order Confirmation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c77",
+      "title": "Commons Regulation (Laindon) Provisional Order Confirmation Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c78",
+      "title": "Surrey and Hants. District Waterworks Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c79",
+      "title": "Hull, Barnsley and West Riding Junction Railway and Dock Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c80",
+      "title": "Bexley Heath Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c81",
+      "title": "North British Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c82",
+      "title": "Local Government Board's Provisional Order Confirmation (Poor Law) (No. 3) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c83",
+      "title": "Local Government Board's Provisional Orders Confirmation (Gas) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c84",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c85",
+      "title": "Edinburgh Public Library Assessment Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c86",
+      "title": "Coventry and District Tramways Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c87",
+      "title": "Burnard and Alger's Cattedown Wharves Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c88",
+      "title": "Blyth and Cowpen Gas Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c89",
+      "title": "Sutton District Waterworks Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c90",
+      "title": "Dundalk Gas Company Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c91",
+      "title": "Walton-on-Thames and Weybridge Gas Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c92",
+      "title": "Dundalk Commissioners (Gas) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c93",
+      "title": "Great Northern Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c94",
+      "title": "Chelsea Waterworks Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c95",
+      "title": "New Shoreham Harbour Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c96",
+      "title": "Flamborough Head Tramways Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c97",
+      "title": "Christchurch Charter Amendment Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c98",
+      "title": "Kilsyth and Bonnybridge Railway Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1887-c99",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1887",
+      "year": 1887,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/50-51/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1887-c1",
       "title": "Consolidated Fund (No.1) Act 1887",

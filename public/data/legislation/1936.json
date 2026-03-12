@@ -1,7 +1,1006 @@
 {
   "year": 1936,
-  "count": 54,
+  "count": 165,
   "items": [
+    {
+      "id": "UKLA-1936-c1",
+      "title": "Airdrie Burgh Extension, &amp;c. Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw8and1Geo6/1/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c10",
+      "title": "Ministry of Health Provisional Order Confirmation (Chester and Derby) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c100",
+      "title": "Epsom and Walton Downs Regulation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c101",
+      "title": "Great Western Railway (Additional Powers) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c102",
+      "title": "York Gas Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c103",
+      "title": "London County Council (Money) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c104",
+      "title": "Gas Light and Coke Company's (No. 1) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c105",
+      "title": "South Metropolitan Gas Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c106",
+      "title": "South Suburban Gas Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c107",
+      "title": "Wrexham and East Denbighshire Water Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c108",
+      "title": "London and Middlesex (Improvements, &amp;c.) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c109",
+      "title": "Coventry Corporation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c11",
+      "title": "Ministry of Health Provisional Order Confirmation (Mid-Sussex Joint Hospital District) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c110",
+      "title": "Thornton Cleveleys Improvement Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c111",
+      "title": "Wolverhampton Corporation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c112",
+      "title": "Dalton-in-Furness Urban District Council Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c113",
+      "title": "Hereford Corporation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c114",
+      "title": "Solihull Urban District Council Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c12",
+      "title": "Ministry of Health Provisional Order Confirmation (North East Lindsey Joint Hospital District) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c13",
+      "title": "Ministry of Health Provisional Order Confirmation St. Albans Joint Hospital District) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c14",
+      "title": "Ministry of Health Provisional Order Confirmation (South Staffordshire Joint Smallpox Hospital District) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c15",
+      "title": "Great Orme Tramways Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c16",
+      "title": "Imperial Continental Gas Association Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c17",
+      "title": "Brighton Marine Palace and Pier Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c18",
+      "title": "Warkworth Harbour Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c19",
+      "title": "South Essex Waterworks Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c2",
+      "title": "Edinburgh Chartered Accountants Annuity, &amp;c. Fund (Consolidation and Amendment) Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw8and1Geo6/1/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c20",
+      "title": "East Lothian County Council Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c21",
+      "title": "Glasgow Corporation Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c22",
+      "title": "Grampian Electricity Supply Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c23",
+      "title": "Ministry of Health Provisional Order Confirmation (Luton) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c24",
+      "title": "Ministry of Health Provisional Order Confirmation (Matlock) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c25",
+      "title": "Ministry of Health Provisional Order Confirmation (Bridport Joint Hospital District) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c26",
+      "title": "Royal National Pension Fund for Nurses Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c27",
+      "title": "Mersey Docks and Harbour Board Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c28",
+      "title": "Nottinghamshire and Derbyshire Traction Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c29",
+      "title": "Rhymney Valley Sewerage Board Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c30",
+      "title": "South East Cornwall Water Board Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c31",
+      "title": "Yorkshire Electric Power Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c32",
+      "title": "Alexander Scott's Hospital Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c33",
+      "title": "Buckhaven and Methil Burgh Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c34",
+      "title": "Ministry of Health Provisional Order Confirmation (Bristol) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c35",
+      "title": "Ministry of Health Provisional Order Confirmation (Falmouth) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c36",
+      "title": "Ministry of Health Provisional Order Confirmation (Stockton-on-Tees) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c37",
+      "title": "Bedwellty Urban District Council Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c38",
+      "title": "Winchester Corporation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c39",
+      "title": "Swansea District Transport Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c40",
+      "title": "North Wales Electric Power Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c41",
+      "title": "East Lothian County Council Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c42",
+      "title": "Uckfield Water Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c43",
+      "title": "Post Office (Sites) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c44",
+      "title": "London and North Eastern Railway Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c45",
+      "title": "Darlington Corporation Trolley Vehicles (Additional Routes) Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c46",
+      "title": "Derby Corporation (Trolley Vehicles) Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c47",
+      "title": "Doncaster Corporation (Trolley Vehicles) Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c48",
+      "title": "Pier and Harbour Order (Gloucester) Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c49",
+      "title": "Reading Corporation (Trolley Vehicles) Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c50",
+      "title": "Gravesend and Milton Waterworks Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c51",
+      "title": "South Staffordshire Waterworks Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c52",
+      "title": "Llanelly District Traction Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c53",
+      "title": "Huddersfield Corporation (Trolley Vehicles) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c54",
+      "title": "Cornwall Electric Power Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c55",
+      "title": "Kingston-upon-Hull Corporation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c56",
+      "title": "Rickmansworth and Uxbridge Valley Water Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c57",
+      "title": "Foundling Hospital Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c58",
+      "title": "Fishguard and Goodwick Urban District Council Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c59",
+      "title": "London, Midland and Scottish Railway Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c6",
+      "title": "Edinburgh Corporation Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c60",
+      "title": "London County Council (General Powers) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c61",
+      "title": "North Metropolitan Electric Power Supply Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c62",
+      "title": "Colne Valley and Northwood Electricity Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c63",
+      "title": "Brentford and Chiswick Corporation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c64",
+      "title": "Cirencester Gas Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c65",
+      "title": "Great Western Railway (Ealing and Shepherd's Bush Railway Extension) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c66",
+      "title": "Stalybridge, Hyde, Mossley and Dukinfield Transport and Electricity Board Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c67",
+      "title": "Brighton Corporation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c68",
+      "title": "Lee Conservancy Catchment Board Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c69",
+      "title": "North-West Kent Joint Water Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c7",
+      "title": "Perth Corporation Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c70",
+      "title": "Southern Railway Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c71",
+      "title": "Ministry of Health Provisional Order Confirmation (Lancaster) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c72",
+      "title": "Ministry of Health Provisional Order Confirmation (Ramsey and St. Ives Joint Water District) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c73",
+      "title": "Ministry of Health Provisional Order Confirmation (Tees Valley Water Board) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c74",
+      "title": "Tring Gas Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c75",
+      "title": "Rochester Corporation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c76",
+      "title": "Buckingham's Charity (Dunstable) Scheme Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c77",
+      "title": "Aberdeen Corporation (Streets, Buildings, Sewers, &amp;c.) Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c78",
+      "title": "Aberdeen Corporation Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c79",
+      "title": "Provisional Orders (Marriages Confirmation) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c8",
+      "title": "Ministry of Health Provisional Order Confirmation (Bedford Joint Hospital District) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c80",
+      "title": "Pier and Harbour Order (Cowes) Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c81",
+      "title": "Pier and Harbour Order (Keyhaven) Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c82",
+      "title": "Pier and Harbour Order (Maryport) Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c83",
+      "title": "Pier and Harbour Order (Paignton) Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c84",
+      "title": "Pier and Harbour Order (Whitley Bay) Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c85",
+      "title": "Sea Fisheries (Truro) Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c86",
+      "title": "Sea Fisheries (Ribble) Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c87",
+      "title": "Land Drainage (Witham and Steeping Rivers) Provisional Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c88",
+      "title": "Land Drainage (River Stour (Kent)) Provisional Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c89",
+      "title": "Grimsby Corporation (Trolley Vehicles) Order Confirmation Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c9",
+      "title": "Ministry of Health Provisional Order Confirmation (Bury and District Joint Hospital District) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c90",
+      "title": "Ministry of Health Provisional Order Confirmation (Leeds) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c91",
+      "title": "Ministry of Health Provisional Order Confirmation (Essex) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c92",
+      "title": "Ministry of Health Provisional Order Confirmation (North Hertfordshire Joint Hospital District) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c93",
+      "title": "Ministry of Health Provisional Order Confirmation (Helston and Porthleven Water) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c94",
+      "title": "Ministry of Health Provisional Order Confirmation (Heathfield and District Water) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c95",
+      "title": "Ministry of Health Provisional Order Confirmation (West Hartlepool) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c96",
+      "title": "Ministry of Health Provisional Order Confirmation (Plympton St. Mary) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c97",
+      "title": "Ministry of Health Provisional Order Confirmation (Barnsley) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c98",
+      "title": "Ministry of Health Provisional Order Confirmation (St. Helens) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1936-c99",
+      "title": "Ministry of Health Provisional Order Confirmation (Ripon) Act 1936",
+      "year": 1936,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1936-c1",
       "title": "Merchant Shipping (Carriage of Munitions to Spain) Act 1936",

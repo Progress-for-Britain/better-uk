@@ -1,7 +1,817 @@
 {
   "year": 1820,
-  "count": 1,
+  "count": 91,
   "items": [
+    {
+      "id": "UKLA-1820-c1",
+      "title": "Ferrybridge and Boroughbridge Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c10",
+      "title": "Gloucester Gas Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c11",
+      "title": "Norwich Gas Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c12",
+      "title": "Hastings Improvement Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c13",
+      "title": "Liverpool Improvement Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c14",
+      "title": "Ashton in Mackerfield and Platt Bridge Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c15",
+      "title": "Chester and Woodside Ferry Roads Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c16",
+      "title": "Road from Cheltenham to Prinknash Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c17",
+      "title": "Hulmes Chapel and Chelford (Cheshire) Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c18",
+      "title": "Road from Kirkby Kendall to Kirkby Ireleth Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c19",
+      "title": "Roads from Cheadle to Quickshill Bank and from Bears Brook Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c2",
+      "title": "Road from Knaresborough to Green Hammerton Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c20",
+      "title": "Lightpill and Birdlip Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c21",
+      "title": "Plymouth and Exeter Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c22",
+      "title": "Wansford Bridge and Bourn Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c23",
+      "title": "York and Scarborough Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c24",
+      "title": "Weyhill and Lydeway Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c25",
+      "title": "Road from Cranage Green to Altrincham Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c26",
+      "title": "Road from Greenhead (Northumberland) to Shildon Bar Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c27",
+      "title": "Stonehaven and Cobbleheugh Road (Aberdeen) Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c28",
+      "title": "Stockport and Warrington Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c29",
+      "title": "Whiteburn and Kelso Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c3",
+      "title": "Roads from Wirksworth Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c30",
+      "title": "Road from Gateshead to Hexham Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c31",
+      "title": "Gosport and Bishop's Waltham, and Wickham and Chawton Roads Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c32",
+      "title": "Malmesbury Turnpike Roads Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c33",
+      "title": "Ludlow Roads Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c34",
+      "title": "Road from Ludlow to Monk's Bridge Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c35",
+      "title": "River Ure Navigation to Ripon Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c36",
+      "title": "Goran (Cornwall) Harbour Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c37",
+      "title": "Trinity House of Leith Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c38",
+      "title": "Roads to and from Lawton (Cheshire) Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c39",
+      "title": "Aire and Calder Navigation Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c4",
+      "title": "Bread Trade Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c40",
+      "title": "Weymouth and Melcombe Regis Bridge Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c41",
+      "title": "St. Mary Newington Parish Churches Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c42",
+      "title": "St. Mary Rotherhithe Burial Ground Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c43",
+      "title": "Huddersfield Improvement Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c44",
+      "title": "Milford, Petworth and Stopham Bridge Roads Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c45",
+      "title": "Roads in Salop., Denbigh and Montgomeryshire Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c46",
+      "title": "Tenterden and Warehorne, and Bethersden and Appledore Roads Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c47",
+      "title": "Military Roads in Perth Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c48",
+      "title": "Forth and Clyde Navigation Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c49",
+      "title": "Southwark Bridge Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c5",
+      "title": "Beer Harbour Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c50",
+      "title": "Dunbarney Earn Bridge Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c51",
+      "title": "Norwich, Duke's Palace Bridge Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c52",
+      "title": "Cork Harbour Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c53",
+      "title": "Society of Keelmen on the River Tyne Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c54",
+      "title": "Plymouth and Dartmoor Railway (Crabtree and Sutton Pool Branch) Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c55",
+      "title": "Dublin Gas Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c56",
+      "title": "Shrewsbury Gas Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c57",
+      "title": "Bolton Gas Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c58",
+      "title": "St. Matthew=s Chapel, Pendleton Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c59",
+      "title": "Parish of St. Dunstan in the West, City of London Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c6",
+      "title": "Blything Poor Relief Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c60",
+      "title": "Theatre Royal Drury Lane Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c61",
+      "title": "Bury St. Edmunds Improvement Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c62",
+      "title": "Stockton Improvement Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c63",
+      "title": "Whitgift and Snaith Drainage Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c64",
+      "title": "Road from North Shields to Newcastle-upon-Tyne Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c65",
+      "title": "Selby and Leeds Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c66",
+      "title": "Rochester and Maidstone Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c67",
+      "title": "Roads in Stirling, Dumbarton, Lanark and Perth Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c68",
+      "title": "Wakefield and Austerlands Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c69",
+      "title": "Roads to and from Devizes Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c7",
+      "title": "Montgomeryshire Bridges Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c70",
+      "title": "Hertford and Broadwater, and Ware and Walkern Roads Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c71",
+      "title": "Morpeth and Piercy's Cross Road (Northumberland) Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c72",
+      "title": "Roads from Swindon and from Liddington Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c73",
+      "title": "Towcester to Weston Gate Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c74",
+      "title": "Roads in Dumfries and Roxburgh Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c75",
+      "title": "Itchin Navigation Rates Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c76",
+      "title": "Lanark and Glasgow Bridewell Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c77",
+      "title": "Ely Sessions House and House of Correction Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c78",
+      "title": "Exeter Markets Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c79",
+      "title": "Somersham Road (Huntingdonshire) Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c8",
+      "title": "Wolverhampton Gas Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c80",
+      "title": "Road from Market Harborough to Brampton (Huntingdonshire) Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c81",
+      "title": "Asthall and Buckland Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c82",
+      "title": "Witney and Charlbury Roads (Oxfordshire) Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c83",
+      "title": "Roads in Renfrew, Lanark and Ayr Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c84",
+      "title": "Lanark and Dumbarton Roads and Bridges Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c85",
+      "title": "Roads through Nairn and Auldearn Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c86",
+      "title": "Tilehurst and Theale with North Street Rectories Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c87",
+      "title": "Peterhead Water and Improvement Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c88",
+      "title": "Glasgow Improvement Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c89",
+      "title": "British Gallery of Pictures Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c9",
+      "title": "Derby Gas Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1820-c90",
+      "title": "Dundalk and Newry Road Act 1820",
+      "year": 1820,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1/90",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1820-c100",
       "title": "Militia (City of London) Act 1820",

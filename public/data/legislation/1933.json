@@ -1,7 +1,493 @@
 {
   "year": 1933,
-  "count": 53,
+  "count": 107,
   "items": [
+    {
+      "id": "UKLA-1933-c10",
+      "title": "Doncaster Area Drainage Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c11",
+      "title": "Ministry of Health Provisional Order Confirmation (Torquay) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c12",
+      "title": "London and North Eastern Railway Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c13",
+      "title": "Durham Corporation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c14",
+      "title": "Jesus Hospital (Chipping Barnet) Scheme Charity Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c15",
+      "title": "Victoria Infirmary of Glasgow Act 1888 (Amendment) Order Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c16",
+      "title": "Aberdeen Royal Infirmary and Mental Hospital Order Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c17",
+      "title": "Ministry of Health Provisional Orders Confirmation (Hereford and West Kent Main Sewerage District) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c18",
+      "title": "Ministry of Health Provisional Orders Confirmation (Tees Valley and West Monmouthshire Omnibus Board) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c19",
+      "title": "Ministry of Health Provisional Order Confirmation (Sheffield) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c2",
+      "title": "Public Works Facilities Scheme (Torquay Corporation) Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c20",
+      "title": "Great Western Railway Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c21",
+      "title": "Oxford Corporation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c22",
+      "title": "Staffordshire and Worcestershire Canal Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c23",
+      "title": "City of London (Various Powers) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c24",
+      "title": "Lyme Regis District Water Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c25",
+      "title": "Amersham, Beaconsfield and District Waterworks Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c26",
+      "title": "Dewsbury and Ossett Passenger Transport Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c27",
+      "title": "Norwich Corporation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c28",
+      "title": "London County Council (General Powers) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c29",
+      "title": "Provisional Orders (Marriages) Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c3",
+      "title": "Ministry of Health Provisional Order Confirmation (Buckingham and Oxford) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c30",
+      "title": "Leeds Corporation Tramways Order Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c31",
+      "title": "Nottinghamshire and Derbyshire Traction Company (Trolley Vehicles) Order Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c32",
+      "title": "Bath and Bury and District Joint Water Board Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c33",
+      "title": "London, Midland and Scottish Railway Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c34",
+      "title": "Frimley and Farnborough District Water Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c35",
+      "title": "Colne Corporation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c36",
+      "title": "Cancer Hospital (Free) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c37",
+      "title": "Calvinistic Methodist or Presbyterian Church of Wales Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c38",
+      "title": "Torquay and Paignton Tramways (Abandonment) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c39",
+      "title": "Mersey Tunnel Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c4",
+      "title": "Ministry of Health Provisional Order Confirmation (Leek) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c40",
+      "title": "Sidmouth Urban District Council Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c41",
+      "title": "Rugby Corporation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c42",
+      "title": "Worksop Corporation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c43",
+      "title": "Commercial Gas Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c44",
+      "title": "London Overground Wires, etc. Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c45",
+      "title": "Essex County Council Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c46",
+      "title": "Dearne District Traction Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c47",
+      "title": "Southern Railway Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c48",
+      "title": "London County Council (Money) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c49",
+      "title": "Dundee Harbour and Tay Ferries Order Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c5",
+      "title": "Ministry of Health Provisional Order Confirmation (Rugby Joint Hospital District) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c50",
+      "title": "Aberdeen Harbour (Rates) Order Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c51",
+      "title": "Leith Harbour and Docks Order Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c52",
+      "title": "Burghead Burgh and Harbour Order Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c53",
+      "title": "Pier and Harbour Orders (Elgin and Lossiemouth and Southwold) Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c54",
+      "title": "Grampian Electricity Supply Order Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c55",
+      "title": "London, Midland and Scottish Railway Order Confirmation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c6",
+      "title": "Ministry of Health Provisional Order Confirmation (Taunton and District Joint Hospital District) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c7",
+      "title": "Ministry of Health Provisional Order Confirmation (Chester and Lancaster) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c8",
+      "title": "Ministry of Health Provisional Order Confirmation (Eton Joint Hospital District) Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1933-c9",
+      "title": "Preston Corporation Act 1933",
+      "year": 1933,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1933-c1",
       "title": "Agricultural Marketing (No. 2) Act 1933",

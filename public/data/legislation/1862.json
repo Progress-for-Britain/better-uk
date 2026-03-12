@@ -1,7 +1,1132 @@
 {
   "year": 1862,
-  "count": 114,
+  "count": 239,
   "items": [
+    {
+      "id": "UKLA-1862-c100",
+      "title": "Hull and Hornsea Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c101",
+      "title": "Ceylon Railway Company's Dissolution Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c102",
+      "title": "North British and Mercantile Insurance Company's Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c103",
+      "title": "Ashbourne and Belper Turnpike Trust Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c104",
+      "title": "London and North Western Railway (Capital) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c105",
+      "title": "Red House and Weeland Roads Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c106",
+      "title": "Stockton and Darlington Railway (Amalgamation) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c107",
+      "title": "Liverpool Corporation Waterworks Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c108",
+      "title": "Banbridge, Lisburn and Belfast Railway (Leasing) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c109",
+      "title": "Bala and Dolgelly Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c110",
+      "title": "Corwen and Bala Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c111",
+      "title": "Launceston and South Devon Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c112",
+      "title": "Manchester, Sheffield and Lincolnshire Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c113",
+      "title": "Inverness and Aberdeen Junction Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c114",
+      "title": "Enniskillen, Bundoran and Sligo Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c115",
+      "title": "Llyni Valley Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c116",
+      "title": "Wilford Bridge Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c117",
+      "title": "Leeds and Birstal Road Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c118",
+      "title": "Eden Valley Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c119",
+      "title": "Rotherham and Wortley Road Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c120",
+      "title": "North Eastern Railway (Hull and Holderness Amalgamation) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c121",
+      "title": "Bridge of Weir Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c122",
+      "title": "Wexford Harbour Commissioners Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c123",
+      "title": "Cardiff Borough Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c124",
+      "title": "Garston and Liverpool Railway Amendment Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c125",
+      "title": "Water Supply to Kent County Gaol and Lunatic Asylum Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c126",
+      "title": "Liverpool Fire Prevention Acts Amendment Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c127",
+      "title": "Great Western Railway (Additional Powers) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c128",
+      "title": "Moretonhampstead and South Devon Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c129",
+      "title": "Trent, Ancholme and Grimsby Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c130",
+      "title": "Wem and Bronygarth Roads Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c131",
+      "title": "United Kingdom Electric Telegraph Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c132",
+      "title": "Dartmouth and Torbay Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c133",
+      "title": "Furness and Coniston Railways Amalgamation Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c134",
+      "title": "Sheffield and Chapel-en-le-Frith Roads Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c135",
+      "title": "Edinburgh and Glasgow and Dumbartonshire Railways Amalgamation Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c136",
+      "title": "Caledonian Railway (Cleland Extension and Branches Deviation, &amp;c.) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c137",
+      "title": "Caledonian Railway (Leith Branches) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c138",
+      "title": "Edinburgh and Glasgow and Helensburgh Railways Amalgamation Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c139",
+      "title": "Irish North Western Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c140",
+      "title": "Level of Hatfield Chase Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c141",
+      "title": "South Yorkshire Railway (Sheffield and Thorne) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c142",
+      "title": "Berwickshire Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c143",
+      "title": "Bishops Waltham Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c144",
+      "title": "Crystal Palace and South London Junction Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c145",
+      "title": "North Eastern and Carlisle Railways Amalgamation Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c146",
+      "title": "North Eastern Railway (Conside Branch) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c147",
+      "title": "Tupton and Ashover Road and Birkin Lane Road Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c148",
+      "title": "Birkenhead Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c149",
+      "title": "Bristol and South Wales Union Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c150",
+      "title": "Cheadle Turnpike Roads Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c151",
+      "title": "Horsham, Dorking and Leatherhead Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c152",
+      "title": "Thames Valley Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c153",
+      "title": "Mid Kent (Addiscombe) Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c154",
+      "title": "North Eastern Railway (Team Valley Extension) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c155",
+      "title": "Dublin Cattle Market Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c156",
+      "title": "Mid Wales Railway (Deviations, &amp;c.) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c157",
+      "title": "Glasgow Barony Parochial Board Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c158",
+      "title": "Banstead and Epsom Downs Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c159",
+      "title": "Bristol Port, Railway and Pier Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c160",
+      "title": "Greenock and Wemyss Bay Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c161",
+      "title": "Llanelly Railway and Dock Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c162",
+      "title": "Llanidloes and Newtown (Mid Wales and Manchester and Milford) Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c163",
+      "title": "London, Chatham and Dover Railway (Deal Extension) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c164",
+      "title": "Nene Valley Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c165",
+      "title": "Okehampton Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c166",
+      "title": "Sevenoaks, Maidstone and Tonbridge Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c167",
+      "title": "Swansea Harbour Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c168",
+      "title": "West Midlands Railway (Additional Works) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c169",
+      "title": "Weston-super-Mare Pier Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c170",
+      "title": "Londonderry and Coleraine Railway Arrangements Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c171",
+      "title": "Rickmansworth, Amersham and Chesham Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c172",
+      "title": "Carmarthen and Cardigan Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c173",
+      "title": "Kettering and Thrapstone Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c174",
+      "title": "Metropolitan Meat and Poultry Market (Western Aproach) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c175",
+      "title": "Stafford and Uttoxeter Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c176",
+      "title": "Aberystwyth and Welsh Coast Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c177",
+      "title": "Andover and Redbridge Railway Amendment Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c178",
+      "title": "Briton Ferry Dock Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c179",
+      "title": "Cowbridge Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c180",
+      "title": "Pulteney Harbour Amendment Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c181",
+      "title": "Edinburgh, Perth and Dundee Railway (Fife and Kinross Amalgamation) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c182",
+      "title": "Vale of Neath Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c183",
+      "title": "West Midland and Severn Valley Railways Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c184",
+      "title": "Brecon and Merthyr Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c185",
+      "title": "West Shropshire Mineral Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c186",
+      "title": "Brecon Markets Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c187",
+      "title": "Eastern Counties Railway (Epping Lines) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c188",
+      "title": "Middle Level Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c189",
+      "title": "North British, Edinburgh, Perth and Dundee and West of Fife Railways Amalgamation Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c190",
+      "title": "West Cheshire Railways Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c191",
+      "title": "Waterford and Limerick Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c192",
+      "title": "London, Chatham and Dover Railway (Additional Powers) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c193",
+      "title": "Dulas Valley Mineral Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c194",
+      "title": "Cannock Chase Railway (Extension) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c195",
+      "title": "Eastern Union Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c196",
+      "title": "Great Western, Hereford, Ross and Gloucester, and Ely Valley Railways Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c197",
+      "title": "Kent Coast Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c198",
+      "title": "Shrewsbury and Hereford Railway (Leasing) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c74",
+      "title": "Great Britain Mutual Life Assurance Society Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c75",
+      "title": "Newry and Armagh Railway Amendment Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c76",
+      "title": "Tyne General Ferry Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c77",
+      "title": "Hull South Bridge Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c78",
+      "title": "London, Brighton and South Coast Railway (New Lines) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c79",
+      "title": "Scottish Northern Junction Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c80",
+      "title": "Maryport and Carlisle Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c81",
+      "title": "Midland Railway (Additional Powers) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c82",
+      "title": "Ventnor Harbour Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c83",
+      "title": "Caterham Spring Water Company's Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c84",
+      "title": "Reading Gas Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c85",
+      "title": "North Eastern Railway (Beverley Branch) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c86",
+      "title": "Hatfield and St. Albans Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c87",
+      "title": "Alford Valley Railway Amendment Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c88",
+      "title": "Deeside Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c89",
+      "title": "Furness Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c90",
+      "title": "Keighley and Worth Valley Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c91",
+      "title": "Midland Railway (Rowsley and Buxton Extension) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c92",
+      "title": "Leeds, Bradford and Halifax Junction Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c93",
+      "title": "Vale of Clwyd Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c94",
+      "title": "Burton-upon-Trent Railways Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c95",
+      "title": "Hereford, Hay and Brecon Railway Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c96",
+      "title": "South Eastern Railway (Tonbridge and Dartford Lines, &amp;c.) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c97",
+      "title": "Lancashire and Yorkshire Railway (Additional Powers) Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c98",
+      "title": "Oldham, Ashton and Guide Bridge Junction Railway Leasing Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1862-c99",
+      "title": "Wakefield Waterworks Act 1862",
+      "year": 1862,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/25-26/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1862-c1",
       "title": "An Act to apply the Sum of Nine hundred and seventy-three thousand seven hundred and forty-seven Pounds out of the Consolidated Fund to the Service of the Year ending the Thirty-first Day of March One thousand eight hundred and sixty-two.",

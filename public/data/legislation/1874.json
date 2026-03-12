@@ -1,7 +1,1321 @@
 {
   "year": 1874,
-  "count": 96,
+  "count": 242,
   "items": [
+    {
+      "id": "UKLA-1874-c1",
+      "title": "Local Government Board's Provisional Orders Confirmation Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c10",
+      "title": "Leicester Square Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c11",
+      "title": "Airdrie and Coatbridge Waterworks (Amendment) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c12",
+      "title": "Frome Markets Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c126",
+      "title": "Caledonian Railway (Additional Powers) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c127",
+      "title": "Charnwood Forest Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c128",
+      "title": "Great Eastern Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c129",
+      "title": "Leeds New Railway Station Enlargement Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c13",
+      "title": "Lynn and Hunstanton and West Norfolk Junction Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c130",
+      "title": "London and North Western Railway (Wales, &amp;c.) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c131",
+      "title": "South Yorkshire Railway and River Dun Company's Vesting Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c132",
+      "title": "Manchester, Sheffield and Lincolnshire Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c133",
+      "title": "Midland and North Eastern Railways Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c134",
+      "title": "North Eastern Railway (Additional Powers) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c135",
+      "title": "Alliance and Dublin Gas Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c136",
+      "title": "Nottingham Corporation (Gas) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c137",
+      "title": "Nottingham Waterworks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c138",
+      "title": "Swansea Improvements and Tramways Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c139",
+      "title": "Wear Navigation and Sunderland Dock Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c14",
+      "title": "Tendring Hundred Railway (Arrangement) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c140",
+      "title": "Bray and Enniskerry Street Tramways Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c141",
+      "title": "Cornwall and West Cornwall Railways Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c142",
+      "title": "Dublin Corporation Waterworks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c143",
+      "title": "South Western Railway (General) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c144",
+      "title": "Ystrad Gas and Water Company's Gas Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c145",
+      "title": "Neath Harbour Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c146",
+      "title": "Rowrah and Kelton Fell (Mineral) Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c147",
+      "title": "Forfarshire Roads Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c148",
+      "title": "Glasgow, Bothwell, Hamilton and Coatbridge Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c149",
+      "title": "Kingsbury and Harrow Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c15",
+      "title": "Leeds, Roundhay Park and Osmondthorpe Junction Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c150",
+      "title": "Middle Level Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c151",
+      "title": "Belfast Water Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c152",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c153",
+      "title": "Education Department Provisional Order Confirmation (No. 2) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c154",
+      "title": "Ulverston Local Board Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c155",
+      "title": "Devon and Somerset Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c156",
+      "title": "Edinburgh and District Waterworks (Additional Supply) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c157",
+      "title": "Great Northern and London and North Western Railways (Joint Powers and New Lines) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c158",
+      "title": "Great Northern Railway (Further Powers) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c159",
+      "title": "London and North Western Railway (England and Ireland) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c16",
+      "title": "Railway Clearing House Extension Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c160",
+      "title": "Midland Railway (Additional Powers) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c161",
+      "title": "South Western and Devon and Cornwall Railways Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c162",
+      "title": "Midland Railway (Hereford, Hay and Brecon Railway Lease) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c163",
+      "title": "Sutton Harbour Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c164",
+      "title": "Cupar Water Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c165",
+      "title": "Dundee Water (Additional Powers) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c166",
+      "title": "Blyth and Tyne Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c167",
+      "title": "Kingstown Township Extension Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c168",
+      "title": "Bolton-le-Sands and Warton Reclamation Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c169",
+      "title": "Cheshire Lines Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c17",
+      "title": "Gas Orders Confirmation Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c170",
+      "title": "Midland Railway (Swansea Vale Railway Lease) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c171",
+      "title": "Nettlebridge Valley Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c172",
+      "title": "Ilen Valley Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c173",
+      "title": "Leominster and Bromyard Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c174",
+      "title": "Dungannon and Cookstown Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c175",
+      "title": "Bristol Port and Channel Dock Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c176",
+      "title": "Burry Port and Gwendreath Valley Railway Amendment Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c177",
+      "title": "Ealing Highways Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c178",
+      "title": "Falmouth Docks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c179",
+      "title": "Fal Valley Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c18",
+      "title": "Oyster and Mussel Fisheries Orders Confirmation Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c180",
+      "title": "Mersey Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c181",
+      "title": "Gloucester and Berkeley Canal Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c182",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c183",
+      "title": "Tramways Orders Confirmation Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c184",
+      "title": "Education Department Provisional Order Confirmation (No. 1) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c185",
+      "title": "Pier and Harbour Orders Confirmation Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c186",
+      "title": "Local Government Board (Ireland) Provisional Order (Dublin) Confirmation Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c187",
+      "title": "Harrow and Rickmansworth Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c188",
+      "title": "St. Austell and Pentewan Railway, Harbour and Dock Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c189",
+      "title": "Temple Mineral Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c19",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c190",
+      "title": "Worcester and Aberystwyth Junction Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c191",
+      "title": "Bodmin and Wadebridge Railway (Deviations) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c192",
+      "title": "North Eastern Railway (Blyth and Tyne Transfer) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c193",
+      "title": "Wakefield Waterworks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c194",
+      "title": "Nottingham Improvement Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c195",
+      "title": "Brading Harbour Improvement, Railway and Works Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c196",
+      "title": "Southern Railway (Further Powers) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c197",
+      "title": "Fareham Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c198",
+      "title": "East and West Junction Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c199",
+      "title": "Metropolitan Inner Circle Completion Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c2",
+      "title": "City of London Police Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c20",
+      "title": "Public Health (Scotland) Supplemental Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c200",
+      "title": "Ballymena and Larne Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c21",
+      "title": "Kew and Other Bridges Act 1869, Amendment Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c22",
+      "title": "Thames Valley Drainage Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c23",
+      "title": "Bristol and Exeter Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c24",
+      "title": "Grantham Gas Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c25",
+      "title": "Castleisland Railway Amendment Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c26",
+      "title": "South Devon Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c27",
+      "title": "Midland Great Western Railway of Ireland Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c28",
+      "title": "Dublin General Cemetery Company's Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c29",
+      "title": "Lymm Water Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c3",
+      "title": "Highland Railway (Additional Capital) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c30",
+      "title": "Mersey Docks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c31",
+      "title": "Caledonian and North British Railways Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c32",
+      "title": "District Railway (Hammersmith Extension Amalgamation) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c33",
+      "title": "Hartlepool Gas and Water Act, 1867, Amendment Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c34",
+      "title": "Leeds Corporation Water Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c35",
+      "title": "Ardmillan Reclamation Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c36",
+      "title": "Peterborough Gas Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c37",
+      "title": "Fylde Waterworks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c38",
+      "title": "Leeds, Castleford and Pontefract Junction Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c39",
+      "title": "London and Blackwall Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c4",
+      "title": "Southampton Docks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c40",
+      "title": "Wexford Harbour Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c41",
+      "title": "Exeter and Crediton Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c42",
+      "title": "Byker Bridge (Newcastle-upon-Tyne) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c43",
+      "title": "Great Southern and Western Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c44",
+      "title": "Enniskillen Gas Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c45",
+      "title": "North Metropolitan Tramways Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c46",
+      "title": "Fairfield Local Board Waterworks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c47",
+      "title": "Paignton Pier Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c48",
+      "title": "Letterkenny Railway (Extension of Time) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c49",
+      "title": "Londonderry Port and Harbour Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c5",
+      "title": "Newent Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c50",
+      "title": "Medway Docks (Extension of Time) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c51",
+      "title": "Metropolitan Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c52",
+      "title": "Dover and Deal Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c53",
+      "title": "Exe Valley Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c54",
+      "title": "London, Brighton and South Coast Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c55",
+      "title": "Stocksbridge Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c56",
+      "title": "Teign Valley Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c57",
+      "title": "Wrexham Waterworks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c58",
+      "title": "Albert Life Assurance Company Arbitration Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c59",
+      "title": "East and West India Dock Company Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c6",
+      "title": "Potteries, Shrewsbury and North Wales Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c60",
+      "title": "Llanelly Gas Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c61",
+      "title": "City of Glasgow Union Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c62",
+      "title": "Leicester Improvement Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c63",
+      "title": "Manchester South District Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c64",
+      "title": "Aberdare and Aberaman Gas Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c65",
+      "title": "Chester Waterworks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c66",
+      "title": "Hythe Improvement and Waterworks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c67",
+      "title": "Milford Docks Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c68",
+      "title": "Edinburgh Tramways Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c69",
+      "title": "Dublin Metropolitan Junction Railways Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c7",
+      "title": "East London Railway Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c70",
+      "title": "Lakenheath and Brandon Drainage Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c71",
+      "title": "Westleigh, Pennington and Bedford Local Boards (Gas) Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c8",
+      "title": "General Steam Navigation Company Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1874-c9",
+      "title": "Northern Assurance Act 1874",
+      "year": 1874,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/37-38/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1874-c1",
       "title": "An Act to apply the sum of one million four hundred and twenty-two thousand seven hundred and ninety-seven pounds fourteen shillings and sixpence out of the Consolidated Fund to the service of the years ending the thirty-first day of March one thousand eight hundred and seventy-three and one thousand eight hundred and seventy-four.",

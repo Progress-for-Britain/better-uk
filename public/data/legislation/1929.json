@@ -1,7 +1,871 @@
 {
   "year": 1929,
-  "count": 39,
+  "count": 135,
   "items": [
+    {
+      "id": "UKLA-1929-c1",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 3) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c10",
+      "title": "Inverness Water and Gas Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c11",
+      "title": "Leith Harbour and Docks Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c12",
+      "title": "Dunfermline and District Traction Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c13",
+      "title": "Falkirk and District Traction Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c14",
+      "title": "Greenock Burgh Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c15",
+      "title": "Ross and Cromarty (Dornie Bridge, &amp;c.) Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c16",
+      "title": "Ayr Burgh Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c17",
+      "title": "Dundee, Broughty Ferry and District Traction Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c18",
+      "title": "Dundee Corporation Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c19",
+      "title": "Lanarkshire, Renfrewshire and Dunbartonshire Education Authorities Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c2",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 7) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c20",
+      "title": "Clyde Navigation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c21",
+      "title": "Hendon Urban District Council Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c22",
+      "title": "Grand Junction Company Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c23",
+      "title": "Derby Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c24",
+      "title": "Barmouth Urban District Council Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c25",
+      "title": "London Electric, Metropolitan District and City and South London Railway Companies Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c26",
+      "title": "Romford Gas Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c27",
+      "title": "Stoke-on-Trent Extension Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c28",
+      "title": "Falkirk Burgh Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c29",
+      "title": "Nith Navigation Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c3",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 8) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c30",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 11) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c31",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 12) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c32",
+      "title": "Ministry of Health Provisional Order Confirmation (Knebworth Water) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c33",
+      "title": "Ministry of Health Provisional Orders Confirmation (Bristol and Ross Water) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c34",
+      "title": "Lanarkshire Traction Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c35",
+      "title": "Astley Ainslie Institution Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c36",
+      "title": "Tyneside Tramways and Tramroads Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c37",
+      "title": "Glasgow Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c38",
+      "title": "Birmingham Corporation (General Powers) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c39",
+      "title": "Salford Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c4",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 9) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c40",
+      "title": "Metropolitan Water Board Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c41",
+      "title": "Crowborough District Water Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c42",
+      "title": "Gas Light and Coke Company's Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c43",
+      "title": "Great Western Railway Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c44",
+      "title": "Leamington and Warwick Traction Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c45",
+      "title": "Llanfrechfa Upper and Llantarnam Water Board Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c46",
+      "title": "London, Midland and Scottish Railway Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c47",
+      "title": "Royal Victoria and other Docks Approaches (Improvement) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c48",
+      "title": "Southern Railway Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c49",
+      "title": "Tyne Improvement Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c5",
+      "title": "Parliament Square and other Streets Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c50",
+      "title": "Westminster City (Millbank) Improvement Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c51",
+      "title": "Winchester Water and Gas Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c52",
+      "title": "Windermere Urban District Council Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c53",
+      "title": "London County Council (Money) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c54",
+      "title": "Great Western Railway (Air Transport) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c55",
+      "title": "London and North Eastern Railway (Air Transport) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c56",
+      "title": "London, Midland and Scottish Railway (Air Transport) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c57",
+      "title": "Southern Railway (Air Transport) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c58",
+      "title": "Soke and City of Peterborough Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c59",
+      "title": "Methodist Church Union Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c6",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 1) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c60",
+      "title": "Southampton Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c61",
+      "title": "Nottingham Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c62",
+      "title": "Southport and District Water Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c63",
+      "title": "Lewes Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c64",
+      "title": "Halifax Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c65",
+      "title": "Gosport and Fareham Omnibus Services Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c66",
+      "title": "Haslingden Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c67",
+      "title": "Jarrow and South Shields Light Railways (Abandonment) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c68",
+      "title": "Preston Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c69",
+      "title": "Iveagh Bequest (Kenwood) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c7",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 2) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c70",
+      "title": "Birmingham Corporation (Rivers Improvement) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c71",
+      "title": "Oldbury Urban District Council Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c72",
+      "title": "Aire and Calder Navigation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c73",
+      "title": "Chatham and District Traction Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c74",
+      "title": "Cheltenham District Traction Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c75",
+      "title": "Mexborough and Swinton Traction Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c76",
+      "title": "Mansfield District Traction Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c77",
+      "title": "Newport (Salop.) Urban District Council Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c78",
+      "title": "Mount Vernon Hospital Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c79",
+      "title": "Warrington Corporation Water Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c8",
+      "title": "Glasgow Young Women's Christian Association Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c80",
+      "title": "Galloway Water Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c81",
+      "title": "Manchester Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c82",
+      "title": "County of Cornwall Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c83",
+      "title": "South Lancashire Transport Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c84",
+      "title": "Grimsby Corporation (Dock, &amp;c.) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c85",
+      "title": "Wandsworth, Wimbledon and Epsom District Gas Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c86",
+      "title": "Derbyshire and Nottinghamshire Electric Power Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c87",
+      "title": "London County Council (General Powers) Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c88",
+      "title": "Kingston-upon-Hull Extension Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c89",
+      "title": "Imperial Continental Gas Association Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c9",
+      "title": "London, Midland and Scottish Railway Order Confirmation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/20-21/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c90",
+      "title": "Rhodes Trust Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c91",
+      "title": "Tunbridge Wells Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c92",
+      "title": "Smethwick Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c93",
+      "title": "Metropolitan Railway Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c94",
+      "title": "Pontypridd Urban District Council Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c95",
+      "title": "Newcastle-upon-Tyne and Gateshead Gas Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1929-c96",
+      "title": "Chester Corporation Act 1929",
+      "year": 1929,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/96",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1929-c1",
       "title": "Isle of Man (Customs) Act 1929",

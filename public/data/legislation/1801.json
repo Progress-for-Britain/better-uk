@@ -1,7 +1,844 @@
 {
   "year": 1801,
-  "count": 4,
+  "count": 97,
   "items": [
+    {
+      "id": "UKLA-1801-c1",
+      "title": "South Molton Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c100",
+      "title": "Knapp's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c101",
+      "title": "Maw's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c102",
+      "title": "Duncombe's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c103",
+      "title": "Marquis of Salisbury's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c104",
+      "title": "Adcock's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c105",
+      "title": "Bury St. Edmunds Guildhall Feoffment and Bunbury's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c106",
+      "title": "Pitt's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c107",
+      "title": "Earl of Ilchester's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c108",
+      "title": "Constable's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c109",
+      "title": "Viscount Irwin's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c110",
+      "title": "Jervoise's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c111",
+      "title": "Fitzgerald's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c112",
+      "title": "Chapelry of St. Hilds, Jarrow, Building Lease Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c113",
+      "title": "Great and Little Heaths in Cardiff, Landaff, Whitchurch, Roath and Lanishen Inclosures Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c114",
+      "title": "Ticklerton Inclosure Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c115",
+      "title": "Foss Navigation and Drainage Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c116",
+      "title": "Crowland Inclosure Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c117",
+      "title": "Road from Bridgford to Kettering Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c118",
+      "title": "Road from Leicester to Peterborough Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c119",
+      "title": "Earl of Oxford's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c120",
+      "title": "Durham County Schools Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c121",
+      "title": "Pugh's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c122",
+      "title": "Welsh Gate and Cotton Hill Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c123",
+      "title": "Bolton and Leyland Road Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c124",
+      "title": "Louth (Lincolnshire) Inclosure Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c125",
+      "title": "Koops' Papermaking Patent Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c126",
+      "title": "Bathwick Improvement Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c127",
+      "title": "Croydon Canal and Croydon, Streatham, Dulwich and Sydenham Water Supply Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c128",
+      "title": "Kesteven and Holland Inclosures and Drainage Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c129",
+      "title": "Road from Paddington to Harrow-on-the-Hill Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c130",
+      "title": "Stony Stratford Improvement Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c131",
+      "title": "St. Pancras Improvement Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c132",
+      "title": "Winchester Gaol Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c133",
+      "title": "Cartwright's Woolcombing Machinery Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c134",
+      "title": "Hull and Frodingham Beck Navigation Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c135",
+      "title": "Wildmore and East and West Fens Drainage Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c136",
+      "title": "Everton, Scaftworth, Gringley-On-The-Hill, Misterton and Walkeringham Drainage Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c137",
+      "title": "Kidlington Green Road Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c138",
+      "title": "Annesley's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c139",
+      "title": "Carew's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c140",
+      "title": "Downing College Cambridge Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c141",
+      "title": "Wildmore Fen Allotments Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c142",
+      "title": "East and West Fens Allotments Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c143",
+      "title": "Enfield Inclosure Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c144",
+      "title": "Lamesley and Tanfield Inclosure Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c145",
+      "title": "St. Thomas's Leys or Pembroke Leys Inclosure Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c146",
+      "title": "Hill's Estate Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c2",
+      "title": "Tenbury Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c3",
+      "title": "Seend and Box Road (Wiltshire) Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c57",
+      "title": "Royal Exchange Assurance Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c58",
+      "title": "London Assurance Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c59",
+      "title": "Road from Reading to Basingstoke Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c60",
+      "title": "Road from Dartford to Northfleet Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c61",
+      "title": "Exeter and Crediton Navigation Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c62",
+      "title": "Coventry Poor Relief Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c63",
+      "title": "Mitford and Launditch Poor Relief Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c64",
+      "title": "Leeds Kirkgate Street Church Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c65",
+      "title": "Hull Market Place and Dock Improvement Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c66",
+      "title": "Rotherham Market and Improvement Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c67",
+      "title": "Newcastle-upon-Tyne and Gateshead Bridge and Gateshead Improvement Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c68",
+      "title": "Wilts. and Berks. Canal Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c69",
+      "title": "Scarborough Harbour Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c70",
+      "title": "Ellesmere and Chester Canal Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c71",
+      "title": "Grand Junction Canal Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c72",
+      "title": "Somerset Drainage Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c73",
+      "title": "Leverington Drainage Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c74",
+      "title": "Ashby in Bottesford Inclosure and Drainage Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c75",
+      "title": "South Walsham Inclosure and Drainage Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c76",
+      "title": "Potter Heigham Inclosure and Drainage Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c77",
+      "title": "Salop. Inclosures and Drainage Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c78",
+      "title": "Morpeth and Elsdon Road Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c79",
+      "title": "Culham and Fyfield Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c80",
+      "title": "Royston and Wandesford Bridge Roads (South District) Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c81",
+      "title": "Span Smithy, Winsford Bridge and Northwich Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c82",
+      "title": "Brough and Eamont Bridge Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c83",
+      "title": "Road from Rugby to the Lutterworth and Market Harborough Turnpike Road Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c84",
+      "title": "Road from Drayton Lane to Edge Hill Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c85",
+      "title": "Tetbury Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c86",
+      "title": "Newcastle-upon-Tyne Trinity House and Port Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c87",
+      "title": "Road from Melton Mowbray to Grantham (Lincolnshire) Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c88",
+      "title": "Shrewsbury Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c89",
+      "title": "Road from Ticehurst to Hastings Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c90",
+      "title": "Whitchurch and Ternhill and Newport (Salop.) Road Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c91",
+      "title": "Road from Mansfield to the Derby and Chesterfield Turnpike Road Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c92",
+      "title": "Liskeard Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c93",
+      "title": "Wrexham, Ruthin, Denbigh and Cerniogau-Mawr Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c94",
+      "title": "Horsley, Rodborough and Minchinhampton Road Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c95",
+      "title": "Stockbridge, Winchester, Bishop's Waltham and Southampton Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c96",
+      "title": "Hurdlow House, Manchester and Chapel-en-le-Frith Roads Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c97",
+      "title": "Hallamshire Cutlers Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c98",
+      "title": "Stockport and Marple Bridge Road Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1801-c99",
+      "title": "Road from Dunstable to Pondyards Act 1801",
+      "year": 1801,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/41/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1801-c52",
       "title": "House of Commons (Disqualifications) Act 1801",

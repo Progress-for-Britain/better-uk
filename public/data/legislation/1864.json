@@ -1,7 +1,2266 @@
 {
   "year": 1864,
-  "count": 121,
+  "count": 372,
   "items": [
+    {
+      "id": "UKLA-1864-c100",
+      "title": "North British Railway (Perth Station) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c101",
+      "title": "Witney Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c102",
+      "title": "Newcastle-upon-Tyne and North Shields Road Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c103",
+      "title": "Wellington (Salop.) Market Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c104",
+      "title": "Mytholmroyd Bridge and Blackstone Edge Turnpike Road Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c105",
+      "title": "Workington Harbour Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c106",
+      "title": "Belfast and Northern Counties Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c107",
+      "title": "North Cheshire Water Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c108",
+      "title": "Lancaster Local Board of Health Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c109",
+      "title": "Nottingham Gas Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c110",
+      "title": "Stockton and Middlesbrough Waterworks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c111",
+      "title": "Denburn Valley Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c112",
+      "title": "Downs Docks (Kent) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c113",
+      "title": "North and South Western Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c114",
+      "title": "Okehampton Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c115",
+      "title": "Scottish North Eastern Railway (Newtyle and Meigle Junction) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c116",
+      "title": "Liverpool and London and Globe Insurance Company's Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c117",
+      "title": "Wallasey Improvement Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c118",
+      "title": "Newcastle-under-Lyme Canal (Lease) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c119",
+      "title": "Shrewsbury Bridges Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c120",
+      "title": "Lymington Harbour and Docks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c121",
+      "title": "Whitehaven Waterworks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c122",
+      "title": "East Norfolk Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c123",
+      "title": "London, Brighton and South Coast Railway (Ouse Valley Line) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c124",
+      "title": "Royston and Hitchin Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c125",
+      "title": "Railway Passengers Assurance Company's Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c126",
+      "title": "Dublin, Wicklow and Wexford Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c127",
+      "title": "Falmouth Docks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c128",
+      "title": "West Shropshire Mineral Railway (New Lines) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c129",
+      "title": "Sevenoaks, Maidstone and Tonbridge Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c130",
+      "title": "Pneumatic Despatch Company's Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c131",
+      "title": "Tralee Canal Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c132",
+      "title": "Glasgow and Paisley Joint Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c133",
+      "title": "Stewartry of Kircudbright Roads Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c134",
+      "title": "Henley-in-Arden Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c135",
+      "title": "Thames Embankment Amendment Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c136",
+      "title": "Bristol and South Wales Union Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c137",
+      "title": "Bolton Gas Company's Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c138",
+      "title": "Bolton and St. Helens Turnpike Roads Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c139",
+      "title": "Zetland Roads Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c140",
+      "title": "Port Glasgow Harbour Consolidation Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c141",
+      "title": "South London Market Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c142",
+      "title": "Mid Wales Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c143",
+      "title": "Halifax and Ovenden Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c144",
+      "title": "Mistley, Thorpe and Walton Railway (Branch) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c145",
+      "title": "Liverpool Exchange Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c146",
+      "title": "Kent Waterworks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c147",
+      "title": "Aberystwyth and Welsh Coast Railway (General) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c148",
+      "title": "Newcastle-upon-Tyne and Gateshead Gas Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c149",
+      "title": "Garstang and Knott End Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c150",
+      "title": "Globe Telegraph Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c151",
+      "title": "Severn Valley Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c152",
+      "title": "Nantwich and Market Drayton Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c153",
+      "title": "Edinburgh and Leith Sewerage Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c154",
+      "title": "London, Brighton and South Coast Railway Company (Steamboats) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c155",
+      "title": "Weston-super-Mare Pier (Extension) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c156",
+      "title": "Shrewsbury and North Wales Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c157",
+      "title": "East Indian Railway Company's Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c158",
+      "title": "Solway Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c159",
+      "title": "Phoenix Gas Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c160",
+      "title": "Wallasey Embankment Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c161",
+      "title": "Oswestry and Newtown Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c162",
+      "title": "Independent Gaslight and Coke Company Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c163",
+      "title": "Newquay and Cornwall Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c164",
+      "title": "Midland Railway (Bath and Thornbury Lines) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c165",
+      "title": "Leeds, Bradford and Halifax Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c166",
+      "title": "London and South Western Railway (Kensington and Richmond) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c167",
+      "title": "Rammell's Patent Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c168",
+      "title": "Durham University Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c169",
+      "title": "Furness Gas and Waterworks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c170",
+      "title": "Bodmin Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c171",
+      "title": "Worcester, Bromyard and Leominster Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c172",
+      "title": "London, Brighton and South Coast Railway (Tunbridge Wells and Eastbourne Line) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c173",
+      "title": "Scottish North Eastern Railway (Dundee and Forfar) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c174",
+      "title": "Southampton and Netley Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c175",
+      "title": "Swansea and Aberystwyth Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c176",
+      "title": "Wellington and Drayton Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c177",
+      "title": "Hayling Railway and Docks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c178",
+      "title": "London and St. Katharine's Docks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c179",
+      "title": "Stockport and Ashton Roads Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c180",
+      "title": "Wisbech Waterworks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c181",
+      "title": "Cheddar Valley and Yatton Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c182",
+      "title": "Wensum Valley Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c183",
+      "title": "Pembroke and Tenby Railway (Extension) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c184",
+      "title": "Grand Western Canal Purchase Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c185",
+      "title": "Newry and Armagh Railway Amendment Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c186",
+      "title": "Carnarvon and Llanberis Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c187",
+      "title": "Fleetwood Docks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c188",
+      "title": "Vale of Crickhowell Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c189",
+      "title": "Crieff and Methven Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c190",
+      "title": "Midland and South Western Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c191",
+      "title": "Londonderry Improvement Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c192",
+      "title": "Charing Cross Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c193",
+      "title": "Peebleshire Roads Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c194",
+      "title": "London and North Western Railway (Traffic Arrangements) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c195",
+      "title": "London, Chatham and Dover Railway (New Lines) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c196",
+      "title": "Shrewsbury and Welshpool Railway (Transfer) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c197",
+      "title": "Helston and Penryn Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c198",
+      "title": "Belfast Award Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c199",
+      "title": "Kington and Eardisley Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c200",
+      "title": "Southam Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c201",
+      "title": "Bolton Improvement Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c202",
+      "title": "Great Northern Railway (No. 1) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c203",
+      "title": "Llanelly Harbour Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c204",
+      "title": "Macclesfield, Bollington and Marple Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c205",
+      "title": "Watford and Edgware Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c206",
+      "title": "Argyllshire Roads Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c207",
+      "title": "Sunningdale and Cambridge Town Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c208",
+      "title": "Ardrossan Harbour Consolidation Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c209",
+      "title": "Whitby Waterworks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c210",
+      "title": "Bourton-on-the-Water Railway (Extension to Cheltenham) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c211",
+      "title": "Isle of Wight Ferry Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/211",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c212",
+      "title": "London, Chatham and Dover Railway (City Undertaking) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/212",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c213",
+      "title": "Mersey Docks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/213",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c214",
+      "title": "Scottish Central Railway (Dundee and Newtyle Improvement) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/214",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c215",
+      "title": "Erith Tramways Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/215",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c216",
+      "title": "Waterford and Wexford Railway and Harbour Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/216",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c217",
+      "title": "Aylesbury and Buckingham Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/217",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c218",
+      "title": "Llanelly Railway and Dock (Further Powers) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/218",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c219",
+      "title": "London and Blackwall Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/219",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c220",
+      "title": "Stamford and Essendine Railway (Sibson Extension) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/220",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c221",
+      "title": "Tottenham and Hampstead Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/221",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c222",
+      "title": "Wilts. and Gloucestershire Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/222",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c223",
+      "title": "Somerset and Dorset Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/223",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c224",
+      "title": "Carmarthenshire Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/224",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c225",
+      "title": "Corris Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/225",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c226",
+      "title": "London and North Western Railway (Additional Powers) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/226",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c227",
+      "title": "South Western Railway (Various Powers) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/227",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c228",
+      "title": "Lough Swilly Railway (Extension) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/228",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c229",
+      "title": "Lynn and Sutton Railway (Cross Keys Bridge) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/229",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c230",
+      "title": "Midland Railway (Chesterfield to Sheffield) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/230",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c231",
+      "title": "Midland Railway (St. Pancras Branch) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/231",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c232",
+      "title": "North Staffordshire Railway (Tunstall Line) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/232",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c233",
+      "title": "Weald of Kent Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/233",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c234",
+      "title": "Wrexham, Mold and Connah's Quay Railway (Extension) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/234",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c235",
+      "title": "Albert Bridge Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/235",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c236",
+      "title": "Waterford and Limerick, Limerick and Foynes, and Rathkeale and Newcastle Junction Railways Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/236",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c237",
+      "title": "West London Docks and Warehouses Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/237",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c238",
+      "title": "Wandsworth Bridge Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/238",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c239",
+      "title": "Birmingham and Staffordshire Gas Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/239",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c240",
+      "title": "Peterborough, Wisbeach and Sutton Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/240",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c241",
+      "title": "Bristol Port and Channel Dock Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/241",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c242",
+      "title": "Great Northern Railway (Lincoln to Bourn) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/242",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c243",
+      "title": "Great Northern Railway (Doncaster to Gainsborough) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/243",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c244",
+      "title": "Blyth and Tyne Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/244",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c245",
+      "title": "Midland Railway (New Lines and Additional Powers) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/245",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c246",
+      "title": "North London Railway (Additional Powers) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/246",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c247",
+      "title": "Torbay and Brixham Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/247",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c248",
+      "title": "Clyde Navigation (Glasgow Harbour Tramways) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/248",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c249",
+      "title": "Exmouth and Budleigh Salterton Waterworks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/249",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c250",
+      "title": "Caledonian and Hamilton and Strathaven Railway Amalgamation Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/250",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c251",
+      "title": "West Grinstead, Cuckfield and Hayward's Heath Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/251",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c252",
+      "title": "Great Northern and Western (of Ireland) Railway (Capital) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/252",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c253",
+      "title": "Irish North Western Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/253",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c254",
+      "title": "Belfast Central Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/254",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c255",
+      "title": "Millwall Canal, Wharfs and Graving Docks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/255",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c256",
+      "title": "Hubberston Docks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/256",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c257",
+      "title": "Bristol Port Extension Railways Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/257",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c258",
+      "title": "Buckfastleigh, Totnes and South Devon Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/258",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c259",
+      "title": "County and General Gas Consumers Company (Lea Bridge District) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/259",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c260",
+      "title": "Metropolitan Railway (Additional Powers) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/260",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c261",
+      "title": "County and General Gas Consumers Company (Northfleet District) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/261",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c262",
+      "title": "Cambrian Railways Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/262",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c263",
+      "title": "Oswestry and Newtown and other Railway Companies (Arrangements) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/263",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c264",
+      "title": "Rhymney Railway (Cardiff and Caerphilly) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/264",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c265",
+      "title": "Brecon and Merthyr Railway (No. 1) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/265",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c266",
+      "title": "Wallingford and Watlington Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/266",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c267",
+      "title": "New Brighton Pier Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/267",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c268",
+      "title": "London (City) Tithes Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/268",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c269",
+      "title": "Redruth and Falmouth Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/269",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c270",
+      "title": "Lancashire and Yorkshire Railway (Blackburn, Chorley, Horwich and Wigan Lines) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/270",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c271",
+      "title": "Caledonian Railway (Glasgow Harbour) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/271",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c272",
+      "title": "Ilfracombe Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/272",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c273",
+      "title": "Lancashire Union Railways Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/273",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c274",
+      "title": "London, Brighton and South Coast Railway (Battersea Lines) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/274",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c275",
+      "title": "Rhymney Railway (Northern Lines) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/275",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c276",
+      "title": "Rickmansworth, Amersham and Chesham Railway (Level Crossing at Rickmansworth) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/276",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c277",
+      "title": "Stockport District Waterworks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/277",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c278",
+      "title": "West Sussex Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/278",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c279",
+      "title": "Edinburgh and Glasgow Railway (Extensions) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/279",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c280",
+      "title": "Herne Bay Fishery Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/280",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c281",
+      "title": "Dublin, Rathmines, Rathfarnham and Rathcoole Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/281",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c282",
+      "title": "Great Eastern Railway Junctions Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/282",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c283",
+      "title": "Alford and Mablethorpe Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/283",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c284",
+      "title": "Drayton Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/284",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c285",
+      "title": "East Gloucestershire Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/285",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c286",
+      "title": "City of Glasgow Union Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/286",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c287",
+      "title": "Kingsbridge Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/287",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c288",
+      "title": "Lancaster Canal Transfer Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/288",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c289",
+      "title": "Launceston, Bodmin and Wadebridge Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/289",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c290",
+      "title": "Liverpool Central Station Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/290",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c291",
+      "title": "Metropolitan Railway (Notting Hill and Brompton Extension) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/291",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c292",
+      "title": "Scottish Central Railway (Stations, &amp;c.) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/292",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c293",
+      "title": "Swansea Vale and Neath and Brecon Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/293",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c294",
+      "title": "Tamar, Kit Hill and Callington Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/294",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c295",
+      "title": "Worcester, Dean Forest and Monmouth Railway (Extension to Gloucester) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/295",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c296",
+      "title": "St. Helens Canal and Railway Transfer Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/296",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c297",
+      "title": "South Wales Mineral Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/297",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c298",
+      "title": "Mid Hants. Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/298",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c299",
+      "title": "Great Northern and Western (of Ireland) Railway (Running Powers, &amp;c.) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/299",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c300",
+      "title": "Kilkenny Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/300",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c301",
+      "title": "Parsonstown and Portumna Bridge Railway Extension Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/301",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c302",
+      "title": "Wenlock Railway Companies Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/302",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c303",
+      "title": "Metropolitan and St. John's Wood Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/303",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c304",
+      "title": "Brecon and Merthyr Railway (New Lines) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/304",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c305",
+      "title": "Dublin Improvements Acts Amendment Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/305",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c306",
+      "title": "Great Western Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/306",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c307",
+      "title": "Devon and Somerset Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/307",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c308",
+      "title": "North Staffordshire Railway (New Works) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/308",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c309",
+      "title": "North Staffordshire Railway Branches Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/309",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c310",
+      "title": "Petersfield and Bishop's Waltham Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/310",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c311",
+      "title": "South Eastern Railway (Mid Kent) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/311",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c312",
+      "title": "Cannock Chase and Wolverhampton Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/312",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c313",
+      "title": "Great Eastern Railway (Metropolitan Station and Railways) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/313",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c314",
+      "title": "London, Brighton and South Coast Railway (Additional Powers) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/314",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c315",
+      "title": "Metropolitan Railway (Tower Hill Extension) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/315",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c316",
+      "title": "Neath and Brecon Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/316",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c317",
+      "title": "Portpatrick Railway (No. 1) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/317",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c318",
+      "title": "Portpatrick Railway (Steamboats) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/318",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c319",
+      "title": "Exmouth Docks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/319",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c320",
+      "title": "Manchester, Sheffield and Lincolnshire Railway (Steamboat) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/320",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c321",
+      "title": "Dublin Trunk Connecting Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/321",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c322",
+      "title": "Metropolitan District Railways Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/322",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c323",
+      "title": "North Western and Charing Cross Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/323",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c324",
+      "title": "Sheffield Waterworks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/324",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c325",
+      "title": "Tooting, Merton and Wimbledon Extension Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/325",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c326",
+      "title": "Aldborough Pier and Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/326",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c327",
+      "title": "Bembridge Railway, Tramway and Pier Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/327",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c328",
+      "title": "Holywell Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/328",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c329",
+      "title": "Dublin and Baltinglass Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/329",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c79",
+      "title": "Tendring Hundred Railway Acts Amendment Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c80",
+      "title": "Ribblesdale Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c81",
+      "title": "Edinburgh and Glasgow and Alva Railways Amalgamation Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c82",
+      "title": "Alyth Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c83",
+      "title": "Scottish North Eastern and Perth Almond Valley and Methven Railways Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c84",
+      "title": "North British Railway (Abbey Holme Branch) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c85",
+      "title": "Wrexham Waterworks Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c86",
+      "title": "Ely, Haddenham and Sutton Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c87",
+      "title": "South Western Railway (Chertsey Extension) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c88",
+      "title": "Salisbury and Yeovil Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c89",
+      "title": "South Staffordshire Waterworks Amendment Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c90",
+      "title": "West Norfolk Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c91",
+      "title": "West Riding and Grimsby Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c92",
+      "title": "Ulverston Gas Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c93",
+      "title": "Kent Coast Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c94",
+      "title": "Crystal Palace and South London Junction Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c95",
+      "title": "Great Eastern Railway (Highbeech Branch) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c96",
+      "title": "London, Chatham and Dover Railway (Steam Boats) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c97",
+      "title": "Oswestry, Ellesmere and Whitchurch Railway Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c98",
+      "title": "South Eastern Railway (Extension to Westerham) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1864-c99",
+      "title": "South Eastern Railway (Extensions to Cranbrook, Hythe, &amp;c.) Act 1864",
+      "year": 1864,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/27-28/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1864-c1",
       "title": "The Annual Inclosure Act 1864",

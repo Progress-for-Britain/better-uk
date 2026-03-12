@@ -1,7 +1,2005 @@
 {
   "year": 1896,
-  "count": 59,
+  "count": 281,
   "items": [
+    {
+      "id": "UKLA-1896-c1",
+      "title": "Metropolitan District Railway (Extension of Time) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c10",
+      "title": "Uxbridge and Rickmansworth Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c100",
+      "title": "Local Government Board's Provisional Order Confirmation (Ports) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c101",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c102",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c103",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c104",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 9) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c105",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 10) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c106",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 11) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c107",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 12) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c108",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 14) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c109",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 17) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c11",
+      "title": "Liverpool Warehousing Company (Delivery Warrants) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c110",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 18) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c111",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 19) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c112",
+      "title": "Local Government Board's Provisional Orders Confirmation (Gas) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c113",
+      "title": "Local Government Board's Provisional Order Confirmation (Warrington) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c114",
+      "title": "Culter Water Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c115",
+      "title": "Dalmeny and Kirkliston Water Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c116",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 9) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c117",
+      "title": "Electric Lighting Orders Confirmation (No. 3) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c118",
+      "title": "Electric Lighting Orders Confirmation (No. 4) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c119",
+      "title": "Electric Lighting Orders Confirmation (No. 5) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c12",
+      "title": "Liverpool Electric Supply (Transfer) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c120",
+      "title": "Tramways Orders Confirmation (No. 1) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c121",
+      "title": "Pier and Harbour Orders Confirmation (No. 4) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c122",
+      "title": "Military Lands Provisional Orders Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c123",
+      "title": "Matlock Bath Gas Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c124",
+      "title": "Falmouth Rectory Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c125",
+      "title": "Waterford Corporation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c126",
+      "title": "South Eastern Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c127",
+      "title": "East Surrey Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c128",
+      "title": "London, Brighton and South Coast Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c129",
+      "title": "Blackpool St. Anne's and Lytham Tramways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c13",
+      "title": "Cheltenham Gas Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c130",
+      "title": "Blackpool Improvement Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c131",
+      "title": "Foyle College Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c132",
+      "title": "Newcastle-upon-Tyne and Gateshead Gas Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c133",
+      "title": "Kirkcaldy and Dysart Waterworks Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c134",
+      "title": "Lancashire and Yorkshire and London and North Western Railway Companies Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c135",
+      "title": "Borough of Portsmouth Waterworks Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c136",
+      "title": "Sheffield Corporation Tramways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c137",
+      "title": "Brighton Corporation Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c138",
+      "title": "Great Northern Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c139",
+      "title": "Lancashire and Yorkshire Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c14",
+      "title": "Customs Annuity and Benevolent Fund Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c140",
+      "title": "North British Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c141",
+      "title": "Swansea Harbour Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c142",
+      "title": "Leamington Corporation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c143",
+      "title": "Freshwater Yarmouth and Newport Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c144",
+      "title": "Great Western Railway (Denbighshire Railways) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c145",
+      "title": "Port Talbot Railway and Docks (Ogmore Valleys Extension) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c146",
+      "title": "Belfast Street Tramways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c147",
+      "title": "Blackpool and Fleetwood Tramroad Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c148",
+      "title": "Burton-upon-Trent Corporation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c149",
+      "title": "London and North Western Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c15",
+      "title": "English, Scottish and Australian Bank Limited Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c150",
+      "title": "North Wales Counties Lunatic Asylum (Water Supply) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c151",
+      "title": "Portsmouth Street Tramways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c152",
+      "title": "Yeovil Corporation Waterworks Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c153",
+      "title": "Weaver Navigation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c154",
+      "title": "Ribble Navigation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c155",
+      "title": "Burntisland Harbour Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c156",
+      "title": "North Cornwall Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c157",
+      "title": "Metropolitan District Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c158",
+      "title": "London Sea Water Supply Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c159",
+      "title": "North Eastern Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c16",
+      "title": "Central Ireland Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c160",
+      "title": "Caledonian Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c161",
+      "title": "Water Orders Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c162",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 2) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c163",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 11) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c164",
+      "title": "Education Department Provisional Orders Confirmation (Acton, &amp;c.) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c165",
+      "title": "Railway Rates and Charges (Lee-on-the-Solent Light Railway &amp;c.) Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c166",
+      "title": "Tramways Orders Confirmation (No. 2) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c167",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c168",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 16) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c169",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 20) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c17",
+      "title": "Sutton Bridge Dock Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c170",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 21) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c171",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 22) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c172",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 24) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c173",
+      "title": "Education Department Provisional Order Confirmation (London) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c174",
+      "title": "Commons Regulation (Darwen) Provisional Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c175",
+      "title": "Electric Lighting Orders Confirmation (No. 7) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c176",
+      "title": "Pier and Harbour Orders Confirmation (No. 3) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c177",
+      "title": "Pier and Harbour Orders Confirmation (No. 5) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c178",
+      "title": "Aldershot Gas and Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c179",
+      "title": "Kilmarnock Corporation Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c18",
+      "title": "Bideford, Westward Ho! and Appledore Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c180",
+      "title": "Ogilvie Meal Charity Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c181",
+      "title": "Kensington (James Street Area) Improvements Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c182",
+      "title": "Manchester Ship Canal Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c183",
+      "title": "Midland Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c184",
+      "title": "North Metropolitan Railway and Canal Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c185",
+      "title": "City of Glasgow Union Railway Partition Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c186",
+      "title": "Llanelly Harbour Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c187",
+      "title": "Eastbourne Waterworks Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c188",
+      "title": "London County Council (General Powers) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c189",
+      "title": "London Tramways Company Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c19",
+      "title": "Cavendish, Harrington and Willington Bridges (Transfer) 1896 Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c190",
+      "title": "Sheffield Corporation Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c191",
+      "title": "Callander and Oban Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c192",
+      "title": "Alexandra (Newport and South Wales) Docks and Railways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c193",
+      "title": "Barry Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c194",
+      "title": "Easton and Church Hope Railway (Extension of Time) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c195",
+      "title": "London, Chatham and Dover Railway (Capital) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c196",
+      "title": "Bournemouth Gas and Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c197",
+      "title": "Cork, Blackrock and Passage Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c198",
+      "title": "Cornwall Minerals Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c199",
+      "title": "Glasgow Corporation (General Powers) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c2",
+      "title": "Education Department Provisional Order Confirmation (Tottenham) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c20",
+      "title": "Dewsbury and Heckmondwike Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c200",
+      "title": "London, Chatham and Dover Railway (Further Powers) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c201",
+      "title": "Realisation and Debenture Corporation of Scotland Limited Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c202",
+      "title": "Brighton Marine Palace and Pier Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c203",
+      "title": "Edinburgh Extension Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c204",
+      "title": "Edinburgh Street Tramways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c205",
+      "title": "Highland Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c206",
+      "title": "Lancashire, Derbyshire and East Coast Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c207",
+      "title": "Manchester, Sheffield and Lincolnshire Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c208",
+      "title": "Strand Improvement Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c209",
+      "title": "Wallasey Urban District Council (Promenade) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c21",
+      "title": "Liverpool Cattle Market Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c210",
+      "title": "Vale of Glamorgan Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c211",
+      "title": "London County Council (Vauxhall Bridge Tramways) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/211",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c212",
+      "title": "Port Talbot Railway and Docks (South Wales Mineral Railway Junction) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/212",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c213",
+      "title": "Dover Undercliff Reclamation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/213",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c214",
+      "title": "London County Council (Money) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/214",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c215",
+      "title": "Dundee Suburban Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/215",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c216",
+      "title": "Cheadle Railway Company Limited Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/216",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c217",
+      "title": "Glasgow and South Western Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/217",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c218",
+      "title": "Great Western Railway (South Wales and Bristol Direct Railway) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/218",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c219",
+      "title": "West Highland Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/219",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c22",
+      "title": "Waterford Infirmary Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c220",
+      "title": "Drogheda Corporation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/220",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c221",
+      "title": "Brighton Corporation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/221",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c222",
+      "title": "Donegal Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/222",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c23",
+      "title": "Guildford Gas Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c24",
+      "title": "Great Eastern Railway (General Powers) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c25",
+      "title": "Ilfracombe Gas Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c26",
+      "title": "Rotherham Corporation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c27",
+      "title": "Fylde Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c28",
+      "title": "Local Government Board's Provisional Order Confirmation (Poor Law) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c29",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c3",
+      "title": "Electric Lighting Orders Confirmation (Notting Hill, &amp;c.) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c30",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c31",
+      "title": "Buenos Ayres and Ensenada Port Railway Company's Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c32",
+      "title": "Birmingham Corporation Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c33",
+      "title": "Brighton and Rottingdean Seashore Electric Tramroad Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c34",
+      "title": "Dundee Harbour (Additional Powers) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c35",
+      "title": "Glasgow Juvenile Delinquency Prevention and Repression Amendment Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c36",
+      "title": "Metropolitan Market Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c37",
+      "title": "Muirkirk, Mauchline and Dalmellington Railways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c38",
+      "title": "British Gas Light Company (Norwich) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c39",
+      "title": "Great Northern London Cemetery Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c4",
+      "title": "Brine Pumping (Compensation for Subsidence) Provisional Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c40",
+      "title": "Irvine Burgh Improvement Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c41",
+      "title": "Whitstable Oyster Fishery Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c42",
+      "title": "East and West Yorkshire Union Railways (South Leeds Junction Railway Transfer) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c43",
+      "title": "National Mutual Life Assurance Society Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c44",
+      "title": "King's Lynn Corporation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c45",
+      "title": "William Hancock and Company (Further Capital) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c46",
+      "title": "Cawood Wistow and Selby Light Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c47",
+      "title": "Newport Godshill and St. Lawrence Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c48",
+      "title": "Leeds Hydraulic Power Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c49",
+      "title": "Padiham Urban District Council (Water) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c5",
+      "title": "Cupar Water Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c50",
+      "title": "South Shields Corporation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c51",
+      "title": "London County Tramways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c52",
+      "title": "Barnsley Corporation Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c53",
+      "title": "Sheffield Tramways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c54",
+      "title": "Lambeth Waterworks Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c55",
+      "title": "Brixham Harbour and Market Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c56",
+      "title": "Mersey Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c57",
+      "title": "Bexhill Water and Gas Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c58",
+      "title": "Colwyn Bay and District Gas Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c59",
+      "title": "Roxburgh, Berwick and Selkirk District Board of Lunacy (Water Supply) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c6",
+      "title": "Aberdeen Improvement Scheme Provisional Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c60",
+      "title": "Cowes Gas Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c61",
+      "title": "Falkirk and District Water (Additional Supply) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c62",
+      "title": "Stroud and Painswick (Light) Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c63",
+      "title": "Stafford Corporation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c64",
+      "title": "Manchester Corporation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c65",
+      "title": "Leeds Corporation Tramways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c66",
+      "title": "Rother Valley (Light) Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c67",
+      "title": "Huddersfield Waterworks Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c68",
+      "title": "Lanarkshire (Middle Ward District) Water Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c69",
+      "title": "Great Southern and Western Railway Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c7",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c70",
+      "title": "Cambrian Railways Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c71",
+      "title": "Ystradyfodwg Urban District Council (Gas and Water) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c72",
+      "title": "Malvern Link (Extension and Water) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c73",
+      "title": "Chelsea Waterworks Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c74",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c75",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c76",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) (No. 2) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c77",
+      "title": "Bonnybridge &amp;c. Water Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c78",
+      "title": "Canal Rates Tolls and Charges (Strabane Canal) Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c79",
+      "title": "Canal Tolls and Charges (Caledonian and Crinan Canals) Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c8",
+      "title": "Kent and Surrey Permanent Benefit Building Society Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c80",
+      "title": "Canal Tolls and Charges (Burwell Fen &amp;c.) Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c81",
+      "title": "Metropolitan Police Provisional Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c82",
+      "title": "Electric Lighting Orders Confirmation (No. 1) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c83",
+      "title": "Electric Lighting Orders Confirmation (No. 2) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c84",
+      "title": "Electric Lighting Orders Confirmation (No. 6) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c85",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 3) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c86",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 4) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c87",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 5) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c88",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 6) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c89",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 7) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c9",
+      "title": "Millwall Dock Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c90",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 8) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c91",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 10) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c92",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 12) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c93",
+      "title": "Land Drainage Supplemental Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c94",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c95",
+      "title": "Gas Orders Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c96",
+      "title": "Boyne Navigation Transfer Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c97",
+      "title": "Pilotage Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c98",
+      "title": "Gas and Water Orders Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1896-c99",
+      "title": "Kelty Water Order Confirmation Act 1896",
+      "year": 1896,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/59-60/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1896-c1",
       "title": "Local Government (Elections) Act 1896",

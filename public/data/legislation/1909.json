@@ -1,7 +1,493 @@
 {
   "year": 1909,
-  "count": 49,
+  "count": 103,
   "items": [
+    {
+      "id": "UKLA-1909-c109",
+      "title": "Electric Lighting Order Confirmation (No. 2) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c110",
+      "title": "St. Andrews Water Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c112",
+      "title": "Ardrossan Harbour Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c113",
+      "title": "Gas Provisional Order Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c114",
+      "title": "Pier and Harbour Order Confirmation (No. 1) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c116",
+      "title": "Local Government Board's Provisional Order Confirmation (Poor Law) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c117",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c118",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c119",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c120",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c121",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c122",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c123",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c124",
+      "title": "Local Government Board's Provisional Orders Confirmation (Gas) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c125",
+      "title": "Provisional Order (Marriages) Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c126",
+      "title": "Metropolitan Commons Scheme Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c127",
+      "title": "Sea Fisheries (Tees) Provisional Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c128",
+      "title": "Remission of Surcharges (Dublin) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c129",
+      "title": "Greenock Corporation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c130",
+      "title": "London County Council (General Powers) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c131",
+      "title": "Heywood Corporation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c132",
+      "title": "Prestatyn Urban District Council Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c133",
+      "title": "Risca Urban District Council Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c134",
+      "title": "Torquay and Paignton Tramways Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c135",
+      "title": "Shrewsbury Corporation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c136",
+      "title": "North Eastern Railway Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c137",
+      "title": "Glasgow Corporation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c138",
+      "title": "Dunoon Burgh Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c139",
+      "title": "Taff Vale Railway Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c140",
+      "title": "Newry, Keady and Tynan Railway Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c141",
+      "title": "Electric Lighting Orders Confirmation (No. 1) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c142",
+      "title": "Gas and Water Orders Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c143",
+      "title": "Tramways Orders Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c144",
+      "title": "Buckie Burgh and Buckie (Cluny) Harbour Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c145",
+      "title": "Aberdeen Harbour Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c146",
+      "title": "Clydebank and District Water Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c147",
+      "title": "Irvine Harbour Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c148",
+      "title": "Whittington Charity Scheme Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c149",
+      "title": "Bridgend Hope English Baptist Chapel Scheme Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c150",
+      "title": "Marshall's Charity Scheme Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c151",
+      "title": "Lichfield and Longdon Congregational Chapels Scheme Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c152",
+      "title": "Dewsbury and Batley Congregational Chapels Scheme Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c153",
+      "title": "Wortley Congregational Chapel Scheme Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c154",
+      "title": "Hamilton Burgh Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c155",
+      "title": "Provisional Order (Marriages) Confirmation (No. 2) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c156",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 9) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c157",
+      "title": "Lune Fisheries Provisional Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c158",
+      "title": "Kilkenny, Castlecomer and Athy Railway Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c159",
+      "title": "Bury Corporation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c160",
+      "title": "Edgware and Hampstead Railway Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c161",
+      "title": "Cardiff Corporation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c162",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c163",
+      "title": "Colinton Tramways Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1909-c164",
+      "title": "Robert Gordon's Technical College and Aberdeen Endowments Trust Order Confirmation Act 1909",
+      "year": 1909,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/9/164",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1909-c1",
       "title": "Consolidated Fund (No. 1) Act 1909",

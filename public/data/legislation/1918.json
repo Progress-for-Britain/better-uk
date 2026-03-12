@@ -1,7 +1,565 @@
 {
   "year": 1918,
-  "count": 67,
+  "count": 129,
   "items": [
+    {
+      "id": "UKLA-1918-c1",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c10",
+      "title": "Pontypool Gas and Water Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c11",
+      "title": "Red Cross and Order of St. John Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c12",
+      "title": "Chepstow Gas Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c13",
+      "title": "Aldershot Gas, Water and District Lighting Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c14",
+      "title": "Railway Passengers Assurance (Consolidation) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c15",
+      "title": "Pontypridd and Rhondda Water Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c16",
+      "title": "West Bromwich Corporation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c17",
+      "title": "London County Council (Money) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c18",
+      "title": "Belfast Harbour Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c19",
+      "title": "British Gas Light Company (Norwich) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c2",
+      "title": "Land Drainage (Lotting Fen) Provisional Order Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c20",
+      "title": "Morecambe Corporation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c21",
+      "title": "Londonderry Corporation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c22",
+      "title": "County of London Electric Supply Company's Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c23",
+      "title": "Sligo Corporation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c24",
+      "title": "Nelson Corporation Water Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c25",
+      "title": "Glasgow Corporation Order Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c26",
+      "title": "Land Drainage (Pinchbeck) Provisional Orders Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c27",
+      "title": "Land Drainage (Woodwalton) Provisional Order Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c28",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 1) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c29",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 2) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c3",
+      "title": "Nitrate Railways Company Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c30",
+      "title": "Electric Lighting Orders Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c31",
+      "title": "Pier and Harbour Orders Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c32",
+      "title": "Glasgow and South Western Railway Order Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c33",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c34",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 5) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c35",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 6) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c36",
+      "title": "Rothesay Tramways (Amendment) Order Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c37",
+      "title": "Rotherham Corporation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c38",
+      "title": "Maidenhead Gas Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c39",
+      "title": "St. Olave's Southwark Church Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c4",
+      "title": "Westgate on Sea Congregational Chapel Charity Scheme Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c40",
+      "title": "Wandsworth, Wimbledon and Epsom District Gas Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c41",
+      "title": "West Sussex County Council (Bridges) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c42",
+      "title": "Bristol Corporation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c43",
+      "title": "Shropshire, Worcestershire and Staffordshire Electric Power Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c44",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c45",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c46",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 7) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c47",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c48",
+      "title": "Clyde Valley Electrical Power Order Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c49",
+      "title": "Cowdenbeath Water Order Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c5",
+      "title": "Provisional Order (Marriages) Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c50",
+      "title": "Dunfermline District Water Order Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c51",
+      "title": "Gas Orders Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c52",
+      "title": "Gas and Water Orders Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c53",
+      "title": "Portsea Gas Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c54",
+      "title": "Gas Light and Coke Company's Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c55",
+      "title": "South Metropolitan Gas Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c56",
+      "title": "London United Tramways Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c57",
+      "title": "Ipswich Dock Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c58",
+      "title": "Londonderry and Lough Swilly Railway Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c59",
+      "title": "Commercial Gas Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c6",
+      "title": "Motherwell Water (Supplementary Supply) Order Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c60",
+      "title": "Port Glasgow Water Order Confirmation Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c61",
+      "title": "Sheffield Corporation (Consolidation) Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c62",
+      "title": "South Suburban Gas Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c7",
+      "title": "Brixham Gas and Electricity Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c8",
+      "title": "Yorkshire Electric Power Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1918-c9",
+      "title": "Harrod's Stores Limited Act 1918",
+      "year": 1918,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/8-9/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1918-c1",
       "title": "Consolidated Fund (No. 1) Act 1918",

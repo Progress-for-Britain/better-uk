@@ -1,7 +1,2365 @@
 {
   "year": 1903,
-  "count": 47,
+  "count": 309,
   "items": [
+    {
+      "id": "UKLA-1903-c1",
+      "title": "Western Trust Limited Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c10",
+      "title": "Faversham Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c100",
+      "title": "Hampton Court Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c101",
+      "title": "Charing Cross, Euston and Hampstead Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c102",
+      "title": "Wolverhampton and Cannock Chase Railway (Extension of Time) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c103",
+      "title": "London and North Western Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c104",
+      "title": "Nantwich Urban District Council Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c105",
+      "title": "Sheffield and South Yorkshire Navigation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c106",
+      "title": "Torquay Corporation Water Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c107",
+      "title": "Nelson Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c108",
+      "title": "West Cumberland Electric Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c109",
+      "title": "Fishguard and Rosslare Railways and Harbours Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c11",
+      "title": "North's Navigation Collieries (1889) Limited Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c110",
+      "title": "Hexham Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c112",
+      "title": "Highland and Invergarry and Fort Augustus Railways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c113",
+      "title": "Port Talbot Railway and Docks Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c114",
+      "title": "Merthyr Tydfil Urban District Council Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c115",
+      "title": "Pontypridd Urban District Council Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c116",
+      "title": "Frinton-on-Sea Defences Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c117",
+      "title": "Cardiff Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c118",
+      "title": "Aston Manor Improvement Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c119",
+      "title": "Grindleford, Baslow and Bakewell Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c12",
+      "title": "Life Association of Scotland Limited Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c120",
+      "title": "London, Brighton and South Coast Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c121",
+      "title": "Mersey Docks and Harbour Board Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c122",
+      "title": "Broadstairs Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c123",
+      "title": "Hyde Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c124",
+      "title": "Leigh Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c125",
+      "title": "Great Metropolitan Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c126",
+      "title": "Metropolitan District Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c127",
+      "title": "Midland Railway (Belfast and Northern Counties Railway Purchase) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c128",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c129",
+      "title": "Pier and Harbour Orders Confirmation (No. 3) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c13",
+      "title": "Pelican and British Empire Life Office Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c130",
+      "title": "Pier and Harbour Orders Confirmation (No. 4) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c131",
+      "title": "Pier and Harbour Orders Confirmation (No. 5) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c132",
+      "title": "Gas Orders Confirmation (No. 1) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c133",
+      "title": "Gas Orders Confirmation (No. 2) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c134",
+      "title": "Water Orders Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c135",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c136",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c137",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 13) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c138",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c139",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 3) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c14",
+      "title": "Lima Railways Company Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c140",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 5) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c141",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 7) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c142",
+      "title": "Perth Corporation (Tramways) Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c143",
+      "title": "Aberdeen Corporation Tramways Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c144",
+      "title": "Metropolitan Police Provisional Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c145",
+      "title": "Tramways Orders Confirmation (No. 1) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c146",
+      "title": "Tramways Orders Confirmation (No. 2) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c147",
+      "title": "Irvine and District Water Board Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c148",
+      "title": "Rothesay Corporation Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c149",
+      "title": "Scottish Episcopal Clergy Widows' and Orphans' Fund Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c15",
+      "title": "Exeter Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c150",
+      "title": "Education Board Provisional Order Confirmation (London) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c151",
+      "title": "Gas and Water Orders Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c152",
+      "title": "Glasgow Corporation (Police) Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c153",
+      "title": "Lanarkshire Tramways Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c154",
+      "title": "Wick and Pulteney Harbours Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c155",
+      "title": "Addenbrooke's Hospital Scheme Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c156",
+      "title": "Post Office (Sites) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c157",
+      "title": "Scottish American Mortgage Company Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c158",
+      "title": "South Lancashire Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c159",
+      "title": "Didcot, Newbury and Southampton Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c16",
+      "title": "All Saints, Poplar (Rate Abolition) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c160",
+      "title": "Great Southern and Western Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c161",
+      "title": "St. Philip (Regent Street) Chapel Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c162",
+      "title": "Baker Street and Waterloo Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c163",
+      "title": "Midland Great Western Railway of Ireland Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c164",
+      "title": "Walker and Wallsend Union Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c165",
+      "title": "Blackheath and Greenwich District Electric Light Company's Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c166",
+      "title": "Derby Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c167",
+      "title": "Dudley, Stourbridge and District Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c168",
+      "title": "Christchurch and Bournemouth Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c169",
+      "title": "Tynemouth and District Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c17",
+      "title": "London Hydraulic Power Company Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c170",
+      "title": "Middlesbrough Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c171",
+      "title": "Taff Vale Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c172",
+      "title": "Sutton Coldfield Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c173",
+      "title": "City and South London Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c174",
+      "title": "Newcastle-upon-Tyne Electric Supply Company's Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c175",
+      "title": "Romford and District Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c176",
+      "title": "Wigan Corporation Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c177",
+      "title": "Woolwich Borough Council Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c178",
+      "title": "Bournemouth Corporation Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c179",
+      "title": "Alexandra Park and Palace Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c18",
+      "title": "Sutton District Waterworks Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c180",
+      "title": "Chatham and District Light Railways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c181",
+      "title": "Willesden Urban District Council Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c182",
+      "title": "Exeter Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c183",
+      "title": "Barry Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c184",
+      "title": "Dewsbury Batley and Birstal Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c185",
+      "title": "Worthing Corporation Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c186",
+      "title": "Great Northern, Piccadilly and Brompton Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c187",
+      "title": "London County Council (General Powers) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c188",
+      "title": "London, Tilbury and Southend Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c189",
+      "title": "Watford and Edgware Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c19",
+      "title": "Bridgwater Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c190",
+      "title": "Harrow Road and Paddington Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c191",
+      "title": "London United Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c192",
+      "title": "Birmingham Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c193",
+      "title": "Manchester Southern Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c194",
+      "title": "Castleblayney, Keady and Armagh Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c195",
+      "title": "Gosport and Fareham Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c196",
+      "title": "Great Western Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c197",
+      "title": "Lancashire and Yorkshire and London and North Western Railway Companies (Steam Vessels) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c198",
+      "title": "Neath, Pontardawe and Brynaman Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c199",
+      "title": "Chard Corporation Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c2",
+      "title": "Great Western Railway (Pension Fund) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c20",
+      "title": "East Ardsley Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c200",
+      "title": "Rochester Corporation Tramways and Improvements Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c201",
+      "title": "Kip's Patents Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c202",
+      "title": "Nottinghamshire and Derbyshire Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c203",
+      "title": "West Bromwich Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c204",
+      "title": "Hove, Worthing and District Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c205",
+      "title": "South Eastern and London, Chatham and Dover Railways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c206",
+      "title": "Scottish Ontario and Manitoba Land Company Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c207",
+      "title": "Bath Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c208",
+      "title": "Dublin, Wicklow and Wexford Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c209",
+      "title": "Bournemouth Gas and Water Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c21",
+      "title": "Burgess Hill and St. John's Common Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c210",
+      "title": "Carmarthenshire Electric Power Company Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c211",
+      "title": "Bristol Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/211",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c212",
+      "title": "Maryport Harbour Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/212",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c213",
+      "title": "Manchester Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/213",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c214",
+      "title": "Somerset and District Electric Power Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/214",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c215",
+      "title": "Birmingham District Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/215",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c216",
+      "title": "Baker Street and Waterloo Railway (Extension of Time) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/216",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c217",
+      "title": "Beckenham Urban District Council Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/217",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c218",
+      "title": "London County Council (Money) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/218",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c219",
+      "title": "London County Council (Tramways and Improvements) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/219",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c22",
+      "title": "Scarborough Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c220",
+      "title": "Mullingar, Kells and Drogheda Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/220",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c221",
+      "title": "Fife Electrical Power Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/221",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c222",
+      "title": "South Shields Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/222",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c223",
+      "title": "East Ham Improvement Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/223",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c224",
+      "title": "Wood Green Urban District Council Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/224",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c225",
+      "title": "Brighton Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/225",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c226",
+      "title": "Airdrie and Coatbridge Tramways Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/226",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c227",
+      "title": "Lerwick Harbour Improvements Act 1877 Amendment Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/227",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c228",
+      "title": "Glasgow Corporation Tramways Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/228",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c229",
+      "title": "Auchterarder Town Council Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/229",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c23",
+      "title": "Sittingbourne District Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c230",
+      "title": "Patent Office (Extension) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/230",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c231",
+      "title": "South Staffordshire Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/231",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c232",
+      "title": "Liverpool University Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/232",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c233",
+      "title": "Bradford Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/233",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c234",
+      "title": "Bury and District Joint Water Board Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/234",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c235",
+      "title": "Preston, Chorley and Horwich Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/235",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c236",
+      "title": "Salford Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/236",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c237",
+      "title": "Shropshire and Worcestershire Electric Power Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/237",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c238",
+      "title": "North Western Electricity and Power-Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/238",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c239",
+      "title": "Hastings Harbour Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/239",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c24",
+      "title": "South Wales Mineral Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c240",
+      "title": "Hastings Harbour District Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/240",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c241",
+      "title": "Scottish Central Electric Power Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/241",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c242",
+      "title": "Mid-Yorkshire Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/242",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c243",
+      "title": "Bangor Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/243",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c244",
+      "title": "South Western and Isle of Wight Junction Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/244",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c245",
+      "title": "Ebbw Vale Improvement Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/245",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c246",
+      "title": "Kingston-upon-Hull Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/246",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c247",
+      "title": "Dover Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/247",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c248",
+      "title": "Western Valleys (Monmouthshire) Sewerage Board Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/248",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c249",
+      "title": "Stroud and District Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/249",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c25",
+      "title": "Cleveland and Durham County Electric Power Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c250",
+      "title": "Erith Tramways and Improvement Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/250",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c251",
+      "title": "Great Central Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/251",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c252",
+      "title": "Gateshead Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/252",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c253",
+      "title": "South Yorkshire Joint Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/253",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c254",
+      "title": "North Eastern Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/254",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c255",
+      "title": "Sheffield Corporation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/255",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c256",
+      "title": "Cork Harbour Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/256",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c257",
+      "title": "Hainault (Lambourne, Fox Burrows and Grange Hill) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/257",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c258",
+      "title": "Seaforth and Sefton Junction Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/258",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c259",
+      "title": "Coventry Electric Tramways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/259",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c26",
+      "title": "India Rubber, Gutta Percha and Telegraph Works Company Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c260",
+      "title": "Strabane, Raphoe and Convoy Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/260",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c261",
+      "title": "Croydon and District Electric Tramways (Extensions) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/261",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c262",
+      "title": "Ulster and Connaught Light Railways Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/262",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c263",
+      "title": "North Metropolitan Electric Power Supply Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/263",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c27",
+      "title": "Milford Docks Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c28",
+      "title": "Market Drayton Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c29",
+      "title": "Wellington (Salop.) Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c3",
+      "title": "Iveagh Trust Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c30",
+      "title": "Knott End Railway (Extension of Time) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c31",
+      "title": "Winchester Water and Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c32",
+      "title": "Midland Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c33",
+      "title": "Staffordshire and Worcestershire Canal Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c34",
+      "title": "Harrow and Stanmore Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c35",
+      "title": "Wirral Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c36",
+      "title": "Rickmansworth Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c37",
+      "title": "Harrogate Water Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c38",
+      "title": "Gorleston and Southtown Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c39",
+      "title": "Belfast Water Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c4",
+      "title": "Queensland Investment and Land Mortgage Company Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c40",
+      "title": "Sheepshed Urban District Council Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c41",
+      "title": "Gas Light and Coke Company Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c42",
+      "title": "Commercial Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c43",
+      "title": "Great Eastern Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c44",
+      "title": "Land Drainage Provisional Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c45",
+      "title": "Electric Lighting Order Confirmation (No. 1) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c46",
+      "title": "Electric Lighting Orders Confirmation (No. 2) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c47",
+      "title": "Electric Lighting Orders Confirmation (No. 3) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c48",
+      "title": "Electric Lighting Orders Confirmation (No. 4) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c49",
+      "title": "Electric Lighting Orders Confirmation (No. 6) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c5",
+      "title": "Great Northern and City Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c50",
+      "title": "Lanarkshire and Ayrshire Railway Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c51",
+      "title": "Dundee Royal Lunatic Asylum Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c52",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 1) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c53",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 2) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c54",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 4) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c55",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 6) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c56",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 8) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c57",
+      "title": "Local Government Board's Provisional Order Confirmation (Housing of Working Classes) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c58",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c59",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c6",
+      "title": "Maidstone Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c60",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c61",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c62",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c63",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c64",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 11) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c65",
+      "title": "Local Government Board's Provisional Orders Confirmation (Gas) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c66",
+      "title": "St. Luke's Church and Parish Quoad Sacra Edinburgh Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c67",
+      "title": "Naval Works Provisional Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c68",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c69",
+      "title": "Grangemouth Water Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c7",
+      "title": "Stoke Newington Borough Council Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c70",
+      "title": "Lanarkshire Electricity and Refuse Destruction Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c71",
+      "title": "Forth Navigation Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c72",
+      "title": "Caledonian Railway Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c73",
+      "title": "Edinburgh Corporation (Markets, Slaughter-houses, &amp;c.) Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c74",
+      "title": "North British Railway (General Powers) Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c75",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Housing of Working Classes) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c76",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c77",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 9) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c78",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 10) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c79",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 12) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c8",
+      "title": "North Middlesex Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c80",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 14) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c81",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 16) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c82",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 17) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c83",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 18) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c84",
+      "title": "Military Lands Provisional Orders Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c85",
+      "title": "Education Board Provisional Orders Confirmation (East Ham, &amp;c.) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c86",
+      "title": "Hamilton Burgh Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c87",
+      "title": "Broughty Ferry Gas Order Confirmation Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c88",
+      "title": "Electric Lighting Orders Confirmation (No. 5) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c89",
+      "title": "Electric Lighting Orders Confirmation (No. 7) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c9",
+      "title": "Plymouth and Stonehouse Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c90",
+      "title": "Pier and Harbour Orders Confirmation (No. 6) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c91",
+      "title": "Southampton Harbour Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c92",
+      "title": "King's College London Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c93",
+      "title": "Scunthorpe Urban District Water Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c94",
+      "title": "Ipswich Gas Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c95",
+      "title": "Lanarkshire and Dumbartonshire Railway Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c96",
+      "title": "New Hunstanton Improvement Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c97",
+      "title": "British Gas Light Company (Norwich) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c98",
+      "title": "Hastings Tramways (Extension) Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1903-c99",
+      "title": "Jewish Colonization Association Act 1903",
+      "year": 1903,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Edw7/3/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1903-c1",
       "title": "Bank Holiday (Ireland) Act 1903",

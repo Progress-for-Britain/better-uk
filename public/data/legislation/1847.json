@@ -1,7 +1,2626 @@
 {
   "year": 1847,
-  "count": 12,
+  "count": 303,
   "items": [
+    {
+      "id": "UKLA-1847-c1",
+      "title": "General Life and Fire Assurance Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c10",
+      "title": "Ayrshire and Galloway (Smithstown and Dalmellington) Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c100",
+      "title": "Dublin and Drogheda Railway (Navan to Kells Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c101",
+      "title": "Swansea Valley Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c102",
+      "title": "Manchester and Lincoln Union Railway (Deviation) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c103",
+      "title": "Manchester and Leeds Railway (No. 2) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c104",
+      "title": "South Eastern Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c105",
+      "title": "Liverpool, Crosby and Southport Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c106",
+      "title": "Dundee and Newtyle Railway (Widening, Altering and Improving) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c107",
+      "title": "London and North Western Railway (Newport Pagnell, Olney and and Wellingborough Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c108",
+      "title": "North Staffordshire Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c109",
+      "title": "South Wales Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c11",
+      "title": "Colchester, Stour Valley, Sudbury and Halstead Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c110",
+      "title": "Derbyshire, Staffordshire and Worcestershire Junction Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c111",
+      "title": "Dublin and Belfast Junction Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c112",
+      "title": "Boston, Stamford and Birmingham Railway (Peterborough and Thorney Line) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c113",
+      "title": "East Lincolnshire Railway (Louth Navigation Purchase) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c114",
+      "title": "Coventry and Nuneaton Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c115",
+      "title": "London and South Western Railway (Andover and Southampton Junction Railway) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c116",
+      "title": "Manchester, Sheffield and Lincolnshire Railway (Bugsworth Branch and Amendment of Acts) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c117",
+      "title": "York and Newcastle Railway (Wearmouth and Dock Enlargement Act) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c118",
+      "title": "London and North Western Railway (Atherstone and Whitacre Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c119",
+      "title": "Glasgow, Kilmarnock and Ardrossan Railway (Amendment, Deviations and Branches) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c12",
+      "title": "Newmarket and Chesterford Railway (Bury Extension and Ely Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c120",
+      "title": "Birmingham, Wolverhampton and Stour Valley Railway (No. 1) (Smethwick Deviation) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c121",
+      "title": "Shropshire Union Railways and Canal Lease Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c122",
+      "title": "Midland Railway (Leicester and Swannington Railway Amendment) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c128",
+      "title": "Warkworth Harbour Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c129",
+      "title": "Bristol Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c13",
+      "title": "Newmarket and Chesterford Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c130",
+      "title": "Midland Great Western Railway of Ireland (Newcastle, Anniskinnan and Baltrasna Deviations) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c131",
+      "title": "Westminster Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c132",
+      "title": "London and North Western Railway (St. Alban's, Luton and Dunstable Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c133",
+      "title": "York, Newcastle and Berwick Railways Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c134",
+      "title": "York and Newcastle Railway (Pelaw and other Branches) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c135",
+      "title": "Midland Railways (Extension to Hitchin, Northampton and Huntingdon Railway) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c136",
+      "title": "North British Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c137",
+      "title": "Ipswich and Bury Railway (Woodbridge Extension) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c138",
+      "title": "Manchester, Sheffield and Lincolnshire Railway (Wragby Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c139",
+      "title": "Birmingham and Lichfield Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c14",
+      "title": "Manchester Markets Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c140",
+      "title": "York and North Midland Railway (Harrogate Station) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c141",
+      "title": "York and North Midland Railway (Knottingley Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c142",
+      "title": "Aberdeen Railway (Brechin Branch Deviation) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c143",
+      "title": "Great Northern Railway (Deviation near Doncaster) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c144",
+      "title": "Shrewsbury and Chester Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c145",
+      "title": "London and South Western Railway (Portsmouth Extension and Godalming Deviation) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c146",
+      "title": "Great Northern Railway (Deviations between Grantham and York) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c147",
+      "title": "Chester and Holyhead Railway (Chester Extension and Amendment) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c148",
+      "title": "Great Northern Railway Company's Purchase Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c149",
+      "title": "Birmingham, Wolverhampton and Dudley Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c15",
+      "title": "Wolverhampton Gas Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c150",
+      "title": "Midland Railway (Masbrough and Normanton Stations Enlargement) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c151",
+      "title": "Edinburgh, Leith and Granton Railway (Leith Extension) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c152",
+      "title": "Edinburgh, Leith and Granton Railway (Leith and Granton Junction) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c153",
+      "title": "Portadown and Dungannon Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c154",
+      "title": "Cheltenham and Oxford Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c155",
+      "title": "Boston, Stamford and Birmingham Railway (Sutton Railway and Harbour) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c156",
+      "title": "Eastern Counties Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c157",
+      "title": "Eastern Counties Railway (Bedford Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c158",
+      "title": "Eastern Counties (Cambridge to Bedford Railway) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c159",
+      "title": "London and North Western Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c16",
+      "title": "Hartlepool West Harbour and Dock Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c160",
+      "title": "Dublin, Dundrum and Rathfarnham Railway, St. Stephens Green Extension Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c161",
+      "title": "Huddersfield and Manchester Railway (Deviations and Alterations in Oldham Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c162",
+      "title": "Mold Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c163",
+      "title": "Lancashire and Yorkshire Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c164",
+      "title": "Blackburn, Darwen and Bolton Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c165",
+      "title": "Manchester, Sheffield and Lincolnshire Railways (Thurgoland Coal Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c166",
+      "title": "Lancashire and Yorkshire Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c167",
+      "title": "Direct London and Portsmouth Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c168",
+      "title": "Glasgow, Paisley and Greenock Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c169",
+      "title": "Caledonian and Glasgow, Paisley and Greenock Railways Amalgamation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c17",
+      "title": "Bolton Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c170",
+      "title": "Lynn and Ely Railway (Deviation and Lynn Dock) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c171",
+      "title": "Lynn and Ely Railway (Lynn and Wormegay Navigation) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c172",
+      "title": "Caledonian Railway (Dumfrieshire and Cumberland Branches) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c173",
+      "title": "East Lothian Central Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c174",
+      "title": "Eastern Union Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c175",
+      "title": "Chard Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c176",
+      "title": "Midland Great Western Railway of Ireland (Athlone to Galway Extension) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c177",
+      "title": "Newport, Abergavenny and Hereford Railway (Extension to Taff Vale Railway) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c178",
+      "title": "Northampton and Banbury Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c179",
+      "title": "Swansea and Amman Junction Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c18",
+      "title": "Colchester, Stour Valley, Sudbury and Halstead Railway (Extension) (Railway from Lavenham to Bury St. Edmunds) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c180",
+      "title": "Dublin and Drogheda Railway (Purchase of Navan Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c181",
+      "title": "Glasgow, Dumfries and Carlisle Railway Amendment (No. 1) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c182",
+      "title": "Glasgow, Dumfries and Carlisle Railway Amendment (No. 2) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c183",
+      "title": "Glasgow and South Western Railway Incorporation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c184",
+      "title": "Glasgow, Paisley, Kilmarnock and Ayr Railway and Glasgow and Belfast Union Railway Amendment and Branches (No. 1) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c185",
+      "title": "Glasgow, Paisley, Kilmarnock and Ayr Railway Amendment and Branches (No. 2) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c186",
+      "title": "Glasgow, Paisley, Kilmarnock and Ayr Railway Amendment (No. 4) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c187",
+      "title": "Parkgate Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c188",
+      "title": "Portobello and Wolverhampton Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c189",
+      "title": "South Staffordshire Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c19",
+      "title": "Eastern Union and Hadleigh Junction Railway Sale Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c190",
+      "title": "Manchester, Sheffield and Lincolnshire Railways, and Manchester and Lincoln Union Railway and Chesterfield and Gainsborough Canal Amalgamation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c191",
+      "title": "Midland Railway (Mansfield and Pinxton Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c192",
+      "title": "Burntisland Pier and Ferry Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c193",
+      "title": "Boston, Stamford and Birmingham Railway (Branch to Wisbech Harbour and Wisbech Harbour Improvement) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c194",
+      "title": "Cork and Bandon Railway (Extension, Deviation and Amendment) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c195",
+      "title": "Great North of Scotland Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c196",
+      "title": "Sandwich Haven Improvement and Regulation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c197",
+      "title": "Wisbech Harbour Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c198",
+      "title": "Limerick Docks and Harbour Improvement Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c199",
+      "title": "Wakefield Gas Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c2",
+      "title": "Llynvi Iron Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c20",
+      "title": "Newmarket and Chesterford (Thetford Extension Railway) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c200",
+      "title": "Port of London (Legal Quays) Act 1846 Continuance Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c201",
+      "title": "Ashton-under-Lyne Gas Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c202",
+      "title": "Edinburgh Water Company's Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c203",
+      "title": "Manchester Corporation Waterworks Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c204",
+      "title": "Staffordshire Potteries Waterworks Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c205",
+      "title": "Lendal Bridge and York Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c206",
+      "title": "Norwich Small Tenements Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c207",
+      "title": "Kilmarnock Police and Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c208",
+      "title": "Inverness Burgh Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c209",
+      "title": "Inverness Harbour Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c21",
+      "title": "Colchester, Stour Valley, Sudbury and Halstead Railway Lease Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c210",
+      "title": "Leeds and Thirsk Railway (Crimple Deviation and Carlton Junction) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c211",
+      "title": "Lincoln's Inn Rates Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/211",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c212",
+      "title": "Landowners Drainage and Inclosure Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/212",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c213",
+      "title": "Ayrshire Roads Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/213",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c214",
+      "title": "Midland Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/214",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c215",
+      "title": "Midland Railway (Syston and Peterborough Deviations and Manton Approach) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/215",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c216",
+      "title": "York and North Midland Railway (Canals Purchase) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/216",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c218",
+      "title": "York and North Midland Railway (Hull Station) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/218",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c219",
+      "title": "York and North Midland Railway (Boroughbridge and Knaresborough Extension) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/219",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c22",
+      "title": "Caledonian Railway (Motherwell Branch Extension) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c220",
+      "title": "Edinburgh and Northern Railway (Dunfermline Branch Deviation and Extension, &amp;c.) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/220",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c221",
+      "title": "Manchester and Southport Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/221",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c222",
+      "title": "Birkenhead, Lancashire and Cheshire Junction Railway and Chester and Birkenhead Railway Amalgamation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/222",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c223",
+      "title": "Birkenhead, Lancashire and Cheshire Junction Railway (Deviation of Main Line, &amp;c.) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/223",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c224",
+      "title": "East of Fife Railway (Markinch Deviation) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/224",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c225",
+      "title": "Eastern Union and Harwich Railway and Pier Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/225",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c226",
+      "title": "Great Western Railway (Amendment and Extensions) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/226",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c227",
+      "title": "Liverpool, Manchester and Newcastle-upon-Tyne Junction Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/227",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c228",
+      "title": "Lime Street (Liverpool) and Crewe Stations Extensions Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/228",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c229",
+      "title": "Paisley and Renfrew Railway (Sale and Improvement) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/229",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c23",
+      "title": "Caledonian Railway (Branches to Wilsontown, Fauldhouse, Biggar, and Broughton) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c230",
+      "title": "South Eastern Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/230",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c231",
+      "title": "Waterford and Limerick Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/231",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c232",
+      "title": "Oldham Alliance Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/232",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c233",
+      "title": "Manchester and Birmingham and North Staffordshire Junction Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/233",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c234",
+      "title": "Glasgow, Paisley, Kilmarnock and Ayr Railway and Ayrshire and Bridge of Weir Railway Amendment and Branches (No. 3) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/234",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c235",
+      "title": "Eastern Counties (Wisbech to Spalding) Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/235",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c236",
+      "title": "Buckinghamshire Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/236",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c237",
+      "title": "Caledonian Railway (Edinburgh Station and Branches) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/237",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c238",
+      "title": "Chester and Holyhead Railway (Holyhead Extension and Amendment) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/238",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c239",
+      "title": "Edinburgh and Northern Railway Company and Edinburgh, Leith and Granton Railway Company Amalgamation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/239",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c24",
+      "title": "Caledonian Railway (Lesmahagow Branches) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c240",
+      "title": "Liverpool, Manchester and Newcastle-upon-Tyne Junction Railway (Burnley Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/240",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c241",
+      "title": "Reading, Guildford and Reigate Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/241",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c242",
+      "title": "South Devon Railway (Extensions and Amendment) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/242",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c243",
+      "title": "Exeter and Exmouth Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/243",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c244",
+      "title": "Brighton and Chichester (Portsmouth Extension) and London and South Western Railways Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/244",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c245",
+      "title": "Glasgow, Airdrie and Monklands Junction Railway (Cowlairs Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/245",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c246",
+      "title": "Edinburgh and Bathgate Railway (Deviation and Amendment) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/246",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c247",
+      "title": "Manchester, Buxton, Matlock and Midlands Junction Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/247",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c248",
+      "title": "Royston and Hitchin Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/248",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c249",
+      "title": "London and South Western Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/249",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c25",
+      "title": "Leith Harbour Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c250",
+      "title": "Bathwick Church and Workhouse Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/250",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c251",
+      "title": "Lytham Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/251",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c252",
+      "title": "Tunstall Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/252",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c253",
+      "title": "Rathmines Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/253",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c254",
+      "title": "Belfast Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/254",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c255",
+      "title": "Blackburn Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/255",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c256",
+      "title": "St. Ives (Huntingdonshire) Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/256",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c257",
+      "title": "Portsmouth Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/257",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c258",
+      "title": "Bingley Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/258",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c259",
+      "title": "Wexford Free Bridge Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/259",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c26",
+      "title": "Rochdale Waterworks Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c260",
+      "title": "Swansea Harbour Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/260",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c261",
+      "title": "Liverpool Corporation Waterworks Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/261",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c262",
+      "title": "Leeds Waterworks Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/262",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c263",
+      "title": "Tyne Docks Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/263",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c264",
+      "title": "Birkenhead Docks Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/264",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c265",
+      "title": "Birkenhead Docks (Wallasey Pool) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/265",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c266",
+      "title": "Leominster Canal Sale Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/266",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c267",
+      "title": "Lincolnshire Drainage Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/267",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c268",
+      "title": "Liverpool and London Fire and Life Insurance Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/268",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c269",
+      "title": "National Mercantile Life Assurance Society Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/269",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c27",
+      "title": "Bristol and Clifton Gaslight Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c270",
+      "title": "Coventry, Nuneaton, Birmingham and Leicester Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/270",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c271",
+      "title": "St. Helens Canal and Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/271",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c272",
+      "title": "Great Northern Railway (Hertford, Hatfield and St. Albans Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/272",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c273",
+      "title": "Taw Vale Railway and Dock Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/273",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c274",
+      "title": "Edinburgh and Northern Railway (Improvement of the Ferry between Ferry-Port-on-Craig and the North Shore of the River Tay) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/274",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c275",
+      "title": "East Anglian Railways Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/275",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c276",
+      "title": "London Bridge Railway Termini General Enlargement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/276",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c277",
+      "title": "Edinburgh and Northern Railway (St. Andrews and Newburgh Harbour Branches and Road Crossings, Newport Railway Extension) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/277",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c278",
+      "title": "London and North Western Railway, Branch from Kenilworth to Berkswell, and Leamington to Coventry Railway Enlargement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/278",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c279",
+      "title": "Manchester, Sheffield and Lincolnshire Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/279",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c28",
+      "title": "Inverness Gas and Water Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c280",
+      "title": "London (City) Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/280",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c281",
+      "title": "Colchester Town, Port and Navigation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/281",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c282",
+      "title": "Leicester Waterworks Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/282",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c283",
+      "title": "Kingston-upon-Hull Dock Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/283",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c284",
+      "title": "Stockport Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/284",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c285",
+      "title": "Wolverhampton General Cemetery Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/285",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c286",
+      "title": "Great Northern Railway (Sutton Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/286",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c287",
+      "title": "Great Northern Railway (Deviations between London and Grantham) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/287",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c288",
+      "title": "East Lancashire Railway (Deviations and Rawtenstall Coal Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/288",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c289",
+      "title": "East Lancashire Railway (Preston Extension) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/289",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c29",
+      "title": "Ryde Improvement Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c290",
+      "title": "Northern Counties Union Railway Deviation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/290",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c291",
+      "title": "South Yorkshire, Doncaster and Goole Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/291",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c292",
+      "title": "Wear Valley Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/292",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c293",
+      "title": "Newbury Cemetery Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/293",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c294",
+      "title": "Widnes and Prescot Brook Colliery Branches Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/294",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c295",
+      "title": "Llynvi Valley Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/295",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c296",
+      "title": "Timber Preserving Company's Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/296",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c297",
+      "title": "Sutton Harbour Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/297",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c3",
+      "title": "Whiteburn and Kelso Road (Berwick) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c30",
+      "title": "Wolverhampton Rates Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c31",
+      "title": "Shipowners' Towing Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c32",
+      "title": "Dunfermline and Cupar Court Houses Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c33",
+      "title": "Kingston-upon-Thames Small Tenements Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c34",
+      "title": "Scottish Union Insurance Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c35",
+      "title": "Scottish Equitable Life Assurance Society Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c36",
+      "title": "Claridge's Patent Asphalt Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c37",
+      "title": "Bridge House Estates Debt Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c38",
+      "title": "Metropolitan Sewerage Manure Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c39",
+      "title": "Aberdeen Harbour Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c4",
+      "title": "District Fire Insurance Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c40",
+      "title": "Runcorn Gas Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c41",
+      "title": "Bingley Gas Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c42",
+      "title": "Alliance and Dublin Consumers Gas Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c43",
+      "title": "Imperial Continental Gas Association Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c44",
+      "title": "Warrington Gas Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c45",
+      "title": "Sheffield Markets Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c46",
+      "title": "Elwell Rates Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c47",
+      "title": "Plymouth and Tavistock Turnpike Roads Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c48",
+      "title": "Edinburgh Markets Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c49",
+      "title": "Wakefield Borough Market Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c5",
+      "title": "Shipley Gas Light Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c50",
+      "title": "Waterford Road Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c51",
+      "title": "Glasgow and Shott's Road Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c52",
+      "title": "Belfast Harbour Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c53",
+      "title": "Commercial Gas Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c54",
+      "title": "Darwen Waterworks and Reservoirs Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c55",
+      "title": "London Sewage Chemical Manure Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c56",
+      "title": "British American Land Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c57",
+      "title": "Windsor, Staines and South Western Railway (No. 2) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c58",
+      "title": "Windsor, Staines and South Western Railway (No. 1) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c59",
+      "title": "Cork, Blackrock and Passage Railway, Extension to Monkstown and Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c6",
+      "title": "Pile Pier Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c60",
+      "title": "Wilts., Somerset and Weymouth Railway Deviation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c61",
+      "title": "Waterford, Wexford and Wicklow Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c62",
+      "title": "Liskeard and Caradon Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c63",
+      "title": "Killarney and Valencia Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c64",
+      "title": "Norfolk Railway, Reedham and Diss Branches Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c65",
+      "title": "Dundalk and Enniskillen Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c66",
+      "title": "King's Norton, Northfield, Beoley, Edgbaston and Harborne Rates Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c67",
+      "title": "Liverpool Gaslight Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c68",
+      "title": "Weymouth and Melcombe Regis Harbour and Bridge Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c69",
+      "title": "Ross and Cromartyshire District Roads Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c7",
+      "title": "Ipswich Gas Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c70",
+      "title": "Westminster and Middlesex Sewers Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c71",
+      "title": "London (City) Small Debts Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c72",
+      "title": "Cornwall Railway Amendment and Deviation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c73",
+      "title": "Transfer of the Earl of Ellesmere's Interest in the Manchester South Junction and Altrincham Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c74",
+      "title": "Vale of Neath Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c75",
+      "title": "General Terminus and Glasgow Harbour Railway (Branches) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c76",
+      "title": "Gloucester and Dean Forest Railway Dock Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c77",
+      "title": "Dunfermline Waterworks Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c78",
+      "title": "Ambergate, Nottingham and Boston and Eastern Junction Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c79",
+      "title": "Lynvi Valley Railway Extension Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c8",
+      "title": "Cheltenham Waterworks Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c80",
+      "title": "Shrewsbury and Birmingham Railway (Amendment and Branches) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c81",
+      "title": "Bristol and South Wales Junction Railway and Aust Ferry Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c82",
+      "title": "Caledonian Railway (Garnkirk Station) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c83",
+      "title": "Caledonian and Dumbartonshire Junction Railway (Deviation and Branches) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c84",
+      "title": "British Commercial Insurance Company Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c85",
+      "title": "Newry and Enniskillen Railway Amendment Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c86",
+      "title": "Newport, Abergavenny and Hereford Railway (Deviations) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c87",
+      "title": "Herne Bay and Canterbury Junction Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c88",
+      "title": "London and South Western Railway (Widening and York Road Station Enlargement) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c89",
+      "title": "Dundee and Perth Railway (Alteration and Extension) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c9",
+      "title": "Newhaven Harbour and Ouse Harbour Navigation Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c90",
+      "title": "Glasgow, Barrhead and Neilston Direct Railway (Amendment and Deviation) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c91",
+      "title": "Great Western Railway (West London Widening and Branches) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c92",
+      "title": "Eastern Counties Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c93",
+      "title": "Great Southern and Western Railway (Ireland) Extension, Portarlington to Tullamore Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c94",
+      "title": "Norfolk Railway (Diss Branch Railway) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c95",
+      "title": "Glasgow, Barrhead and Neilston Direct Railway Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c96",
+      "title": "Southampton and Dorchester Railway (Lymington and Eling Branches) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c97",
+      "title": "Southampton and Dorchester Railway (Weymouth Branch) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c98",
+      "title": "Lowestoft Railway Alteration Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1847-c99",
+      "title": "Norfolk Railway (Yarmouth Extension) Act 1847",
+      "year": 1847,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/10-11/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1847-c104",
       "title": "Tithe Act 1847 (repealed 19. 11. 1998)",

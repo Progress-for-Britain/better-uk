@@ -1,7 +1,925 @@
 {
   "year": 1805,
-  "count": 1,
+  "count": 103,
   "items": [
+    {
+      "id": "UKLA-1805-c1",
+      "title": "Road from Derby to Hurdloe House Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c10",
+      "title": "Rothbury and Elsdon Inclosures Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c100",
+      "title": "All Saints Lewes Parish Church Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c101",
+      "title": "Ipswich Port Improvement Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c102",
+      "title": "Broadstairs Pier Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c103",
+      "title": "Carmarthen Gaol, House of Correction, Water Supply, &amp;c. Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c104",
+      "title": "Gloucester and Berkeley Canal Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c105",
+      "title": "West Riding of Yorkshire Drainage Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c106",
+      "title": "Dublin Baking and Corn Trade Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c107",
+      "title": "Wadsley and Langset Road Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c108",
+      "title": "Road from Dunfermline to Nivingstone Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c109",
+      "title": "Road from Newnham to St. Whites (Gloucestershire) Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c11",
+      "title": "Ashton Canal Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c110",
+      "title": "Earl of Camden and Prebendary of Cantlowes Estates Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c111",
+      "title": "Wimborne St. Giles and Allhallows Glebe Lands and Earl of Shaftesbury's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c112",
+      "title": "Mawbey's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c113",
+      "title": "Bishop of London's (Paddington) Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c114",
+      "title": "Legard's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c115",
+      "title": "Canterbury Cathedral and Brandon's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c116",
+      "title": "Huttons Ambo Inclosure Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c117",
+      "title": "Thames Tunnel (Wapping and Rotherhithe) Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c118",
+      "title": "Maidstone Poor Relief Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c119",
+      "title": "South London Waterworks Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c12",
+      "title": "Peak Forest Canal Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c13",
+      "title": "Middleton-in-Teesdale Inclosure Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c14",
+      "title": "Nightingale's and Bolton Road Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c15",
+      "title": "Pengate and Latchett's Bridge Road (Wiltshire) Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c16",
+      "title": "Roads in Clackmannan and Perth Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c17",
+      "title": "Stockton-upon-Tees, Darlington and Barnard Castle Road Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c18",
+      "title": "Burrell's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c19",
+      "title": "Carlton, Chellington and Steventon Inclosures Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c2",
+      "title": "London Coal Trade Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c20",
+      "title": "Sale Inclosure Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c21",
+      "title": "Edinburgh Police Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c22",
+      "title": "Road from Edinburgh to Lanark Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c23",
+      "title": "London Bread Trade Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c24",
+      "title": "Bowyer's Lottery Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c25",
+      "title": "Shillingford and Reading Road and Shillingford Bridge Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c26",
+      "title": "Sutherland Roads and Bridges Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c27",
+      "title": "Roads from Kirkby Steven through Sedbergh to Greeta Bridge Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c28",
+      "title": "Ayr (County) Turnpike Roads Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c29",
+      "title": "Road from Biggar to Leadhills Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c3",
+      "title": "Roads to and from Crewkerne Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c30",
+      "title": "Ardrossan Harbour Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c31",
+      "title": "Excise Incorporation in Scotland Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c32",
+      "title": "Leith Harbour Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c33",
+      "title": "Carmarthen Fisheries Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c34",
+      "title": "Plymouth and Stonehouse Bridge Roads Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c35",
+      "title": "Road from Grantham to Nottingham Trent Bridge Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c36",
+      "title": "Road from Hinckley to Lutterworth Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c37",
+      "title": "Road from the Swindon Turnpike to Everley Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c38",
+      "title": "Barrow's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c39",
+      "title": "Frizington Inclosure Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c4",
+      "title": "Manchester, Bury and Bolton Canal Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c40",
+      "title": "Roads and Bridges in Ross, Cromarty and Nairn Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c41",
+      "title": "Needwood Church Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c42",
+      "title": "Kingston-upon-Hull Dock Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c43",
+      "title": "Hull and Leven Canal Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c44",
+      "title": "Portsmouth Gaol Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c45",
+      "title": "Blaenavon Church Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c46",
+      "title": "Elgin County Roads and Bridges Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c47",
+      "title": "Road from Norwich to Scole Bridge Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c48",
+      "title": "Road from Lostwithiel Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c49",
+      "title": "Melton Mowbray Road Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c5",
+      "title": "Surrey Iron Railway Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c50",
+      "title": "Road from Hinckley to Bishop's Gate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c51",
+      "title": "Cork and Limerick Road Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c52",
+      "title": "Carlow and Kilkenny Road Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c53",
+      "title": "Duke of Norfolk's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c6",
+      "title": "Bethnal Green Road Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c7",
+      "title": "Road from Hollinwood to Featherstall Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c71",
+      "title": "Leicestershire and Northamptonshire Union Canal Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c72",
+      "title": "Bedford Level Drainage and Ouse Navigation Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c73",
+      "title": "Rumney Bridge Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c74",
+      "title": "Roads in Glamorgan Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c75",
+      "title": "Totnes and Ashburton Roads and Emmett Bridge over River Dart Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c76",
+      "title": "Roads from Spalding High Bridge to Donington Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c77",
+      "title": "Road from Leicester to Lutterworth Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c78",
+      "title": "Road from Welford Bridge Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c79",
+      "title": "Road from Markfield Turnpike (Leicestershire) Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c8",
+      "title": "Winterton and East and West Somerton Inclosures and Drainage Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c80",
+      "title": "Road from Lawton to Burslem Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c81",
+      "title": "Duke of Bridgewater's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c82",
+      "title": "Oxford University and Earl of Radnor's Estates Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c83",
+      "title": "Earl of Ormonde and Ossory's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c84",
+      "title": "Lord Kirkwall's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c85",
+      "title": "Viscount Montague's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c86",
+      "title": "Canterbury Cathedral's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c87",
+      "title": "Waller and Du PrÃ© Estates Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c88",
+      "title": "Ferryman's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c89",
+      "title": "Keate's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c9",
+      "title": "Simonburn Inclosure Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c90",
+      "title": "Baillie's Estate Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c91",
+      "title": "Stockport Common Lands and Poor Relief Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c92",
+      "title": "Great Canford and Poole Inclosures Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c93",
+      "title": "Swallow Inclosure Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c94",
+      "title": "Scarborough Improvement Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c95",
+      "title": "Whitecross Road and Beverley Road Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c96",
+      "title": "Leek Inclosure Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c97",
+      "title": "Hampton-in-Arden Inclosure Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c98",
+      "title": "Thames Lastage and Ballastage Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1805-c99",
+      "title": "St. Pancras Poor Relief, Workhouse and Rate Collectors Act 1805",
+      "year": 1805,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/45/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1805-c92",
       "title": "Writ of Subpoena Act 1805",

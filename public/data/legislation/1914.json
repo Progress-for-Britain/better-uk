@@ -1,7 +1,1744 @@
 {
   "year": 1914,
-  "count": 91,
+  "count": 284,
   "items": [
+    {
+      "id": "UKLA-1914-c1",
+      "title": "Scottish Insurance Companies (Superannuation Fund) Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c10",
+      "title": "Corn Exchange Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c100",
+      "title": "South Suburban Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c101",
+      "title": "Reading Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c102",
+      "title": "London, Brighton and South Coast Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c103",
+      "title": "Leyland Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c104",
+      "title": "Tees Valley Water Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c105",
+      "title": "Middlesbrough Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c106",
+      "title": "Birmingham Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c107",
+      "title": "Great Western Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c108",
+      "title": "Swindon Corporation (Wilts. and Berks. Canal Abandonment) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c109",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 2) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c11",
+      "title": "Rhymney Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c110",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 3) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c111",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 4) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c112",
+      "title": "Gas and Water Orders Confirmation (No. 1) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c113",
+      "title": "Gas and Water Orders Confirmation (No. 2) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c114",
+      "title": "Pier and Harbour Order Confirmation (No. 1) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c115",
+      "title": "Pier and Harbour Orders Confirmation (No. 3) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c116",
+      "title": "Pier and Harbour Orders Confirmation (No. 4) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c117",
+      "title": "Electric Lighting Orders Confirmation (No. 2) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c118",
+      "title": "Electric Lighting Orders Confirmation (No. 4) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c119",
+      "title": "Electric Lighting Orders Confirmation (No. 6) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c12",
+      "title": "Chelsea Borough Council (Superannuation and Pensions) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c120",
+      "title": "Electric Lighting Orders Confirmation (No. 7) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c121",
+      "title": "Electric Lighting Order Confirmation (No. 9) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c122",
+      "title": "Sea Fisheries (Emsworth) Provisional Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c123",
+      "title": "Sea Fisheries (Yealm) Provisional Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c124",
+      "title": "Land Drainage (Tillingham Valley) Provisional Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c125",
+      "title": "Education Board Provisional Orders Confirmation (Cambridge, &amp;c.) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c126",
+      "title": "Education Board Provisional Order Confirmation (London) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c127",
+      "title": "Local Government Board's Provisional Orders Confirmation (Gas) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c128",
+      "title": "Local Government Board's Provisional Order Confirmation (Housing) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c129",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 8) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c13",
+      "title": "South Bank and Normanby Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c130",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 9) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c131",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 10) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c132",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 12) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c133",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 13) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c134",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 14) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c135",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 15) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c136",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 16) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c137",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 17) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c138",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 22) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c139",
+      "title": "Leighton Buzzard Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c14",
+      "title": "Chiswick Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c140",
+      "title": "Gas Light and Coke Company's Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c141",
+      "title": "Leeds Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c142",
+      "title": "Edenbridge and District Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c143",
+      "title": "Midland Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c144",
+      "title": "Skegness Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c145",
+      "title": "South Western and Isle of Wight Junction Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c146",
+      "title": "Manchester Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c147",
+      "title": "West Gloucestershire Water Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c148",
+      "title": "Alexandra (Newport and South Wales) Docks and Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c149",
+      "title": "London County Council (Tramways and Improvements) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c15",
+      "title": "Didcot, Newbury and Southampton Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c150",
+      "title": "Northwich Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c151",
+      "title": "Riddings District Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c152",
+      "title": "Southend-on-Sea Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c153",
+      "title": "Wadhurst and District Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c154",
+      "title": "Brecon and Merthyr Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c155",
+      "title": "Poole Harbour Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c156",
+      "title": "Great Northern Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c157",
+      "title": "Hayward's Heath Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c158",
+      "title": "Newcastle-upon-Tyne Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c159",
+      "title": "Ossett Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c16",
+      "title": "Chesterfield Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c160",
+      "title": "Walsall Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c161",
+      "title": "St. Anne's-on-the-Sea Improvement Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c162",
+      "title": "Bristol Corporation (Tramways) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c163",
+      "title": "Porthcawl Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c164",
+      "title": "Wimbledon Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c165",
+      "title": "Great Central Railway (Pension Fund) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c166",
+      "title": "Weston-super-Mare Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c167",
+      "title": "Wesleyan and General Assurance Society Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c168",
+      "title": "Glasgow (Tramways, Bridges, &amp;c.) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c169",
+      "title": "City of London (Various Powers) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c17",
+      "title": "Cardiff Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c170",
+      "title": "Clergy Mutual Assurance Society Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c171",
+      "title": "Isle of Thanet Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c172",
+      "title": "London County Council (Money) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c173",
+      "title": "Oxford and District Tramways Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c174",
+      "title": "Weymouth and Melcombe Regis Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c175",
+      "title": "Electric Lighting Orders Confirmation (No. 5) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c176",
+      "title": "Gas Order Confirmation (No. 2) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c177",
+      "title": "Gas Orders Confirmation (No. 3) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c178",
+      "title": "Glasgow Corporation Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c179",
+      "title": "Clyde Navigation Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c18",
+      "title": "Port of London (Amendment) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c180",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 20) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c181",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c182",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 3) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c183",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 18) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c184",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 19) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c185",
+      "title": "Kirkcaldy Corporation Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c186",
+      "title": "Wick Harbour Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c187",
+      "title": "Edinburgh and District Water Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c188",
+      "title": "York Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c189",
+      "title": "Sheffield Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c19",
+      "title": "Nottingham Mechanics Institution (Amendment) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c190",
+      "title": "Blyth Hall (Transfer) Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c191",
+      "title": "Coatbridge Drainage and Burgh Extension Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c192",
+      "title": "Dumbarton Burgh (Water, &amp;c.) Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c193",
+      "title": "North British Railway (Invergarry and Fort Augustus Railway Vesting) Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c2",
+      "title": "Alexander Scott's Hospital and the North of Scotland College of Agriculture Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c20",
+      "title": "Cleckheaton Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c21",
+      "title": "Mablethorpe Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c22",
+      "title": "Taff Vale Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c23",
+      "title": "South Staffordshire Mines Drainage Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c24",
+      "title": "Abertillery and District Water Board Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c25",
+      "title": "Stone Gas and Electricity Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c26",
+      "title": "Bristol Waterworks Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c27",
+      "title": "St. George's Hospital Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c28",
+      "title": "Butterley Company Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c29",
+      "title": "Kidsgrove Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c3",
+      "title": "East Ham Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c30",
+      "title": "London Electric Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c31",
+      "title": "Mold and Denbigh Junction Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c32",
+      "title": "Central London Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c33",
+      "title": "Aire and Calder Navigation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c34",
+      "title": "Ashington Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c35",
+      "title": "Rhondda and Swansea Bay Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c36",
+      "title": "Llanfaelog Water Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c37",
+      "title": "Rhymney and Aber Valleys Gas and Water Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c38",
+      "title": "Belfast Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c39",
+      "title": "Railway Clearing System Superannuation Fund Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c4",
+      "title": "South Metropolitan Cemetery Company Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c40",
+      "title": "Mansfield Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c41",
+      "title": "Barnsley Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c42",
+      "title": "Severn Navigation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c43",
+      "title": "Mexborough Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c44",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c45",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c46",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c47",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c48",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c49",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 7) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c5",
+      "title": "Crystal Palace Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c50",
+      "title": "Clydebank and District Water Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c51",
+      "title": "Inverness Water and Gas Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c52",
+      "title": "Land Drainage (Rippingale) Provisional Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c53",
+      "title": "Commons Regulation (Gosford Green) Provisional Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c54",
+      "title": "Coombe Street (Exeter) Independent Chapel Scheme Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c55",
+      "title": "Foleshill Road (Coventry) Congregational Chapel Scheme Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c56",
+      "title": "Horsforth (West Riding) Baptist Chapel Charities Scheme Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c57",
+      "title": "Marden (Kent) Congregational Chapel Charity Scheme Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c58",
+      "title": "Old Sleaford (Lincolnshire) Chapel Charity Scheme Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c59",
+      "title": "Provisional Order (Marriages) Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c6",
+      "title": "British Gas Light Company (Hull Station) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c60",
+      "title": "Electric Lighting Orders Confirmation (No. 1) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c61",
+      "title": "Electric Lighting Orders Confirmation (No. 3) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c62",
+      "title": "Electric Lighting Order Confirmation (No. 8 Kingstown) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c63",
+      "title": "Dee Fisheries Provisional Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c64",
+      "title": "Inclosure (Elmstone Hardwicke) Provisional Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c65",
+      "title": "Tramways Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c66",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 1) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c67",
+      "title": "Western Valleys (Monmouthshire) Railless Electric Traction (Extension) Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c68",
+      "title": "Lanarkshire Gas Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c69",
+      "title": "Dundee Boundaries Extension and Gas Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c7",
+      "title": "Colonial and Foreign Banks Guarantee Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c70",
+      "title": "Glasgow Subway Railway Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c71",
+      "title": "Colinton Tramways Extension Order Confirmation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c72",
+      "title": "Preston Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c73",
+      "title": "Brentford Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c74",
+      "title": "Chelmsford Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c75",
+      "title": "Bedwas and Machen Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c76",
+      "title": "Market Rasen Water Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c77",
+      "title": "Hull and Barnsley Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c78",
+      "title": "North Metropolitan Electric Power Supply Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c79",
+      "title": "Norwich Electric Tramways Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c8",
+      "title": "Bengal and North Western Railway Company Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c80",
+      "title": "Motherwell Water and Sewage Purification Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c81",
+      "title": "Hightown Gas and Electricity Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c82",
+      "title": "Longwood and Slaithwaite Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c83",
+      "title": "Deal and Walmer Gas and Electricity Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c84",
+      "title": "Shropshire, Worcestershire and Staffordshire Electric Power Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c85",
+      "title": "Yorkshire Electric Power Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c86",
+      "title": "Birkenhead Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c87",
+      "title": "Upper Medway Navigation and Conservancy Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c88",
+      "title": "Newport Corporation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c89",
+      "title": "Beira Railway Company Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c9",
+      "title": "Fishguard and Rosslare Railways and Harbours Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c90",
+      "title": "Skegness Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c91",
+      "title": "Stourbridge Navigation Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c92",
+      "title": "Whitewell and District Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c93",
+      "title": "Ellesmere Port and Whitby Urban District Council Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c94",
+      "title": "Liverpool Gas Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c95",
+      "title": "North Eastern Railway Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c96",
+      "title": "Bristol Corporation (Various Powers) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c97",
+      "title": "London United Tramways Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c98",
+      "title": "Middlesex County Council (Great West Road and Finance) Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1914-c99",
+      "title": "Port Talbot Railway and Docks Act 1914",
+      "year": 1914,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/4-5/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1914-c1",
       "title": "Consolidated Fund (No. 1) Act 1914",

@@ -1,7 +1,1069 @@
 {
   "year": 1928,
-  "count": 46,
+  "count": 164,
   "items": [
+    {
+      "id": "UKLA-1928-c1",
+      "title": "Sunderland Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c10",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 1) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c100",
+      "title": "Stoke-on-Trent Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c101",
+      "title": "London, Midland and Scottish Railway (Road Transport) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c102",
+      "title": "Great Western Railway (Road Transport) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c103",
+      "title": "London and North Eastern Railway (Road Transport) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c104",
+      "title": "Southern Railway (Road Transport) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c105",
+      "title": "Dudley Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c106",
+      "title": "Bridgwater Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c107",
+      "title": "Whitby Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c108",
+      "title": "Southampton Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c109",
+      "title": "Wolverhampton Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c11",
+      "title": "Ministry of Health Provisional Order Confirmation (No. 2) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c110",
+      "title": "Coventry Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c111",
+      "title": "Rotherham Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c112",
+      "title": "Blackpool Improvement Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c113",
+      "title": "Weald Electricity Supply Company Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c114",
+      "title": "Poole Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c115",
+      "title": "Cleveland and Durham County Electric Power Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c116",
+      "title": "Bradford Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c117",
+      "title": "Dagenham Urban District Council Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c118",
+      "title": "North Metropolitan Electric Power Supply (Consolidation) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c119",
+      "title": "Morecambe Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c12",
+      "title": "Ministry of Health Provisional Order Confirmation (Ealing Extension) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c13",
+      "title": "Ministry of Health Provisional Order Confirmation (Luton Extension) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c14",
+      "title": "Post Office (Sites) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c15",
+      "title": "Richmond Parish Charity Lands Scheme Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c16",
+      "title": "London, Midland and Scottish Railway Order Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c17",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 3) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c18",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 4) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c19",
+      "title": "Ministry of Health Provisional Order Confirmation (Peterborough Extension) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c2",
+      "title": "Perth Corporation Order Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c20",
+      "title": "Ministry of Health Provisional Order Confirmation (Torquay Extension) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c21",
+      "title": "Aberdeen Corporation Order Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c22",
+      "title": "West Hartlepool (Trolley Vehicles) Order Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c23",
+      "title": "Land Drainage (Ouse) Provisional Order Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c24",
+      "title": "Newquay and District Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c25",
+      "title": "South Metropolitan Gas Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c26",
+      "title": "Dartmouth Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c27",
+      "title": "Hastings Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c28",
+      "title": "Leeds and Liverpool Canal Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c29",
+      "title": "Oxford Corporation (Water, &amp;c.) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c3",
+      "title": "Ministry of Health Provisional Order Confirmation (No. 6) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c30",
+      "title": "Lancashire Quarter Sessions Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c31",
+      "title": "Bermondsey Borough Council (St. Olave's Garden) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c32",
+      "title": "Mid Kent Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c33",
+      "title": "Great Western Railway (Swansea North Dock Abandonment) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c34",
+      "title": "Weaver Navigation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c35",
+      "title": "Warwick Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c36",
+      "title": "Falmouth Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c37",
+      "title": "Ystradfelte Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c38",
+      "title": "Scottish Insurance Companies (Superannuation Fund) Order 1914 (Amendment) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c39",
+      "title": "London County Council (Tramway, Subway and Improvements) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c4",
+      "title": "Bognor Urban District Council Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/19-20/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c40",
+      "title": "Wey Valley Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c41",
+      "title": "Bethlem Hospital Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c42",
+      "title": "York Town and Blackwater Gas and Electricity Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c43",
+      "title": "Zoological Society of London Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c44",
+      "title": "London, Midland and Scottish Railway Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c45",
+      "title": "Plympton St. Mary Rural District Council Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c46",
+      "title": "Lewes Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c47",
+      "title": "Port of London Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c48",
+      "title": "Exeter Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c49",
+      "title": "Rickmansworth and Uxbridge Valley Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c5",
+      "title": "Harwich Harbour Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c50",
+      "title": "Caerphilly Urban District Council Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c51",
+      "title": "Llandudno Urban District Council Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c52",
+      "title": "Copyright Order Confirmation (Mechanical Instruments: Royalties) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c53",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 5) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c54",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 7) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c55",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 8) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c56",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 9) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c57",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 10) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c58",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 11) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c59",
+      "title": "Ministry of Health Provisional Order Confirmation (Worthing Extension) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c6",
+      "title": "Mersey Docks and Harbour Board Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c60",
+      "title": "Ministry of Health Provisional Order Confirmation (Gillingham Extension) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c61",
+      "title": "Ministry of Health Provisional Order Confirmation (Swindon Extension) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c62",
+      "title": "Ministry of Health Provisional Order Confirmation (Godalming Extension) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c63",
+      "title": "Ministry of Health (Halifax and West Riding Provisional Orders) Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c64",
+      "title": "Ministry of Health Provisional Order Confirmation (Richmond (Surrey)) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c66",
+      "title": "Bradford Corporation (Trolley Vehicles) Order Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c67",
+      "title": "Lincolnshire Rivers Fisheries Provisional Order Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c68",
+      "title": "Pier and Harbour Orders Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c69",
+      "title": "Bridlington Harbour Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c7",
+      "title": "Governments Stock and Other Securities Investment Company Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c70",
+      "title": "Windermere District Gas and Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c71",
+      "title": "Bury and District Joint Water Board Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c72",
+      "title": "Middlesex and Surrey (Thames Bridges, &amp;c.) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c73",
+      "title": "Gloucester Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c74",
+      "title": "Sandown Urban District Council Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c75",
+      "title": "Staffordshire Potteries Water Board Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c76",
+      "title": "Cleethorpes Urban District Council Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c77",
+      "title": "London County Council (General Powers) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c78",
+      "title": "South West Suburban Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c79",
+      "title": "South Essex Waterworks Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c8",
+      "title": "Bournemouth-Swanage Motor Road and Ferry Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c80",
+      "title": "South Suburban Gas Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c81",
+      "title": "Maidenhead Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c82",
+      "title": "Greenock and Port Glasgow Tramways Company Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c83",
+      "title": "Tottenham and District Gas Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c84",
+      "title": "Oxford Extension Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c85",
+      "title": "Manchester Ship Canal Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c86",
+      "title": "Bournemouth Gas and Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c87",
+      "title": "Sheffield Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c88",
+      "title": "Shropshire, Worcestershire and Staffordshire Electric Power Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c89",
+      "title": "Stretford and District Electricity Board Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c9",
+      "title": "Provisional Orders (Marriages) Confirmation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c90",
+      "title": "Wessex Electricity Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c91",
+      "title": "Dover Harbour Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c92",
+      "title": "London County Council (Ilford and Barking Drainage) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c93",
+      "title": "Nottinghamshire and Derbyshire Traction Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c94",
+      "title": "Dover Gas Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c95",
+      "title": "Accrington Corporation Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c96",
+      "title": "Colne Valley Water Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c97",
+      "title": "London County Council (Money) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c98",
+      "title": "Regent's Canal and Dock Company (Grand Junction Canal Purchase) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1928-c99",
+      "title": "Regent's Canal and Dock Company (Warwick Canals Purchase) Act 1928",
+      "year": 1928,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/18-19/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1928-c1",
       "title": "Consolidated Fund (No. 1) Act 1928",

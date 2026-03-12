@@ -1,7 +1,1024 @@
 {
   "year": 1842,
-  "count": 72,
+  "count": 185,
   "items": [
+    {
+      "id": "UKLA-1842-c1",
+      "title": "Manchester Royal Infirmary Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c10",
+      "title": "St. Pancras (Funeral Services Prohibition) Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c100",
+      "title": "Finnington and Chorley Turnpike Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c101",
+      "title": "London (City) and Middlesex Roads Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c102",
+      "title": "London and Greenwich Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c103",
+      "title": "Leeds Burial Grounds Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c104",
+      "title": "Leeds Improvement Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c105",
+      "title": "Toxteth Park, Streets and Sewerage Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c106",
+      "title": "Liverpool Improvement Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c107",
+      "title": "Southwark (St. George the Martyr) Improvement Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c108",
+      "title": "Liverpool and Manchester Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c109",
+      "title": "Reading Cemetery Company Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c11",
+      "title": "Stirling, Dumbarton, Lanark and Perth Roads Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c110",
+      "title": "Mersey Navigation Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c111",
+      "title": "Wicklow Harbour Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c112",
+      "title": "Roads in Lanark, Ayr and Renfrew and Dalmarnock Bridge Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c113",
+      "title": "Imperial Bank of England Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c12",
+      "title": "Edinburgh and Glasgow Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c13",
+      "title": "Nottingham Gas Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c14",
+      "title": "St. Austell Market Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c15",
+      "title": "Bolton and Preston Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c16",
+      "title": "Birmingham and Derby Junction Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c17",
+      "title": "Great North of England, Clarence and Hartlepool Junction Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c18",
+      "title": "Sheffield, Ashton-under-Lyne and Manchester Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c19",
+      "title": "Granton Pier Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c2",
+      "title": "Midland Counties Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c20",
+      "title": "Weston-super-Mare Improvement and Market Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c21",
+      "title": "North Coal Mining Company Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c22",
+      "title": "Great Torrington Market Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c23",
+      "title": "Cottenham, Rampton and Willingham Drainage Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c24",
+      "title": "Severn Navigation Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c25",
+      "title": "Glasgow and Redburn Bridge Road Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c26",
+      "title": "Liverpool Paving and Sewerage Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c27",
+      "title": "Stanhope and Tyne Railroad Company (Dissolution) Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c28",
+      "title": "Cheltenham and Great Western Union Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c29",
+      "title": "Glasgow, Paisley, Kilmarnock and Ayr Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c3",
+      "title": "South Eastern Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c30",
+      "title": "Birmingham and Liverpool Junction Canal Navigation Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c31",
+      "title": "Bristol Floating Dock Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c32",
+      "title": "Gosport Pier Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c33",
+      "title": "Ellesmere and Chester Canal Navigation Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c34",
+      "title": "London and Blackwall Navigation Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c35",
+      "title": "Saundersfoot Railway and Harbour (Extension and Branch Lines) Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c36",
+      "title": "Westminster Gas Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c37",
+      "title": "Lanark, Stirling and Dumbarton Roads Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c38",
+      "title": "Aberdeen, Banff and Kincardine Roads Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c39",
+      "title": "Cwm Celyn and Blaina Iron Company Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c4",
+      "title": "Brandling Junction Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c40",
+      "title": "Birmingham and Liverpool Junction Canal Navigation Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c41",
+      "title": "Forth and Clyde Navigation Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c42",
+      "title": "Faversham Creek Navigation Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c43",
+      "title": "St. Philip's Bridge Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c44",
+      "title": "Liverpool Public Health and Buildings Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c45",
+      "title": "New Cross Turnpike Roads Amendment Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c46",
+      "title": "Bristol and Gloucester Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c47",
+      "title": "Clerkenwell Green Streets Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c48",
+      "title": "Ely Place and Ely Mews Improvement Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c49",
+      "title": "Fleetwood Improvement Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c5",
+      "title": "Birkenhead Improvement (Woodside Ferry) Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c50",
+      "title": "Camberwell and Peckham Lighting and Watching Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c51",
+      "title": "St. Pancras Streets Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c52",
+      "title": "Liverpool Borough Court Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c53",
+      "title": "Saundersfoot Floating Dock Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c54",
+      "title": "Greenock Harbours Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c55",
+      "title": "River Welland Dues Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c56",
+      "title": "Drogheda Port and Harbour Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c57",
+      "title": "Warkworth Harbour Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c58",
+      "title": "Gravesend Town, Quay and Pier Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c59",
+      "title": "Gravesend Royal Terrace Garden Pier Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c6",
+      "title": "Bradford (Yorkshire) Water Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c60",
+      "title": "Boston Port and Harbour Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c61",
+      "title": "Kingstown Episcopal Mariners Church Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c62",
+      "title": "Ardrossan Harbour Improvement Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c63",
+      "title": "Tyne Fisheries Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c64",
+      "title": "Guarantee Society Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c65",
+      "title": "City of Glasgow Life Assurance and Reversionary Company Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c66",
+      "title": "Imperial Insurance Company Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c67",
+      "title": "Indemnity Mutual Marine Insurance Company Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c68",
+      "title": "Holywell Turnpike Roads Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c69",
+      "title": "Market Harborough and Brampton Road Amendment Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c7",
+      "title": "Stalybridge Gas Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c70",
+      "title": "Roads from Leicester to Narborough and to Hinckley Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c71",
+      "title": "Lincoln Roads Amendment Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c72",
+      "title": "Church Stretton and Longden Roads (Salop.) Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c73",
+      "title": "Bolton and Westhoughton Road Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c74",
+      "title": "Leicester and Ashby-de-la-Zouch Road Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c75",
+      "title": "Stonehaven and Cobleheugh Road (Slug Mount) Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c76",
+      "title": "Dundalk and Bannbridge Road Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c77",
+      "title": "Kington Roads (Herefordshire) Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c78",
+      "title": "Brentford Gas Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c79",
+      "title": "South Metropolitan Gas Light and Coke Company Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c8",
+      "title": "Windsor Bridge Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c80",
+      "title": "Newcastle and Darlington Junction Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c81",
+      "title": "Warwick and Leamington Union Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c82",
+      "title": "Yarmouth and Norwich Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c83",
+      "title": "Dundee and Arbroath Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c84",
+      "title": "Great North of England Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c85",
+      "title": "Metropolitan Patent Wood Paving Company Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c86",
+      "title": "Ferrybridge and Boroughbridge Road Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c87",
+      "title": "Sudbury (Suffolk) Improvement Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c88",
+      "title": "Liverpool Poor Laws Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c89",
+      "title": "Thames Haven Dock and Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c9",
+      "title": "Bristol Boundary Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c90",
+      "title": "Stockton and Hartlepool Railway Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c91",
+      "title": "Burntisland Pier, Ferry and Road Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c92",
+      "title": "Athy and Castlecomer Road Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c93",
+      "title": "Tadcaster and Otley Road Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c94",
+      "title": "Bromyard Roads (Herefordshire and Worcestershire) Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c95",
+      "title": "Stourbridge Roads Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c96",
+      "title": "North American Colonial Association of Ireland Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c97",
+      "title": "Deptford Pier Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c98",
+      "title": "Ross and Cromarty Court House Accommodation Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1842-c99",
+      "title": "Forth Marine Insurance Company Act 1842",
+      "year": 1842,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/5-6/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1842-c100",
       "title": "An Act to consolidate and amend the Laws relating to the Copyright of Designs for ornamenting Articles of Manufacture.",

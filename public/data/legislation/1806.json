@@ -1,7 +1,1321 @@
 {
   "year": 1806,
-  "count": 1,
+  "count": 147,
   "items": [
+    {
+      "id": "UKLA-1806-c1",
+      "title": "Islington Lighting and Watching Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c10",
+      "title": "East Ruston Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c100",
+      "title": "Romsey Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c101",
+      "title": "Kilcullen and Carlow Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c102",
+      "title": "Beaconsfield and Uxbridge Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c103",
+      "title": "Pateley Bridge to Grassington District of Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c104",
+      "title": "Mellish's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c105",
+      "title": "Inglishcombe Tythes Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c106",
+      "title": "Scrope's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c107",
+      "title": "Wormegay Inclosure and Drainage Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c108",
+      "title": "Newby Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c109",
+      "title": "Cliburn Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c11",
+      "title": "Besthorpe Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c110",
+      "title": "Ampthill Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c111",
+      "title": "Chiswick Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c112",
+      "title": "Holme Cultram Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c113",
+      "title": "East India Docks Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c114",
+      "title": "Stockport, Brinnington, Edgeley and Brinksway Court of Requests Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c115",
+      "title": "Whitehaven Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c116",
+      "title": "Paisley Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c117",
+      "title": "Cheltenham Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c118",
+      "title": "Daventry Improvement, Market and Moot Hall Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c119",
+      "title": "West Middlesex Waterworks Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c12",
+      "title": "Huddersfield Narrow Canal Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c120",
+      "title": "Forth and Clyde Navigation Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c121",
+      "title": "River Ribble Navigation Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c122",
+      "title": "River Ouse Navigation (Sussex) Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c123",
+      "title": "Parish of St. George Dublin Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c124",
+      "title": "St. Marylebone Parish Additional Cemetery and Chapel Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c125",
+      "title": "Roads to the West and East India Docks Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c126",
+      "title": "Newmarket Heath Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c127",
+      "title": "Whitehaven Roads Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c128",
+      "title": "Flitwick Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c129",
+      "title": "Eversholt Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c13",
+      "title": "Road from Huddersfield to Rochdale Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c130",
+      "title": "Croydon Court House, Market House and Burial Ground Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c131",
+      "title": "Brand's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c132",
+      "title": "Port of London Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c133",
+      "title": "East India Company and the Nabobs of the Carnatic Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c134",
+      "title": "Bloomsbury Square Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c135",
+      "title": "Beverley Court of Requests Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c136",
+      "title": "Glasgow Water Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c137",
+      "title": "Roads through Cheltenham Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c138",
+      "title": "Scottish Highlands Roads and Bridges Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c139",
+      "title": "Barnstaple Roads Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c14",
+      "title": "Southampton Roads Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c140",
+      "title": "St. John's Church, Beverley, Curates and Curates' Stipends Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c141",
+      "title": "O'Reilly's Marriage Settlement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c142",
+      "title": "Denny's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c143",
+      "title": "Deptford Charity Lands Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c144",
+      "title": "Philanthropic Society's Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c145",
+      "title": "Roads from Maidenhead Bridge to Reading and to Henley Bridge Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c146",
+      "title": "Eyre's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c147",
+      "title": "Wadham College, Oxford, Warden Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c15",
+      "title": "Roads from Callington Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c16",
+      "title": "St. Sepulchre, City of London, Poor Relief Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c17",
+      "title": "Millbridge and Cleckheaton Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c18",
+      "title": "Bawtry Bridge and Hainton Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c19",
+      "title": "Milford Harbour Fisheries Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c2",
+      "title": "Road from Manchester through Salford to Eccles Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c20",
+      "title": "Rochdale Canal Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c21",
+      "title": "King's Lynn Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c22",
+      "title": "Christ's Hospital (West's Charities) Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c23",
+      "title": "Martock Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c24",
+      "title": "Little Snoring Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c25",
+      "title": "Scotforth Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c26",
+      "title": "Bristol Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c27",
+      "title": "Colne Water Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c28",
+      "title": "Lutterworth, Rugby and Bilton Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c29",
+      "title": "Aberdeen Roads Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c3",
+      "title": "West Riding of Yorkshire Court Houses Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c30",
+      "title": "Alford, Boston and Cowbridge Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c31",
+      "title": "York Judges' House Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c33",
+      "title": "Scarborough Harbour Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c34",
+      "title": "Porthdinlleyn Harbour Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c35",
+      "title": "Bristol Harbour Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c36",
+      "title": "Leith, Coalhill and Citadel Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c37",
+      "title": "Grimsby Court of Requests Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c38",
+      "title": "Cork City Gaol Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c39",
+      "title": "Exeter Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c4",
+      "title": "Chertsey Parish Church Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c40",
+      "title": "Boston (Lincolnshire) Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c41",
+      "title": "Boston (Lincolnshire) Lighting and Watching Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c42",
+      "title": "City of Lichfield Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c43",
+      "title": "Lewes Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c44",
+      "title": "Norfolk Poor Relief Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c45",
+      "title": "Westgate Bridge (Gloucester) and Approaches Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c46",
+      "title": "Road from Cosham to Chichester Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c47",
+      "title": "Warwick and Paddle Brook and Stratford-upon-Avon Roads Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c48",
+      "title": "Roxburgh and Berwick Roads and Bridges Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c49",
+      "title": "Road through Holt and Melksham (Wiltshire) Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c5",
+      "title": "Rotherham and Pleasley Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c50",
+      "title": "Gloucester and Crickley Hill Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c51",
+      "title": "Spalding and Tydd Goat Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c52",
+      "title": "Wiveliscombe Roads Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c53",
+      "title": "Road from Carlisle to Westlinton Bridge Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c54",
+      "title": "Duke of Dorset's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c55",
+      "title": "Hannah Bedford's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c56",
+      "title": "Hartopp and Wigley Estates Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c57",
+      "title": "Rush Common (Lambeth and Wandsworth) Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c58",
+      "title": "Glasgow Hutchison Town Bridge Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c59",
+      "title": "Port of London Improvement and London Dock Company Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c6",
+      "title": "Tinsley and Doncaster Road Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c60",
+      "title": "Uxbridge Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c61",
+      "title": "Great Yarmouth Parish Church Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c62",
+      "title": "Roads from Selby to Leeds Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c63",
+      "title": "Manchester to Austerlands Roads Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c64",
+      "title": "Lowther and Lonsdale Estates Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c65",
+      "title": "Cheslyn's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c66",
+      "title": "Isle of Wight Court of Requests Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c67",
+      "title": "Norwich Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c68",
+      "title": "St. Peter's Parish Church, St. Albans Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c69",
+      "title": "Road from Dunchurch to Duston (Warwickshire) Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c7",
+      "title": "Road from Wetherby to Grassington Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c70",
+      "title": "Roads in Lincoln Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c71",
+      "title": "Road from Renfrew to Greenock and from Kilbarchan to Inchinnan Bridge Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c72",
+      "title": "Savile's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c73",
+      "title": "Llandwrog, Llanwnda and Llanfaglen Inclosure and Embanking Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c74",
+      "title": "Glasgow Streets and Slaughterhouses Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c75",
+      "title": "Glasgow, Paisley and Ardrossan Canal Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c76",
+      "title": "Red Lion Square Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c77",
+      "title": "St. George's Parish, Middlesex, Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c78",
+      "title": "Sparham and Billingford Allotments Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c79",
+      "title": "Lord St. John's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c8",
+      "title": "Roads in Salop Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c80",
+      "title": "Lord Langdale's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c81",
+      "title": "See of Durham Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c82",
+      "title": "Warner's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c83",
+      "title": "Clarke's Charity Lands Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c84",
+      "title": "Outram's Estate Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c85",
+      "title": "Griston Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c86",
+      "title": "Moundford Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c87",
+      "title": "Southwark and East Brixton Court of Requests Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c88",
+      "title": "West Brixton Court of Requests Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c89",
+      "title": "St. Mary's Whitechapel Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c9",
+      "title": "Wymondham Inclosure Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c90",
+      "title": "St. Marylebone Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c91",
+      "title": "Dunbar Harbour Improvement Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c92",
+      "title": "Birmingham Canal Navigations Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c93",
+      "title": "Croydon, Merstham and Godstone Iron Railway Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c94",
+      "title": "Surrey Iron Railway Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c95",
+      "title": "Bedford Level (South Level) Drainage Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c96",
+      "title": "Fen Lands Drainage Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c97",
+      "title": "City of London Lottery Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c98",
+      "title": "Road from Cavendish Bridge to Brassington (Derbyshire) Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1806-c99",
+      "title": "Roads from James Deeping Stone Bridge though Stamford to Morcot Act 1806",
+      "year": 1806,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/46/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1806-c37",
       "title": "Witnesses Act 1806",

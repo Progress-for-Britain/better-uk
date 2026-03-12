@@ -1,7 +1,1177 @@
 {
   "year": 1840,
-  "count": 11,
+  "count": 141,
   "items": [
+    {
+      "id": "UKLA-1840-c1",
+      "title": "Chard Canal Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c10",
+      "title": "Brighton and New Shoreham Small Debts Recovery Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c100",
+      "title": "Bedford and Woburn Road Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c101",
+      "title": "Stirling, Dumbarton, Lanark and Perth Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c102",
+      "title": "Turnpike Roads in Stewartry of Kirkcudbright Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c103",
+      "title": "Road from Edinburgh to Lanark Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c104",
+      "title": "Ardrossan and Johnston Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c105",
+      "title": "Birmingham, Bristol and Thames Junction Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c106",
+      "title": "Dublin and Drogheda Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c107",
+      "title": "Glasgow, Paisley and Greenock Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c108",
+      "title": "Edinburgh and Glasgow Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c109",
+      "title": "Hartlepool Dock and Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c11",
+      "title": "West Kennet and Amesbury Turnpike Road (Wiltshire) Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c110",
+      "title": "Taff Vale Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c111",
+      "title": "Mill Bay Pier Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c112",
+      "title": "Clerkenwell Green Street Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c113",
+      "title": "Deal Water Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c114",
+      "title": "Banff Government and Harbour Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c115",
+      "title": "General Salvage Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c116",
+      "title": "Newcastle-under-Lyme Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c117",
+      "title": "Garngad Road Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c118",
+      "title": "Glasgow Harbour Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c119",
+      "title": "Dundalk River, Port and Harbour Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c12",
+      "title": "Edinburgh and Leith Gas Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c120",
+      "title": "Herculaneum Docks Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c121",
+      "title": "Harrington Dock Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c122",
+      "title": "Exeter Markets Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c123",
+      "title": "Erskine and Dumbarton Ferry Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c124",
+      "title": "River Weaver Churches Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c125",
+      "title": "Lord Scudamore's Charity Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c126",
+      "title": "Monmouthshire Iron and Coal Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c127",
+      "title": "London and Greenwich Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c129",
+      "title": "London and Croydon Railway (Southwark Station) Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c13",
+      "title": "Edinburgh Gas Light Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c130",
+      "title": "Midland Counties Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c131",
+      "title": "Port of London Coal and Wines Import Duties Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c14",
+      "title": "Arbroath and Forfar Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c15",
+      "title": "Manchester and Salford Junction Canal Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c16",
+      "title": "Cramond Bridge Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c17",
+      "title": "Edinburgh Customs and Duties Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c18",
+      "title": "Bolton Small Debts Recovery Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c19",
+      "title": "Thames Plate Glass Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c2",
+      "title": "Chester and Birkenhead Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c20",
+      "title": "Protestant Dissenters and General Life and Fire Insurance Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c21",
+      "title": "Warminster Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c22",
+      "title": "Weston-super-Mare and Worle Road Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c23",
+      "title": "General Steam Navigation Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c24",
+      "title": "Wyrley and Essington Canal Navigation Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c25",
+      "title": "Newton Abbot Small Debts Recovery Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c26",
+      "title": "Crown Point Bridge (Leeds) Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c27",
+      "title": "Greenock Improvement Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c28",
+      "title": "Calton and Mile End Police Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c29",
+      "title": "Lanark and Glasgow Bridewell Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c3",
+      "title": "Sheffield and Rotherham Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c30",
+      "title": "Marquis of Tweeddale's Patents Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c31",
+      "title": "Andover and Basingstoke Road Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c32",
+      "title": "Macclesfield to Congleton Road Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c33",
+      "title": "Barkston-Ash and Skyrack Court of Requests (Yorks.) Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c34",
+      "title": "Winterslow and New Sarum Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c35",
+      "title": "Torquay Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c36",
+      "title": "Taunton Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c37",
+      "title": "Honiton and Ilminster Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c38",
+      "title": "Banbury and Lutterworth Road Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c39",
+      "title": "Stirling and Queensferry Road Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c4",
+      "title": "Lancaster and Preston Junction Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c40",
+      "title": "Clackmannan and Perth Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c41",
+      "title": "Scottish Widows' Fund and Life Assurance Society Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c42",
+      "title": "Dewsbury Gas Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c43",
+      "title": "Taunton Improvement and Markets Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c44",
+      "title": "Workington Harbour Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c45",
+      "title": "Workington Improvement Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c46",
+      "title": "South Eastern Railway Diversion Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c47",
+      "title": "Bristol and Exeter Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c48",
+      "title": "Newcastle-upon-Tyne and North Shields Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c49",
+      "title": "Chester and Crewe Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c5",
+      "title": "North Union Railway Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c50",
+      "title": "Thames Tunnel Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c51",
+      "title": "Birmingham and Derby Junction Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c52",
+      "title": "Northern and Eastern Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c53",
+      "title": "Glasgow, Paisley, Kilmarnock and Ayr Railway (High Monkcurr Branch) Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c54",
+      "title": "Portsmouth Harbour Floating Bridge Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c55",
+      "title": "Dartford and Crayford Creeks Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c56",
+      "title": "Birmingham Canal Navigations Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c57",
+      "title": "Birmingham and Warwick Junction Canal Navigation Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c58",
+      "title": "Exeter Water Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c59",
+      "title": "Faversham Oyster Fishery Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c6",
+      "title": "Liverpool East India Warehouse Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c60",
+      "title": "Gravesend and Milton Improvement Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c61",
+      "title": "York Streets Improvement Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c62",
+      "title": "River Wear Watch Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c63",
+      "title": "Tunstall Markets Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c64",
+      "title": "Greenhill Moor and Eckington Turnpike (Derb.) Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c65",
+      "title": "Maiden Newton Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c66",
+      "title": "Roxburgh Turnpike Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c67",
+      "title": "Elgin Turnpike Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c68",
+      "title": "Tavistock Small Debts Recovery Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c69",
+      "title": "Kingsnorton and Northfield Small Debts Recovery Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c7",
+      "title": "Parish of St. Mary Rotherhithe Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c70",
+      "title": "Duffryn Llynvi and Porth Cawl Railway Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c71",
+      "title": "Port Talbot Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c72",
+      "title": "Penzance Pier and Harbour Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c73",
+      "title": "Fisherrow Harbour (Edinburgh) Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c74",
+      "title": "Exeter Customs and Dues Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c75",
+      "title": "Launceston Markets Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c76",
+      "title": "Kingston-upon-Hull Lighting and Cleansing Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c77",
+      "title": "Bristol Improvement Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c78",
+      "title": "Newcastle-upon-Tyne and Gateshead Water Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c79",
+      "title": "Belfast Water Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c8",
+      "title": "Winchester Cemetery Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c80",
+      "title": "Tadcaster and Halton Dial Road Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c81",
+      "title": "Roads to and from Exeter Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c82",
+      "title": "Nairn and Inverness Turnpike Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c83",
+      "title": "Rocester (Derbyshire) Bridge Roads Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c84",
+      "title": "Maidstone and Newcastle (Kent) Road Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c85",
+      "title": "Holy Cross and St. Giles Cemetery (Shrewsbury) Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c86",
+      "title": "Royal Naval School Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c87",
+      "title": "Chester Coroners Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c88",
+      "title": "Belfast Charitable Society Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c89",
+      "title": "Liverpool Borough Council Bonds Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c9",
+      "title": "Wolverhampton Chapel Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c90",
+      "title": "Lincolnshire Drainage Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c91",
+      "title": "Strood (Kent) Workhouse and Improvement Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c92",
+      "title": "Ayr Water Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c93",
+      "title": "Glasgow Poor Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c94",
+      "title": "Marine Insurance Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c95",
+      "title": "Farmers' and General Fire and Life Assurance and Loan and Annuity Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c96",
+      "title": "British Iron Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c97",
+      "title": "Edinburgh Silk Yarn Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c98",
+      "title": "Kollmann's Railway Locomotive and Carriage Improvement Company Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1840-c99",
+      "title": "Crichton Royal Institution for Lunatics at Dumfries Act 1840",
+      "year": 1840,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/3-4/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1840-c110",
       "title": "Loan Societies Act 1840 (repealed 19.11.1998)",

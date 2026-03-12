@@ -1,7 +1,925 @@
 {
   "year": 1838,
-  "count": 11,
+  "count": 113,
   "items": [
+    {
+      "id": "UKLA-1838-c1",
+      "title": "Paignton Harbour Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c10",
+      "title": "Cookham Bridge Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c100",
+      "title": "Royal Exchange Improvement Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c101",
+      "title": "London and Westminster Coal Trade Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c102",
+      "title": "Colonial Patent Sugar Company Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c11",
+      "title": "Portsmouth Floating Bridge Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c12",
+      "title": "Brecon Markets Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c13",
+      "title": "Tenby Improvement and Harbour Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c14",
+      "title": "Leominster Improvement Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c15",
+      "title": "Ashby-de-la-Zouch Court of Requests Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c16",
+      "title": "Bradford and Huddersfield Road Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c17",
+      "title": "Shrewsbury, Ellesmere and Wrexham Road Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c18",
+      "title": "Combe Martin and Bratton Down Turnpike Road (Devon) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c19",
+      "title": "Lower King's Ferry Roads (Flint and Cheshire) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c2",
+      "title": "Milton-next-Sittingbourne Improvement Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c20",
+      "title": "London and Croydon Railway (Southwark Station) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c21",
+      "title": "St. Helens and Runcorn Gap Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c22",
+      "title": "Brandling Junction Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c23",
+      "title": "Newcastle-upon-Tyne and Carlisle Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c24",
+      "title": "Cheltenham and Great Western Union Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c25",
+      "title": "Manchester, Bolton and Bury Canal, Navigation and Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c26",
+      "title": "Bristol and Exeter Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c27",
+      "title": "Taw Vale Railway and Dock Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c28",
+      "title": "Deal Pier Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c29",
+      "title": "Bury Water Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c3",
+      "title": "Roads from Warminster and from Frome Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c30",
+      "title": "Turton and Entwistle Reservoir Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c31",
+      "title": "Boughrood Bridge (Brecon and Radnor) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c32",
+      "title": "Londonderry Bridge Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c33",
+      "title": "Birkenhead Improvement Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c34",
+      "title": "Sheffield Streets Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c35",
+      "title": "Gravesend Cemetery Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c36",
+      "title": "Oakham and Uppingham Court of Requests Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c37",
+      "title": "Kirkby and Heversham Inclosures and Drainage Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c38",
+      "title": "Forest of Dean Roads Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c39",
+      "title": "Buckstones and Elland, and Sykehouse and Stainland Roads Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c4",
+      "title": "London and Greenwich Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c40",
+      "title": "French Top and Stayley Road (Yorkshire,Cheshire) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c41",
+      "title": "Ruscombe and Beenham Road (Berks.) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c42",
+      "title": "Salterhebble Road and Sowerby Bridge Road (West Yorkshire) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c43",
+      "title": "Wakefield and Halifax Roads Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c44",
+      "title": "Brampton Brierley to Mexborough and Rawmarsh to Hooton Roberts Roads (Yorks.) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c45",
+      "title": "Towcester and Cotton End Road Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c46",
+      "title": "Thame Roads Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c47",
+      "title": "Balmore Road Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c48",
+      "title": "Quebec (Leeds) and Homefield Lane End Road Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c49",
+      "title": "Maulden Wood Corner and Westwood Gate Road (Bedfordshire) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c5",
+      "title": "Exmouth Market Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c50",
+      "title": "Blackburn Gas Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c51",
+      "title": "Exeter Commercial Gas Light and Coke Company Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c52",
+      "title": "Leicester Gas Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c53",
+      "title": "Leamington Priors Gas Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c54",
+      "title": "Lee Parish Church (Kent) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c55",
+      "title": "Lower Beeding Chapelry (Sussex) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c56",
+      "title": "Bolton and Preston Railway Company Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c57",
+      "title": "Midland Counties Railway (Mountsorrel Branch) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c58",
+      "title": "Edinburgh and Glasgow Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c59",
+      "title": "Grand Junction Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c6",
+      "title": "Haleworthy, Wadebridge and Mitchell Road (Cornwall) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c60",
+      "title": "Garnkirk and Glasgow Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c61",
+      "title": "Newtyle and Coupar Angus Railway Company Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c62",
+      "title": "Southampton Docks Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c63",
+      "title": "Southampton Pier Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c64",
+      "title": "Deanhead Reservoir Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c65",
+      "title": "Rocester Bridge over River Dove (Staffordshire) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c66",
+      "title": "St. Philip's Bridge (Bristol) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c67",
+      "title": "Metropolitan Suspension Bridge Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c68",
+      "title": "River Tweed Bridge Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c69",
+      "title": "Hereford Improvement and Fair Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c7",
+      "title": "Kincardine Roads Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c70",
+      "title": "Ramsgate Improvement Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c71",
+      "title": "Refuge for the Destitute Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c72",
+      "title": "St. Luke's Hospital for Lunatics Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c73",
+      "title": "Borrowstouness Roads (Linlithgow) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c74",
+      "title": "Dundalk and Dunleer Road Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c75",
+      "title": "Rugby and Lutterworth Turnpike Road Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c76",
+      "title": "Wadsley and Langset Turnpike Road (West Yorkshire) Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c77",
+      "title": "Kirkstall, Ilkley and Shipley Road Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c78",
+      "title": "South Holland Drainage and Road from Spalding High Bridge Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c79",
+      "title": "Roads in Caithness Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c8",
+      "title": "River Ribble Navigation Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c80",
+      "title": "Festiniog Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c81",
+      "title": "Eastern Counties Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c82",
+      "title": "Birmingham and Derby Junction Railway Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c83",
+      "title": "Holborn Bridge to Clerkenwell Green Street Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c84",
+      "title": "Newquay (Cornwall) Pier and Harbour Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c85",
+      "title": "Fishguard Harbour Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c86",
+      "title": "Glasgow Waterworks Company Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c87",
+      "title": "Donegal and Londonderry Drainage Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c88",
+      "title": "Pembroke Ferry Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c89",
+      "title": "Kent and Surrey Court of Requests Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c9",
+      "title": "West and East India Dock Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c90",
+      "title": "Barnsley Court of Requests Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c91",
+      "title": "Ashby de la Zouch Court of Requests Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c92",
+      "title": "National Loan Fund Life Assurance Society Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c93",
+      "title": "Stanningley and Leeds Road Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c94",
+      "title": "Junction Road between Dudley Hill and Killinghall Road and Leeds and Harrogate Turnpike Road Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c95",
+      "title": "Portfield or Poorfield Inclosure Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c96",
+      "title": "Oldham Gas and Water Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c97",
+      "title": "India Steam Ship Company Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c98",
+      "title": "Medieties of the Rectory of Liverpool Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1838-c99",
+      "title": "Liverpool Civil Court of Record Act 1838",
+      "year": 1838,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/1-2/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1838-c101",
       "title": "Duchies of Lancaster and Cornwall (Accounts) Act 1838",

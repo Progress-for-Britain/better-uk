@@ -1,7 +1,196 @@
 {
   "year": 1944,
-  "count": 47,
+  "count": 68,
   "items": [
+    {
+      "id": "UKLA-1944-c1",
+      "title": "Yorkshire Registries (West Riding) Amendment Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c10",
+      "title": "London and North Eastern Railway Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c11",
+      "title": "London County Council (Money) Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c12",
+      "title": "Herts and Essex Water Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c13",
+      "title": "Gillingham Corporation Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c14",
+      "title": "Ascot District Gas and Electricity Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c15",
+      "title": "Wisbech Corporation Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c16",
+      "title": "Loughborough Corporation Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c17",
+      "title": "Ministry of Health Provisional Order Confirmation (Workington) Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c18",
+      "title": "Derwent Valley Water. Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c19",
+      "title": "Chesterfield and Bolsover Water Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c2",
+      "title": "Beckett Hospital and Dispensary, Barnsley Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c20",
+      "title": "Anglesey County Council (Water, &amp;c.) Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c21",
+      "title": "Middlesex County Council Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c3",
+      "title": "Jewish Colonization Association Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c4",
+      "title": "City of London (Various Powers) Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c5",
+      "title": "Edinburgh Merchant Company Endowments (Amendment) Order Confirmation Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c6",
+      "title": "Connah's Quay Gas Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c7",
+      "title": "Ministry of Health Provisional Order Confirmation (North Lindsey Water Board) Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c8",
+      "title": "Ministry of Health Provisional Order Confirmation (Warrington) Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1944-c9",
+      "title": "North-West Midlands Joint Electricity Authority Order Confirmation Act 1944",
+      "year": 1944,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/7-8/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1944-c1",
       "title": "Consolidated Fund (No. 1) (Session 2) Act 1944",

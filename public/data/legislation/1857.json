@@ -1,7 +1,1465 @@
 {
   "year": 1857,
-  "count": 85,
+  "count": 247,
   "items": [
+    {
+      "id": "UKLA-1857-c1",
+      "title": "Great Southern and Western Railway (Capital) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c10",
+      "title": "Bedale and Leyburn Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c100",
+      "title": "Westminster Terminus Railway, Extension Clapham to Norwood Abandonment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c101",
+      "title": "Backwater Bridge and Road Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c102",
+      "title": "Atlantic Telegraph Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c103",
+      "title": "Dartmouth and Torbay Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c104",
+      "title": "Dundalk and Enniskillen Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c105",
+      "title": "East Somerset Railway (Extension to Wells) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c106",
+      "title": "Newtown and Machynlleth Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c107",
+      "title": "Prestwich, Bury and Radcliffe Roads Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c108",
+      "title": "London and North Western Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c109",
+      "title": "North Level Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c11",
+      "title": "Chester Waterworks Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c110",
+      "title": "Coniston Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c111",
+      "title": "Lowestoft and Burgh St. Peter Ferry and Roads Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c112",
+      "title": "Bourne and Essendine Railways Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c113",
+      "title": "Midland Great Western Railway of Ireland (Streamstown and Clara Junction) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c114",
+      "title": "Blyth and Tyne Railway Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c115",
+      "title": "Covent Garden Approach and Southwark and Westminster Communication Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c116",
+      "title": "Stratford-upon-Avon Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c117",
+      "title": "Manchester Burial Board Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c118",
+      "title": "Islington Parish Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c119",
+      "title": "Newport, Abergavenny and Hereford Railway (Branches) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c12",
+      "title": "Guildford Gas Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c120",
+      "title": "Portadown, Dungannon and Omagh Junction Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c121",
+      "title": "Salisbury and Yeovil Railway Deviation Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c122",
+      "title": "Whitehaven and Furness Junction Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c123",
+      "title": "Caledonian Railway (Granton Branches) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c124",
+      "title": "Kinross-shire Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c125",
+      "title": "Metropolitan Railway (Amendment) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c126",
+      "title": "South Staffordshire Waterworks Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c127",
+      "title": "Victoria Docks Gas Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c128",
+      "title": "Hamilton and Strathaven Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c129",
+      "title": "Fife and Kinross Railway Diversion and Extension Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c13",
+      "title": "Great Western and Brentfield Railway Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c130",
+      "title": "Great Yarmouth Waterworks Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c131",
+      "title": "Otley and Skipton Road Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c132",
+      "title": "Salford Borough Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c133",
+      "title": "Mid Sussex Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c134",
+      "title": "North Western Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c135",
+      "title": "Metropolitan Market Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c136",
+      "title": "London and South Western Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c137",
+      "title": "Oldham, Ashton and Guide Bridge Junction Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c138",
+      "title": "Great Northern Railway (Capital) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c139",
+      "title": "Dorset Central Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c14",
+      "title": "Peebles Railway Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c140",
+      "title": "Rhymney Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c141",
+      "title": "Watchet Harbour Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c142",
+      "title": "Swansea Harbour Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c143",
+      "title": "West London and Crystal Palace Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c144",
+      "title": "Haslingden and Todmorden Turnpike Road Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c145",
+      "title": "West Somerset Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c146",
+      "title": "Norfolk Estuary Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c147",
+      "title": "Thames Conservancy Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c148",
+      "title": "Tweed Fisheries Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/148",
+      "source": "ukla",
+      "description": "An Act to consolidate and amend the Acts for the more effectual Preservation and Increase of Salmon, and the Regulation of the Fisheries in the River Tweed."
+    },
+    {
+      "id": "UKLA-1857-c149",
+      "title": "Portpatrick Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c15",
+      "title": "Willenhall Gas Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c150",
+      "title": "Finsbury Park Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c151",
+      "title": "Sittingbourne and Sheerness Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c152",
+      "title": "Herne Bay and Faversham Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c153",
+      "title": "Taff Vale Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c154",
+      "title": "New Brunswick and Canada Railway and Land Company's Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c155",
+      "title": "South Eastern Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c156",
+      "title": "Newry and Enniskillen Railway Amendment and Extension Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c157",
+      "title": "Mayor's Court of London Procedure Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c158",
+      "title": "Wycombe Railway (Extension) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c159",
+      "title": "Eastern Bengal Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c16",
+      "title": "St. Helens Canal and Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c160",
+      "title": "Scinde Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c161",
+      "title": "Lancaster and Carlisle and Ingleton Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c162",
+      "title": "Mersey Docks and Harbour Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c17",
+      "title": "Tralee and Killarney Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c18",
+      "title": "Portsmouth Railway Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c19",
+      "title": "North Eastern Railway (Capital) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c2",
+      "title": "Chepstow Gas and Coke Consumers Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c20",
+      "title": "Dumbarton Waterworks, Reclamation and Municipal Extension Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c21",
+      "title": "Islington Parish Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c22",
+      "title": "Brighton, Hove and Preston Constant Service Waterworks Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c23",
+      "title": "Calcutta and South Eastern Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c24",
+      "title": "Exeter and Exmouth Railway (Extension of Time) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c25",
+      "title": "United General Gaslight Company (Cork) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c26",
+      "title": "Kidsgrove Market Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c27",
+      "title": "Waterford and Tramore Railway Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c28",
+      "title": "Great Yarmouth Britannia Pier Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c29",
+      "title": "Dublin and Wicklow Railway Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c3",
+      "title": "Reversionary Interest Society's Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c30",
+      "title": "Bridgwater Markets and Fairs Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c31",
+      "title": "Wilmslow and Lawton Road Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c32",
+      "title": "Fraserburgh Harbour Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c33",
+      "title": "North Eastern Railway (Hartlepool Dock and Railway Amalgamation) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c34",
+      "title": "Forth and Clyde Junction Railway Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c35",
+      "title": "Glasgow Gaslight Company's Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c36",
+      "title": "St. Philip's Church, Liverpool Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c37",
+      "title": "Landport and Southsea Improvement Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c38",
+      "title": "Cardigan Markets and Improvement Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c39",
+      "title": "Wearmouth Bridge Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c4",
+      "title": "Guildford Water Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c40",
+      "title": "South Durham and Lancashire Union Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c41",
+      "title": "Ely Valley Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c42",
+      "title": "New River Company's Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c43",
+      "title": "West Hartlepool Harbour and Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c44",
+      "title": "Mansfield and Worksop Road Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c45",
+      "title": "Borough of Portsmouth Waterworks Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c46",
+      "title": "North Eastern Railway (Lanchester Valley Branch) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c47",
+      "title": "Ipswich Waterworks Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c48",
+      "title": "Fownhope and Holme Lacy Bridge Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c49",
+      "title": "Deeside Railway Extension Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c5",
+      "title": "Inverness and Nairn Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c50",
+      "title": "Banff, MacDuff and Turriff Extension Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c51",
+      "title": "Cork and Youghal Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c52",
+      "title": "Stockton Gas Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c53",
+      "title": "Banff, Portsoy and Strathisla Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c54",
+      "title": "Bristol and South Wales Union Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c55",
+      "title": "Newcastle-under-Lyme and Leek Roads Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c56",
+      "title": "Langport, Somerton and Castle Cary Turnpike Roads Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c57",
+      "title": "Lowestoft Water, Gas and Markets Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c58",
+      "title": "Shrewsbury Gasworks Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c59",
+      "title": "Burslem and Tunstall Gas Company's Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c6",
+      "title": "South Shields Gas Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c60",
+      "title": "Lewes and Uckfield Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c61",
+      "title": "Newry, Warrenpoint and Rostrevor Railway Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c62",
+      "title": "Malloy and Fermoy Railway Transfer Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c63",
+      "title": "Bury Gas Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c64",
+      "title": "Cannock Mineral Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c65",
+      "title": "Selby and Market Weighton Turnpike Road Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c66",
+      "title": "West Somerset Mineral Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c67",
+      "title": "Stratford-upon-Avon Gas Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c68",
+      "title": "Australian Agricultural Company's Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c69",
+      "title": "Penarth Harbour, Dock and Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c7",
+      "title": "Sunderland Gas Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c70",
+      "title": "Margate Waterworks Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c71",
+      "title": "Tyne Improvement Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c72",
+      "title": "Wimbledon and Dorking Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c73",
+      "title": "London Gaslight Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c74",
+      "title": "Milford Improvement Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c75",
+      "title": "Orkney Roads Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c76",
+      "title": "East Kent Railway (Extension to Dover) Amendment Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c77",
+      "title": "Midland Great Western Railway of Ireland (Sligo Extension) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c78",
+      "title": "Monkland Railways Branches Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c79",
+      "title": "Briton Ferry Dock Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c8",
+      "title": "South Devon Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c80",
+      "title": "Glasgow City and Suburban Gas Company Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c81",
+      "title": "Scottish Central Railway (Denny Branch Extensions) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c82",
+      "title": "Stamford and Essendine Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c83",
+      "title": "Victoria (London) Docks Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c84",
+      "title": "Great Northern and Western (of Ireland) Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c85",
+      "title": "Great Southern and Western Railway (Athlone Extension) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c86",
+      "title": "Leslie Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c87",
+      "title": "Keith and Dufftown Railway Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c88",
+      "title": "Dexthorpe Turnpike Road Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c89",
+      "title": "Coal Duties (London, &amp;c.) Drawback Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c9",
+      "title": "Meriton's and Hagen's Sufferance Wharves Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c90",
+      "title": "European and Indian Junction Telegraph Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c91",
+      "title": "West of Fife Mineral Railway (Roscobie Branch) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c92",
+      "title": "Clyde Navigation Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c93",
+      "title": "Pulteney Harbour Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c94",
+      "title": "Elie Harbour Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c95",
+      "title": "Treffry's Estate (Newquay Railway) Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c96",
+      "title": "Reading Railways Junction Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c97",
+      "title": "River Slaney Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c98",
+      "title": "Stockport, Disley and Whaley Bridge Railway Extension Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1857-c99",
+      "title": "Worksop and Attercliffe Road Act 1857",
+      "year": 1857,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/20-21/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1857-c1",
       "title": "An Act to amend the Act for limiting the Time of Service in the Royal Marine Forces.",

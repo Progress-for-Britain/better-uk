@@ -1,7 +1,1402 @@
 {
   "year": 1869,
-  "count": 117,
+  "count": 272,
   "items": [
+    {
+      "id": "UKLA-1869-c1",
+      "title": "West Middlesex Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c10",
+      "title": "Grimsby Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c100",
+      "title": "Dublin Port and Docks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c101",
+      "title": "North Metropolitan Tramways Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c102",
+      "title": "Aberdare and Aberaman Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c103",
+      "title": "Severn Navigation Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c104",
+      "title": "Walton-on-Thames and Weybridge Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c105",
+      "title": "North Eastern Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c106",
+      "title": "Milnrow Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c107",
+      "title": "Cleveland Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c108",
+      "title": "Dublin and Drogheda Railway (North Wall Extension) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c109",
+      "title": "Great Western Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c11",
+      "title": "Leeds Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c110",
+      "title": "Huddersfield Water Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c111",
+      "title": "Bristol and North Somerset Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c112",
+      "title": "West Surrey Water Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c113",
+      "title": "Mid Wales Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c114",
+      "title": "Dundee Harbour Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c115",
+      "title": "London and North Western Railway (New Works and Additional Powers) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c116",
+      "title": "London, Chatham and Dover Railway (Arbitration) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c117",
+      "title": "Manchester Corporation Waterworks and Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c119",
+      "title": "North British Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c12",
+      "title": "Great Tower Hill Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c120",
+      "title": "St. Helens Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c121",
+      "title": "Watton and Swaffham Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c122",
+      "title": "Oxford Gaslight and Coke Company's Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c123",
+      "title": "Poor Law Board's Provisional Orders Confirmation Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c124",
+      "title": "Local Government Supplemental Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c125",
+      "title": "Dorking Water Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c126",
+      "title": "Caledonian Railway (Abandonment, &amp;c.) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c127",
+      "title": "Bude and Torrington Junction Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c128",
+      "title": "Imperial Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c129",
+      "title": "Keighley Waterworks Extension and Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c13",
+      "title": "Dublin and Meath Railway (Working Agreement) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c130",
+      "title": "South Metropolitan Gaslight and Coke Company's Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c131",
+      "title": "Wolverhampton Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c132",
+      "title": "Dundalk and Greenore Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c133",
+      "title": "Township of Kingstown Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c134",
+      "title": "Park Lane Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c135",
+      "title": "Bradford Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c136",
+      "title": "Metropolitan Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c137",
+      "title": "Severn and Wye Railway and Canal Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c139",
+      "title": "Borough of Truro Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c14",
+      "title": "Workington Harbour (Transfer) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c140",
+      "title": "Hereford, Hay and Brecon Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c141",
+      "title": "Festiniog Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c142",
+      "title": "Brean Down Harbour and Docks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c143",
+      "title": "Watlington and Princes Risborough Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c144",
+      "title": "Edinburgh and District Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c145",
+      "title": "Neath and Brecon Railway (Amalgamation and Arrangement) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c146",
+      "title": "Haddenham, Willingham and Longstanton Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c147",
+      "title": "Sligo Borough Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c148",
+      "title": "Holyhead Docks and Warehouses Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c149",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c15",
+      "title": "Ilkley Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c150",
+      "title": "Local Government Supplemental (No. 2) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c151",
+      "title": "Ellesmere and Glyn Valley Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c152",
+      "title": "Callington and Calstock Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c153",
+      "title": "Wrexham, Mold and Connah's Quay Railway (Arrangement) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c154",
+      "title": "Furness Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c155",
+      "title": "Belgravia and South Kensington New Road Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c156",
+      "title": "Portobello Pier Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c157",
+      "title": "Belgrave Market Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c158",
+      "title": "Broughty Ferry Provisional Order Confirmation Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c159",
+      "title": "Annual Inclosure Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c16",
+      "title": "Imperial Fire Insurance Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c17",
+      "title": "Harrogate Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c18",
+      "title": "South Devon Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c19",
+      "title": "Kew and Other Bridges Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c2",
+      "title": "Brymbo Water Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c20",
+      "title": "Holborn Valley Improvement (Money) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c21",
+      "title": "Fermoy and Lismore Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c22",
+      "title": "West Ham Gas Company's Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c23",
+      "title": "University College (London) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c24",
+      "title": "Edinburgh Parish Poorhouse Water Supply Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c25",
+      "title": "Manchester, Sheffield and Lincolnshire Railway and Midland Railway Companies (Joint Lines) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c26",
+      "title": "Manchester, Sheffield and Lincolnshire Railway (Additional Lands at Grimsby) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c27",
+      "title": "Melton Mowbray Cattle Market, &amp;c. Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c28",
+      "title": "Kent Coast Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c29",
+      "title": "Enniskillen, Bundoran and Sligo Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c3",
+      "title": "London Necropolis and National Mausoleum Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c30",
+      "title": "City of London Subways Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c31",
+      "title": "Great Yarmouth Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c32",
+      "title": "Greenock Water Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c33",
+      "title": "Dumbarton Waterworks and Municipality Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c34",
+      "title": "West Somerset Mineral Railway (Working Arrangements) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c35",
+      "title": "Hounslow and Metropolitan Railway (Extension of Time) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c36",
+      "title": "Cleckheaton Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c39",
+      "title": "Waltham Abbey and Cheshunt Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c4",
+      "title": "Lambeth Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c40",
+      "title": "King's Lynn Dock Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c41",
+      "title": "Launceston and South Devon Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c42",
+      "title": "Shotley Bridge and Consett District Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c43",
+      "title": "Darwen Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c44",
+      "title": "Albert Bridge Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c45",
+      "title": "St. Martin-in-the-Fields Workhouse Fund Appropriation Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c46",
+      "title": "Dundee Water Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c47",
+      "title": "Stony Stratford Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c48",
+      "title": "Glasgow and South Western Railway (Paisley Canal, &amp;c.) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c49",
+      "title": "Windermere District Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c5",
+      "title": "Wainfleet and Firsby Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c50",
+      "title": "Bishop's Stortford Water Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c51",
+      "title": "Bridgend (Glamorgan) Gas and Water Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c52",
+      "title": "Midland Great Western Railway (of Ireland) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c53",
+      "title": "South Western Railway (North Devon Extension of Time) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c54",
+      "title": "Accrington Gas and Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c55",
+      "title": "Spalding Waterworks Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c56",
+      "title": "Lymington Harbour and Docks (Extension of Time) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c57",
+      "title": "Medway Docks (Extension of Time) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c58",
+      "title": "Glasgow Corporation Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c59",
+      "title": "Metropolitan Commons Supplemental Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c6",
+      "title": "Crystal Palace Company's Leasing Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c60",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c61",
+      "title": "Llynvi and Ogmore Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c62",
+      "title": "Metropolitan District Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c63",
+      "title": "Bristol Harbour Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c64",
+      "title": "Barnstaple Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c65",
+      "title": "Cricksea Bridge Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c66",
+      "title": "Oswaldtwistle Local Board Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c67",
+      "title": "Bishopsgate (All Saints District Discontinuance) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c68",
+      "title": "Pontefract Park Trustees and Street Commissioners Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c69",
+      "title": "Harrow, Edgware and London Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c7",
+      "title": "Rock Life Assurance Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c70",
+      "title": "Oyster and Mussel Fisheries Orders Confirmation Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c71",
+      "title": "Pier and Harbour Orders Confirmation Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c72",
+      "title": "London, Brighton and South Coast and Surrey and Sussex Junction Railway Companies' Amalgamation Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c73",
+      "title": "Porthleven Harbour Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c74",
+      "title": "Stockton-on-Tees Extension and Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c75",
+      "title": "Buckfastleigh, Totnes and South Devon Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c76",
+      "title": "Llanelly Railway and Dock Company's Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c77",
+      "title": "St. James Chapel Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c78",
+      "title": "Lancashire and Yorkshire Railway (Extension of Time, &amp;c.) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c79",
+      "title": "Ross Improvement Act (Amendment Act) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c8",
+      "title": "Parish of St. Giles, Cripplegate Vestry Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c80",
+      "title": "Scinde Railway Company's Amalgamation Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c81",
+      "title": "City of Glasgow Union Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c82",
+      "title": "Hartlepool Port and Harbour Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c83",
+      "title": "Midland Railway (Additional Powers) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c84",
+      "title": "Maryport Town and Harbour Gas Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c85",
+      "title": "Clontarf Township Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c86",
+      "title": "South Western Railway (General) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c87",
+      "title": "Preston Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c88",
+      "title": "Brighton Aquarium and Improvements Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c89",
+      "title": "Great Eastern Railway (Additional Powers) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c9",
+      "title": "Redheugh Bridge Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c90",
+      "title": "St. Mary, Newington, Rectory Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c91",
+      "title": "Whitland and Taf Vale Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c92",
+      "title": "East Norfolk Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c93",
+      "title": "Southsea Railway (Abandonment) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c94",
+      "title": "Metropolitan Street Tramways Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c95",
+      "title": "Pimlico, Peckham and Greenwich Street Tramways Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c96",
+      "title": "Garstang and Knott End Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c97",
+      "title": "Milford Improvement Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c98",
+      "title": "Caledonian and Glasgow and South Western Railways (Kilmarnock Joint Line) Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1869-c99",
+      "title": "Crystal Palace and South London Joint Railway Act 1869",
+      "year": 1869,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/32-33/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1869-c1",
       "title": "An Act to apply certain sums out of the Consolidated Fund to the service of the years ending the thirty-first day of March one thousand eight hundred and sixty-eight, one thousand eight hundred and sixty-nine, and one thousand eight hundred and seventy.",

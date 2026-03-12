@@ -1,13 +1,571 @@
 {
   "year": 1932,
-  "count": 51,
+  "count": 113,
   "items": [
+    {
+      "id": "UKLA-1932-c1",
+      "title": "Public Works Facilities Scheme (Huddersfield Corporation) Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/23-24/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c10",
+      "title": "Provisional Orders (Marriages) Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c11",
+      "title": "Rochdale Corporation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c12",
+      "title": "South Wales Electric Power Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c13",
+      "title": "Walthamstow Corporation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c14",
+      "title": "York Waterworks Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c15",
+      "title": "Sheffield Corporation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c16",
+      "title": "London Local Authorities (Superannuation) Temporary Provisions Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c17",
+      "title": "Goldsmiths' Consolidated Charities Scheme Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c18",
+      "title": "Ford Street Charity Scheme Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c19",
+      "title": "Maidstone Bread Charities Scheme Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c20",
+      "title": "Epsom College Scheme Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c21",
+      "title": "Church of Scotland Trust Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c22",
+      "title": "St. Andrews Links Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c23",
+      "title": "Coatbridge Drainage Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c24",
+      "title": "Glasgow Corporation Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c25",
+      "title": "Ministry of Health Provisional Orders Confirmation (Lindsey and Lincoln Joint Smallpox Hospital and Wandle Valley Joint Sewerage District) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c26",
+      "title": "Ministry of Health Provisional Orders Confirmation (Northampton) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c27",
+      "title": "Ministry of Health Provisional Order Confirmation (Derby and Stalybridge, Hyde, Mossley and Duckinfield Tramways and Electricity Board) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c28",
+      "title": "South Staffordshire Water Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c29",
+      "title": "Blackpool Improvement Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c3",
+      "title": "Ministry of Health Provisional Order Confirmation (Maidstone Extension) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c30",
+      "title": "Bridgwater Corporation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c31",
+      "title": "Rhyl Urban District Council Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c32",
+      "title": "North-Eastern Electric Supply Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c33",
+      "title": "Dagenham Trading Estate Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c34",
+      "title": "Scarborough Gas Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c35",
+      "title": "Cambridge Corporation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/35",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKLA-1932-c37",
       "title": "Thames Conservancy Act 1932",
       "year": 1932,
       "type": "Act",
       "url": "http://www.legislation.gov.uk/ukla/1932/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c4",
+      "title": "Ministry of Health Provisional Order Confirmation (Sittingbourne and Milton) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c5",
+      "title": "Sea Fisheries (Swansea) Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c6",
+      "title": "Worksop Corporation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c7",
+      "title": "Edinburgh Corporation Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c70",
+      "title": "London County Council (General Powers) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c71",
+      "title": "Hove Pier Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c72",
+      "title": "London County Council (Money) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c73",
+      "title": "Southern Railway Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c74",
+      "title": "Trent Navigation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c75",
+      "title": "Mid-Southern Utility Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c76",
+      "title": "Weston-super-Mare Grand Pier Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c77",
+      "title": "Gateshead Extension Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c78",
+      "title": "Wokingham District Water Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c79",
+      "title": "Southern Suburban Gas Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c8",
+      "title": "Edinburgh Corporation (Sheriff Court House, &amp;c.) Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c80",
+      "title": "Nottingham Corporation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c81",
+      "title": "Birkenhead Corporation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c82",
+      "title": "Gas Light and Coke Company's Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c83",
+      "title": "South Metropolitan Gas Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c84",
+      "title": "Chester Corporation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c85",
+      "title": "Metropolitan Water Board Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c86",
+      "title": "Lindsey County Council (Sandhills) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c87",
+      "title": "Chesterfield and Bolsover Water Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c88",
+      "title": "Warrington Extension Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c89",
+      "title": "Bournemouth, Poole and Christchurch Electricity Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c9",
+      "title": "Ministry of Health Provisional Order Confirmation (Margate and Yeovil) Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c90",
+      "title": "Wolverhampton Corporation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c91",
+      "title": "Falkirk and District Traction Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c92",
+      "title": "Edinburgh Royal Maternity and Simpson Memorial Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c93",
+      "title": "Macduff Harbour Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c94",
+      "title": "Aberdeen Harbour Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c95",
+      "title": "Dunfermline and District Traction Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c96",
+      "title": "Portsoy Harbour Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1932-c97",
+      "title": "Renfrew Burgh Order Confirmation Act 1932",
+      "year": 1932,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/22-23/97",
       "source": "ukla",
       "description": ""
     },

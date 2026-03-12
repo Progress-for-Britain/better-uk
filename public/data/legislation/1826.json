@@ -1,7 +1,988 @@
 {
   "year": 1826,
-  "count": 3,
+  "count": 112,
   "items": [
+    {
+      "id": "UKLA-1826-c1",
+      "title": "Loes and Wilford Poor Relief Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c10",
+      "title": "Worthing and Lancing Turnpike Road and Sea Defences Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c100",
+      "title": "Hereford Railway Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c101",
+      "title": "Dundee and Newtyle Railway Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c102",
+      "title": "Dulais Railway Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c103",
+      "title": "Garnkirk and Glasgow Railway Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c104",
+      "title": "St. Mary Magdalen Bermondsey, Additional Church Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c105",
+      "title": "Leith Harbour Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c106",
+      "title": "Cross Keys Bridge Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c107",
+      "title": "Irvine Bridge and Harbour Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c108",
+      "title": "Edinburgh Water Company's Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c109",
+      "title": "Birmingham Water Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c11",
+      "title": "Road from Collingham to York Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c110",
+      "title": "Chester Water Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c111",
+      "title": "Nottingham Water Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c112",
+      "title": "Inverness Gas and Water Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c113",
+      "title": "St. Mary Abbotts Kensington Poor Relief Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c114",
+      "title": "St. Bride Fleet Street Poor Relief Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c115",
+      "title": "Edinburgh Improvement Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c116",
+      "title": "St. Botolph-without-Aldersgate Tithes Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c117",
+      "title": "Oldham Improvement Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c118",
+      "title": "Stockport Improvement Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c119",
+      "title": "Anderston Improvement Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c12",
+      "title": "Marshfield District of Roads Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c120",
+      "title": "Sunderland Improvement Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c121",
+      "title": "St. George Hanover Square Improvement Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c122",
+      "title": "Kent and Sussex Marsh Lands Drainage Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c123",
+      "title": "Irish Company for Promoting Manufactures Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c124",
+      "title": "American and Colonial Steam Navigation Company Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c125",
+      "title": "New Cross Turnpike Roads Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c126",
+      "title": "Whitecross and Beverley Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c127",
+      "title": "Halifax to Sheffield Road (Third District) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c128",
+      "title": "Forfar Roads Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c129",
+      "title": "Shipley and Bramley Road (Yorkshire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c13",
+      "title": "Godalming and Pains Hill Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c130",
+      "title": "Road from Doncaster to Salter's Brook Bridge Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c131",
+      "title": "Sudbury and Bury St. Edmunds Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c132",
+      "title": "Cranford Bridge and Maidenhead Bridge Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c133",
+      "title": "Glasgow and Kilmarnock Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c134",
+      "title": "Markfield Turnpike and Snape Gate Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c135",
+      "title": "Parton and Monkland Mill Road (Herefordshire and Worcestershire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c136",
+      "title": "Wells next the Sea and Fakenham Turnpike Road (Norfolk) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c137",
+      "title": "Swindon and Marlborough Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c138",
+      "title": "Pendleton Roads (Lancashire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c139",
+      "title": "Limerick and Waterford Railway Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c14",
+      "title": "Road from Knaresborough to Ripon and Pateley Bridge Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c140",
+      "title": "Regent's Canal Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c141",
+      "title": "Shrewsbury Poor Relief Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c142",
+      "title": "Metropolis Turnpike Roads North of the Thames Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c15",
+      "title": "Pengate and Tinhead Road (Wiltshire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c16",
+      "title": "Manchester and Salters Brook Roads Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c17",
+      "title": "South Shields and Vigo Lane Turnpike Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c18",
+      "title": "Road through Holt and Melksham (Wiltshire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c19",
+      "title": "Little Neston and Hoose, and Upton and Birkenhead Roads (Cheshire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c2",
+      "title": "Witham Navigation Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c20",
+      "title": "Macclesfield Roads Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c21",
+      "title": "Ridgehill and Lanes and Holehouse Road (Lancashire,Yorkshire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c22",
+      "title": "Birmingham and Watford Gap Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c23",
+      "title": "Arrow and Pot Hooks End, and Dunnington and Crabs Cross Roads (Warwickshire and Worcestershire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c24",
+      "title": "Roads from Littlegate, Newark-upon-Trent and Southwell Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c25",
+      "title": "Roads to and from Exeter Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c26",
+      "title": "Limerick and Cork Road within Cork County Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c27",
+      "title": "Norwich and Scole Bridge Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c28",
+      "title": "Pyecombe and Hickstead Roads Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c29",
+      "title": "Wimpole and Potton Road (Cambridgeshire, Bedfordshire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c3",
+      "title": "Brighthelmston Chapels of Ease Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c30",
+      "title": "Macclesfield Canal Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c31",
+      "title": "Margate Pier and Harbour Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c32",
+      "title": "Ramsgate Theatre Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c33",
+      "title": "Reading Water Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c34",
+      "title": "Metheringham and Dunston Drainage Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c35",
+      "title": "Lambeth, Camberwell and Newington Improvement Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c36",
+      "title": "Burnley and Habergham Eaves Gas Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c37",
+      "title": "Heywood Gas Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c38",
+      "title": "Glasgow Gas Light Company Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c39",
+      "title": "Roads through High Ham and Ashcott (Somerset) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c4",
+      "title": "Stratford-upon-Avon Bridge Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c40",
+      "title": "Barnby Moor and Rotherham Road (Nottinghamshire,Yorkshire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c41",
+      "title": "East India Company and Creditors of the Nabobs of the Carnatic Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c42",
+      "title": "Westminster Bridewell Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c5",
+      "title": "Dover Markets Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c6",
+      "title": "Newport (Monmouthshire) Improvement Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c7",
+      "title": "Bridgwater Improvement Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c76",
+      "title": "Roads between Tyburn and Uxbridge Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c77",
+      "title": "Henley Bridge and Bisham Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c78",
+      "title": "Tewkesbury Roads Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c79",
+      "title": "Ashbourne and Leek, and Rushton Common and Congleton Roads Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c8",
+      "title": "Macclesfield, Sutton, and Hurdsfield Gas (Cheshire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c80",
+      "title": "Farnham and Petersfield Turnpike Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c81",
+      "title": "Manchester and Bury Turnpike Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c82",
+      "title": "West Houghton and Heath Charnock Road (Lancashire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c83",
+      "title": "Swineshead and Fosdyke Turnpike Road (Lincolnshire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c84",
+      "title": "Liskeard Roads Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c85",
+      "title": "Roads from Spalding High Bridge to Donington Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c86",
+      "title": "Road from Flint to Lower King's Ferry Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c87",
+      "title": "Hulton Turnpike Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c88",
+      "title": "Rotherham and Pleasley Turnpike Road (Yorks.,Derb.) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c89",
+      "title": "Tinsley and Doncaster Turnpike Road Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c9",
+      "title": "Cannock and Penkridge Turnpike (Staffordshire) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c90",
+      "title": "St. Marylebone and Finchley Turnpike Road and Branch Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c91",
+      "title": "Road from Paddington to Harrow-on-the-Hill Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c92",
+      "title": "Newton Bushell, South Bovey and Moretonhampstead Roads Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c93",
+      "title": "Gomersal and Dewsbury Roads (Yorks. West Riding) Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c94",
+      "title": "Leominster Canal Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c95",
+      "title": "Birmingham and Liverpool Junction Canal Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c96",
+      "title": "Kensington Canal Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c97",
+      "title": "River Dun Navigation Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c98",
+      "title": "Edinburgh and Dalkeith Railway Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1826-c99",
+      "title": "Manchester and Oldham Railway Act 1826",
+      "year": 1826,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/7/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1826-c16",
       "title": "Chelsea and Kilmainham Hospitals Act 1826",

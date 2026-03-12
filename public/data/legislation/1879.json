@@ -1,7 +1,2032 @@
 {
   "year": 1879,
-  "count": 78,
+  "count": 303,
   "items": [
+    {
+      "id": "UKLA-1879-c1",
+      "title": "Oyster and Mussel Fisheries Order Confirmation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c10",
+      "title": "New River Company's Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c100",
+      "title": "Dudley Sewage Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c101",
+      "title": "Maryport Improvement (Harbour) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c102",
+      "title": "Leadenhall Market Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c103",
+      "title": "Local Government Board's Provisional Orders Confirmation (Abergavenny Union, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c104",
+      "title": "Local Government Board's Provisional Orders Confirmation (Axminster Union, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c105",
+      "title": "Local Government Board's Provisional Orders Confirmation (Aspull, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c106",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c107",
+      "title": "Lancashire and Yorkshire Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c108",
+      "title": "Midland Railway (Additional Powers) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c109",
+      "title": "West Lancashire Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c11",
+      "title": "Nottingham Waterworks Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c110",
+      "title": "Great Northern and Great Eastern Railway Companies Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c111",
+      "title": "Weardale and Shildon District Waterworks Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c112",
+      "title": "Neath and Brecon Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c113",
+      "title": "Crystal Palace District Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c114",
+      "title": "Houghton-le-Spring District Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c115",
+      "title": "London and North Western Railway (Denbigh, Ruthin and Corwen Railway Vesting) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c116",
+      "title": "Blackburn Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c117",
+      "title": "London and North Western Railway (New Railways) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c118",
+      "title": "Portsmouth, &amp;c. Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c119",
+      "title": "Stratford-upon-Avon Borough Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c12",
+      "title": "Weymouth and Melcombe Regis Bridge Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c120",
+      "title": "Southend Waterworks Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c121",
+      "title": "Colchester Waterworks Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c122",
+      "title": "Glasgow Corporation Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c123",
+      "title": "Glasgow Municipal Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c124",
+      "title": "Wombwell Local Board Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c125",
+      "title": "Norwich Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c126",
+      "title": "Hundred of Hoo Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c127",
+      "title": "Great Grimsby Street Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c128",
+      "title": "Church Fenton, Cawood and Wistow Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c129",
+      "title": "Great Northern Railway (Further Powers) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c13",
+      "title": "Burnt Fen District Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c130",
+      "title": "Birmingham Gas (Northfield and Yardley) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c131",
+      "title": "Arlecdon and Frizington Water Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c132",
+      "title": "Edinburgh Municipal and Police Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c133",
+      "title": "Cardiff Corporation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c134",
+      "title": "South Shields Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c135",
+      "title": "Preston Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c136",
+      "title": "Lancaster Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c137",
+      "title": "Morecambe Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c138",
+      "title": "Mirfield Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c139",
+      "title": "Taff Vale Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c14",
+      "title": "Chester Cemetery (Extension) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c140",
+      "title": "Ayr Harbour Amendment Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c141",
+      "title": "Wisbech Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c142",
+      "title": "London and North Western Railway (Additional Powers) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c143",
+      "title": "Plymouth and Stonehouse Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c144",
+      "title": "Monmouthshire Railway and Canal Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c145",
+      "title": "North British (Bothwell Railway Amalgamation) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c146",
+      "title": "Furness Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c147",
+      "title": "Metropolitan Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c148",
+      "title": "Bridport Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c149",
+      "title": "Pulteney Harbour Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c15",
+      "title": "Brewood and Wolverhampton Railway (Abandonment) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c150",
+      "title": "Great Eastern Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c151",
+      "title": "Manchester, Sheffield and Lincolnshire Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c152",
+      "title": "Newcastle-upon-Tyne and Gateshead Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c153",
+      "title": "South Eastern Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c154",
+      "title": "Walton-on-the-Naze and Frinton Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c155",
+      "title": "North British Railway, Dundee and Arbroath Joint Line Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c156",
+      "title": "Queenstown Gas and Light Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c157",
+      "title": "Sharpness Docks Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c158",
+      "title": "Local Government Board's Provisional Order Confirmation (Artizans and Labourers Dwellings) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c159",
+      "title": "Gas and Water Orders Confirmation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c16",
+      "title": "Forth Bridge Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c160",
+      "title": "Wormwood Scrubs Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c161",
+      "title": "Cork Borough Court Amendment Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c162",
+      "title": "Inclosure (Whittington) Provisional Order Confirmation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c163",
+      "title": "Severn and Wye and Severn Bridge Railways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c164",
+      "title": "Belfast Central Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c165",
+      "title": "Cambridge Street Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c166",
+      "title": "Treferig Valley Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c167",
+      "title": "Upper Mersey Navigation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c168",
+      "title": "Dublin (South) City Market Amendment Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c169",
+      "title": "East and West India Dock Company's Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c17",
+      "title": "Westgate and Birchington Water Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c170",
+      "title": "Dublin Port and Docks Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c171",
+      "title": "Portmadoc, Croesor and Beddgelert Tram Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c172",
+      "title": "Belfast Water Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c173",
+      "title": "London, Chatham and Dover Railway (Sevenoaks Railway Purchase) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c174",
+      "title": "Ballymena and Larne Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c175",
+      "title": "River Bann Navigation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c176",
+      "title": "London (City) Tithes Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c177",
+      "title": "Felixstowe Railway and Dock Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c178",
+      "title": "Grand Junction Canal Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c179",
+      "title": "West Donegal Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c18",
+      "title": "Llandudno Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c180",
+      "title": "Medway Docks (Extension of Time) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c181",
+      "title": "Caledonian Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c182",
+      "title": "Great Northern Railway (Ireland) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c183",
+      "title": "Alliance and Dublin Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c184",
+      "title": "London Bridge Approaches Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c185",
+      "title": "Whitehaven Town and Harbour Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c186",
+      "title": "Birkenhead Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c187",
+      "title": "Cork and Kinsale Junction, Cork and Bandon, West Cork, and Ilen Valley Railways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c188",
+      "title": "Downham and Stoke Ferry Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c189",
+      "title": "London Street Tramways (Extension) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c19",
+      "title": "Whitby Port and Harbour Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c190",
+      "title": "Manchester Suburban Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c191",
+      "title": "Rotherham Borough Extension and Sewerage Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c192",
+      "title": "St. Helens and District Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c193",
+      "title": "Tramways Orders Confirmation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c194",
+      "title": "New Forest Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/194",
+      "source": "ukla",
+      "description": "An Act to amend the New Forest Act 1877."
+    },
+    {
+      "id": "UKLA-1879-c195",
+      "title": "Freiston Shore Reclamation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c196",
+      "title": "Tring Poor's Land (Sale and Exchange) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c197",
+      "title": "South London Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c198",
+      "title": "Metropolis Management (Thames River Prevention of Floods) Amendment Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c199",
+      "title": "Blackpool Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c2",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c20",
+      "title": "Norwich Union Fire Insurance Society's Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c200",
+      "title": "Leicester Corporation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c201",
+      "title": "Metropolitan and District Railways (City Lines and Extensions) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c202",
+      "title": "Over Darwen Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c203",
+      "title": "Stafford and Uttoxeter Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c204",
+      "title": "Nottingham Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c205",
+      "title": "North Staffordshire Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c206",
+      "title": "East Indian Railway Company Purchase Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c207",
+      "title": "Brentford and Isleworth Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c208",
+      "title": "Llandisilio Commissioners Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c209",
+      "title": "Girvan and Portpatrick Junction Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c21",
+      "title": "Borough of Portsmouth Waterworks Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c210",
+      "title": "Ballymena and Portglenone Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c211",
+      "title": "Ramsgate and Margate Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/211",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c212",
+      "title": "Banbury and Cheltenham Direct Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/212",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c213",
+      "title": "Liverpool (Corporation) Electric Lighting Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/213",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c214",
+      "title": "Alloa Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/214",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c215",
+      "title": "Derby Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/215",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c216",
+      "title": "Halesowen Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/216",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c217",
+      "title": "Knutsford Light and Water Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/217",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c218",
+      "title": "Ardmillan Reclamation Amendment Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/218",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c219",
+      "title": "Knightsbridge and Other Crown Lands Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/219",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c22",
+      "title": "St. Bartholomew's Hospital and Brasenose College Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c220",
+      "title": "Mungret Agricultural School, &amp;c. Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/220",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c221",
+      "title": "St. Giles Ancient Church (Edinburgh) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/221",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c222",
+      "title": "Erne Lough and River Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/222",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c223",
+      "title": "Easton Neston Mineral and Towcester, Roade and Olney Junction Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/223",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c224",
+      "title": "Enniskillen, Bundoran and Sligo Railway (Donegal Extension) and Enniskillen and Bundoran Extension Railway (Abandonment) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/224",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c225",
+      "title": "Blackburn and Over Darwen Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/225",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c23",
+      "title": "Leeds Corporation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c24",
+      "title": "South Dublin Railway (Abandonment) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c25",
+      "title": "Sidmouth Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c26",
+      "title": "Pemberton Local Board Water Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c27",
+      "title": "Gosport Street Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c28",
+      "title": "Lewes Cattle Market Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c29",
+      "title": "Rathkeale and Newcastle Junction Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c3",
+      "title": "General Police and Improvement (Scotland) Act, 1862, Order Confirmation (Paisley) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c30",
+      "title": "South Western and Brighton Railway Companies (Steam Vessels) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c31",
+      "title": "London, Brighton and South Coast Railway (Various Powers) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c32",
+      "title": "Severn Bridge and Forest of Dean Central Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c33",
+      "title": "Sleaford Water Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c34",
+      "title": "Vicars and Smith's Patent Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c35",
+      "title": "Tipton Local Board Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c36",
+      "title": "Manchester Corporation Waterworks Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c37",
+      "title": "Birmingham (Corporation) Water Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c38",
+      "title": "Brighton and Hove Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c39",
+      "title": "St. Pancras Loans Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c4",
+      "title": "General Police and Improvement (Scotland) Act, 1862, Order Confirmation (Inverness) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c40",
+      "title": "Glasgow Corporation Waterworks Amendment Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c41",
+      "title": "Land Drainage Supplemental Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c42",
+      "title": "Public Health (Scotland) Act, 1867, Order Confirmation (Castle Douglas) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c43",
+      "title": "Local Government Board's Provisional Orders Confirmation (Ashton-under-Lyne, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c44",
+      "title": "Cranbrook and Paddock Wood Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c45",
+      "title": "London, Chatham and Dover Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c46",
+      "title": "Greenock Railway Guaranteed Company's Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c47",
+      "title": "Lancashire County Justices Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c48",
+      "title": "North British Railway (General Powers) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c49",
+      "title": "East London Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c5",
+      "title": "Dover and Deal Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c50",
+      "title": "Bromley Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c51",
+      "title": "Rawmarsh Local Board Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c52",
+      "title": "East Cornwall Mineral Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c53",
+      "title": "Merionethshire Railway (Extension of Time) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c54",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (Clonmel, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c55",
+      "title": "Pier and Harbour Orders Confirmation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c56",
+      "title": "Local Government Board (Ireland) Provisional Order (Downpatrick) Confirmation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c57",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Cashel, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c58",
+      "title": "Education Department Provisional Orders Confirmation (Brighton and Preston, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c59",
+      "title": "Education Department Provisional Order Confirmation (London) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c6",
+      "title": "Grand Junction Waterworks Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c60",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Waterford, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c61",
+      "title": "Public Health (Scotland) Act, 1867, Order Confirmation (Bothwell) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c62",
+      "title": "Bath Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c63",
+      "title": "City of London School Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c64",
+      "title": "Glossop Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c65",
+      "title": "Wellington Street United Presbyterian Church (Glasgow) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c66",
+      "title": "Dun Drainage Act Amendment Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c67",
+      "title": "Millwall Dock Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c68",
+      "title": "West Kent Main Sewerage (Amendment) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c69",
+      "title": "East Norfolk Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c7",
+      "title": "North and South Woolwich Subway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c70",
+      "title": "Imperial Continental Gas Association Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c71",
+      "title": "Thames and Severn Canal Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c72",
+      "title": "Southwark and Deptford Tramways Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c73",
+      "title": "Grantham Extension Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c74",
+      "title": "Ilkley Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c75",
+      "title": "Yarmouth and North Norfolk (Light) Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c76",
+      "title": "Colwyn Bay Waterworks Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c77",
+      "title": "Local Government Board's (Highways) Provisional Orders Confirmation (Buckingham, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c78",
+      "title": "Local Government Board's Provisional Orders Confirmation (Aysgarth Union, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c79",
+      "title": "Metropolis (Little Coram Street, Bloomsbury, Wells Street, Poplar, and Great Peter Street, Westminster) Improvement Provisional Orders Confirmation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c8",
+      "title": "Ecclesiastical Commissioners (Croydon) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c80",
+      "title": "Metropolis (Whitechapel and Limehouse) Improvement Scheme Modification Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c81",
+      "title": "Inclosure and Regulation (Matterdale) Provisional Orders Confirmation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c82",
+      "title": "Inclosure (Redmoor and Golberdon) Provisional Order Confirmation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c83",
+      "title": "Inclosure and Regulation (East Stainmore) Provsional Orders Confirmation Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c84",
+      "title": "Local Government Board's (Highways) Provisional Orders Confirmation (Gloucester and Hereford) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c85",
+      "title": "Local Government Board's (Highways) Provisional Orders Confirmation (Dorset, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c86",
+      "title": "Local Government Board's Provisional Orders Confirmation (Castleton-by-Rochdale, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c87",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Killarney, &amp;c.) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c88",
+      "title": "Aberdeen Harbour Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c89",
+      "title": "Nelson Local Board Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c9",
+      "title": "Bury St. Edmund's Gas Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c90",
+      "title": "Goole Lighting Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c91",
+      "title": "Swindon, Marlborough and Andover Railway Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c92",
+      "title": "Warrington Corporation Lighting and Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c93",
+      "title": "Christ Church (City) Tithe Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c94",
+      "title": "Great Southern and Western Railway (Additional Powers) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c95",
+      "title": "Clare Slob Land Reclamation (Extension) Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c96",
+      "title": "Liverpool United Tramways and Omnibus Company's Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c97",
+      "title": "Eastbourne Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c98",
+      "title": "St. Alban City Improvement Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1879-c99",
+      "title": "Stourbridge Gas Amendment Act 1879",
+      "year": 1879,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/42-43/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1879-c1",
       "title": "Spring Assizes Act 1879",

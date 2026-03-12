@@ -1,7 +1,2347 @@
 {
   "year": 1898,
-  "count": 62,
+  "count": 322,
   "items": [
+    {
+      "id": "UKLA-1898-c1",
+      "title": "Lancashire County Council (Bridges) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c10",
+      "title": "Folkestone Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c100",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c101",
+      "title": "Tramways Order in Council (Ireland) (Londonderry and Lough Swilly (Letterkenny to Burtonport Extension) Railway) Confirmation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c102",
+      "title": "Aberdeen Corporation (Tramways) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c103",
+      "title": "South Western Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c104",
+      "title": "Staines Reservoirs Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c105",
+      "title": "Belfast Harbour Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c106",
+      "title": "Blackpool Improvement Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c107",
+      "title": "Sheringham Gas and Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c108",
+      "title": "Carmarthen Improvement Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c109",
+      "title": "Northam Urban District Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c11",
+      "title": "City and South London Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c110",
+      "title": "North Warwickshire Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c111",
+      "title": "London, Brighton and South Coast Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c112",
+      "title": "Gainsborough Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c113",
+      "title": "Charing Cross, Euston and Hampstead Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c114",
+      "title": "Southend Waterworks Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c115",
+      "title": "Southwark and Vauxhall Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c116",
+      "title": "St. Thomas Southwark and St. Saviour Southwark Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c117",
+      "title": "Yeovil Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c118",
+      "title": "Bideford and Clovelly Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c119",
+      "title": "Ilford Improvement Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c12",
+      "title": "Eastern Telegraph Company Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c120",
+      "title": "Great Eastern Railway Company and Midland and Great Northern Railways Joint Committee Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c121",
+      "title": "Great Eastern Railway (Pensions) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c122",
+      "title": "Cranbrook District Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c123",
+      "title": "Crawley and District Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c124",
+      "title": "East Ham Improvement Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c125",
+      "title": "Wishaw Water (Additional Supply) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c126",
+      "title": "Liskeard Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c127",
+      "title": "Norwich Electric Tramways Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c128",
+      "title": "Cardiff Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c129",
+      "title": "Dundee Corporation (Tramways) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c13",
+      "title": "St. Matthew Bethnal Green (Church Rate Abolition) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c130",
+      "title": "Buenos Ayres Northern Railway Company's Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c131",
+      "title": "Colonial Bank Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c132",
+      "title": "Rhondda and Swansea Bay Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c133",
+      "title": "Cromer Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c134",
+      "title": "Drogheda (Corporation) Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c135",
+      "title": "Wigan Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c136",
+      "title": "Dover Harbour Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c137",
+      "title": "London Building Act 1894 (Amendment) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c138",
+      "title": "Crystal Palace Company's Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c139",
+      "title": "Plymouth Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c14",
+      "title": "Upper Assam Tea Company Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c140",
+      "title": "Turnchapel Quays and Wharves Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c141",
+      "title": "Stirling Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c142",
+      "title": "Barry Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c143",
+      "title": "London County Council (Acton Sewage) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c144",
+      "title": "Mumbles Railway and Pier Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c145",
+      "title": "London, Chatham and Dover Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c146",
+      "title": "Halifax Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c147",
+      "title": "Folkestone Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c148",
+      "title": "City of Norwich Waterworks Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c149",
+      "title": "Corporation of Foreign Bondholders Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c15",
+      "title": "Edinburgh and Leith Corporation Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c150",
+      "title": "Blackpool and Fleetwood Tramroad Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c151",
+      "title": "Hamilton Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c152",
+      "title": "Hull, Barnsley and West Riding Junction Railway and Dock Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c153",
+      "title": "Kettering Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c154",
+      "title": "Clergy Mutual Assurance Society Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c155",
+      "title": "Kew Bridge Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c156",
+      "title": "Bacup Corporation Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c157",
+      "title": "Higham and Hundred of Hoo Water (Amendment) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c158",
+      "title": "Dublin Southern District Tramways Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c159",
+      "title": "Glasgow and South Western Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c16",
+      "title": "Swansea Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c160",
+      "title": "Matlock Urban District Council Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c161",
+      "title": "Tottenham and Edmonton Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c162",
+      "title": "Felixstowe and Walton Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c163",
+      "title": "Midland Railway (West Riding Lines) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c164",
+      "title": "Newtown Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c165",
+      "title": "Great Northern Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c166",
+      "title": "Blackburn Corporation (Tramways &amp;c.) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c167",
+      "title": "Bristol Tramways (Electrical Power, &amp;c.) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c168",
+      "title": "Bristol Tramways (Extensions) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c169",
+      "title": "Neath, Pontardawe and Brynaman Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c17",
+      "title": "City of Waterford Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c170",
+      "title": "Plymouth and Stonehouse Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c171",
+      "title": "Newhaven and Seaford Sea Defences Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c172",
+      "title": "Gas Light and Coke Company (Capital Consolidation) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c173",
+      "title": "Coventry Corporation Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c174",
+      "title": "Great Western Railway (General Powers) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c175",
+      "title": "Leyton Urban District Council Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c176",
+      "title": "London Tilbury and Southend Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c177",
+      "title": "Metropolitan Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c178",
+      "title": "Middlesbrough Corporation (Gas) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c179",
+      "title": "Tynemouth Corporation (Water) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c18",
+      "title": "Chipstead Valley Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c180",
+      "title": "Dublin Port and Docks Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c181",
+      "title": "Easton and Church Hope Railway (Extension of Time) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c182",
+      "title": "Clontarf and Hill of Howth Tramroad Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c183",
+      "title": "London and North Western Railway (Wales) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c184",
+      "title": "St. David's Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c185",
+      "title": "Clacton Gas and Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c186",
+      "title": "Maldon Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c187",
+      "title": "Southampton Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c188",
+      "title": "Caledonian Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c189",
+      "title": "Leicester Freemen's Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c19",
+      "title": "London and North Western Railway (Steam Vessels) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c190",
+      "title": "Paisley Corporation (Loans) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c191",
+      "title": "St. Marylebone Church Rate Abolition Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c192",
+      "title": "Burnley Corporation (Tramways, &amp;c.) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c193",
+      "title": "Ipswich Dock Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c194",
+      "title": "Usk Valley Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c195",
+      "title": "Manchester Carriage and Tramways Company Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c196",
+      "title": "Birmingham North Warwickshire and Stratford-upon-Avon Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c197",
+      "title": "North Eastern Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c198",
+      "title": "Isle of Wight Railway (Brading Harbour and Railway) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c199",
+      "title": "Electric Lighting Orders Confirmation (No. 9) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c2",
+      "title": "Writers to the Signet Widows' Fund Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c20",
+      "title": "Whitwick and Coalville Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c200",
+      "title": "Electric Lighting Orders Confirmation (No. 13) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c201",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c202",
+      "title": "Tramways Orders Confirmation (No. 2) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c203",
+      "title": "Water Orders Confirmation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c204",
+      "title": "Education Department Provisional Order Confirmation (London) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c205",
+      "title": "Electric Lighting Orders Confirmation (No. 5) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c206",
+      "title": "Electric Lighting Orders Confirmation (No. 7) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c207",
+      "title": "Electric Lighting Orders Confirmation (No. 8) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c208",
+      "title": "Electric Lighting Order Confirmation (No. 15) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c209",
+      "title": "Tramways Orders Confirmation (No. 1) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c21",
+      "title": "Hartlepool Gas and Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c210",
+      "title": "Tramways Orders Confirmation (No. 3) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c211",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 10) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/211",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c212",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 13) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/212",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c213",
+      "title": "Metropolitan Commons (East Sheen) Supplemental Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/213",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c214",
+      "title": "Military Lands Provisional Orders Confirmation (No. 2) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/214",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c215",
+      "title": "India Office (Store DepÃ´t) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/215",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c216",
+      "title": "Buckie (Cluny) Harbour Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/216",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c217",
+      "title": "Great North of Scotland Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/217",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c218",
+      "title": "Newhaven and Seaford Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/218",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c219",
+      "title": "Exeter Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/219",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c22",
+      "title": "Edinburgh Merchant Company Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c220",
+      "title": "Sheffield Electric Lighting (Transfer) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/220",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c221",
+      "title": "London County Council (General Powers) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/221",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c222",
+      "title": "London County Council (Money) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/222",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c223",
+      "title": "Mid Kent Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/223",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c224",
+      "title": "Sheffield District Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/224",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c225",
+      "title": "Carlisle Corporation (Water) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/225",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c226",
+      "title": "Forres Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/226",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c227",
+      "title": "Newcastle-upon-Tyne Corporation (New Infirmary Site) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/227",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c228",
+      "title": "North British Railway (General Powers) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/228",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c229",
+      "title": "Portsmouth Corporation Tramways Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/229",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c23",
+      "title": "Norton and Halton Roads Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c230",
+      "title": "Filey Water and Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/230",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c231",
+      "title": "Newcastle and Gateshead Waterworks Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/231",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c232",
+      "title": "Devonport and District Tramways Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/232",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c233",
+      "title": "Chelsea Electricity Supply Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/233",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c234",
+      "title": "London and North Western Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/234",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c235",
+      "title": "Metropolitan Electric Supply Company Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/235",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c236",
+      "title": "Rochdale Corporation Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/236",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c237",
+      "title": "Seaham Harbour Dock Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/237",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c238",
+      "title": "Wath-upon-Dearne Urban District Council Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/238",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c239",
+      "title": "Windsor and Ascot Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/239",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c24",
+      "title": "Edinburgh and District Waterworks Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c240",
+      "title": "Heywood Waterworks (Transfer) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/240",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c241",
+      "title": "Todmorden Corporation Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/241",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c242",
+      "title": "Bolton Turton and Westhoughton Extension Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/242",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c243",
+      "title": "Glasgow Corporation (Sewage, &amp;c.) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/243",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c244",
+      "title": "Knott End Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/244",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c245",
+      "title": "Rhymney and Aber Valleys Gas and Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/245",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c246",
+      "title": "Kingstown and Kingsbridge Junction Railway (Abandonment) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/246",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c247",
+      "title": "Mersey Railway (Capital) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/247",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c248",
+      "title": "Lancashire, Derbyshire and East Coast Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/248",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c249",
+      "title": "Lincoln and East Coast Railway and Dock Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/249",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c25",
+      "title": "Marianao and Havana Railway Company Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c250",
+      "title": "Middlesex County Council Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/250",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c251",
+      "title": "Liverpool Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/251",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c252",
+      "title": "Fishguard and Rosslare Railways and Harbours Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/252",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c253",
+      "title": "Great Central Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/253",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c254",
+      "title": "Great Western Railway (New Works) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/254",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c255",
+      "title": "Keighley Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/255",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c256",
+      "title": "London United Tramways Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/256",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c257",
+      "title": "Paignton Improvement Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/257",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c258",
+      "title": "St. Helens Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/258",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c259",
+      "title": "West Ham Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/259",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c26",
+      "title": "Morley Corporation (Gas, &amp;c.) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c260",
+      "title": "Wey Valley, Frimley and Farnham Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/260",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c261",
+      "title": "Whitechapel and Bow Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/261",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c262",
+      "title": "Cardiff Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/262",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c27",
+      "title": "Great Orme Tramways Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c28",
+      "title": "Mersey Docks (New Works) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c3",
+      "title": "Midlothian and Peebles District Board of Lunacy (Water Supply) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c31",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c32",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c33",
+      "title": "Customs and other Offices (Barry Dock) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c34",
+      "title": "Customs Offices (Southampton) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c35",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c36",
+      "title": "Commons Regulation (Wolstanton Marsh) Provisional Order Confirmation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c37",
+      "title": "Electric Lighting Orders Confirmation (No. 1) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c38",
+      "title": "Electric Lighting Orders Confirmation (No. 2) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c39",
+      "title": "Electric Lighting Orders Confirmation (No. 3) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c4",
+      "title": "Mersey Docks (Various Powers) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c40",
+      "title": "Electric Lighting Orders Confirmation (No. 4) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c41",
+      "title": "Pilotage Order Confirmation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c42",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 2) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c43",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 4) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c44",
+      "title": "Holmes's Patent Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c45",
+      "title": "Southend-on-Sea Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c46",
+      "title": "Bakewell Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c47",
+      "title": "York United Gas Light Company Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c48",
+      "title": "Brompton, Chatham, Gillingham and Rochester Water Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c49",
+      "title": "Bombay, Baroda and Central India Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c5",
+      "title": "Agricultural Company of Mauritius Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c50",
+      "title": "Midland Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c51",
+      "title": "Foreign Cattle Market Deptford Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c52",
+      "title": "St. Anne's-on-Sea Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c53",
+      "title": "City of Belfast (Hospitals) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c54",
+      "title": "Crowhurst Sidley and Bexhill Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c55",
+      "title": "South Eastern Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c56",
+      "title": "Torrington and Okehampton Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c57",
+      "title": "Enfield Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c58",
+      "title": "Milford Docks Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c59",
+      "title": "Newhaven Harbour and Ouse Lower Navigation Amendment Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c6",
+      "title": "Guy's Hospital Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c60",
+      "title": "City and Brixton Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c61",
+      "title": "Lancashire and Yorkshire Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c62",
+      "title": "London, Walthamstow and Epping Forest Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c63",
+      "title": "Edmonton Urban District Council Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c64",
+      "title": "Powell Duffryn Steam Coal Company Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c65",
+      "title": "Lanarkshire and Dumbartonshire Railway (Capital) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c66",
+      "title": "Great Eastern Railway (General Powers) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c67",
+      "title": "Wirral Railway Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c68",
+      "title": "Liverpool and London and Globe Insurance Company Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c69",
+      "title": "Gloucester Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c7",
+      "title": "Patriotic Assurance Company Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c70",
+      "title": "Ilkeston Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c71",
+      "title": "Nottingham Corporation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c72",
+      "title": "Market Harborough Urban District Council Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c73",
+      "title": "Sheringham and Beeston Protection Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c74",
+      "title": "Thanet Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c75",
+      "title": "Land Drainage Supplemental Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c76",
+      "title": "Metropolitan Police Provisional Order Confirmation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c77",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c78",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c79",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c8",
+      "title": "Tyne Improvement (Constitution and Works) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c80",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c81",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c82",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 9) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c83",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 11) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c84",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 12) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c85",
+      "title": "Education Department Provisional Orders Confirmation (Barnes, &amp;c.) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c86",
+      "title": "Gas Orders Confirmation (No. 1) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c87",
+      "title": "Commons Regulation (Runcorn) Provisional Order Confirmation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c88",
+      "title": "Edinburgh Improvement Scheme Provisional Order Confirmation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c89",
+      "title": "Military Lands Provisional Orders Confirmation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c9",
+      "title": "Aberystwyth Gas Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c90",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 3) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c91",
+      "title": "Leith Burgh Order Confirmation Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c92",
+      "title": "Electric Lighting Orders Confirmation (No. 6) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c93",
+      "title": "Electric Lighting Orders Confirmation (No. 10) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c94",
+      "title": "Electric Lighting Orders Confirmation (No. 11) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c95",
+      "title": "Electric Lighting Orders Confirmation (No. 14) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c96",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c97",
+      "title": "Local Government Board's Provisional Orders Confirmation (Gas) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c98",
+      "title": "Gas Orders Confirmation (No. 2) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1898-c99",
+      "title": "Local Government Board's Provisional Orders Confirmation (Housing of Working Classes) Act 1898",
+      "year": 1898,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/61-62/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1898-c1",
       "title": "Army (Annual) Act 1898",

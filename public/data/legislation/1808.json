@@ -1,7 +1,1411 @@
 {
   "year": 1808,
-  "count": 7,
+  "count": 163,
   "items": [
+    {
+      "id": "UKLA-1808-c1",
+      "title": "Middleton-in-Teesdale, St. Andrew Auckland and Egleston Bridge Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c10",
+      "title": "Roads from Hinckley to Melbourne Common Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c100",
+      "title": "Kilburn Bridge Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c101",
+      "title": "Road from Pyecombe to Staplefield Common Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c102",
+      "title": "Crosier's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c103",
+      "title": "Sheffield and Ecclesall Courts Baron Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c104",
+      "title": "Berwick-upon-Tweed Harbour Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c105",
+      "title": "Roads in Inverness Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c106",
+      "title": "Drogheda Harbour Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c107",
+      "title": "Lewes Shire Hall Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c108",
+      "title": "River Witham Drainage and Navigation Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c109",
+      "title": "Hull Court of Requests Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c11",
+      "title": "Bristol Port Improvement Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c110",
+      "title": "Wolverhampton Court of Requests Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c111",
+      "title": "Henley Bridge Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c112",
+      "title": "Road from Lauder to Kelso Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c113",
+      "title": "Road from Stamford to South Witham Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c114",
+      "title": "Road to Pembroke Ferry Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c115",
+      "title": "Lord Thurlow's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c116",
+      "title": "Dulwich College Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c117",
+      "title": "Earl of Catherlough's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c118",
+      "title": "Bankes' Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c119",
+      "title": "De la Pole's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c12",
+      "title": "Easington Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c121",
+      "title": "Foy's Charity Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c122",
+      "title": "Amphlett's Marriage Settlement Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c123",
+      "title": "Lee's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c124",
+      "title": "Cook's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c125",
+      "title": "Mellish Estate and Blyth Glebe Lands Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c126",
+      "title": "Vere's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c127",
+      "title": "Manchester Infirmary Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c128",
+      "title": "Watlington Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c129",
+      "title": "Hathersage Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c13",
+      "title": "Barnsley Canal Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c130",
+      "title": "Chertsey Allotments Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c131",
+      "title": "St. Asaph Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c132",
+      "title": "Horton Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c133",
+      "title": "Charnwood Forest and Rothley Plain Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c134",
+      "title": "Kingston-upon-Thames and Imworth Inclosure, Court House and Market House Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c135",
+      "title": "Checkley Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c136",
+      "title": "Londonderry Water Supply, Harbour and Court of Requests Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c137",
+      "title": "Colchester Water Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c138",
+      "title": "Road through Haslemere Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c139",
+      "title": "Roads from Tavernspite (Pembrokeshire) Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c14",
+      "title": "Aberbrothock Two Pennies Scots Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c140",
+      "title": "Snailwell and Burgate Advowsons Exchange Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c141",
+      "title": "Earl of Hardwicke's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c142",
+      "title": "Bishop of London's (Paddington) Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c143",
+      "title": "Daniel's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c144",
+      "title": "Careswell's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c145",
+      "title": "Maynooth Academy Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c146",
+      "title": "Woolwich Water Supply and Market Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c147",
+      "title": "Road from Milford to Stainton (Pembrokeshire) Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c148",
+      "title": "Leominster and Luston Inclosure and Improvement Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c149",
+      "title": "St. John's College, Oxford and Hull's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c15",
+      "title": "Road from Leeds to Roundhay Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c150",
+      "title": "Paul's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c151",
+      "title": "Huggett's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c152",
+      "title": "Kirk Smeaton Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c153",
+      "title": "Tewkesbury Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c154",
+      "title": "Earl of Moira and Countess of Loudoun Estates Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c155",
+      "title": "Bonner's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c156",
+      "title": "Gaussen's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c157",
+      "title": "Simonburn Presentation Right Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c16",
+      "title": "Minera Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c17",
+      "title": "Highways in Dumbarton Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c18",
+      "title": "Croydon Canal Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c19",
+      "title": "Biddenden and Boundgate Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c2",
+      "title": "Winchester Improvement Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c20",
+      "title": "Aberdeen House of Correction Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c21",
+      "title": "St. Mary Newington Parochial Rates Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c22",
+      "title": "King's Lynn Hospitals and Workhouses Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c23",
+      "title": "Tid St. Giles, Newton and Tid St. Mary's Drainage Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c24",
+      "title": "Road from Barton Waterside House (Lincolnshire) Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c25",
+      "title": "Road from Gainsborough Bridge (Lincolnshire) Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c26",
+      "title": "Tadcaster Bridge and Hob Moor Lane Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c27",
+      "title": "Beverley Road (Yorkshire) Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c28",
+      "title": "Road from Carlisle to Eamont Bridge Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c29",
+      "title": "Road from New Chappel to Brighton Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c3",
+      "title": "Oxford Canal Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c30",
+      "title": "Spernal Ash and Birmingham Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c31",
+      "title": "Road from Wirksworth to Duffield Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c32",
+      "title": "Road from Cromford Bridge to Langley Mill (Derbyshire) Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c33",
+      "title": "Road from Clitheroe to Blackburn Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c34",
+      "title": "Road from High Bridges and from Spath (Staffordshire) Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c35",
+      "title": "Gaywood and Mintlyn Inclosures Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c36",
+      "title": "Thakeham, Sullington and Shipley Inclosures Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c37",
+      "title": "Road from the Wrotham Heath Turnpike Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c38",
+      "title": "Road from the Mansfield and Chesterfield Turnpike Road and from Tupton Nether Green Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c39",
+      "title": "Great and Little Walsingham and Houghton-next-Walsingham Inclosures Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c4",
+      "title": "Hurstgreen Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c40",
+      "title": "Beverley and Skidby Drainage Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c41",
+      "title": "Inverness Improvement and Bridge Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c42",
+      "title": "Gorbals Improvement Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c43",
+      "title": "Manchester Court of Requests Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c44",
+      "title": "Glasgow Gas Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c45",
+      "title": "Fermoy Improvement Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c46",
+      "title": "Kilmarnock and Troon Railway Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c47",
+      "title": "Troon Harbour Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c48",
+      "title": "Tees Navigation Company Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c49",
+      "title": "Worcester and Birmingham Canal Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c5",
+      "title": "Road from Scole Bridge to Bury St. Edmunds Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c50",
+      "title": "Codsheath, &amp;c. Court of Requests Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c51",
+      "title": "Rochester, &amp;c. Court of Requests Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c52",
+      "title": "Road from Maidstone to Key Street Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c53",
+      "title": "Road from Kingston-upon-Hull to Kirk Ella Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c54",
+      "title": "Road from Kinross to Alloa Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c55",
+      "title": "Athy and Leighlin Bridge, and Carlow and Castlecomer Roads Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c56",
+      "title": "Road from Chesterfield to Worksop Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c57",
+      "title": "Blidworth and Pinxton Green Road (Nottinghamshire) Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c58",
+      "title": "Worksop and Attercliffe Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c59",
+      "title": "Nottingham and Mansfield Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c6",
+      "title": "Chapel Allerton Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c60",
+      "title": "Roads from Percy's Cross and from Wooler (Northumberland) Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c61",
+      "title": "Tunbridge Wells and Uckfield Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c62",
+      "title": "Key Bridge, Tewkesbury Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c63",
+      "title": "Road from Foston Bridge (Lincolnshire) Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c64",
+      "title": "Road from Macclesfield to Nether Tabley Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c65",
+      "title": "Watling Street Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c66",
+      "title": "Keyberry Bridge, Shalldon and Torquay Roads Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c67",
+      "title": "Shrewsbury to Wrexham and Wrexham to Chester Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c68",
+      "title": "Tunbridge Wells Roads Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c69",
+      "title": "West Riding Cloth Trade Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c7",
+      "title": "Roads from Northallerton and Thirsk Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c70",
+      "title": "London Bread Trade Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c71",
+      "title": "London Hides and Skins Trade Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c72",
+      "title": "Lord le Despencer's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c73",
+      "title": "Aston's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c74",
+      "title": "Spicer's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c75",
+      "title": "Coke's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c76",
+      "title": "Fletcher's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c77",
+      "title": "Hospital for Poor French Protestants Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c78",
+      "title": "Kirkby Lonsdale Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c79",
+      "title": "Chipping, Mitton and Ribchester Inclosures Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c8",
+      "title": "East London Waterworks Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c80",
+      "title": "Bawdeswell and Ling Inclosures Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c81",
+      "title": "Scotter Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c82",
+      "title": "Rothbury Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c83",
+      "title": "Abergele Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c84",
+      "title": "Bodham Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c85",
+      "title": "Wicklewood Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c86",
+      "title": "St. Pancras Improvement Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c87",
+      "title": "Beverley Improvement Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c88",
+      "title": "Westbury, &amp;c. Court of Requests Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c89",
+      "title": "Chudleigh Rebuilding Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c9",
+      "title": "St. Saviour, Southwark, Parochial Rates Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c90",
+      "title": "Road from Newcastle-under-Lyme to Nantwich Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c91",
+      "title": "Rotherham and Wortley Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c92",
+      "title": "Tilbury Fort Road Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c93",
+      "title": "Earl of Ormonde's Estate Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c94",
+      "title": "Stone Inclosure Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c95",
+      "title": "Marden, Sutton St. Michael, Sutton St. Nicholas and Withington Inclosures Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c96",
+      "title": "Commercial Insurance Company of Dublin Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c97",
+      "title": "St. Luke, Middlesex, Poor Relief Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c98",
+      "title": "Ashton-under-Lyne, &amp;c. Court of Requests Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1808-c99",
+      "title": "Grand Surrey Canal Act 1808",
+      "year": 1808,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/48/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1808-c106",
       "title": "Acts of Parliament (Expiration) Act 1808",

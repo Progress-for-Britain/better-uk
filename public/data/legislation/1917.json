@@ -1,7 +1,538 @@
 {
   "year": 1917,
-  "count": 55,
+  "count": 114,
   "items": [
+    {
+      "id": "UKLA-1917-c1",
+      "title": "Land Drainage (Ramsey) Provisional Order Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c10",
+      "title": "Lanarkshire County Council (Water, &amp;c.) Order Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c11",
+      "title": "Nottinghamshire and Derbyshire Tramways Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c12",
+      "title": "Haslemere and District Gas Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c13",
+      "title": "London Corn Exchange Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c14",
+      "title": "Lancashire Power Construction Company Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c15",
+      "title": "Hemel Hempstead District Gas Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c16",
+      "title": "Lea Bridge District Gas Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c17",
+      "title": "Gas Light and Coke Company's Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c18",
+      "title": "Kenilworth Gas Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c19",
+      "title": "Cork Improvement Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c2",
+      "title": "West Kent Electric Power Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c20",
+      "title": "Bristol Waterworks Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c21",
+      "title": "Dundee Harbour and Tay Ferries Order Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c22",
+      "title": "Essex and Herts Clergy Charity Scheme Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c23",
+      "title": "Birmingham Churches Fund Charity Scheme Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c24",
+      "title": "Church Lands (Bristol St. Thomas) Charity Scheme Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c25",
+      "title": "Presbyterian Church (Crook) Charity Scheme Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c26",
+      "title": "Baptist Chapels Scheme Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c27",
+      "title": "Congregational Chapels Scheme Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c28",
+      "title": "Land Drainage (Ewerby) Provisional Order Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c29",
+      "title": "Land Drainage (Swaffham) Provisional Order Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c3",
+      "title": "Mansfield Railway Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c30",
+      "title": "Land Drainage (Wistow) Provisional Order Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c31",
+      "title": "Electric Lighting Orders Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c32",
+      "title": "Gas and Water Provisional Orders Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c33",
+      "title": "Pier and Harbour Orders Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c34",
+      "title": "Local Government Board (Ireland) Provisional Order Confirmation (No. 2) Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c35",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c36",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c37",
+      "title": "Bedwas and Machen Urban District Council Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c38",
+      "title": "Seaham Harbour Dock Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c39",
+      "title": "London County Council (Money) Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c4",
+      "title": "South Staffordshire Mond Gas (Power and Heating) Company Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c40",
+      "title": "Ebbw Vale Urban District Council Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c41",
+      "title": "Barrow-in-Furness Corporation Water Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c42",
+      "title": "Ashton-under-Lyne Corporation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c43",
+      "title": "North Cheshire Water Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c44",
+      "title": "Port of London Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c45",
+      "title": "Chepstow Water Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c46",
+      "title": "Sheffield Gas Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c47",
+      "title": "Sheffield Corporation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c48",
+      "title": "Colonial Bank Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c49",
+      "title": "Caerphilly Urban District Council Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c5",
+      "title": "Yorkshire Registries (North Riding) Amendment Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c50",
+      "title": "South Eastern and London, Chatham and Dover Railways Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c51",
+      "title": "Richmond (Surrey) Electricity Supply Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c52",
+      "title": "Blackpool Improvement Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c53",
+      "title": "Sir W.G. Armstrong Whitworth and Company (Railways) Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c54",
+      "title": "Levinstein Limited (Railways) Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c55",
+      "title": "Cheshire Lines Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c56",
+      "title": "Royal Victoria Infirmary Newcastle-upon-Tyne Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c57",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c58",
+      "title": "Glasgow Boundaries Act 1912 (Amendment) Order Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c59",
+      "title": "South Staffordshire Mond Gas (Power and Heating) Company's (No. 2) Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c6",
+      "title": "Aluminium Corporation (Conversion of Shares) Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c7",
+      "title": "Provisional Order (Marriages) Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c8",
+      "title": "Perth School Board Order Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1917-c9",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation Act 1917",
+      "year": 1917,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/7-8/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1917-c1",
       "title": "Consolidated Fund (No. 1) Act 1917",

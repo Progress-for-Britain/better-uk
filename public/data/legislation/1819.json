@@ -1,7 +1,1159 @@
 {
   "year": 1819,
-  "count": 6,
+  "count": 134,
   "items": [
+    {
+      "id": "UKLA-1819-c1",
+      "title": "Leeds to Harrogate Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c10",
+      "title": "Lewes and Eastbourne, and Polegate and Hailsham Roads Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c100",
+      "title": "Nuffield and Faringdon Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c101",
+      "title": "Bedford and Woburn Road and Kempston Field Branch Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c102",
+      "title": "Road from Paddington to Harrow-on-the-Hill Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c103",
+      "title": "Dundee Harbour Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c104",
+      "title": "Portsmouth and Arundel Navigation and Wey and Arun Junction Canal Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c105",
+      "title": "Leeds and Liverpool Canal Branch and Railway Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c106",
+      "title": "Sunderland Harbour and River Wear Navigation Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c107",
+      "title": "Newcastle-under-Lyme Gas Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c108",
+      "title": "Dumfries Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c109",
+      "title": "Dublin and Navan Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c11",
+      "title": "St. George the Martyr, Middlesex, Parish Church and Churchyard Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c110",
+      "title": "Roads in Dumfries Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c111",
+      "title": "Regent's Canal Water Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c112",
+      "title": "West Riding Woollen Cloth Trade Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c113",
+      "title": "Tay Ferries Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c114",
+      "title": "Barnsley Church and Burial Grounds Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c115",
+      "title": "Plymouth and Dartmoor Railway Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c116",
+      "title": "Edinburgh Water Company's Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c117",
+      "title": "Cranstonhill Waterworks Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c118",
+      "title": "Harwich Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c119",
+      "title": "Westminster and Holborn Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c12",
+      "title": "Road from Keighley to Halifax Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c120",
+      "title": "Kensington Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c121",
+      "title": "Pontypool and Usk Districts of Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c122",
+      "title": "Adderbury and Oxford Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c123",
+      "title": "Roads in Roxburgh and Selkirk Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c124",
+      "title": "Didbrook and Stow-on-the-Wold Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c125",
+      "title": "Pembroke Dock Market and Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c126",
+      "title": "Windsor Bridge and Approaches Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c127",
+      "title": "London Bread Trade Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c128",
+      "title": "Banbridge and Belfast Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c13",
+      "title": "Carlisle Canal Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c14",
+      "title": "Breconshire Bridges over Rivers Senny and Usk Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c15",
+      "title": "Wapping Workhouse Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c16",
+      "title": "Maidstone Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c17",
+      "title": "Cheltenham Gas Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c18",
+      "title": "Ireby, Kirkby Lonsdale, Kirkby Kendal and Milnthorp Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c19",
+      "title": "Wellingborough and Northampton Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c2",
+      "title": "Bristol Gas Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c20",
+      "title": "Gaslight and Coke Company Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c21",
+      "title": "Bermondsey Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c22",
+      "title": "Manchester Highways Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c23",
+      "title": "Westminster Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c24",
+      "title": "Alconbury Hill and Peterborough Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c25",
+      "title": "Road from Bury (Huntingdonshire) to Stratton near Biggleswade Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c26",
+      "title": "East India Company and the Nabobs of the Carnatic Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c27",
+      "title": "High Court of Chancery Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c28",
+      "title": "Glasgow Assay Office Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c29",
+      "title": "Edinburgh and Glasgow Union Canal Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c3",
+      "title": "Calton and Mile End (Glasgow) Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c30",
+      "title": "Liverpool Harbour and Isle of Anglesea Lighthouse Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c31",
+      "title": "Shoreham Harbour Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c32",
+      "title": "Burnley and Habergham Eaves Water Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c33",
+      "title": "Aberdeen Court House and Gaol Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c34",
+      "title": "Burnley Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c35",
+      "title": "St. Luke, Chelsea, Parish Church Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c36",
+      "title": "Mitcham Parish Church and Burial Ground Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c37",
+      "title": "St. Hilds Chapel, Jarrow Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c38",
+      "title": "Bolton Chapel of Ease Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c39",
+      "title": "St. Pancras Select Vestry Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c4",
+      "title": "Maiden Newton Roads Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c40",
+      "title": "Carlisle Gas Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c41",
+      "title": "Road from Kettering to Northampton Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c42",
+      "title": "Road from Gloucester to Stroud Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c43",
+      "title": "Wrexham and Pentre Bridge Road and Abermorddu and Mold Branch Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c44",
+      "title": "Trowbridge Roads Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c45",
+      "title": "Road from Bricker's Barn to the Kingsdown and Batheaston Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c46",
+      "title": "Evesham and Alcester Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c47",
+      "title": "Kilburn Bridge and Sparrow's Herne Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c48",
+      "title": "Harnham Hill, Blandford and Dorchester Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c49",
+      "title": "Bromsgrove and Birmingham Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c5",
+      "title": "British Plate Glass Manufacturers Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c50",
+      "title": "Atcham and Dorrington Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c51",
+      "title": "Road from Clitheroe to Blackburn Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c52",
+      "title": "Yeovil Roads Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c53",
+      "title": "Road from Dewsbury to Ealand Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c54",
+      "title": "Stratford-upon-Avon and Edgehill Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c55",
+      "title": "Bude Harbour and Canal Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c56",
+      "title": "Road from Crossford Bridge to Manchester Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c57",
+      "title": "Elgin Roads and Bridges Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c58",
+      "title": "Durham and Berwick Roads and Bridges Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c59",
+      "title": "Roads in Lanark, Ayr and Renfrew Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c6",
+      "title": "Nottingham and Derby, and Lenton and Sawley Ferry Roads Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c60",
+      "title": "Hereford Roads Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c61",
+      "title": "Meath Hospital and County of Dublin Infirmary Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c62",
+      "title": "Coventry Canal Navigation Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c63",
+      "title": "St. John the Baptist, Peterborough, Parish Church Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c64",
+      "title": "Lancaster Canal Navigation Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c65",
+      "title": "Blackburn Parish Church, Burial Ground and Rates Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c66",
+      "title": "Regent's Canal Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c67",
+      "title": "Glasgow Water Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c68",
+      "title": "Birmingham Gas Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c69",
+      "title": "Gloucester Gas and Poor Relief Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c7",
+      "title": "Bagshot and Basingstoke and Odiham Roads Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c70",
+      "title": "Royal Exchange, Dublin Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c71",
+      "title": "Newcastle-Under-Lyme Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c72",
+      "title": "Perth Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c73",
+      "title": "St. Giles-in-the-Fields and St. George Bloomsbury Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c74",
+      "title": "St. Neots Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c75",
+      "title": "Romford Improvement Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c76",
+      "title": "Congresbury, Paxton, Winscombe, Banwell, Churchill, Kewstoke, Week St. Lawrence and Yatton Drainage Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c77",
+      "title": "Borough Fen Common Inclosure and Newborough Parish Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c78",
+      "title": "Bedford Level Drainage Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c79",
+      "title": "Bedford Level Drainage and Ouse Navigation Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c8",
+      "title": "Abingdon to Chilton Pond (Berkshire) Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c80",
+      "title": "Bradford (Yorkshire) to Wakefield Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c81",
+      "title": "Barnsdale and Thwaite Gate Turnpike Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c82",
+      "title": "Kington Roads Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c83",
+      "title": "Road from Marlborough to Cote Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c84",
+      "title": "Roads from Fryer Bacon's Study (Oxford District) Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c85",
+      "title": "Runcorn and Northwich Turnpike Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c86",
+      "title": "Road from Shrewsbury to Preston Brockhurst Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c87",
+      "title": "Biddulph and Dane-in-Shaw Road and Branch (Stafford and Chester) Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c88",
+      "title": "Roads to and from Bridport Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c89",
+      "title": "Bradford Roads and Stokeford Bridge (Wiltshire) Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c9",
+      "title": "Liverpool Markets and Tolls Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c90",
+      "title": "Glasgow and Carlisle Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c91",
+      "title": "Road from Huddersfield to Penistone Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c92",
+      "title": "Road from Leeds to Harrogate Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c93",
+      "title": "Heywood and Prestwich Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c94",
+      "title": "Tadcaster and Halton Dial Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c95",
+      "title": "Bristol Roads Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c96",
+      "title": "Roads from Pedmore to Holly Hall Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c97",
+      "title": "Tenterden and Ashford Road Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c98",
+      "title": "Roads in Merioneth, Montgomery, Denbigh and Salop Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1819-c99",
+      "title": "Great Staughton and Wellingborough and Kimbolton and Brinton Bridge Roads Act 1819",
+      "year": 1819,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/59/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1819-c1",
       "title": "Unlawful Drilling Act 1819",

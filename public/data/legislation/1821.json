@@ -1,7 +1,403 @@
 {
   "year": 1821,
-  "count": 3,
+  "count": 47,
   "items": [
+    {
+      "id": "UKLA-1821-c41",
+      "title": "Road from Ticehurst to Hastings Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c42",
+      "title": "Porthleven Harbour Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c43",
+      "title": "Regent's Canal Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c44",
+      "title": "Stockton and Darlington Railway Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c45",
+      "title": "Hull Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c46",
+      "title": "River Dun Navigation Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c47",
+      "title": "Manchester and Salford Water Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c48",
+      "title": "Glasgow Improvement Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c49",
+      "title": "Lincoln Poor Relief Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c50",
+      "title": "Coventry Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c51",
+      "title": "South London Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c52",
+      "title": "Whitechapel Road Gas Light Company Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c53",
+      "title": "Aberdeen, Banff and Kincardine Roads Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c54",
+      "title": "Gander Lane and Sheffield, and Mosborough Green and Clown Roads Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c55",
+      "title": "Lambeth Inclosure Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c56",
+      "title": "Sheet Bridge and Portsmouth, and Petersfield and Ropley Roads Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c57",
+      "title": "Newport (Isle of Wight) Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c58",
+      "title": "Shrewsbury Improvement Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c59",
+      "title": "Worthing Improvement Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c60",
+      "title": "Airdrie Improvement Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c61",
+      "title": "Stratford-upon-Avon Canal Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c62",
+      "title": "River Arun Navigation and Portsmouth and Arundel Navigation Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c63",
+      "title": "Stratford and Moreton Railway Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c64",
+      "title": "Bedford Level Drainage and Ouse Navigation Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c65",
+      "title": "Brecon Bridges Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c66",
+      "title": "Belfast Commercial Buildings Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c67",
+      "title": "St. Luke Chelsea Rates Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c68",
+      "title": "Chichester Improvement Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c69",
+      "title": "Brentford Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c70",
+      "title": "Nottingham Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c71",
+      "title": "Dudley Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c72",
+      "title": "Stepney Gas and Improvement Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c73",
+      "title": "Portsea Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c74",
+      "title": "Poplar Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c75",
+      "title": "Barnsley Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c76",
+      "title": "Ipswich Gas Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c77",
+      "title": "London Institution Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c78",
+      "title": "Bolton and Westhoughton Chapel Road Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c79",
+      "title": "Keyberry Bridge, Shaldon and Torquay Roads Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c80",
+      "title": "Moses Gate District of Road (Lancashire) Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c81",
+      "title": "Birmingham and Stratford-upon-Avon Road Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c82",
+      "title": "Gloucester to Bristol Road and Branches Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c83",
+      "title": "Roads from Tetbury, Frocester Hill and from Latterwood Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1821-c84",
+      "title": "Alemouth and Hexham Road and Branch Act 1821",
+      "year": 1821,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/1-2/84",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1821-c24",
       "title": "Treason (Ireland) Act 1821",

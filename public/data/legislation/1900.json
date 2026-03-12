@@ -1,7 +1,646 @@
 {
   "year": 1900,
-  "count": 64,
+  "count": 135,
   "items": [
+    {
+      "id": "UKLA-1900-c110",
+      "title": "Great Eastern Railway (General Powers) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c111",
+      "title": "London and India Docks Amalgamation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c112",
+      "title": "St. Albans Waterworks Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c113",
+      "title": "Donegal Railway Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c114",
+      "title": "Great Southern and Western Railway Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c115",
+      "title": "Bray Urban District Council (Extension of Time) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c116",
+      "title": "Westgate and Birchington Water Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c117",
+      "title": "Lee Conservancy Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c118",
+      "title": "Regents Canal and Dock Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c119",
+      "title": "South Staffordshire Tramways Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c120",
+      "title": "Falkirk and District Waterworks Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c121",
+      "title": "Hamilton, Motherwell and Wishaw Tramways Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c122",
+      "title": "Wellingborough and District Tramroads Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c123",
+      "title": "Aston Manor Tramways Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c124",
+      "title": "Exmouth Urban District Water Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c125",
+      "title": "Gwyrfai District Water Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c126",
+      "title": "Dearne Valley Railway Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c127",
+      "title": "Whitechapel and Bow Railway Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c128",
+      "title": "G. H. Hammond Company (Limited) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c129",
+      "title": "London and San Francisco Bank Limited Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c130",
+      "title": "Belfast and County Down Railway Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c131",
+      "title": "Walker and Wallsend Union Gas Company (Electricity Capital) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c132",
+      "title": "Nottingham Corporation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c133",
+      "title": "Edinburgh Corporation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c134",
+      "title": "Mersey Railway Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c135",
+      "title": "Rawmarsh Urban District Council (Tramways) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c136",
+      "title": "Great Grimsby Street Tramways Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c137",
+      "title": "Margate Pier and Harbour Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c138",
+      "title": "Great Indian Peninsula Railway Purchase Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c139",
+      "title": "Great Northern Railway Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c140",
+      "title": "Hastings Tramways Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c141",
+      "title": "Lambeth Waterworks Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c142",
+      "title": "Lancashire, Derbyshire and East Coast Railway Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c143",
+      "title": "Midland Railway Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c144",
+      "title": "Bury and District Water (Transfer) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c145",
+      "title": "Preston Corporation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c146",
+      "title": "London Sea Water Supply Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c147",
+      "title": "South Eastern Metropolitan Tramways Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c148",
+      "title": "Portland Urban District (Gas, &amp;c.) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c149",
+      "title": "Burnley Corporation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c181",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 12) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c182",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 13) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c183",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 14) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c184",
+      "title": "Local Government Board's Provisional Orders Confirmation (Poor Law) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c185",
+      "title": "Local Government Board's Provisional Orders Confirmation (Housing of Working Classes) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c186",
+      "title": "London (Clerkenwell and Holborn) Provisional Order Confirmation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c187",
+      "title": "London (Poplar) Provisional Order Confirmation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c188",
+      "title": "London (St. Luke) Provisional Order Confirmation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c189",
+      "title": "London (Southwark) Provisional Order Confirmation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c190",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 3) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c191",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Housing of Working Classes) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c192",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (Housing of Working Classes) (No. 2) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c193",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c194",
+      "title": "Perth and Paisley Gas Orders Confirmation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c195",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 7) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c196",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 15) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c197",
+      "title": "Education Board Provisional Order Confirmation (London) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c198",
+      "title": "Tramways Orders Confirmation (No. 1) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c199",
+      "title": "Tramways Orders Confirmation (No. 2) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c200",
+      "title": "Tramways Orders Confirmation (No. 3) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c201",
+      "title": "Tramways Orders Confirmation (No. 4) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c202",
+      "title": "London (St. Marylebone) Provisional Order Confirmation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c203",
+      "title": "Paisley Waterworks Provisional Order Confirmation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c204",
+      "title": "Edinburgh Improvement Scheme Provisional Orders Confirmation Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c205",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 4) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c206",
+      "title": "Post Office (Sites) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c207",
+      "title": "Electric Lighting Orders Confirmation (No. 10) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c208",
+      "title": "Tramways Orders Confirmation (No. 5) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c209",
+      "title": "North British Railway (General Powers) Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c210",
+      "title": "Costa Rica Railway Company Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1900-c212",
+      "title": "East London Waterworks Act 1900",
+      "year": 1900,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/63-64/212",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKLA-1900-c269",
       "title": "London County Council (Improvements) Act 1900",

@@ -1,7 +1,916 @@
 {
   "year": 1868,
-  "count": 124,
+  "count": 225,
   "items": [
+    {
+      "id": "UKLA-1868-c1",
+      "title": "Burry Port and Gwendreath Valley Railway Amendment Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c10",
+      "title": "Local Government Supplemental Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c100",
+      "title": "Great Marlow Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c11",
+      "title": "Perth and Brechin Provisional Orders Confirmation Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c113",
+      "title": "Gun Barrel Proof Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/113",
+      "source": "ukla",
+      "description": "An Act for repealing the Gun Barrel Proof Act 1855, and for making other Provisions in lieu thereof; and for altering the Constitution of the Guardians of the Birmingham    Proof House; and for better ensuring the due Proof of Gun Barrels; and for other Purposes."
+    },
+    {
+      "id": "UKLA-1868-c12",
+      "title": "Broughty Ferry Provisional Order Confirmation Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c13",
+      "title": "Lewes Waterworks Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c14",
+      "title": "Buckfastleigh, Totnes and South Devon Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c15",
+      "title": "St. Saviour's Southwark Chaplaincy Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c16",
+      "title": "Loughborough Local Board Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c17",
+      "title": "Stourport Bridge Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c18",
+      "title": "St. Luke's (King's Cross) District Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c19",
+      "title": "Dingwall and Skye Railway (Deviations) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c2",
+      "title": "Devon Valley Railway (Amendment) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c20",
+      "title": "Brompton, Chatham, Gillingham and Rochester Waterworks Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c21",
+      "title": "Carnarvon and Llanberis Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c22",
+      "title": "Lincoln Corporation (Canwick Common) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c23",
+      "title": "Hythe and Sandgate Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c24",
+      "title": "Leicester Improvement, Drainage and Markets Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c25",
+      "title": "River Dee Company (Amendment) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c26",
+      "title": "Cheshire Lines Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c27",
+      "title": "Leamington Priors Local Board (Extension of Powers) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c28",
+      "title": "Slough Waterworks Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c29",
+      "title": "Borough of Portsmouth Waterworks Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c3",
+      "title": "Loughborough Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c30",
+      "title": "City of Dublin Steam Packet Company's Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c31",
+      "title": "Annual Inclosure Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c32",
+      "title": "Cork Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c33",
+      "title": "Cork Improvement Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c34",
+      "title": "Haverfordwest Borough Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c35",
+      "title": "Farnworth and Kearsley Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c36",
+      "title": "Merthyr Tydfil Stipendiary Magistrate Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c37",
+      "title": "Vale of Towy Railway (Leasing) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c38",
+      "title": "London and North Western Railway (Knighton, Central Wales and Central Wales Extension Railways Transfer) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c39",
+      "title": "Glasgow and South Western Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c4",
+      "title": "North London Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c40",
+      "title": "Brentford Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c41",
+      "title": "Burslem and Tunstall Gas Company's (Amendment) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c42",
+      "title": "Clevedon Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c43",
+      "title": "Midland Railway (Additional Powers) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c44",
+      "title": "Kennington Market Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c45",
+      "title": "Leeds New Gas Company's Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c46",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c47",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c48",
+      "title": "Yeadon and Guiseley Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c49",
+      "title": "Midland and London and North Western Railways (Ashby and Nuneaton Railway) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c5",
+      "title": "Grand Junction Waterworks Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c50",
+      "title": "North and South Western Junction Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c51",
+      "title": "Uxbridge and Rickmansworth Railway (Further Time) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c52",
+      "title": "Acton and Brentford Railway (Extension of Time) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c53",
+      "title": "Great Northern Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c54",
+      "title": "Great Western Railway (Dividends) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c55",
+      "title": "West Riding and Grimsby Railway (Abandonment) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c56",
+      "title": "Ystrad Gas and Water Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c57",
+      "title": "Alexandra (Newport) Dock Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c58",
+      "title": "Humber Conservancy Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c59",
+      "title": "Oxford Police Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c6",
+      "title": "Newquay and Cornwall Junction Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c60",
+      "title": "Caversham Bridge Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c61",
+      "title": "Reading Waterworks Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c62",
+      "title": "Dublin, Wicklow and Wexford Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c63",
+      "title": "North British Railway (Forth Railway) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c64",
+      "title": "Lancashire and Yorkshire Railway (Extension of Time, &amp;c.) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c65",
+      "title": "Bristol and Exeter Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c66",
+      "title": "Peterborough Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c67",
+      "title": "Chichester Cattle Market Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c68",
+      "title": "Downpatrick, Dundrum and Newcastle Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c69",
+      "title": "South Western Railway (General) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c7",
+      "title": "Marylebone (Stingo Lane) Improvement Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c70",
+      "title": "Maryport District and Harbour Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c71",
+      "title": "Ilfracombe Railway (Abandonment) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c72",
+      "title": "Sunderland and South Shields Water Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c73",
+      "title": "Potteries, Shrewsbury and North Wales Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c74",
+      "title": "Calverley and Horsforth District Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c75",
+      "title": "Newton Market Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c76",
+      "title": "Chichester Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c77",
+      "title": "Merthyr Tydfil Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c78",
+      "title": "Topsham, Woodbury and Lympstone Waterworks Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c79",
+      "title": "Warrington Waterworks Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c8",
+      "title": "Tower Subway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c80",
+      "title": "Metropolitan Subways Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c81",
+      "title": "Reading Local Board Waterworks Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c82",
+      "title": "Second Annual Inclosure Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c83",
+      "title": "Land Drainage Supplemental Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c84",
+      "title": "Local Government (No. 2) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c85",
+      "title": "Local Government Supplemental (No. 4) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c86",
+      "title": "Local Government Supplemental (No. 5) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c87",
+      "title": "Morley Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c88",
+      "title": "Waterford and Limerick Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c89",
+      "title": "Glasgow Court Houses Amendment Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c9",
+      "title": "Oyster Fisheries Orders Confirmation Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c90",
+      "title": "Itchen Floating Bridge Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c91",
+      "title": "Stourbridge Railway Amendment Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c92",
+      "title": "Worthing Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c93",
+      "title": "Clonmel, Lismore and Dungarvan Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c94",
+      "title": "Dundee Gas Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c95",
+      "title": "Ruthin Water Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c96",
+      "title": "Waterford Harbour (Dry Dock) Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c97",
+      "title": "Barry Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c98",
+      "title": "Glastonbury and Street Tramway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1868-c99",
+      "title": "Teign Valley Railway Act 1868",
+      "year": 1868,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/31-32/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1868-c10",
       "title": "An Act to apply the Sum of Three hundred and sixty-two thousand three hundred and ninety-eight Pounds Nineteen Shillings and Ninepence out of the Consolidated Fund to the Service of the Years ending the Thirty-first Day of March One thousand eight hundred and sixty-seven and the Thirty-first Day of March One thousand eight hundred and sixty-eight",

@@ -1,7 +1,133 @@
 {
   "year": 1945,
-  "count": 44,
+  "count": 58,
   "items": [
+    {
+      "id": "UKLA-1945-c1",
+      "title": "Newcastle-upon-Tyne Corporation (Trolley Vehicles) Order Confirmation Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c10",
+      "title": "Reigate Corporation Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c11",
+      "title": "Manchester Ship Canal Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c12",
+      "title": "Warrington Corporation Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/8-9/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c13",
+      "title": "London County Council (Money) Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/8-9/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c14",
+      "title": "Plympton St. Mary Rural District Council Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c2",
+      "title": "Ministry of Health Provisional Order Confirmation (Weston-super-Mare) Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c3",
+      "title": "Ministry of Health Provisional Order Confirmation (Doncaster) Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c4",
+      "title": "Weaver Navigation Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/9-10/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c5",
+      "title": "Commercial Gas Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/8-9/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c6",
+      "title": "South Suburban Gas Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/8-9/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c7",
+      "title": "Mersey Docks and Harbour Board Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/8-9/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c8",
+      "title": "Pontypool Gas and Water Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/8-9/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1945-c9",
+      "title": "Provisional Order (Marriages) Confirmation Act 1945",
+      "year": 1945,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/8-9/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1945-c1",
       "title": "Local Elections (Service Abroad) Act 1945",

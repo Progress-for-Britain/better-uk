@@ -1,7 +1,709 @@
 {
   "year": 1837,
-  "count": 7,
+  "count": 85,
   "items": [
+    {
+      "id": "UKLA-1837-c1",
+      "title": "Leicester Gaol Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c10",
+      "title": "Whitby (Yorkshire) Improvement Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c100",
+      "title": "Wishaw and Coltness Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c101",
+      "title": "Maryport and Carlisle Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c102",
+      "title": "Great North of England Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c103",
+      "title": "Clarence Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c104",
+      "title": "Great Leinster and Munster Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c105",
+      "title": "Kilmarnock and Troon Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c106",
+      "title": "Dublin and Drogheda Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c107",
+      "title": "Chester and Birkenhead Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c108",
+      "title": "Cork and Passage Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c109",
+      "title": "Dundee Improvement Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c11",
+      "title": "Bridgwater and Taunton Canal Navigation Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c110",
+      "title": "Bridlington Piers and Harbour Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c111",
+      "title": "Campsie Canal Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c112",
+      "title": "Manchester Gas Works Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c113",
+      "title": "River Welland Navigation Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c114",
+      "title": "South London Market Company Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c115",
+      "title": "Liverpool Improvement Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c116",
+      "title": "Glasgow, Paisley and Greenock Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c12",
+      "title": "Licensed Victuallers and General Fire and Life Assurance Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c13",
+      "title": "Patent Dry Gas Meter Company Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c14",
+      "title": "Aberdeenshire Roads Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c15",
+      "title": "Granton Pier Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c16",
+      "title": "Lobley Hill and Burtryford Roads (Durham) Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c17",
+      "title": "Sevenoaks, Tunbridge Wells and Wooodsgate Roads Amendment Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c18",
+      "title": "Cardiff Improvement Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c19",
+      "title": "Cardiff Gas Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c2",
+      "title": "Griggs Quay and Penzance Turnpike Road Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c20",
+      "title": "Stamford Water Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c21",
+      "title": "Sheffield, Ashton-under-Lyne and Manchester Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c22",
+      "title": "Lancaster and Preston Junction Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c23",
+      "title": "North Midland Railway Company Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c24",
+      "title": "Manchester and Leeds Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c25",
+      "title": "Whitby and Pickering Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c26",
+      "title": "Birmingham and Gloucester Railway (Worcester and Tewkesbury Branches) Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c27",
+      "title": "Liverpool and Manchester Railway Company Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c28",
+      "title": "Preston and Wyre Railway and Harbour Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c29",
+      "title": "Wyre Dock Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c3",
+      "title": "Worcester County Hall and Courts of Justice Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c30",
+      "title": "Victoria Park, Manchester Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c31",
+      "title": "Streatley and Goring Bridge Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c4",
+      "title": "Runcorn Gas Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c5",
+      "title": "River Dee Turnpike Road (County of Kincardine) Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c6",
+      "title": "Rochdale and Burnley Road Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c7",
+      "title": "Leicester Court of Requests Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c70",
+      "title": "Taff Vale Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c71",
+      "title": "London and South Western Railway Deviations Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c72",
+      "title": "Newcastle-upon-Tyne Improvement Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c73",
+      "title": "Ipswich Improvement Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c74",
+      "title": "Ipswich Port Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c75",
+      "title": "Brixham Harbour and Market Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c76",
+      "title": "Belfast Port and Harbour Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c77",
+      "title": "Warkworth Harbour Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c78",
+      "title": "Hartlepool Port Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c79",
+      "title": "Glossop Reservoirs Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c8",
+      "title": "Hinckley Court of Requests Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c80",
+      "title": "Ellesmere and Chester Canal Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c81",
+      "title": "Ouse Banks Repair Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c82",
+      "title": "Barnsley Water Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c83",
+      "title": "Leeds Waterworks Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c84",
+      "title": "Bristol Court of Conscience Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c85",
+      "title": "Bristol Encroachment Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c86",
+      "title": "Bristol Rates Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c87",
+      "title": "Shropshire and North Wales Assurance Company Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c88",
+      "title": "West Cork Mining Company Amendment Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c89",
+      "title": "Sligo Salmon Fishery Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c9",
+      "title": "Loughborough Court of Requests Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c90",
+      "title": "Over Inclosure (Cambridgeshire) Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c91",
+      "title": "Great Western Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c92",
+      "title": "Great Western Railway Paddington Extension Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c93",
+      "title": "South Eastern Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c94",
+      "title": "Slamannan Railway (Bathgate Branch) Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c95",
+      "title": "Great North of England, Clarence and Hartlepool Junction Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c96",
+      "title": "Dundalk Western Railway Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c97",
+      "title": "Durham Junction Railway (Houghton-le-Spring Branch) Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c98",
+      "title": "Liverpool Improvement Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1837-c99",
+      "title": "Montrose Harbour Act 1837",
+      "year": 1837,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4and1Vict/7/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1837-c2",
       "title": "Civil List Act 1837",

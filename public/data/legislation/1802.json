@@ -1,7 +1,1078 @@
 {
   "year": 1802,
-  "count": 1,
+  "count": 120,
   "items": [
+    {
+      "id": "UKLA-1802-c1",
+      "title": "Span Smithy and Talk Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/43/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c10",
+      "title": "Road from Falmouth Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c100",
+      "title": "Road from Dunchurch to Stonebridge Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c101",
+      "title": "Roads from West India Docks Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c102",
+      "title": "Viscountess Fane's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c103",
+      "title": "Beardsworth and Williams (Trust) Estates Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c104",
+      "title": "Whitehead's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c105",
+      "title": "Paul's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c106",
+      "title": "Sewerby and Marton Inclosures Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c107",
+      "title": "Flixton Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c108",
+      "title": "Wildmore Fen Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c109",
+      "title": "Shitlington and Holwell Inclosures Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c11",
+      "title": "Barkeswell Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c110",
+      "title": "Wirksworth Inclosure and Water Supply Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c111",
+      "title": "River Itchin Navigation Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c112",
+      "title": "Thurso Harbour Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c113",
+      "title": "West India Dock Company Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c114",
+      "title": "Glenkenns Canal Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c115",
+      "title": "Monmouthshire Canal Navigation Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c116",
+      "title": "River Ancholme Drainage and Navigation Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c117",
+      "title": "Berwick and Durham Roads and Tweed Bridges Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c118",
+      "title": "Taylor and Otway Estates Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c119",
+      "title": "Coningsby Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c12",
+      "title": "Wilmslow and Church Lawton Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c13",
+      "title": "Shoreditch Improvement Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c14",
+      "title": "Road from Finford Bridge to Banbury Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c15",
+      "title": "Road from Leeds to Otley Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c16",
+      "title": "Road from Shoreditch to the Mile End Turnpike Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c17",
+      "title": "Saltash Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c18",
+      "title": "Galway County Gaol Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c19",
+      "title": "Downham Market, Wimbotsham, Stow Bardolph and Denver Drainage Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c2",
+      "title": "Thirsk and Yarm Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/43/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c20",
+      "title": "Ellesmere and Chester Canal Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c21",
+      "title": "Roads from Barnsley Common and from Barugh (Yorkshire) Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c22",
+      "title": "Runham Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c23",
+      "title": "Road from Horsham Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c24",
+      "title": "Bedford Level (South Level, Second District) Drainage Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c25",
+      "title": "Trent and Mersey Canal (Railways) Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c26",
+      "title": "Otley, Skipton and Colne Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c27",
+      "title": "Dundee Two Pennies Scots Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c28",
+      "title": "St. Mary Islington Poor Relief Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c29",
+      "title": "Alrewas Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c3",
+      "title": "Manchester District of Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/43/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c30",
+      "title": "Rhoshirwaun Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c31",
+      "title": "Richmond (Yorkshire) Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c32",
+      "title": "Kempston Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c33",
+      "title": "Kelso Two Pennies Scots Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c34",
+      "title": "Mountjoy Square (Dublin) Improvement Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c35",
+      "title": "Somersetshire Coal Canal Navigation Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c36",
+      "title": "Road from Westwood Gate to Barton Seagrove Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c37",
+      "title": "Road from Kettering to Newport Pagnell Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c38",
+      "title": "Banbury, Brailes and Barcheston Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c39",
+      "title": "Wrexham and Barnhill Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c4",
+      "title": "Truro Roads and Steppings Bridge Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c40",
+      "title": "Road from Beattock to the River Sark Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c41",
+      "title": "Duke of Norfolk's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c42",
+      "title": "Egton-with-Newland Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c43",
+      "title": "Tinmouth Castle Lighthouse Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c44",
+      "title": "Ashby-de-la-Zouch and Tutbury Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c45",
+      "title": "Newent Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c46",
+      "title": "Walpole's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c47",
+      "title": "Aberdeen City Gaol Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c48",
+      "title": "Kilmarnock Improvement Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c49",
+      "title": "Port of London Improvement and City Canal Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c5",
+      "title": "Road from Canterbury to Ramsgate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c50",
+      "title": "Holderness Drainage Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c51",
+      "title": "Bangor Ferry and Pentre Voelas Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c52",
+      "title": "Stockbridge, Winchester, Bishop's Waltham and Southampton Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c53",
+      "title": "Williams' Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c54",
+      "title": "Lefevre's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c55",
+      "title": "Highways and Bridges in Wigtownshire Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c56",
+      "title": "Chatham Workhouse and Poor Relief Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c57",
+      "title": "Norwich Workhouse Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c58",
+      "title": "Somerset Drainage and River Axe Navigation Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c59",
+      "title": "Roads from Stretford's Bridge and Mortimer's Cross, Hereford Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c6",
+      "title": "Road from Canterbury to Sandwich Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c60",
+      "title": "Henley Bridge Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c61",
+      "title": "Chester and Whitchurch Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c62",
+      "title": "Worthing and West Grinstead Park Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c63",
+      "title": "Roads in Kent and Surrey Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c64",
+      "title": "Road from Great Staughton to Lavendon Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c65",
+      "title": "Road from Maidstone to Cranbrook Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c66",
+      "title": "Kidwelly District of Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c67",
+      "title": "Earl of Bute's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c68",
+      "title": "Silvertop's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c69",
+      "title": "Henllan Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c7",
+      "title": "Road from Chesterfield to Matlock Bridge Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c70",
+      "title": "Mickleton and Romaldkirk Inclosures Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c71",
+      "title": "Liverpool Exchange Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c72",
+      "title": "Parish Church of St. Anne, Westminster Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c73",
+      "title": "Temple Bar Improvement Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c74",
+      "title": "Catfield and Sutton (Norfolk) Inclosures and Drainage Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c75",
+      "title": "Devon Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c76",
+      "title": "Surrey and Sussex Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c77",
+      "title": "Tyburn, Uxbridge and Brent Bridge Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c78",
+      "title": "Uppleby's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c79",
+      "title": "Westbury Inclosure Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c8",
+      "title": "Woodbridge and Eye Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c80",
+      "title": "Llanelly Railway and Dock Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c81",
+      "title": "Welsh Harp and Stone Bridge, and Castle Bromwich and Birmingham Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c82",
+      "title": "Roads from Liverpool Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c83",
+      "title": "Alfreton and Derby Roads Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c84",
+      "title": "Prescott's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c85",
+      "title": "Glover's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c86",
+      "title": "Glasgow Glebe Lands Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c87",
+      "title": "Prebend of Prees Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c88",
+      "title": "London Fish Trade Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c89",
+      "title": "Westminster Coal Trade Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c9",
+      "title": "Road from Union Point to Langney Bridge Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c90",
+      "title": "Maidstone Improvement Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c91",
+      "title": "Kingston-upon-Hull Docks Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c92",
+      "title": "Dublin Water Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c93",
+      "title": "Bradford (Yorkshire) Canal Navigation's Estate Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c94",
+      "title": "Medway Lower Navigation Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c95",
+      "title": "Saxelby, Harby and Broadholm Inclosures Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c96",
+      "title": "Boston (Witham) Bridges and Improvement Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c97",
+      "title": "Stirling and Queensferry Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c98",
+      "title": "Roads from Uttoxeter, Cliff Bank and Lower Lane Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1802-c99",
+      "title": "Wirksworth and Hulland Ward Road Act 1802",
+      "year": 1802,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/42/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1802-c85",
       "title": "Criminal Jurisdiction Act 1802",

@@ -1,7 +1,340 @@
 {
   "year": 1934,
-  "count": 57,
+  "count": 94,
   "items": [
+    {
+      "id": "UKLA-1934-c42",
+      "title": "Dundee Corporation Order Confirmation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c43",
+      "title": "Ministry of Health Provisional Order Confirmation (Morley) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c44",
+      "title": "Ministry of Health Provisional Order Confirmation (Steyning and District Water) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c45",
+      "title": "Ministry of Health Provisional Order Confirmation (Milford Haven) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c46",
+      "title": "Ministry of Health Provisional Order Confirmation (Burnham and District Water) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c47",
+      "title": "Provisional Orders (Marriages) Confirmation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c48",
+      "title": "Mexborough and Swinton Traction (Trolley Vehicles) Order Confirmation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c49",
+      "title": "St. Helens Corporation (Trolley Vehicles) Order Confirmation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c50",
+      "title": "Southend-on-Sea Corporation (Trolley Vehicles) Order Confirmation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c51",
+      "title": "Nottingham Corporation (Trolley Vehicles) Order Confirmation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c52",
+      "title": "Prince of Wales's Hospital Plymouth Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c53",
+      "title": "Walthamstow Corporation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c54",
+      "title": "Maidstone Waterworks Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c55",
+      "title": "Stockport Corporation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c56",
+      "title": "Stockport Extension Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c57",
+      "title": "Newport Extension Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c58",
+      "title": "London County Council (Money) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c59",
+      "title": "London Passenger Transport (Interim Financial Arrangements) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c60",
+      "title": "Newport Corporation (General Powers) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c61",
+      "title": "Ministry of Health Provisional Order Confirmation (Leek) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c62",
+      "title": "Ministry of Health Provisional Order Confirmation (Sheppey Water) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c63",
+      "title": "Ministry of Health Provisional Order Confirmation (Stoke-on-Trent) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c64",
+      "title": "Ministry of Health Provisional Order Confirmation (Weymouth and Portland Joint Hospital District) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c65",
+      "title": "Ministry of Health Provisional Order Confirmation (Wey Valley Water) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c66",
+      "title": "Ministry of Health Provisional Order Confirmation (Wycombe and District Joint Hospital) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c67",
+      "title": "Ministry of Health Provisional Order Confirmation (South Middlesex and Richmond Joint Hospital District) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c68",
+      "title": "Ministry of Health Provisional Order Confirmation (Herriard and District Water) Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c69",
+      "title": "Glasgow Corporation Order Confirmation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c70",
+      "title": "London, Midland and Scottish Railway Order Confirmation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c71",
+      "title": "Rotherham Corporation (Trolley Vehicles) Order Confirmation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c72",
+      "title": "Torquay Corporation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c73",
+      "title": "Chailey Rural District Council Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c74",
+      "title": "Sunderland and South Shields Water Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c75",
+      "title": "Lowestoft Corporation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c76",
+      "title": "Tynemouth Corporation Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c77",
+      "title": "North Wales Electric Power Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1934-c78",
+      "title": "Tyne Improvement Act 1934",
+      "year": 1934,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/24-25/78",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1934-c10",
       "title": "North Atlantic Shipping Act 1934",

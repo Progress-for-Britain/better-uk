@@ -1,7 +1,745 @@
 {
   "year": 1843,
-  "count": 9,
+  "count": 91,
   "items": [
+    {
+      "id": "UKLA-1843-c1",
+      "title": "Cambrian Iron and Spelter Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c10",
+      "title": "Oxford Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c100",
+      "title": "Donegal and Londonderry Drainage Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c101",
+      "title": "Port of London Coalwhippers Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c102",
+      "title": "Dublin Rates Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c103",
+      "title": "Belfast and Cavehill Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c104",
+      "title": "Lagan Navigation Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c105",
+      "title": "Anderston Improvement Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c106",
+      "title": "North Esk Reservoir Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c107",
+      "title": "Glasgow Marine Insurance Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c108",
+      "title": "Surrey and Kent Roads Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c109",
+      "title": "Liverpool Fire Protection Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c11",
+      "title": "Chepstow Water Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c110",
+      "title": "British Iron Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c12",
+      "title": "Carmarthen Markets Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c13",
+      "title": "Birkenhead Extension Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c14",
+      "title": "Bolton Gas Light and Coke Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c15",
+      "title": "Lancaster Lunatic Asylum Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c16",
+      "title": "Roads from Cockermouth to Maryport Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c17",
+      "title": "Manchester Corporation Powers Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c18",
+      "title": "Cromford and High Peak Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c19",
+      "title": "Hungerford and Lambeth Suspension Foot Bridge Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c2",
+      "title": "Nottingham Street Lighting Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c20",
+      "title": "Ipswich Dock Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c21",
+      "title": "Brighton and Hove General Gas Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c22",
+      "title": "Imperial Continental Gas Association Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c23",
+      "title": "St. Helens Waterworks Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c24",
+      "title": "Birkenhead and Claughton-cum-Grange Cemetery Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c25",
+      "title": "Schoolmasters' Widows' and Children's Relief Fund (Scotland) Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c26",
+      "title": "Staffordshire Roads Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c27",
+      "title": "London and Brighton Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c28",
+      "title": "Northern and Eastern Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c29",
+      "title": "Faversham Creek Navigation Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c3",
+      "title": "Warwick and Leamington Union Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c30",
+      "title": "Leeds Gas Light Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c31",
+      "title": "Newport (Monmouthshire) Gas Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c32",
+      "title": "Preston Waterworks Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c33",
+      "title": "Norland Estate Improvement Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c34",
+      "title": "Bethnal Green and Shoreditch Improvement Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c35",
+      "title": "Portsea Improvement Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c4",
+      "title": "Lancaster and Preston Junction Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c5",
+      "title": "River Severn Navigation Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c6",
+      "title": "River Thames (Bercot to Oxford) Navigation Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c64",
+      "title": "London and Birmingham Railway (Northampton and Peterborough Branch) Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c65",
+      "title": "Southampton Dock Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c66",
+      "title": "Fen Lands Drainage Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c67",
+      "title": "Southampton Cemetery Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c68",
+      "title": "Topsham Improvement Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c69",
+      "title": "Borrowstouness Town and Harbour Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c7",
+      "title": "Hull and Selby Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c70",
+      "title": "Maryport and Carlisle Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c71",
+      "title": "Neath Port Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c72",
+      "title": "Aberdeen Harbour Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c73",
+      "title": "Kingston-upon-Hull Water Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c74",
+      "title": "Bolton Waterworks Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c75",
+      "title": "Liverpool Water Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c76",
+      "title": "Lincolnshire Drainage Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c77",
+      "title": "Londonderry Bridge Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c78",
+      "title": "Northampton Improvement Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c79",
+      "title": "Monkland and Kirkintilloch Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c8",
+      "title": "Great North of England Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c80",
+      "title": "Inchbelly Bridge and Glasgow Road Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c81",
+      "title": "Sutherland Roads Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c82",
+      "title": "Great North of England, Clarence and Hartlepool Junction Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c83",
+      "title": "Dundee Harbour Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c84",
+      "title": "Tay Crossings Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c85",
+      "title": "Paisley (Finances) Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c86",
+      "title": "Schoolmasters' Widows' and Children's Relief Fund (Scotland) Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c87",
+      "title": "Milne's Free School Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c88",
+      "title": "Burry, Loughor and Lliedi Rivers Navig Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c89",
+      "title": "Edinburgh Water Company Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c9",
+      "title": "Sheffield. Ashton-under-Lyne and Manchester Railway Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c90",
+      "title": "Infant Orphan Asylum Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c91",
+      "title": "Castleton and Manchester Road Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c92",
+      "title": "Dingwall County Burgh Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c93",
+      "title": "Gorbals Improvement Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c94",
+      "title": "Spalding, James Deeping Stone Bridge and Maxey Outgang Roads Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c95",
+      "title": "Road from Cromford to Belper Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c96",
+      "title": "Leicester and Peterborough Road Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c97",
+      "title": "Argyllshire Roads, Bridges and Quays Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c98",
+      "title": "Liverpool Docks Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1843-c99",
+      "title": "Police in Glasgow Act 1843",
+      "year": 1843,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/6-7/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1843-c30",
       "title": "Pound-breach Act 1843 (repealed 5.11.1993)",

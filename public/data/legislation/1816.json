@@ -1,7 +1,790 @@
 {
   "year": 1816,
-  "count": 5,
+  "count": 92,
   "items": [
+    {
+      "id": "UKLA-1816-c1",
+      "title": "Chapel on the Heath (Oxfordshire) and Bourton on the Hill Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c10",
+      "title": "Exeter Gas Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c11",
+      "title": "Southwark Bridge Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c12",
+      "title": "Manchester and Salford Water Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c13",
+      "title": "Royal Circus or Surrey Theatre Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c14",
+      "title": "Preston Candover, Basingstoke and Alton Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c15",
+      "title": "Nantwich to Wheelock Wharf Turnpike Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c16",
+      "title": "Stourbridge and Bridgnorth Boundary Stone Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c17",
+      "title": "Stockport and Bredbury Roads Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c18",
+      "title": "Egham Hill and Bagshot Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c19",
+      "title": "Ayr Gaol and Courthouse Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c2",
+      "title": "Stamford and Kettering, and Oundle and Middleton Roads Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c20",
+      "title": "Highland Society of London Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c21",
+      "title": "Middlesex and Essex Coal Trade Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c22",
+      "title": "Porthleven Harbour Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c23",
+      "title": "Hereford Improvement Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c24",
+      "title": "Newry Parish Church Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c25",
+      "title": "Cowes Improvement and Market Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c26",
+      "title": "Melksham Improvement Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c27",
+      "title": "Woolwich Ferry Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c28",
+      "title": "St. George the Martyr, Middlesex, Parish Church Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c29",
+      "title": "Peak Forest Railways Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c3",
+      "title": "Chatteris and Ramsey Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c30",
+      "title": "Road from Gatton Lodge to Povey Cross (Surrey) Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c31",
+      "title": "Leominster Roads Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c32",
+      "title": "Gittisham and Sidmouth Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c33",
+      "title": "Bowes and Sunderland Bridge Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c34",
+      "title": "Farnborough (Kent) and Sevenoaks Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c35",
+      "title": "Edinburgh Two Pennies Scots Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c36",
+      "title": "Borrowstounness Two Pennies Scots Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c37",
+      "title": "Montrose Two Pennies Scots Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c38",
+      "title": "Bedford Level Drainage and Ouse Navigation Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c39",
+      "title": "St. Pancras Parish Church and Parochial Chapel Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c4",
+      "title": "Grand Junction Waterworks Company Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c40",
+      "title": "Huddersfield Parish Church Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c41",
+      "title": "Edinburgh Improvement Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c42",
+      "title": "Edinburgh Gaol Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c43",
+      "title": "Keighley Water Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c44",
+      "title": "Whitehaven Improvement Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c45",
+      "title": "Upper Smithfield Improvement Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c46",
+      "title": "Worcester (City) Roads Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c47",
+      "title": "Aldermaston and Basingstoke Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c48",
+      "title": "Road from Dudley Hill and from Beckwithshaw Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c49",
+      "title": "Roads from Darlaston Bridge Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c5",
+      "title": "Mitcham Parish Rates Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c50",
+      "title": "Road from Edinburgh to Lanark Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c51",
+      "title": "Birmingham and High Bullen Roads Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c52",
+      "title": "Biggleswade and Alconbury Hill Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c53",
+      "title": "Shrewsbury and Overton Roads (Ellesmere District) Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c54",
+      "title": "St. James Westminster Poor Relief Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c55",
+      "title": "St. Saviour's Southwark Parochial Rates Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c56",
+      "title": "St. George the Martyr Southwark Churchyard Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c57",
+      "title": "Belfast Improvement Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c58",
+      "title": "Crowle and Althorpe Inclosures and Drainage Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c59",
+      "title": "Bristol Gaol Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c6",
+      "title": "Road from Dewsbury to Leeds Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c60",
+      "title": "Bridlington Piers Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c61",
+      "title": "Rochdale Water Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c62",
+      "title": "Strangeways Bridge (Manchester) and Approaches Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c63",
+      "title": "Waterloo Bridge and Approaches Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c64",
+      "title": "Waterford Harbour Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c65",
+      "title": "St. Mark's Church, Liverpool Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c66",
+      "title": "Shardlow and Wilne Poor Relief Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c67",
+      "title": "Road from Bromsgrove to Dudley Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c68",
+      "title": "Norwich and Thetford Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c69",
+      "title": "Roads from Derby to Sheffield and from Duffield to Wirksworth Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c7",
+      "title": "Clifton Parish Church and Cemetery Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c70",
+      "title": "Argyllshire and Dumbartonshire Roads, Bridges and Quays Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c71",
+      "title": "Dublin and Howth Turnpike Road Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c72",
+      "title": "Luton to Westwood Gate and Luton to St. Albans Roads Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c73",
+      "title": "Customs Annuity and Benevolent Fund Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c74",
+      "title": "Edinburgh Police Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c75",
+      "title": "Borrowstouness Roads Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c76",
+      "title": "Bristol Court of Requests Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c77",
+      "title": "Gravesend and Milton Improvement Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c78",
+      "title": "Kent Coal Trade Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c79",
+      "title": "Road from Horseley Upright Gate to Kingsdown Hill (Wiltshire) Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c8",
+      "title": "Woodford and Ilford Roads (Essex) Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c80",
+      "title": "Speenhamland Roads Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c81",
+      "title": "Shoreham Harbour Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c82",
+      "title": "St. Pancras Improvement Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c83",
+      "title": "Glasgow and Carlisle Road Improvement Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c84",
+      "title": "Court of Chancery Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c85",
+      "title": "Regent's Canal Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c86",
+      "title": "Dublin, Ratoath and Curragha Roads Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c87",
+      "title": "Metropolis Gas Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1816-c9",
+      "title": "Woodford Parish Church and Churchyard Act 1816",
+      "year": 1816,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo3/56/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1816-c100",
       "title": "Habeas Corpus Act 1816",

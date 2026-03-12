@@ -1,7 +1,781 @@
 {
   "year": 1835,
-  "count": 4,
+  "count": 90,
   "items": [
+    {
+      "id": "UKLA-1835-c1",
+      "title": "Ledbury High Street Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c10",
+      "title": "London and Croydon Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c100",
+      "title": "Truro Improvement Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c101",
+      "title": "Bognor Improvement Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c102",
+      "title": "Willington Trent Bridge Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c103",
+      "title": "Oxford, Fifield and Witney Roads Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c104",
+      "title": "Totnes and Bridgetown Roads and Bridges Amendment Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c105",
+      "title": "Bodmin Roads Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c106",
+      "title": "Court of Chancery (Improvement of Offices) Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c107",
+      "title": "Great Western Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c108",
+      "title": "Tormoham (Devon) Improvement (No. 2) Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c109",
+      "title": "Port Dundas and Glasgow Roads Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c11",
+      "title": "Burry Port Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c110",
+      "title": "North American Colonial Association of Ireland Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c111",
+      "title": "St. Mary Islington Cattle Market Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c112",
+      "title": "Belfast and Cave Hill Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c12",
+      "title": "New Quay (Cardigan) Harbour Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c13",
+      "title": "Deptford Pier Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c14",
+      "title": "River Leven Drainage Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c15",
+      "title": "Devonport Market Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c16",
+      "title": "Llanelly Gas Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c17",
+      "title": "Honiton Parish Church Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c18",
+      "title": "Westminster Improvement Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c19",
+      "title": "Little Bowden and Rockingham Road Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c2",
+      "title": "Belfast and Crumlin Turnpike Road Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c20",
+      "title": "Farnborough (Kent) and Sevenoaks Road Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c21",
+      "title": "Road from New Quay (Cardigan) to Aberayron Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c22",
+      "title": "Hereford Roads Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c23",
+      "title": "Avenue Road and Marylebone and Finchley Turnpike Roads Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c24",
+      "title": "Road from Hurstpierpoint to Cuckfield Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c25",
+      "title": "Darlington and West Auckland and Cockerton Bridge and Staindrop Roads Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c26",
+      "title": "Totnes and Bridgetown Roads and Bridges Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c27",
+      "title": "Ford and Lowick Turnpikes Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c28",
+      "title": "Nantwich and Congleton Turnpike Road Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c29",
+      "title": "Shilhay Bridge and River Exe Ferry or Footbridge Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c3",
+      "title": "Road from Carmarthen to Newcastle Emlyn Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c30",
+      "title": "Manchester, Bolton and Bury Canal and Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c31",
+      "title": "Newcastle-upon-Tyne and Carlisle Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c4",
+      "title": "University Life Assurance Society Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c5",
+      "title": "Barking Rates Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c58",
+      "title": "Preston and Wyre Railway and Harbour Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c59",
+      "title": "Wilts. and Berks. Canal Navigation Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c6",
+      "title": "Ramsgate Water Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c60",
+      "title": "Cupar Judicial Accommodation Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c61",
+      "title": "Ashton-under-Lyne Water Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c62",
+      "title": "Edinburgh Turnpike Roads Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c63",
+      "title": "Worcester (City) Turnpike Roads Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c64",
+      "title": "Sevenoaks, Tunbridge Wells and Woodsgate Roads Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c65",
+      "title": "Launceston Turnpike Roads Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c66",
+      "title": "Harnham Hill, Blandford and Dorchester Road Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c67",
+      "title": "Newry and Charlemont Road Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c68",
+      "title": "Edinburgh Highways and Bridges Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c69",
+      "title": "Oxford Improvement Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c7",
+      "title": "Rolle Canal (Devon) Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c70",
+      "title": "Portland Ferry Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c71",
+      "title": "Itchen Bridge and Roads Act Amendment Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c72",
+      "title": "Tunbridge Wells Improvement Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c73",
+      "title": "Haverfordwest, Prendergast and Cartlett Improvement Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c74",
+      "title": "Londonderry Bridge and Improvement Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c75",
+      "title": "Newport (Monmouthshire) Dock, Railway and Road Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c76",
+      "title": "Argus Life Assurance Company Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c77",
+      "title": "Merthyr Tydfil Markets Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c78",
+      "title": "Gourock Harbour Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c79",
+      "title": "Ayr Harbour Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c8",
+      "title": "Warrington and Newton Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c80",
+      "title": "Paisley Water Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c81",
+      "title": "Richmond (Surrey) Water Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c82",
+      "title": "Canterbury and Whitstable Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c83",
+      "title": "Gateshead and Monks Wearmouth Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c84",
+      "title": "Newtyle and Coupar Angus Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c85",
+      "title": "Paisley and Renfrew Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c86",
+      "title": "Leeds Gas Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c87",
+      "title": "Garscube and Glasgow Road Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c88",
+      "title": "Flint and Chester Roads and Lower King's Ferry Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c89",
+      "title": "Road from Burbage to Narborough Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c9",
+      "title": "Grand Junction Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c90",
+      "title": "Southend Pier Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c91",
+      "title": "Sheffield Gas Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c92",
+      "title": "Newtyle and Glammis Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c93",
+      "title": "Bodmin and Wadebridge Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c94",
+      "title": "City of London Court of Requests Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c95",
+      "title": "Grand Junction Waterworks Company Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c96",
+      "title": "Llanelly Railway and Dock Company Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c97",
+      "title": "Ballochney Railway Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c98",
+      "title": "Exeter Water Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1835-c99",
+      "title": "Reading Water Act 1835",
+      "year": 1835,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/5-6/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1835-c35",
       "title": "Paymaster General Act 1835",

@@ -1,7 +1,565 @@
 {
   "year": 1935,
-  "count": 47,
+  "count": 109,
   "items": [
+    {
+      "id": "UKLA-1935-c1",
+      "title": "Bridge of Allan Gas Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c100",
+      "title": "London County Council (Money) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c101",
+      "title": "Cambourne Water Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c102",
+      "title": "Exeter Corporation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c103",
+      "title": "Severn Navigation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c104",
+      "title": "Easington Rural District Council Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c105",
+      "title": "Derwent Valley Water. Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c106",
+      "title": "Boston Corporation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c2",
+      "title": "National Trust for Scotland Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c3",
+      "title": "Rothesay Corporation Gas Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c4",
+      "title": "Campbeltown Harbour, Water and Gas Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c41",
+      "title": "Glasgow Corporation Sewage Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c43",
+      "title": "London, Midland and Scottish Railway Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c44",
+      "title": "Sheffield Corporation Tramways Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c45",
+      "title": "Portsmouth Corporation (Trolley Vehicles) Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c46",
+      "title": "Ministry of Health Provisional Order Confirmation (Guildford) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c47",
+      "title": "London and North Eastern Railway Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c48",
+      "title": "South Essex Waterworks Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c49",
+      "title": "Southern Railway Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c5",
+      "title": "Dundee Corporation Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5and1Edw8/26/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c51",
+      "title": "West Hampshire Water Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c53",
+      "title": "Ayr County Council (General Powers) Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c54",
+      "title": "Leith Harbour and Docks Consolidation Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c55",
+      "title": "Ayr Burgh Extension, &amp;c. Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c58",
+      "title": "Metropolitan Common Scheme (Palewell) Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c59",
+      "title": "Ipswich Corporation (Trolley Vehicles) Order Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c60",
+      "title": "Provisional Orders (Marriages) Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c61",
+      "title": "Pier and Harbour Order (Scarborough) Confirmation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c62",
+      "title": "Ministry of Health Provisional Order Confirmation (Leigh Joint Hospital District) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c63",
+      "title": "Ministry of Health Provisional Order Confirmation (Eastbourne) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c64",
+      "title": "Ministry of Health Provisional Order Confirmation (Croydon) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c65",
+      "title": "Ministry of Health Provisional Order Confirmation (Metropolis Water) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c66",
+      "title": "Ministry of Health Provisional Order Confirmation (Morley) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c67",
+      "title": "Ministry of Health Provisional Order Confirmation (Huntington) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c68",
+      "title": "Ministry of Health Provisional Order Confirmation (Harrogate) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c69",
+      "title": "Ministry of Health Provisional Order Confirmation (Cuddington Joint Hospital District) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c70",
+      "title": "Ministry of Health Provisional Order Confirmation (East Surrey Water) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c71",
+      "title": "Ministry of Health Provisional Order Confirmation (Harpenden Water) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c72",
+      "title": "Ministry of Health Provisional Order Confirmation (Monks and Princes Risborough Water) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c73",
+      "title": "Ministry of Health Provisional Order Confirmation (Rainham Water) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c74",
+      "title": "Ministry of Health Provisional Order Confirmation (South Oxfordshire Water) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c75",
+      "title": "Ministry of Health Provisional Order Confirmation (Oxford) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c76",
+      "title": "Ministry of Health Provisional Order Confirmation (Norwich) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c77",
+      "title": "Ministry of Health Provisional Order Confirmation (Pwllheli) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c78",
+      "title": "Ministry of Health Provisional Order Confirmation (Fylde, Preston and Garstang Joint Smallpox Hospital District) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c79",
+      "title": "Ministry of Health Provisional Order Confirmation (Ottershaw Joint Hospital District) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c80",
+      "title": "Ministry of Health Provisional Order Confirmation (Watford) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c81",
+      "title": "Bognor Gas and Electricity Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c82",
+      "title": "West Riding of Yorkshire Mental Hospital Board (Superannuation) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c83",
+      "title": "Bournemouth Gas and Water Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c85",
+      "title": "South Suburban Gas Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c86",
+      "title": "Swansea Tramways Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c88",
+      "title": "Urmston Urban District Council Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c90",
+      "title": "Reading Corporation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c91",
+      "title": "Fylde Water Board Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c92",
+      "title": "London Building Act (Amendment) Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c93",
+      "title": "Chichester Corporation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c94",
+      "title": "Stourbridge Navigation Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c95",
+      "title": "Milford Docks Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c97",
+      "title": "Beckenham Urban District Council Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c98",
+      "title": "Ascot District Gas and Electricity Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1935-c99",
+      "title": "London, Midland and Scottish Railway Act 1935",
+      "year": 1935,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/25-26/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1935-c1",
       "title": "Special Areas (Development and Improvement) Act 1935",

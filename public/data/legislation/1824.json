@@ -1,7 +1,430 @@
 {
   "year": 1824,
-  "count": 5,
+  "count": 52,
   "items": [
+    {
+      "id": "UKLA-1824-c100",
+      "title": "Roads through Cheltenham Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c101",
+      "title": "Ashby-de-la-Zouch and Tutbury Road Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c102",
+      "title": "Road from Durham to Tyne Bridge Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c103",
+      "title": "Halifax to Sheffield Road (First District) Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c104",
+      "title": "Roads in Radnor, Hereford and Merioneth Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c105",
+      "title": "Bolton and Nightingale Road and other roads in Lancashire Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c106",
+      "title": "Road from Godley Lane Head (Yorkshire,West Riding) Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c107",
+      "title": "Glasgow and Parkhead Road Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c108",
+      "title": "Brompton Square Improvement Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c109",
+      "title": "Maidstone Markets Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c110",
+      "title": "Leeds Gas Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c111",
+      "title": "Road from Glasgow to Yoker Bridge Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c65",
+      "title": "Kensington Canal Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c66",
+      "title": "Lancaster Improvement Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c67",
+      "title": "Evesham Improvement Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c68",
+      "title": "Walsall Improvement Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c69",
+      "title": "London Street, Glasgow Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c70",
+      "title": "Battle Bridge Fields Improvement Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c71",
+      "title": "Australian Company of Edinburgh Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c72",
+      "title": "Newcastle-upon-Tyne Coal Trade Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c73",
+      "title": "Liverpool Port Pilotage Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c74",
+      "title": "St. John Southwark Vestry Voting Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c75",
+      "title": "Margate, Ramsgate and Broadstairs Gas Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c76",
+      "title": "Edinburgh Oil Gas Light Company Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c77",
+      "title": "Hereford Gas Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c78",
+      "title": "Southwark Gas Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c79",
+      "title": "Clifton Gas Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c80",
+      "title": "Kent Fire Insurance Company Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c81",
+      "title": "Great Torrington Roads Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c82",
+      "title": "Leeds and Collingham Turnpike Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c83",
+      "title": "Whiteparish, Romsey and Southampton Turnpike Roads Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c84",
+      "title": "Carmarthen and Newcastle Emlyn Road Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c85",
+      "title": "Grampound, St. Austell and Lostwithiel Road Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c86",
+      "title": "Road from Sacred Gate to Patrington Creek (Yorkshire) Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c87",
+      "title": "Wilmslow Bridge and Church Lawton Road Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c88",
+      "title": "Road from St. Dunstan's Cross, Canterbury to Whitstable Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c89",
+      "title": "Salterhebble, Stainland and Sowerby Bridge Roads Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c90",
+      "title": "Holme Lane End and Heckmondwike Road (Yorkshire,West Riding) Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c91",
+      "title": "Brighthelmstone and Newhaven Road Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c92",
+      "title": "Burrow Bridge (Somerset) Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c93",
+      "title": "Dingwall Improvement Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c94",
+      "title": "Littlehampton Ferry Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c95",
+      "title": "Hulme Improvement Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c96",
+      "title": "River Welland Outfall Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c97",
+      "title": "Roads to and from Bridport Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c98",
+      "title": "Langport, Somerton and Castle Cary Roads Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1824-c99",
+      "title": "Stokenchurch and New Woodstock Road Act 1824",
+      "year": 1824,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/5/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1824-c113",
       "title": "Slave Trade Act 1824",

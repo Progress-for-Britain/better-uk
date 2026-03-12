@@ -1,7 +1,1033 @@
 {
   "year": 1822,
-  "count": 2,
+  "count": 116,
   "items": [
+    {
+      "id": "UKLA-1822-c1",
+      "title": "Wich Tree Bridge Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c10",
+      "title": "Roads in Nottinghamshire and Derbyshire Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c100",
+      "title": "Road from Northampton to Chain Bridge, Market Harborough, and from Kingsthorpe to Welford Bridge Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c101",
+      "title": "Road from Cirencester to Cricklade Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c102",
+      "title": "Brighthemstone Suspension Pier Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c103",
+      "title": "Westmorland Bridges Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c104",
+      "title": "Brighton and Shoreham Bridge Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c105",
+      "title": "Axminster Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c106",
+      "title": "London Bread Trade Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c107",
+      "title": "Middlesex County Rates Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c108",
+      "title": "Cork and Skibbereen Road and Branch Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c109",
+      "title": "London Bridge Waterworks Removal Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c11",
+      "title": "Road from Chester to Newport (Salop.) Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c110",
+      "title": "Roads in Lanark, Stirling and Dumbarton Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c111",
+      "title": "Thames Lastage and Ballastage Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c112",
+      "title": "Surrey New Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c113",
+      "title": "Orphans' Fund, City of London Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c114",
+      "title": "Gaelic Chapel and Caledonian Asylum Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c12",
+      "title": "Road from Nether Bridge and from Millthrop (Westmorland) Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c13",
+      "title": "Brighton to Shoreham Bridge Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c14",
+      "title": "Chorlton Row Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c15",
+      "title": "Dover Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c16",
+      "title": "Ryeway and Presteigne Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c17",
+      "title": "Inchbelly Bridge and Glasgow Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c18",
+      "title": "East India Company and the Nabobs of the Carnatic Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c19",
+      "title": "St. Luke's Church and St. Thomas's Church, Liverpool Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c2",
+      "title": "Roads leading to and from Chepstow Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c20",
+      "title": "Great Yarmouth Parish Church Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c21",
+      "title": "Bristol Dock Company Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c22",
+      "title": "Scarborough Harbour Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c23",
+      "title": "Berks. and Wilts. Drainage Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c24",
+      "title": "Bristol Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c25",
+      "title": "Barnsley Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c26",
+      "title": "Durham and Framwelgate Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c27",
+      "title": "Alnwick Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c28",
+      "title": "Queen Street Gardens, Edinburgh, Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c29",
+      "title": "Warwick Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c3",
+      "title": "Wigan and Preston Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c30",
+      "title": "Halifax Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c31",
+      "title": "Wigan Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c32",
+      "title": "Leith Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c33",
+      "title": "Stockton Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c34",
+      "title": "Canterbury Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c35",
+      "title": "Warrington Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c36",
+      "title": "Culham, Abingdon and Fyfield Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c37",
+      "title": "Road from Mansfield to Worksop Brecks Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c38",
+      "title": "Worksop and West Retford Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c39",
+      "title": "Canterbury and Ramsgate Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c4",
+      "title": "Norfolk County Gaol Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c40",
+      "title": "Road from Canterbury to Sandwich Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c41",
+      "title": "Ruthin and Mold Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c42",
+      "title": "Roads from Shrewsbury and from Shelton Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c43",
+      "title": "Wrexham to Denbigh and Ruthin to Cerniogemawr Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c44",
+      "title": "Road from Harlow Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c45",
+      "title": "Edinburgh and Leith Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c46",
+      "title": "Road from Leicester to Uppingham and Peterborough Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c47",
+      "title": "Burford and Dancy's Fancy Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c48",
+      "title": "Span Smithy, Winsford Bridge and Northwich Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c49",
+      "title": "Roads from Bishop's Castle, Montgomery and Brockton Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c5",
+      "title": "Deritend Bridge Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c50",
+      "title": "Broughton and Mold Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c51",
+      "title": "Plymouth and Stonehouse Bridge Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c52",
+      "title": "Road from Reading to Basingstoke Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c53",
+      "title": "Gloucester and Berkeley Canal Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c54",
+      "title": "Lanark and Glasgow Bridewell Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c55",
+      "title": "Newcastle-upon-Tyne Gaol Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c56",
+      "title": "Newcastle-upon-Tyne Tolls Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c57",
+      "title": "Bognor Market and Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c58",
+      "title": "Rochdale Markets Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c59",
+      "title": "Chelmsford and Moulsham Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c6",
+      "title": "Bradford Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c60",
+      "title": "Tiverton Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c61",
+      "title": "Gloucestershire Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c62",
+      "title": "Donhead St. Andrew and Nether Compton Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c63",
+      "title": "Tetbury Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c64",
+      "title": "Road from Whitchurch (Salop.) to Ternhill Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c65",
+      "title": "Bridgwater (Somerset) Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c66",
+      "title": "Lincoln Heath and Peterborough and Bourn and Spalding Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c67",
+      "title": "Guildford to Farnham Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c68",
+      "title": "Royston and Wandesford Bridge Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c69",
+      "title": "Evesham Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c7",
+      "title": "Wakefield Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c70",
+      "title": "Road from Dartford to Strood Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c71",
+      "title": "St. Mary's Church, Greenwich Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c72",
+      "title": "Coventry Gaol Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c73",
+      "title": "Haverfordwest Gaol and Lunatic Asylum Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c74",
+      "title": "Lincolnshire County Offices Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c75",
+      "title": "Severn and Wye Railway and Canal Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c76",
+      "title": "Tay Ferries Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c77",
+      "title": "Liverpool Water Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c78",
+      "title": "Edinburgh Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c79",
+      "title": "Cork Markets Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c8",
+      "title": "Stockport and Marple Bridge Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c80",
+      "title": "Glasgow Gas Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c81",
+      "title": "Sommers Town Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c82",
+      "title": "Camden Town Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c83",
+      "title": "Alloa Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c84",
+      "title": "St. Marylebone Improvement Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c85",
+      "title": "Cork Improvement and Court of Conscience Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c86",
+      "title": "Bedford and Barton Seagrave Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c87",
+      "title": "Whitney Bridge and Bredwardine Bridge and Hay Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c88",
+      "title": "Sonning and Egham Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c89",
+      "title": "Hundred House Roads (Worcestershire) Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c9",
+      "title": "Roads from Donington High Bridge Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c90",
+      "title": "Road from Banbury to Edgehill Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c91",
+      "title": "Old Stratford and Dunchurch Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c92",
+      "title": "Great Marlow and West Wycombe Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c93",
+      "title": "Chippenham and Westerleigh Road Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c94",
+      "title": "Caerleon Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c95",
+      "title": "Road from Finford Bridge to Banbury Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c96",
+      "title": "Dover and Sandwich, and Kernsey Court Hill and Whitfield Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c97",
+      "title": "Road from Leatherhead to Stoke (Surrey) Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c98",
+      "title": "Honiton Roads Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1822-c99",
+      "title": "Minehead and Bampton Road and Branch Act 1822",
+      "year": 1822,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/3/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1822-c33",
       "title": "Riotous Assemblies (Scotland) Act 1822",

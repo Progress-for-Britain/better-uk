@@ -1,7 +1,979 @@
 {
   "year": 1915,
-  "count": 76,
+  "count": 184,
   "items": [
+    {
+      "id": "UKLA-1915-c1",
+      "title": "Aberdeen Corporation Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c10",
+      "title": "Ilfracombe Gas Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c100",
+      "title": "Education Board Provisional Orders Confirmation (Derbyshire, &amp;c.) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c102",
+      "title": "Clackmannan County Water Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c103",
+      "title": "London County Council (General Powers) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c104",
+      "title": "London County Council (Tramways and Improvements) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c105",
+      "title": "Glasgow Water Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c106",
+      "title": "Dundee Corporation Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c107",
+      "title": "Port Dundas Church and Parish Quoad Sacra Glasgow Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c108",
+      "title": "London County Council (Celluloid, &amp;c.) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c109",
+      "title": "Glasgow Celluloid Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c11",
+      "title": "Neath Canal Navigation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c12",
+      "title": "Great Central Railway Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c13",
+      "title": "Frimley and Farnborough District Water Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c14",
+      "title": "Blyth Harbour Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c15",
+      "title": "Doncaster Corporation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c16",
+      "title": "Great Eastern Railway Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c17",
+      "title": "Bury and District Joint Water Board Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c18",
+      "title": "Salop County Council (Shirehall and Guildhall) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c19",
+      "title": "Brighton and Hove Gas Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c2",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 23) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c20",
+      "title": "Falmouth Docks Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c21",
+      "title": "Ormskirk Gas and Electricity Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c22",
+      "title": "Metropolitan District Railway Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c23",
+      "title": "Seaforth and Sefton Junction Railway Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c24",
+      "title": "Streatley and Goring Bridge Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c25",
+      "title": "Bristol Tramways Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c26",
+      "title": "Halifax Corporation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c27",
+      "title": "Sheffield Corporation (Tramways) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c28",
+      "title": "West Gloucestershire Water Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c29",
+      "title": "Forfar Gas Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c3",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 1) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c30",
+      "title": "Great North of Scotland Railway Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c31",
+      "title": "Highland Railway Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c32",
+      "title": "Irvine and District Water Board (Emergency Powers) Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c33",
+      "title": "Electric Lighting Orders Confirmation (No. 1) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c34",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 2) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c35",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 3) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c36",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 4) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c37",
+      "title": "Local Government Board's Provisional Order Confirmation (No. 7) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c38",
+      "title": "Conway Fisheries Provisional Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c39",
+      "title": "Sea Fisheries (Cardigan Bay) Provisional Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c4",
+      "title": "Caledonian Railway Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c40",
+      "title": "Sea Fisheries (Poole) Provisional Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c41",
+      "title": "Tramways Orders Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c42",
+      "title": "Altrincham Gas Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c43",
+      "title": "Warwick Gas Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c44",
+      "title": "Ammanford Urban District Council Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c45",
+      "title": "Friends' Provident Institution Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c46",
+      "title": "Methodist Church in Ireland Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c47",
+      "title": "Sunderland Corporation (Wearmouth Bridge) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c48",
+      "title": "Eastern Valleys (Monmouthshire) Joint Sewerage Board Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c49",
+      "title": "Prescot Gas Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c5",
+      "title": "Liverpool Corporation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c50",
+      "title": "Spennymoor and Tudhoe Gas Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c51",
+      "title": "Skegness Urban District Gas Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c52",
+      "title": "Rotherham Corporation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c53",
+      "title": "Chelmsford Corporation Gas Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c54",
+      "title": "Lurgan Urban District Council Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c55",
+      "title": "Port of London Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c56",
+      "title": "Sutton District Waterworks Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c57",
+      "title": "Aberdare Urban District Council Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c58",
+      "title": "Northwich Gas Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c59",
+      "title": "Kilmarnock Gas Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c6",
+      "title": "London, Chatham and Dover Railway Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c60",
+      "title": "Irvine and District Water Board Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c61",
+      "title": "Stalybridge, Hyde, Mossley and Dukinfield Tramways and Electricity Board Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c62",
+      "title": "Ashington Urban District Council Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c63",
+      "title": "South Shields Corporation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c64",
+      "title": "Wolverhampton Corporation Water Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c65",
+      "title": "Barnoldswick Urban District Council Water Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c66",
+      "title": "Nottingham Corporation (Trent Navigation Transfer) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c67",
+      "title": "Southend Waterworks Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c68",
+      "title": "London Electric Railway Companies' Facilities Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c69",
+      "title": "Plymouth Corporation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c7",
+      "title": "Ascot District Gas and Electricity Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c70",
+      "title": "South Staffordshire Waterworks Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c71",
+      "title": "Rhondda Urban District Council (Tramways, Extns., &amp;c.) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c72",
+      "title": "Weardale and Consett Water Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c73",
+      "title": "Metropolitan Water Board Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c74",
+      "title": "Dewsbury Corporation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c75",
+      "title": "London County Council (Money) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c76",
+      "title": "London County Council (Parks, &amp;c.) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c77",
+      "title": "Lincoln Corporation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c78",
+      "title": "Port-Glasgow Gas and Burgh Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c79",
+      "title": "Glasgow Corporation (Parks, Harbour Tunnel, Gas, &amp;c.) Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c8",
+      "title": "Mersey Railway Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c80",
+      "title": "Dunfermline and District Tramways (Extensions) Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c81",
+      "title": "Provisional Order (Marriages) Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c82",
+      "title": "Electric Lighting Orders Confirmation (No. 2) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c83",
+      "title": "Electric Lighting Orders Confirmation (No. 3) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c84",
+      "title": "Electric Lighting Orders Confirmation (No. 4) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c85",
+      "title": "Electric Lighting Order Confirmation (No. 5) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c86",
+      "title": "Land Drainage Provisional Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c87",
+      "title": "Land Drainage (Ouse) Provisional Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c88",
+      "title": "Land Drainage (Raveningham) Provisional Order Confirmation Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c89",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 1) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c9",
+      "title": "Royal School for Deaf and Dumb Children Margate Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c90",
+      "title": "Local Government Board (Ireland) Provisional Orders Confirmation (No. 2) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c91",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 5) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c92",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 6) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c93",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 8) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c94",
+      "title": "Local Government Board's Provisional Orders Confirmation (No. 9) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c95",
+      "title": "Gas and Water Orders Confirmation (No. 1) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c96",
+      "title": "Gas and Water Orders Confirmation (No. 2) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c97",
+      "title": "Gas and Water Orders Confirmation (No. 3) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c98",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1915-c99",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1915",
+      "year": 1915,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/5-6/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1915-c21",
       "title": "British Ships (Transfer Restriction) Act 1915",

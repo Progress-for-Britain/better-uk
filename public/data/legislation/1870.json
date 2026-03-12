@@ -1,7 +1,1564 @@
 {
   "year": 1870,
-  "count": 112,
+  "count": 285,
   "items": [
+    {
+      "id": "UKLA-1870-c1",
+      "title": "Chester Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c10",
+      "title": "Airedale Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c100",
+      "title": "Brighton Intercepting and Outfall Sewers Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c101",
+      "title": "Great Northern and Western (of Ireland) Railway (Lease) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c102",
+      "title": "Skipton Waterworks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c103",
+      "title": "Metropolitan Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c104",
+      "title": "North British Railway (General Powers) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c105",
+      "title": "North Eastern Railway (Leyburn and Hawes Branch, &amp;c.) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c106",
+      "title": "Brighton and Hove General Gas Company's Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c107",
+      "title": "Navan and King's Court Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c108",
+      "title": "Newry and Armagh Railway (Arbitration) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c109",
+      "title": "Tottenham and Hampstead Junction Railway (Abandonment) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c11",
+      "title": "King's Lynn Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c110",
+      "title": "Barnstaple and Ilfracombe Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c111",
+      "title": "Downpatrick, Dundrum and Newcastle Railway (Lease) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c112",
+      "title": "London and North Western Railway (Additional Powers) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c113",
+      "title": "West Hartlepool Extension and Improvement Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c114",
+      "title": "Local Government Supplemental Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c115",
+      "title": "General Police and Improvement (Scotland) Supplemental Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c116",
+      "title": "Jewish United Synagogues Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c117",
+      "title": "St. Olave, &amp;c. Charities Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c118",
+      "title": "London and North Western Railway (Steam Vessels) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c119",
+      "title": "Littlehampton Water Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c12",
+      "title": "Wrexham Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c120",
+      "title": "Newcastle-upon-Tyne Improvement Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c121",
+      "title": "Gaslight and Coke Company's Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c122",
+      "title": "Northampton and Banbury Junction Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c123",
+      "title": "Newcastle and Gateshead Waterworks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c124",
+      "title": "Southwark and City Subway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c125",
+      "title": "Wandsworth Bridge Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c126",
+      "title": "Dublin, Wicklow and Wexford Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c127",
+      "title": "Pembroke and Tenby Railway (Dockyard Extension) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c128",
+      "title": "Birmingham Waterworks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c129",
+      "title": "Salford Improvement Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c13",
+      "title": "Chesterfield and Brampton Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c130",
+      "title": "Bristol and North Somerset Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c131",
+      "title": "Ashton-under-Lyne, Stalybridge and Dukinfield (District) Waterworks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c132",
+      "title": "Public Health (Scotland) Supplement Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c133",
+      "title": "Reading Local Board Waterworks, Sewerage, Drainage and Improvement Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c134",
+      "title": "Rotherham and Kimberworth Local Board of Health Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c135",
+      "title": "North British Railway (Tay Bridge and Railways) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c136",
+      "title": "Ryde Pier Railway Extension Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c137",
+      "title": "St. Helens Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c138",
+      "title": "Thrapston Market Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c139",
+      "title": "Dublin Port and City Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/139",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c14",
+      "title": "Broughty Ferry Commissioners Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c140",
+      "title": "Great Western Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/140",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c141",
+      "title": "Halifax and Ovenden Junction Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/141",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c142",
+      "title": "Exmouth Docks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/142",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c143",
+      "title": "Enniskillen Borough Improvement Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/143",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c144",
+      "title": "Oldham Corporation Waterworks, &amp;c. Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/144",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c145",
+      "title": "Worcester Railways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/145",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c146",
+      "title": "Bury St. Edmunds and Thetford Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/146",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c147",
+      "title": "South Eastern Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/147",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c148",
+      "title": "Harborne Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/148",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c149",
+      "title": "Thames Navigation Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/149",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c15",
+      "title": "Female Orphan Asylum Amendment Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c150",
+      "title": "Halesowen and Bromsgrove Branch Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/150",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c151",
+      "title": "Burnham Tidal Harbour Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/151",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c152",
+      "title": "Teign Valley Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/152",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c153",
+      "title": "Newport Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/153",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c154",
+      "title": "London, Brighton and South Coast Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/154",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c155",
+      "title": "Leverington Rectory Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/155",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c156",
+      "title": "Sewage Utilization Supplemental Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/156",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c157",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/157",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c158",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/158",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c159",
+      "title": "Pier and Harbour Orders Confirmation (No. 3) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c16",
+      "title": "Severn and Wye Railway and Canal Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c160",
+      "title": "Blackburn Improvement Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c161",
+      "title": "Alexandra (Newport) Dock Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c162",
+      "title": "Dagenham (Thames) Dock Company's Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c163",
+      "title": "Newry and Greenore Railway Acts Amendment Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c164",
+      "title": "Poole and Bournemouth Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c165",
+      "title": "Local Government Supplemental (No. 2) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c166",
+      "title": "Glyn Valley Tramway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c167",
+      "title": "Pimlico, Peckham and Greenwich Street Tramways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c168",
+      "title": "Birmingham and Staffordshire Tramways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c169",
+      "title": "Plymouth, Stonehouse and Devonport Tramways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c17",
+      "title": "Hyde Local Board (Waterworks) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c170",
+      "title": "Portsmouth Street Tramways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c171",
+      "title": "London Street Tramways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c172",
+      "title": "North Metropolitan Tramways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c173",
+      "title": "Metropolitan Street Tramways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c174",
+      "title": "Pimlico, Peckham and Greenwich Street Tramways (Extensions) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c175",
+      "title": "Glasgow Street Tramways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c176",
+      "title": "Liverpool Tramways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c177",
+      "title": "Birmingham Tramways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c18",
+      "title": "Beccles Waterworks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c19",
+      "title": "Fylde Wateworks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c2",
+      "title": "Mansfield Water Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c20",
+      "title": "Millwall Dock Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c21",
+      "title": "North British and Mercantile Insurance Company's Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c22",
+      "title": "Shoreham and District Waterworks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c23",
+      "title": "Southport Waterworks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c25",
+      "title": "Chiltern Hills Spring Water Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c26",
+      "title": "Brecon Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c27",
+      "title": "Oyster and Mussel Fisheries Orders Confirmation (No. 2) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c28",
+      "title": "Wolverhampton and Walsall Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c29",
+      "title": "Newport Pagnell Railway (Extension of Time and Finance) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c3",
+      "title": "Runcorn, Weston and Halton Waterworks (Capital) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c32",
+      "title": "Gunthorpe Bridge Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c33",
+      "title": "Torbay and Dartmouth Shipping Dues Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c34",
+      "title": "Fosdyke Bridge Transfer Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c35",
+      "title": "Paisley Corporation Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c37",
+      "title": "Royal Bank of Scotland Officers' Widows' Fund Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c38",
+      "title": "St. Alban's Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c39",
+      "title": "North Metropolitan Railway (Extension of Time) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c4",
+      "title": "Leicester Lunatic Asylum Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c40",
+      "title": "Hebden Bridge Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c41",
+      "title": "Penicuik Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c42",
+      "title": "Glasgow Juvenile Delinquency Repression Acts Amendment Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c43",
+      "title": "Aberdare Local Board Waterworks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c44",
+      "title": "Caledonian Railway (Additional Powers) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c45",
+      "title": "Northampton Corporation Markets and Fairs Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c46",
+      "title": "Edinburgh, Loanhead and Roslin Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c47",
+      "title": "Metropolitan and St. Johns's Wood Railway (Further Powers) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c48",
+      "title": "Edinburgh Royal Infirmary Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c49",
+      "title": "Milford Haven Dock and Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c5",
+      "title": "Newport (Isle of Wight) Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c50",
+      "title": "Bedford and Northampton Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c51",
+      "title": "Reading Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c52",
+      "title": "Great Eastern Railway (Metropolitan Railways) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c53",
+      "title": "Bath Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c54",
+      "title": "Clyde Navigation (Stobcross Dock) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c55",
+      "title": "East London Railway (Further Powers) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c56",
+      "title": "Leeds Corporation Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c57",
+      "title": "Ruabon Water Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c58",
+      "title": "Limerick and Ennis Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c59",
+      "title": "Limerick and Foynes Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c6",
+      "title": "Oyster and Mussel Fisheries Supplemental Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c60",
+      "title": "Birmingham Canal Navigations Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c61",
+      "title": "Gloucester and Berkeley Canal Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c62",
+      "title": "London, Blackwall and Millwall Extension Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c63",
+      "title": "Midland Railway (Additional Powers) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c64",
+      "title": "Shipley Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c65",
+      "title": "Cawood Bridge Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c66",
+      "title": "Kirkcaldy and Dysart Waterworks Amendment Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c67",
+      "title": "Stapenhill Bridge Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c68",
+      "title": "Buxton Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c69",
+      "title": "Cleckheaton Local Board Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c7",
+      "title": "North Eastern Railway (Consolidation of Stocks) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c70",
+      "title": "Imperial Continental Gas Association Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c71",
+      "title": "Great Northern Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c72",
+      "title": "Dare Valley Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c73",
+      "title": "Llantrissant and Taff Vale Junction Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c74",
+      "title": "Girvan and Portpatrick Junction Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c75",
+      "title": "Cardiff Gaslight and Coke Company's Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c76",
+      "title": "Carmarthen Gas Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c77",
+      "title": "Rainhill Gas and Water Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c78",
+      "title": "Blane Valley Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c79",
+      "title": "Lancashire and Yorkshire and London and North Western Railway Companies (Steam Vessels) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c8",
+      "title": "Abbot's Wood (Dean Forest) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c80",
+      "title": "Lancashire and Yorkshire Railway (Ripponden Branch Extension, &amp;c.) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c81",
+      "title": "Drainage and Improvement of Lands Supplemental (Ireland) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c82",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c83",
+      "title": "Great Western Railway (Hereford and Gloucester Canal Vesting) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c84",
+      "title": "North Union Railway (Preston Station) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c85",
+      "title": "Colne Fishery Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c86",
+      "title": "Dublin and Antrim Junction Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c87",
+      "title": "Lincoln City Commons Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c88",
+      "title": "Yeovil Improvement Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c89",
+      "title": "Great Northern and Western (of Ireland) Railway (Westport Quay Line) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c9",
+      "title": "Callander and Oban Railway (Abandonment, &amp;c.) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c90",
+      "title": "Tyne Improvement Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c91",
+      "title": "North British and Edinburgh and Bathgate Railways Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c92",
+      "title": "Thames Embankment (North) Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c93",
+      "title": "Leeds Corporation Gas and Improvements, &amp;c. Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c94",
+      "title": "Metropolitan District Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c95",
+      "title": "Halifax Water and Gas Extension Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c96",
+      "title": "Dublin Corporation Waterworks Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c97",
+      "title": "Belfast Harbour Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c98",
+      "title": "Sevenoaks, Maidstone and Tonbridge Railway Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1870-c99",
+      "title": "Atlantic Telegraph Act 1870",
+      "year": 1870,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/33-34/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1870-c1",
       "title": "An Act to empower Committees on Bills confirming Provisional Orders to award Costs and examine Witnesses on Oath.",

@@ -1,7 +1,403 @@
 {
   "year": 1940,
-  "count": 56,
+  "count": 100,
   "items": [
+    {
+      "id": "UKLA-1940-c1",
+      "title": "Dumbarton Burgh Order Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c10",
+      "title": "Torquay Cemetery Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c11",
+      "title": "Staffordshire and Worcestershire Canal Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c12",
+      "title": "Wessex Electricity Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c13",
+      "title": "Commercial Gas Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c14",
+      "title": "Brighton Marine Palace and Pier Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c15",
+      "title": "London County Council (General Powers) Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c16",
+      "title": "Northallerton Urban District Council Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c17",
+      "title": "Poor's Allotments in Hornsey Charity Scheme Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c18",
+      "title": "Ministry of Health Provisional Order Confirmation (Blackburn) Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c19",
+      "title": "Birmingham Corporation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c2",
+      "title": "Glasgow Water and Tramways Order Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c20",
+      "title": "Coventry Corporation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c21",
+      "title": "Cornwall Electric Power Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c22",
+      "title": "London County Council (Money) Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c23",
+      "title": "South Suburban Gas Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c24",
+      "title": "Lochaber Water Power Order Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c25",
+      "title": "Ministry of Health Provisional Order Confirmation (Littlestone-on-Sea and District Water) Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c26",
+      "title": "Ministry of Health Provisional Order Confirmation (Norwich) Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c27",
+      "title": "Ministry of Health Provisional Order Confirmation (Thirsk District Water) Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c28",
+      "title": "Bournemouth Gas and Water Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c29",
+      "title": "Farnham Gas and Electricity Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c3",
+      "title": "Aberdeen Corporation (Administration Finance, &amp;c.) Order Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c30",
+      "title": "Christchurch Corporation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c31",
+      "title": "Gosport Water Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c32",
+      "title": "Monmouthshire and South Wales Employers' Mutual Indemnity Society Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c33",
+      "title": "Wey Valley Water Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c34",
+      "title": "Taunton Corporation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c35",
+      "title": "St. Mary Magdalene Hospital (Newcastle-upon-Tyne) Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c36",
+      "title": "Cardiff Corporation (Trolley Vehicles) Order Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c37",
+      "title": "Huddersfield Corporation (Trolley Vehicles) Order Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c38",
+      "title": "Newcastle-upon-Tyne (Trolley Vehicles) Order Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c39",
+      "title": "South Eastern Gas Corporation (Associated Companies) Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c4",
+      "title": "Ministry of Health Provisional Order Confirmation (Canterbury) Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c40",
+      "title": "Newcastle-upon-Tyne and Gateshead Gas Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c41",
+      "title": "Mid-Wessex Water Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c42",
+      "title": "Clyde Lighthouses Consolidation Order Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c43",
+      "title": "Fife County Council Order Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c44",
+      "title": "Ayr Burgh Order Confirmation Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c5",
+      "title": "Ministry of Health Provisional Order Confirmation (Ilkley) Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c6",
+      "title": "Ely Cathedral Canonries Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c7",
+      "title": "Newcastle and Gateshead Waterworks Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c8",
+      "title": "Royal Society for the Prevention of Cruelty to Animals Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1940-c9",
+      "title": "King Edward the Seventh Welsh National Memorial Association Act 1940",
+      "year": 1940,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/3-4/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1940-c1",
       "title": "Scottish Fisheries Advisory Council Act 1940",

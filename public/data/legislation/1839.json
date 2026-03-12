@@ -1,7 +1,970 @@
 {
   "year": 1839,
-  "count": 5,
+  "count": 112,
   "items": [
+    {
+      "id": "UKLA-1839-c1",
+      "title": "Preston and Wyre Railway and Harbour Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c10",
+      "title": "Timberland and Timberland Thorpe (Lincolnshire) Drainage Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c100",
+      "title": "Prestwich-cum-Oldham and Middleton Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c101",
+      "title": "Bury (Lancashire) Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c102",
+      "title": "Wirksworth Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c103",
+      "title": "Eckington Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c104",
+      "title": "Chesterfield Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c105",
+      "title": "Nottingham Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c106",
+      "title": "Yorkshire Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c107",
+      "title": "London Bridge Approaches Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c11",
+      "title": "Rhymney Church Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c12",
+      "title": "Hayle and Redruth Turnpike Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c13",
+      "title": "Road from Northampton to Newport Pagnell Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c14",
+      "title": "New Cross Turnpike Roads Amendment Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c15",
+      "title": "Worksop and Kelham, and Debdale Hill and South Muskham Roads Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c16",
+      "title": "Aberbrothwick Harbour Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c17",
+      "title": "Leeds Soke Mills Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c18",
+      "title": "London and Croydon Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c19",
+      "title": "London and Greenwich Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c2",
+      "title": "Manchester Improvement Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c20",
+      "title": "Road from Padbrooke Bridge to Hazel-Stone (Devon) Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c21",
+      "title": "Perth Port and Harbour and Tay Navigation Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c22",
+      "title": "Wearmouth Bridge and Tyne Bridge Road Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c23",
+      "title": "Rugby and Warwick Road Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c24",
+      "title": "Rochdale Water Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c25",
+      "title": "Cheltenham Waterworks Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c26",
+      "title": "Herefordshire and Gloucestershire Canal Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c27",
+      "title": "Great Western Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c28",
+      "title": "London and South Western Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c29",
+      "title": "Clitheroe, Blackburn and Mellor Brook Roads Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c3",
+      "title": "Preston Gas Light Company Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c30",
+      "title": "Morville and Shipton Turnpike Road (Salop.) Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c31",
+      "title": "Road from Bury to Blackburn and Branches Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c32",
+      "title": "Road from Leeds to Harrogate Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c33",
+      "title": "Dover, Deal and Sandwich Road Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c34",
+      "title": "River Witham Drainage Commission Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c35",
+      "title": "Rishworth Reservoirs Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c36",
+      "title": "Eyemouth Harbour Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c37",
+      "title": "Parrett Navigation Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c38",
+      "title": "Brighton Gas Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c39",
+      "title": "London and Birmingham Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c4",
+      "title": "Road from Epsom to Tooting Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c40",
+      "title": "Great North of England Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c41",
+      "title": "Liverpool and Manchester Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c42",
+      "title": "South Eastern Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c43",
+      "title": "Perth Improvement Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c44",
+      "title": "Staffordshire Potteries Improvement and Police Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c45",
+      "title": "Basingstoke, Odiham and Alton Roads Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c46",
+      "title": "St. Leonard's (Sussex) and Sedlescombe Turnpike Road Amendment Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c47",
+      "title": "Road from Edenfield Chapel to Little Bolton (Lancashire) Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c48",
+      "title": "River Leven Bridge Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c49",
+      "title": "Southmolton Roads (Devon) Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c5",
+      "title": "General Cemetery Company Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c50",
+      "title": "Glasgow and Renfrew Road Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c51",
+      "title": "Edinburgh, Leith and Newhaven Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c52",
+      "title": "Croydon, Merstham and Godstone Iron Railway Dissolution Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c53",
+      "title": "North Midland Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c54",
+      "title": "Preston and Wyre Railway and Harbour and Preston and Wyre Dock Consolidation Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c55",
+      "title": "Manchester and Leeds Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c56",
+      "title": "Bristol and Gloucestershire Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c57",
+      "title": "Slamannan Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c58",
+      "title": "Wishaw and Coltness Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c59",
+      "title": "Ballochney Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c6",
+      "title": "Newark Gas Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c60",
+      "title": "Tyne Docks Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c61",
+      "title": "Birmingham Canal Navigations Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c62",
+      "title": "Norwich Public Works, Bridges and Roads Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c63",
+      "title": "Bradford (Wiltshire) Improvement Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c64",
+      "title": "Aberdeen Market Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c65",
+      "title": "Fraserburgh Harbour Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c66",
+      "title": "West Croft Canal Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c67",
+      "title": "Peterborough and Nassaburgh Gaol Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c68",
+      "title": "Itchen Bridge and Roads Acts Amendment Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c69",
+      "title": "Manchester and Birmingham Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c7",
+      "title": "Holmfirth Gas Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c70",
+      "title": "Monkland and Kirkintilloch Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c71",
+      "title": "West Durham Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c72",
+      "title": "Portsmouth Quay and Harbour Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c73",
+      "title": "River Moy Navigation Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c74",
+      "title": "Newport Dock Company Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c75",
+      "title": "Deptford Pier Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c76",
+      "title": "Deptford Pier Junction Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c77",
+      "title": "Northern and Eastern Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c78",
+      "title": "Northern and Eastern Railway and Eastern Counties Railway Junction Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c79",
+      "title": "South Eastern Railway and London and Brighton Railway Junction Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c8",
+      "title": "Bury Markets and Fairs Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c80",
+      "title": "Over Darwen Gas Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c81",
+      "title": "Sidmouth Market Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c82",
+      "title": "Anniesland Turnpike and St. George's Road Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c83",
+      "title": "London Patent White Lead Company Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c84",
+      "title": "General Filtration and Dye Extract Company Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c85",
+      "title": "Pontefract Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c86",
+      "title": "Aberford Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c87",
+      "title": "Rotherham Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c88",
+      "title": "Glossop Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c89",
+      "title": "Grantham Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c9",
+      "title": "Cambridge Gaol Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c90",
+      "title": "Rochdale Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c91",
+      "title": "Warrington Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c92",
+      "title": "Liverpool Building Regulation Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c93",
+      "title": "Ship Propeller Company Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c94",
+      "title": "City of London Police Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c95",
+      "title": "Commercial Railway Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c96",
+      "title": "Brighton Cemetery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c97",
+      "title": "Hatfield (Yorks.) Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c98",
+      "title": "Belper Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1839-c99",
+      "title": "Newark Small Debts Recovery Act 1839",
+      "year": 1839,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/2-3/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1839-c36",
       "title": "Court of Session Act 1839 (repealed)",

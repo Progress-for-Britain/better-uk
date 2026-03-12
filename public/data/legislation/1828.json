@@ -1,7 +1,1105 @@
 {
   "year": 1828,
-  "count": 7,
+  "count": 129,
   "items": [
+    {
+      "id": "UKLA-1828-c1",
+      "title": "Merton Rates Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c10",
+      "title": "Whitehaven Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c100",
+      "title": "Staines Bridge Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c101",
+      "title": "Wells next the Sea and Fakenham Turnpike Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c102",
+      "title": "Roads, Bridges and Statute Labour in Ross and Cromarty Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c103",
+      "title": "North End and Hammersmith Bridge Turnpike Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c104",
+      "title": "Roxburgh and Berwick Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c105",
+      "title": "Road from Northwich to Kelsall Hill (Cheshire) Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c106",
+      "title": "Roads from Tavernspite Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c107",
+      "title": "Lymington Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c108",
+      "title": "Roads from Watts Cross and from Sevenoaks Common Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c109",
+      "title": "Selkirk Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c11",
+      "title": "Road from Bury to Little Bolton Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c110",
+      "title": "Road from Godstone to Highgate (Sussex) Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c111",
+      "title": "Southwark Bridge Approaches Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c112",
+      "title": "Commercial and East India and Barking Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c113",
+      "title": "Covent Garden Market Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c114",
+      "title": "Liverpool Docks Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c115",
+      "title": "Bideford Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c116",
+      "title": "London Docks Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c117",
+      "title": "Manchester and Salford Improvement Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c118",
+      "title": "Tralee Harbour Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c119",
+      "title": "Pembroke Water Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c12",
+      "title": "Roads from Kingsbridge to Dartmouth Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c120",
+      "title": "Southwark and Highgate (Sussex) Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c121",
+      "title": "Roads from Belfast to Antrim and to Copeland Water Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c122",
+      "title": "Minehead District of Roads (No. 2) Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c13",
+      "title": "Aberbrothock Two Pennies Scots Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c14",
+      "title": "Gosport Market Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c15",
+      "title": "Hove Chapel of Ease Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c16",
+      "title": "Roads from Kipping's Cross, Goudhurst Gore and Underden Green Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c17",
+      "title": "Road from Wadhurst and from Pullen's Hill Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c18",
+      "title": "Wrotham Heath Roads (Kent) Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c19",
+      "title": "Roads to join Crewkerne Turnpike Road (Dorset and Som.) Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c2",
+      "title": "St. Mary Wimbledon Rates Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c20",
+      "title": "Road from Carlisle to Brampton Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c21",
+      "title": "Harnham Hill, Blandford and Dorchester Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c22",
+      "title": "Bury Gas Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c23",
+      "title": "Nottingham and Mansfield Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c24",
+      "title": "Lincoln Gas Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c25",
+      "title": "Cliffe Improvement Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c26",
+      "title": "Stalybridge Improvement and Police Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c27",
+      "title": "Lincoln Improvement Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c28",
+      "title": "Stoke-upon-Trent Watching and Lighting Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c29",
+      "title": "Canterbury and Whitstable Railway Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c3",
+      "title": "Truro Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c30",
+      "title": "Louth Navigation Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c31",
+      "title": "Dover Harbour Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c32",
+      "title": "High Bridges and Uttoxeter, and Spath and Hanging Bridge Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c33",
+      "title": "Beaumaris and Menai Bridge Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c34",
+      "title": "Spernal Ash and Birmingham Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c35",
+      "title": "Great Torrington Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c36",
+      "title": "Roads from Cambridge to Chishill and to Royston Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c37",
+      "title": "North Shields Improvement Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c38",
+      "title": "Hertford Improvement Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c39",
+      "title": "Bideford Harbour Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c4",
+      "title": "Newcastle-under-Lyme and Leek Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c40",
+      "title": "March Drainage Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c41",
+      "title": "Bristol Markets Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c42",
+      "title": "Ashton-under-Lyne Improvement Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c43",
+      "title": "East Greenwich Poor Relief and Improvement Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c44",
+      "title": "Mildenhall and Littleport Road over River Ouse Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c45",
+      "title": "Road from Ipswich to Southtown and to Bungay Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c46",
+      "title": "Balby and Worksop Turnpike Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c47",
+      "title": "Hursley and Chilton Pond Turnpike Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c48",
+      "title": "Road from Upottery to Ilminster Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c49",
+      "title": "Gosport and Bishop's Waltham, and Wickham and Chawton Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c5",
+      "title": "Road from Hinckley to Melbourne Common (Derbyshire) Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c50",
+      "title": "Ilminster Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c51",
+      "title": "Thetford and Newmarket Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c52",
+      "title": "Hammersmith Bridge Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c53",
+      "title": "Youghal Bridge Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c54",
+      "title": "Birmingham Improvement Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c55",
+      "title": "Liverpool Docks Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c56",
+      "title": "Gravesend Town Quay Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c57",
+      "title": "Portsmouth and Arundel Navigation Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c58",
+      "title": "Kirkwall Harbour Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c59",
+      "title": "Helmsdale Harbour Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c6",
+      "title": "Beaconsfield and Uxbridge Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c60",
+      "title": "Stockton and Darlington Railway Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c61",
+      "title": "Clarence Railway Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c62",
+      "title": "Nantlle Railway Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c63",
+      "title": "Thames Tunnel Company Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c64",
+      "title": "Swansea Markets Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c65",
+      "title": "Surrey Coal Trade Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c66",
+      "title": "Dublin Steam Packet Company Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c67",
+      "title": "Road from Hunslet to Leeds Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c68",
+      "title": "Road from Great Grimsby Haven to Irby Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c69",
+      "title": "Wakefield and Halifax Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c7",
+      "title": "Liverpool and Manchester Railway Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c70",
+      "title": "Horsham and Steyning and Beeding Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c71",
+      "title": "Chester and Ashton Lane End Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c72",
+      "title": "Newcastle-upon-Tyne and Carlisle Road (Northumberland District) Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c73",
+      "title": "Chatteris Ferry and Downham Bridge Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c74",
+      "title": "Road from Chester to Northop Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c75",
+      "title": "Scole Bridge and Bury St. Edmunds Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c76",
+      "title": "Main Trust Roads (Carmarthen) Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c77",
+      "title": "Road from Chester to Wrexham Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c78",
+      "title": "Beverley and Kexby Bridge Road (Yorkshire) Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c79",
+      "title": "Road from Derby to Hurdloe House and Compton Branch Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c8",
+      "title": "Bolton and Leigh Railway Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c80",
+      "title": "Lisburn and Monaghan Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c81",
+      "title": "Roads in Carmarthen Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c82",
+      "title": "Dumbarton Roads and Bridges Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c83",
+      "title": "Birstal and Huddersfield Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c84",
+      "title": "Minehead District of Roads Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c85",
+      "title": "Sandwich and Ramsgate Road and Sandwich Bridge Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c86",
+      "title": "Banbury and Lutterworth Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c87",
+      "title": "Wilsontown Road (Lanarkshire) Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c88",
+      "title": "Churchover, Brownsover, Newbold-upon-Avon, Rugby and Bilton Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c89",
+      "title": "Great and Little Waldersley Drainage Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c9",
+      "title": "Cheltenham and Gloucester Road Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c90",
+      "title": "Wantage Improvement Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c91",
+      "title": "Llanelly Railway and Dock Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c92",
+      "title": "Bridgend Railway Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c93",
+      "title": "Bristol and Gloucester Railway Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c94",
+      "title": "Avon and Gloucestershire Railway Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c95",
+      "title": "East India Dock Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c96",
+      "title": "Ulster Canal Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c97",
+      "title": "Tees Navigation Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c98",
+      "title": "Aire and Calder Navigation Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1828-c99",
+      "title": "Oldham Church Act 1828",
+      "year": 1828,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/9/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1828-c14",
       "title": "Statute of Frauds Amendment Act 1828",

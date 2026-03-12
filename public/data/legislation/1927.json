@@ -1,7 +1,1096 @@
 {
   "year": 1927,
-  "count": 43,
+  "count": 164,
   "items": [
+    {
+      "id": "UKLA-1927-c1",
+      "title": "Montrose Burgh and Harbour Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c10",
+      "title": "Great Western Railway Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c100",
+      "title": "East Anglian Electricity Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c101",
+      "title": "Leeds Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c102",
+      "title": "Birmingham Extension Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c103",
+      "title": "Manchester Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c104",
+      "title": "East Surrey Water Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c105",
+      "title": "Birkenhead Extension Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c106",
+      "title": "Croydon Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c107",
+      "title": "County of London Electric Supply Company Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c108",
+      "title": "Swansea Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c109",
+      "title": "London and Home Counties Joint Electricity Authority Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c110",
+      "title": "Kilmarnock Gas and Water Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c111",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 10) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c112",
+      "title": "Ministry of Health Provisional Order Confirmation (Sutton Coldfield Extension) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c113",
+      "title": "Lerwick Harbour Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c114",
+      "title": "Edinburgh Chartered Accountants Annuity, &amp;c. Fund Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c115",
+      "title": "Edinburgh Corporation Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c116",
+      "title": "Renfrewshire County Council (Giffnock Railway Bridges) Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c117",
+      "title": "Grampian Electricity Supply Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c118",
+      "title": "Royal Edinburgh Hospital for Mental and Nervous Disorders Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c119",
+      "title": "Dundee Corporation Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c12",
+      "title": "Frimley and Farnborough District Water Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c120",
+      "title": "Perth County Buildings Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c121",
+      "title": "Heriot-Watt College and George Heriot's Trust Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c122",
+      "title": "Wallasey Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c123",
+      "title": "West Cheshire Water Board Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c13",
+      "title": "Bury Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c14",
+      "title": "North British and Mercantile Insurance Company Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c15",
+      "title": "Scottish Provident Institution Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c16",
+      "title": "London, Midland and Scottish Railway Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c17",
+      "title": "Matlocks Urban District Council Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c18",
+      "title": "Stoke-on-Trent Corporation (Gas) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c19",
+      "title": "North Metropolitan Electric Power Supply Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c2",
+      "title": "Nar Valley Drainage Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c20",
+      "title": "War Risks Association (Distribution of Reserve Funds) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c21",
+      "title": "Barnsley Corporation (Water) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c22",
+      "title": "London County Council (General Powers) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c23",
+      "title": "Southern Railway Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c24",
+      "title": "West Bridgford Urban District Council Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c25",
+      "title": "Yorkshire Electric Power Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c26",
+      "title": "Mercantile Marine Memorial Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c28",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 2) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c29",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 3) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c3",
+      "title": "Yeadon Waterworks Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c30",
+      "title": "Provisional Order (Marriages) Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c31",
+      "title": "Post Office (Sites) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c32",
+      "title": "Feltwell Fuel Allotment Charity Scheme Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c33",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 4) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c34",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 5) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c35",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 6) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c36",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 7) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c37",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 8) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c38",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 9) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c39",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 11) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c4",
+      "title": "Tyne Improvement Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c40",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 12) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c41",
+      "title": "Pier and Harbour Orders Confirmation (No. 1) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c42",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c43",
+      "title": "Sheffield Corporation Tramways Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c44",
+      "title": "Cardiff Corporation Tramways Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c45",
+      "title": "Ministry of Health Provisional Order Confirmation (Conway Extension) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c46",
+      "title": "Ministry of Health Provisional Order Confirmation (New Sarum Extension) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c47",
+      "title": "Ministry of Health Provisional Order Confirmation (Newcastle-under-Lyme Extension) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c48",
+      "title": "Ministry of Health Provisional Order Confirmation (Wokingham Extension) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c49",
+      "title": "Ministry of Health Provisional Order Confirmation (Hove Extension) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c5",
+      "title": "Great Indian Peninsula Railway Annuities Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c50",
+      "title": "Ouse and Cam Fisheries Provisional Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c51",
+      "title": "Airdrie Burgh Extension, &amp;c. Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c52",
+      "title": "Bolton and Kingston-upon-Hull Provisional Orders Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c53",
+      "title": "Mexborough and Swinton Tramways Company (Trolley Vehicles) Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c54",
+      "title": "Rotherham Corporation (Trolley Vehicles) Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c55",
+      "title": "Southend-on-Sea Corporation (Trolley Vehicles) Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c56",
+      "title": "Darlington Corporation Trolley Vehicles (Additional Routes) Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c57",
+      "title": "St. Helens Corporation (Trolley Vehicles) Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c58",
+      "title": "Maidstone Corporation (Trolley Vehicles) Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c59",
+      "title": "Glasgow Corporation Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c6",
+      "title": "Reading Gas Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c60",
+      "title": "Ayr Burgh (Water, &amp;c.) Order Confirmation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c61",
+      "title": "Aberdare Urban District Council Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c62",
+      "title": "St. Catherine's College Cambridge (Canonship of Norwich) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c63",
+      "title": "Westgate and Birchington Water Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c64",
+      "title": "Bristol Waterworks Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c65",
+      "title": "Smethwick Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c66",
+      "title": "Bognor Gas and Electricity Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c67",
+      "title": "Littlehampton Harbour and Arun Drainage Outfall Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c68",
+      "title": "Maidstone Waterworks Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c69",
+      "title": "Hastings Tramways Company (Trolley Vehicles) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c7",
+      "title": "Farnham Gas and Electricity Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c70",
+      "title": "Derwent Valley Water Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c71",
+      "title": "Metropolitan Water Board Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c72",
+      "title": "Wessex Electricity Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c73",
+      "title": "Fleetwood Urban District Council Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c74",
+      "title": "Royal Albert Hall Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c75",
+      "title": "Isle of Wight Water Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c76",
+      "title": "Greenock Burgh Extension, &amp;c. Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c77",
+      "title": "Grimsby Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c78",
+      "title": "London County Council (Money) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c79",
+      "title": "Newcastle-upon-Tyne Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c8",
+      "title": "Chelsea Borough Council (Superannuation and Pensions) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c80",
+      "title": "Abersoch Water Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c81",
+      "title": "Brighton Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c82",
+      "title": "Buxton Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c83",
+      "title": "Chepping Wycombe Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c84",
+      "title": "Colchester Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c85",
+      "title": "Torquay Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c86",
+      "title": "West Bromwich Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c87",
+      "title": "Gainsborough Bridge (Acquisition) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c88",
+      "title": "Liverpool Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c89",
+      "title": "Bedford Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c9",
+      "title": "Commercial Gas Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c90",
+      "title": "Coventry Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c91",
+      "title": "Coventry Corporation (Boundary Extension) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c92",
+      "title": "Derby Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c93",
+      "title": "Mersey Tunnel Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c94",
+      "title": "Peterborough Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c95",
+      "title": "Scarborough Gas (Consolidation) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c96",
+      "title": "South Staffordshire Mond Gas Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c97",
+      "title": "Sunderland Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c98",
+      "title": "St. Mary's Hospital (Newcastle-upon-Tyne) Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1927-c99",
+      "title": "Salford Corporation Act 1927",
+      "year": 1927,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/17-18/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1927-c1",
       "title": "Public Works Loans Act 1927",

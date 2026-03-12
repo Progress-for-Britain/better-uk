@@ -1,7 +1,160 @@
 {
   "year": 1942,
-  "count": 39,
+  "count": 56,
   "items": [
+    {
+      "id": "UKLA-1942-c1",
+      "title": "Edinburgh Merchant Company Endowments (Amendment) Order Confirmation Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/6-7/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c10",
+      "title": "Pembrokeshire County Council Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c11",
+      "title": "London Passenger Transport Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c12",
+      "title": "Mid-Wessex Water Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c13",
+      "title": "South Wales Electric Power Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c14",
+      "title": "Ministry of Health Provisional Order Confirmation (Poole) Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c15",
+      "title": "Bilston Corporation Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c16",
+      "title": "Coventry Corporation Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c17",
+      "title": "London, Midland and Scottish Railway Order Confirmation Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c2",
+      "title": "Newcastle and Gateshead Waterworks Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c3",
+      "title": "Land Drainage (Surrey County Council (Hogsmill River Improvement)) Provisional Order Confirmation Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c4",
+      "title": "Railway Companies (Thos. Cook and Son Limited Guarantee) Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c5",
+      "title": "Bombay, Baroda and Central India Railway Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c6",
+      "title": "London County Council (Money) Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c7",
+      "title": "Queen Elizabeth Hospital for Children Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c8",
+      "title": "Ministry of Health Provisional Order Confirmation (Carnarvon) Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1942-c9",
+      "title": "Ministry of Health Provisional Order Confirmation (Mold Gas and Water) Act 1942",
+      "year": 1942,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/5-6/9",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1942-c1",
       "title": "Expiring Laws Continuance Act 1942",

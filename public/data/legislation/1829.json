@@ -1,7 +1,1231 @@
 {
   "year": 1829,
-  "count": 3,
+  "count": 139,
   "items": [
+    {
+      "id": "UKLA-1829-c1",
+      "title": "St. Katharine Dock Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c10",
+      "title": "Scotswood Bridge over River Tyne Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c100",
+      "title": "Morpeth Bridge over River Wansbeck (Northumberland) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c101",
+      "title": "St. James Clerkenwell (Middlesex) Parish Improvement Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c102",
+      "title": "Kington (Herefordshire) Improvement Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c103",
+      "title": "Perth Water Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c104",
+      "title": "North Level and Nene Valley Drainage Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c105",
+      "title": "Sandwich Gaol Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c106",
+      "title": "Clarence Railway Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c107",
+      "title": "Wishaw and Coltness Railway Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c108",
+      "title": "Saundersfoot Railway and Harbour Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c109",
+      "title": "Ulster Canal Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c11",
+      "title": "St. Martin-in-the-Fields (Liverpool) Church Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c110",
+      "title": "Bath Roads Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c111",
+      "title": "Roads in Dumfries Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c112",
+      "title": "Lanark and Dumbarton Roads and Bridges Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c113",
+      "title": "Road from Southwark to the Kent Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c114",
+      "title": "Roads from Hurdlow House to Manchester Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c115",
+      "title": "Road from Newcastle-under-Lyme to Nantwich Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c116",
+      "title": "Six Clerks and Chancery Inrolment Offices Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c117",
+      "title": "East London Waterworks Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c118",
+      "title": "Independent Gaslight and Coke Company Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c119",
+      "title": "Southwark Market Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c12",
+      "title": "Imperial Gaslight and Coke Company Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c120",
+      "title": "Sheerness Pier Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c121",
+      "title": "Sheerness Improvement Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c122",
+      "title": "Edinburgh and Dalkeith Railway Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c123",
+      "title": "Witham Navigation Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c124",
+      "title": "Port of London Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c125",
+      "title": "Newry Church and Vicarage Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c126",
+      "title": "Newry Navigation Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c127",
+      "title": "British Gaslight Company Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c128",
+      "title": "St. George the Martyr Southwark Improvement Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c129",
+      "title": "Lambeth Improvement Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c13",
+      "title": "Hinckley Rates Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c130",
+      "title": "City Canal Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c131",
+      "title": "St. Mary Rotherhithe Rates Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c132",
+      "title": "Caithness and Orkney Commons Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c133",
+      "title": "Road from Reading to Hatfield Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c134",
+      "title": "Road from Milford through Stainton (Pembrokeshire) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c135",
+      "title": "Langton's Profits (Wood Seasoning Invention) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c136",
+      "title": "London Bridge Approaches Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c14",
+      "title": "Halifax Parish Dues Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c15",
+      "title": "School for the Indigent Blind at Liverpool Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c16",
+      "title": "Wallasey Embankment Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c17",
+      "title": "Road from Barnstaple to Braunton Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c18",
+      "title": "Okehampton Roads Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c19",
+      "title": "Bodmin Roads Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c2",
+      "title": "Edinburgh Gaslight Company Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c20",
+      "title": "Wrotham Heath and Croydon and Godstone Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c21",
+      "title": "Road from Harlow Bush Common to Stump Cross Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c22",
+      "title": "Biddenden and Boundgate Road (Kent) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c23",
+      "title": "Stockershead and Bagham's Cross Road (Kent) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c24",
+      "title": "Road from Maidstone to Key Street Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c25",
+      "title": "Chester, Tarvin, Delamere and Duddan Smithy Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c26",
+      "title": "Kipping's Cross and Flimwell Vent Road (Kent and Sussex) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c27",
+      "title": "Middleton-in-Teesdale, St. Andrew Auckland and Egleston Bridge Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c28",
+      "title": "Roads from Percy's Cross and from Wooler (Northumberland) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c29",
+      "title": "Ashbourne and Leek, and Rushton Common and Congleton Roads Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c3",
+      "title": "Road from Elton to Blackburn Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c30",
+      "title": "Prestwich, Bury and Radcliffe Roads Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c31",
+      "title": "Duchy Liberty and Westminster Liberty of St. Clement Danes, St. Mary-le-Strand, and the Precinct of the Savoy (Land Tax) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c32",
+      "title": "Lincoln's Inn and United Parishes of St. Andrew Holborn above the Bars and St. George the Martyr, Middlesex Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c33",
+      "title": "St. Albans Court House Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c34",
+      "title": "Aberdeen Harbour Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c35",
+      "title": "Liverpool and Manchester Railway Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c36",
+      "title": "Kenyon and Leigh Junction Railway Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c37",
+      "title": "Warrington and Newton Railway Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c38",
+      "title": "Duffryn, Llynvi and Porthcawl Railway Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c39",
+      "title": "Ryde Improvement and Market Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c4",
+      "title": "Rhayader to Llangerrig Road (Radnor and Montgomery) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c40",
+      "title": "South Shields Improvement Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c41",
+      "title": "Aberdeen Improvement Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c42",
+      "title": "Basingstoke Market Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c43",
+      "title": "Wellington Suspension Bridge and Road (Aberdeen and Kincardine) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c44",
+      "title": "Staines Bridge Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c45",
+      "title": "Marlow Bridge Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c46",
+      "title": "Jamaica Street Bridge, Glasgow Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c47",
+      "title": "Exeter Canal Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c48",
+      "title": "Oxford Canal Navigation Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c49",
+      "title": "Southend Pier Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c5",
+      "title": "King's Lynn Water Supply, Markets and Port Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c50",
+      "title": "Kincardine Ferry Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c51",
+      "title": "Church of St. Catherine in Liverpool Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c52",
+      "title": "Dublin Gas Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c53",
+      "title": "Newmarket Heath Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c54",
+      "title": "Stonehaven and Parkhead Road (Kincardine) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c55",
+      "title": "Tunbridge Wells and Uckfield Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c56",
+      "title": "East Malling Heath and Mereworth and Hadlow Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c57",
+      "title": "Tunbridge Wells, Wadhurst and Mayfield Roads Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c58",
+      "title": "Linlithgow Bridge and Stirling Roads Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c59",
+      "title": "Roads and Bridges in Durham and Berwick Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c6",
+      "title": "Duddeston and Nechells Improvement (Birmingham) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c60",
+      "title": "Road from Scots Dyke to Haremoss Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c61",
+      "title": "Roads from North Queensferry to Perth Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c62",
+      "title": "Tonbridge and Maidstone Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c63",
+      "title": "Dublin and Dunleer Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c64",
+      "title": "Guildford and Alfold Bars Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c65",
+      "title": "Alfreton and Higham and Tibshelf Roads (Derbyshire) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c66",
+      "title": "Road from Lauder to Kelso Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c67",
+      "title": "West India Dock Company Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c68",
+      "title": "Parish of St. Paul Covent Garden Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c69",
+      "title": "Shrewsbury Water Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c7",
+      "title": "St. Mary Stratford Bow Parish Officers and Poor Relief Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c70",
+      "title": "River Weaver Navigation Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c71",
+      "title": "Dumbarton Highways and Bridges Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c72",
+      "title": "Newcastle-upon-Tyne and Carlisle Railway Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c73",
+      "title": "Croydon Improvement Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c74",
+      "title": "Watling Street Road (Shrewsbury District) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c75",
+      "title": "Dublin and Carlow Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c76",
+      "title": "Bilston Turnpike Roads (Staffordshire) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c77",
+      "title": "Tarporley and Whitchurch Turnpike Road (Cheshire,Salop.) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c78",
+      "title": "Road from James Deeping Stone Bridge to Stamford and to Morcott Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c79",
+      "title": "Dudley, Birmingham, Wolverhampton and Streetway District Roads Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c8",
+      "title": "Monmouth County Hall Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c80",
+      "title": "Chesterfield and Worksop Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c81",
+      "title": "Swathling, Botley and Sherril Heath Road (Hampshire) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c82",
+      "title": "Road from Brampton to Longtown Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c83",
+      "title": "Blue Vein and Bricker's Barn Turnpike Roads (Wiltshire, Somerset) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c84",
+      "title": "Fife Turnpike Roads Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c85",
+      "title": "Bolton-le-Moors and Parr Roads Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c86",
+      "title": "Woodbank, Lower King's Ferry and Northop Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c87",
+      "title": "Road from Sheepscar to Meanwoodside Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c88",
+      "title": "Road from Cranbrooke to Appledore Heath and Branches (Kent) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c89",
+      "title": "Road from Oldham to Ripponden (Yorkshire) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c9",
+      "title": "Staindrop and Greta Bridge Road and Whorlton Bridge over River Tees Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c90",
+      "title": "Road from Leeds to Roundhay Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c91",
+      "title": "Kinross and Alloa Road Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c92",
+      "title": "Road from Kingston-upon-Hull to Kirk Ella Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c93",
+      "title": "Chard Roads (Somerset) Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c94",
+      "title": "Washingborough and Heighington Inclosures and Drainage Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c95",
+      "title": "Merthyr Tydfil, Gellygare and Aberdare Justice of the Peace Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c96",
+      "title": "St. Dunstan in the West Parish Church Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c97",
+      "title": "Cheshire Constables Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c98",
+      "title": "North and South Shields Ferry Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1829-c99",
+      "title": "Kirkcaldy Harbour Act 1829",
+      "year": 1829,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4/10/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1829-c19",
       "title": "Register of Sasines Act 1829",

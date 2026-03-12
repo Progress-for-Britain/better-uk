@@ -1,7 +1,421 @@
 {
   "year": 1845,
-  "count": 17,
+  "count": 63,
   "items": [
+    {
+      "id": "UKLA-1845-c159",
+      "title": "Aberdare Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/159",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c160",
+      "title": "Clydesdale Junction Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/160",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c161",
+      "title": "Scottish Central Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/161",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c162",
+      "title": "Caledonian Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/162",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c163",
+      "title": "Newcastle and Berwick Railway Station Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/163",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c164",
+      "title": "Edinburgh and Hawick Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/164",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c165",
+      "title": "London and South Western Railway Metropolitan Extensions Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/165",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c166",
+      "title": "Liverpool and Bury Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/166",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c167",
+      "title": "South Eastern Railway (Branch to Tunbridge Wells) Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/167",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c168",
+      "title": "Gravesend and Rochester Railway and Canal Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/168",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c169",
+      "title": "Newport and Pontypool Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/169",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c170",
+      "title": "Scottish Midland Junction Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/170",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c171",
+      "title": "Manchester and Leeds Railway (No. 1) Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/171",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c172",
+      "title": "Wakefield, Pontefract and Goole Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/172",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c173",
+      "title": "Falmouth Harbour Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/173",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c174",
+      "title": "Cromford Canal Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/174",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c175",
+      "title": "Sheffield Water Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/175",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c176",
+      "title": "St. Helens Improvement Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/176",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c177",
+      "title": "Bermondsey (St. Mary Magdalen) Improvement Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/177",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c178",
+      "title": "Westminster Improvement Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/178",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c179",
+      "title": "Tacumshin Embankment Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/179",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c180",
+      "title": "St. Matthew's Church, Bethnal Green Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/180",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c181",
+      "title": "Leeds and Bradford Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/181",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c182",
+      "title": "Glasgow Junction Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/182",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c183",
+      "title": "Birmingham and Gloucester Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/183",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c184",
+      "title": "Oxford, Worcester and Wolverhampton Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/184",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c185",
+      "title": "London and South Western Railway Amendment Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/185",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c186",
+      "title": "South Eastern Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/186",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c187",
+      "title": "Londonderry and Coleraine Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c188",
+      "title": "Oxford and Rugby Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c189",
+      "title": "Erewash Valley Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c190",
+      "title": "South Wales Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c191",
+      "title": "Monmouth and Hereford Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c192",
+      "title": "Glasgow, Barrhead and Neilston Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c193",
+      "title": "Dublin Water Supply Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c194",
+      "title": "Duddleston and Nechells Improvement Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c195",
+      "title": "Road from Glasgow to Yoker Bridge Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c196",
+      "title": "London and Croydon Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c197",
+      "title": "South Eastern Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c198",
+      "title": "Grand Junction Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c199",
+      "title": "Railway from Portsmouth to Chichester Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c200",
+      "title": "Brighton, Lewes and Hastings Railway (Hastings, Rye and Ashford Extension) Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c201",
+      "title": "Cambridge and Huntingdon Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c202",
+      "title": "Grimsby Docks Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c203",
+      "title": "London and Blackwall Extension Railway Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1845-c204",
+      "title": "Bristol Rates Act 1845",
+      "year": 1845,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/8-9/204",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1845-c109",
       "title": "Gaming Act 1845 (repealed)",

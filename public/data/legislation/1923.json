@@ -1,7 +1,475 @@
 {
   "year": 1923,
-  "count": 42,
+  "count": 94,
   "items": [
+    {
+      "id": "UKLA-1923-c100",
+      "title": "Nottingham Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c101",
+      "title": "City and South London Railway Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c102",
+      "title": "Torquay Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c103",
+      "title": "London Electric Railway Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c104",
+      "title": "Chatham Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c105",
+      "title": "Morley Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c106",
+      "title": "Macclesfield Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c107",
+      "title": "Stoke-on-Trent Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c108",
+      "title": "Robert Gordon's Colleges and Aberdeen Endowments Trust Order Confirmation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c56",
+      "title": "Lucas's Hospital Charity Scheme Confirmation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c57",
+      "title": "Tancred's Charities Scheme Confirmation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c58",
+      "title": "Provisional Order (Marriages) Confirmation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c59",
+      "title": "Oyster Fishery (Roach River) Provisional Order Confimation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c60",
+      "title": "Pier and Harbour Orders Confirmation (No. 2) Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c61",
+      "title": "Pier and Harbour Order Confirmation (No. 3) Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c62",
+      "title": "Tramways Provisional Orders Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c63",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 9) Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c64",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 10) Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c65",
+      "title": "Church of Scotland Ministers' and Scottish University Professors' Widows' Fund Order Confirmation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c66",
+      "title": "London County Council (Money) Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c67",
+      "title": "Essex County Council (Barking Bridge) Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c68",
+      "title": "Mitcham Urban District Council Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c69",
+      "title": "Greenock Corporation (Electricity) Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c70",
+      "title": "Potteries and North Staffordshire Tramways and Light Railways Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c71",
+      "title": "Birkenhead Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c72",
+      "title": "Bromborough Dock Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c73",
+      "title": "South Staffordshire Mond Gas Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c74",
+      "title": "Thornton Urban District Council Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c75",
+      "title": "Rugby Urban District Council Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c76",
+      "title": "West Gloucestershire Water Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c77",
+      "title": "Oldham and Rochdale Corporations Water Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c78",
+      "title": "Plymouth Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c79",
+      "title": "Mid Kent Water Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c80",
+      "title": "Felixstowe Dock and Railway Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c81",
+      "title": "West Bromwich Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c82",
+      "title": "London, Midland and Scottish Railway Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c83",
+      "title": "Southern Railway Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c84",
+      "title": "Seaham Harbour Dock Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c85",
+      "title": "Swanage Gas and Electricity Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c87",
+      "title": "Dover Harbour Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c88",
+      "title": "Bournemouth-Swanage Motor Road and Ferry Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c89",
+      "title": "Barnsley Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c90",
+      "title": "Broadstairs and St. Peter's Urban District Council Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c91",
+      "title": "Chelmsford Corporation Water Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c92",
+      "title": "Croydon Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c93",
+      "title": "Wakefield Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c94",
+      "title": "West Somerset Mineral Railway (Abandonment) Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c95",
+      "title": "West Hartlepool Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c96",
+      "title": "Shropshire, Worcestershire and Staffordshire Electric Power Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c97",
+      "title": "Wimbledon and Sutton Railway Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c98",
+      "title": "West Riding of Yorkshire County Council (Drainage) Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1923-c99",
+      "title": "Chesterfield Corporation Act 1923",
+      "year": 1923,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/13-14/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1923-c1",
       "title": "Consolidated Fund (No. 1) Act 1923",

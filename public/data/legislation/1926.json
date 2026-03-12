@@ -1,7 +1,979 @@
 {
   "year": 1926,
-  "count": 63,
+  "count": 171,
   "items": [
+    {
+      "id": "UKLA-1926-c10",
+      "title": "Chatham and District Water Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c100",
+      "title": "Stoke-on-Trent Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c101",
+      "title": "Newcastle-upon-Tyne and Gateshead Corporations (Bridge) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c102",
+      "title": "Newcastle-upon-Tyne Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c103",
+      "title": "Shropshire, Worcestershire and Staffordshire Electric Power Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c104",
+      "title": "Southend-on-Sea Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c105",
+      "title": "Gas Light and Coke Company's Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c106",
+      "title": "Wolverhampton Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c107",
+      "title": "Perth Corporation Water Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c108",
+      "title": "Stornoway Harbour Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c109",
+      "title": "Castlecary and Kirkintilloch Road Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c11",
+      "title": "Darwen Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c110",
+      "title": "Glasgow Goldsmiths Company Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c111",
+      "title": "Barnet District Gas and Water Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c12",
+      "title": "Messrs. Hoare Trustees Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c13",
+      "title": "Serle Street and Cook's Court Improvement Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c14",
+      "title": "Hackney Borough Council Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c15",
+      "title": "Ayrshire Electricity Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c16",
+      "title": "Helensburgh Gas Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c17",
+      "title": "London, Midland and Scottish Railway Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c18",
+      "title": "Provisional Order (Marriages) Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c19",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 1) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c20",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 2) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c21",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 3) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c23",
+      "title": "Passmore Edwards (Tilbury) Cottage Hospital Charity Scheme Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c24",
+      "title": "Allhallows and Marwood (Honiton) Charities Scheme Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c25",
+      "title": "Robert Earl of Leicester's Hospital Charity Scheme Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c26",
+      "title": "Brighton (London Road) Congregational Chapel Charities Scheme Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c27",
+      "title": "Doncaster Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c28",
+      "title": "Medway Conservancy Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c29",
+      "title": "Halifax Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c3",
+      "title": "Chosen Syndicate Limited Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c30",
+      "title": "Hartlepool Corporation (Trolley Vehicles) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c31",
+      "title": "Ramsbottom Urban District Council Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c32",
+      "title": "London, Midland and Scottish Railway Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c33",
+      "title": "Taf Fechan Water Supply Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c34",
+      "title": "Leicestershire and Warwickshire Electric Power Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c35",
+      "title": "Abertillery and District Water Board Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c36",
+      "title": "Connah's Quay Urban District Council Water Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c37",
+      "title": "Glasgow Education Authority (Juvenile Delinquency) Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c38",
+      "title": "Ministry of Health Provisional Order Confirmation (Ilfracombe) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c39",
+      "title": "Land Drainage Provisional Order Confirmation (No. 1) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c4",
+      "title": "Birmingham Canal Navigations Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c40",
+      "title": "Provisional Order (Marriages) Confirmation (No. 2) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c41",
+      "title": "North Berwick Burgh Extension Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c42",
+      "title": "Pier and Harbour Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c43",
+      "title": "Falmouth Docks Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c44",
+      "title": "Bermondsey Borough Council (Street Trading) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c45",
+      "title": "Mid-Nottinghamshire Joint Railways Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c46",
+      "title": "Rhymney Valley Water Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c47",
+      "title": "Shoreham Harbour Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c48",
+      "title": "Bethlem Hospital Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c49",
+      "title": "Trent Falls Improvement Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c5",
+      "title": "Bristol Waterworks Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c50",
+      "title": "Port of London Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c51",
+      "title": "Pontefract Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c52",
+      "title": "Post Office (Sites) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c53",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 4) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c54",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 5) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c55",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 6) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c56",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 7) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c57",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 8) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c58",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 9) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c59",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 10) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c6",
+      "title": "Bristol Cemetery Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c60",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 11) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c61",
+      "title": "Ministry of Health Provisional Order Confirmation (Ashton-under-Lyne Extension) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c62",
+      "title": "Ministry of Health Provisional Order Confirmation (Ealing Extension) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c63",
+      "title": "Tramways Provisional Order Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c64",
+      "title": "Land Drainage Provisional Order Confirmation (No. 2) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c65",
+      "title": "Edinburgh Corporation (Streets, Bldgs. and Sewers) Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c66",
+      "title": "Dundee Corporation Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c67",
+      "title": "Greenock Corporation Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c68",
+      "title": "Church of Scotland Ministers' and Scottish University Professors' Widows' Fund (Amendment) Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c69",
+      "title": "Kilmarnock Corporation Order Confirmation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c7",
+      "title": "City of London (Various Powers) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c70",
+      "title": "Paignton Urban District Council Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c71",
+      "title": "Teignmouth and Shaldon Bridge Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c72",
+      "title": "Chorley Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c73",
+      "title": "Kidderminster and Stourport Electric Tramway Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c74",
+      "title": "Kingston-upon-Hull Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c75",
+      "title": "Mynyddislwyn Urban District Council Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c76",
+      "title": "Mexborough and Swinton Tramways Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c77",
+      "title": "Bolton Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c78",
+      "title": "Scottish Widows' Fund and Life Assurance Society's Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c79",
+      "title": "London County Council (Money) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c8",
+      "title": "Birkenhead Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c80",
+      "title": "Colwyn Bay Urban District Council Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c81",
+      "title": "Margate Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c82",
+      "title": "West Hampshire Water Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c83",
+      "title": "Manchester Ship Canal Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c84",
+      "title": "University of Reading Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c85",
+      "title": "Guildford Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c86",
+      "title": "Middlesbrough Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c87",
+      "title": "Dover Harbour Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c88",
+      "title": "Great Western Railway Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c89",
+      "title": "London Electric and Metropolitan District Railways Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c9",
+      "title": "Ascot District Gas and Electricity Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c90",
+      "title": "Manchester Ship Canal (Staff Superannuation) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c91",
+      "title": "Metropolitan Railway Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c92",
+      "title": "Southern Railway Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c93",
+      "title": "Swindon Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c94",
+      "title": "Berwick-upon-Tweed Corporation (Freemen) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c95",
+      "title": "Eastbourne Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c96",
+      "title": "Rhondda Urban District Council Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c97",
+      "title": "Worcester Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c98",
+      "title": "London County Council (General Powers) Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1926-c99",
+      "title": "Bristol Corporation Act 1926",
+      "year": 1926,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/16-17/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1926-c1",
       "title": "Consolidated Fund (No. 1) Act 1926",

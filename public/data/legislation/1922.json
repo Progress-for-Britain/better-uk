@@ -1,7 +1,988 @@
 {
   "year": 1922,
-  "count": 60,
+  "count": 169,
   "items": [
+    {
+      "id": "UKLA-1922-c1",
+      "title": "Lanarkshire County Council Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c10",
+      "title": "Melville Trust Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c100",
+      "title": "Provisional Order (Marriages) Confirmation (No. 2) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c101",
+      "title": "Grangemouth Burgh Extension Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c102",
+      "title": "Greenock Port and Harbours Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c103",
+      "title": "Glasgow and Rutherglen Corporations Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c104",
+      "title": "Louth Baptist and Congregational Chapels Scheme Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c105",
+      "title": "Norfolk Fisheries Provisional Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c106",
+      "title": "Taw and Torridge Fisheries Provisional Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c107",
+      "title": "Towy Fisheries Provisional Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c108",
+      "title": "Hampshire Rivers Fisheries Provisional Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c109",
+      "title": "Land Drainage Provisional Order Confirmation (No. 2) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c11",
+      "title": "Kilmarnock Water Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c12",
+      "title": "Ayr Burgh (Tramways, &amp;c.) Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c13",
+      "title": "Pilotage Orders Confirmation (No. 2) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c14",
+      "title": "Leicester Freemen's Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c15",
+      "title": "Nottingham Corporation (Trent Navigation) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c16",
+      "title": "Metropolitan Railway Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c17",
+      "title": "Legal and General Assurance Society Limited Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c18",
+      "title": "Ossett Corporation (Water) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c19",
+      "title": "Newhaven and Seaford Water Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c2",
+      "title": "Stirling Corporation (Water, &amp;c.) Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c20",
+      "title": "Blackburn Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c21",
+      "title": "City of London (Various Powers) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c22",
+      "title": "Stoke-on-Trent (Gas Consolidation) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c23",
+      "title": "Yorkshire Electric Power Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c24",
+      "title": "Sheffield Gas Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c25",
+      "title": "Northampton Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c26",
+      "title": "Sunderland and South Shields Water Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c27",
+      "title": "Trafford Park Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c28",
+      "title": "Nottingham and Derbyshire Tramways Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c29",
+      "title": "Bradford Canal (Abandonment) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c3",
+      "title": "Scottish Widows' Fund and Life Assurance Society's Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5Sess2/13/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c30",
+      "title": "Bristol Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c31",
+      "title": "Stock Conversion and Investment Trust Limited (North Western Trust) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c32",
+      "title": "Rugby School Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c33",
+      "title": "Colne Valley Water Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c34",
+      "title": "Caledonian Railway Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c35",
+      "title": "Land Drainage Provisional Order Confirmation (No. 1) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c36",
+      "title": "Oxford and St. Albans Wine Privileges (Abolition) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c37",
+      "title": "Pilotage Orders Confirmation (No. 1) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c38",
+      "title": "Pilotage Orders Confirmation (No. 3) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c39",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 2) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c4",
+      "title": "Edinburgh Corporation Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5Sess2/13/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c40",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 3) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c41",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 5) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c42",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 6) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c43",
+      "title": "Ministry of Health Provisional Order Confirmation (Water) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c44",
+      "title": "Ministry of Health Provisional Order Confirmation (Guildford Extension) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c45",
+      "title": "Dumfries and Maxwelltown Waterworks Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c46",
+      "title": "Girvan Water Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c47",
+      "title": "Buckhaven and Leven Gas Commission Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c48",
+      "title": "Glasgow Corporation Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c49",
+      "title": "Aberdeen Corporation Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c5",
+      "title": "Highland Railway Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c50",
+      "title": "Pier and Harbour Orders Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c51",
+      "title": "Board of Education Scheme (Dewsbury Endowed Schools Foundation) Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c52",
+      "title": "Tramways Order Confirmation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c53",
+      "title": "Stretford and District Gas Board Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c54",
+      "title": "Worthing Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c55",
+      "title": "Croydon Gas Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c56",
+      "title": "Torquay Corporation (Electricity) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c57",
+      "title": "Dartmouth Harbour Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c58",
+      "title": "Newcastle and Gateshead Waterworks Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c59",
+      "title": "Great North Railway Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c6",
+      "title": "Tees Conservancy Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c60",
+      "title": "Padiham Urban District Council Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c61",
+      "title": "London County Council (Money) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c62",
+      "title": "London County Council (General Powers) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c63",
+      "title": "London Electric and City and South London Railways Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c64",
+      "title": "Swansea Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c65",
+      "title": "Windsor Royal Gas Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c66",
+      "title": "Halifax Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c67",
+      "title": "South Wales Electrical Power Distribution Company Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c68",
+      "title": "Staffordshire Potteries Waterworks Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c69",
+      "title": "Shepton Mallet Waterworks Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c7",
+      "title": "Madras Railway Annuities Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c70",
+      "title": "Port of London and Midland Railway Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c71",
+      "title": "River Cam Conservancy Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c72",
+      "title": "Doncaster Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c73",
+      "title": "Durham County Water Board Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c74",
+      "title": "Ayr Burgh (Electricity) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c75",
+      "title": "Bristol Tramways Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c76",
+      "title": "Birmingham Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c77",
+      "title": "North Metropolitan Electric Power Supply Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c78",
+      "title": "Exeter Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c79",
+      "title": "Grampian Electricity Supply Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c8",
+      "title": "Milford Docks Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c80",
+      "title": "London County Council (Tramways and Improvements) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c81",
+      "title": "Neath Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c82",
+      "title": "South Staffordshire Waterworks Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c83",
+      "title": "Chester Gas Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c84",
+      "title": "Wear Navigation and Sunderland Dock (Consolidation and Amendment) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c85",
+      "title": "Ramsgate Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c86",
+      "title": "Kingston-upon-Hull Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c87",
+      "title": "Black Country Tramways and Light Railway Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c88",
+      "title": "Cambridge Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c89",
+      "title": "St. Marylebone Borough Council (Superannuation) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c9",
+      "title": "Ministry of Health Provisional Order Confirmation (Cardiff Extension) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c90",
+      "title": "Shoreditch and other Metropolitan Borough Councils (Superannuation) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c91",
+      "title": "Lambeth Borough Council (Superannuation) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c92",
+      "title": "Staffordshire Asylums Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c93",
+      "title": "Bolton Corporation Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c94",
+      "title": "Ministry of Health Provisional Order Confirmation (No. 4) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c95",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 7) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c96",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 8) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c97",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 9) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c98",
+      "title": "Ministry of Health Provisional Orders Confirmation (No. 10) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1922-c99",
+      "title": "Pilotage Orders Confirmation (No. 4) Act 1922",
+      "year": 1922,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo5/12-13/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1922-c1",
       "title": "Consolidated Fund (No. 1) Act 1922",

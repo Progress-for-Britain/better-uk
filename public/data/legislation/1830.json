@@ -1,7 +1,1249 @@
 {
   "year": 1830,
-  "count": 5,
+  "count": 143,
   "items": [
+    {
+      "id": "UKLA-1830-c1",
+      "title": "Highgate, Chipping Barnet and South Mimms Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/1/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c10",
+      "title": "Parishes of St. Giles in the Fields and St. George Bloomsbury Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c100",
+      "title": "Cromford Bridge and Langley Mill Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/100",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c101",
+      "title": "Wareham and Purbeck Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/101",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c102",
+      "title": "Roads in Caithness Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/102",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c103",
+      "title": "Roads from Saltfleet to Lincoln Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/103",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c104",
+      "title": "Roads through Cowfold Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/104",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c105",
+      "title": "Roads from the Wirksworth Turnpike Road (Derbyshire) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/105",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c106",
+      "title": "Walsall and Muckley Corner Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/106",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c107",
+      "title": "Cork and Waterford Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/107",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c108",
+      "title": "Turnpike Roads in Peebles Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/108",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c109",
+      "title": "Queensferry Roads, Linlithgow Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/109",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c11",
+      "title": "Ardglass Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c110",
+      "title": "Road from Carlisle to Penrith and to Eamont Bridge Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/110",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c111",
+      "title": "Newcastle, Limerick and Charleville Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/111",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c112",
+      "title": "Dundalk and Castle Blayney and Carrickmacross Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/112",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c113",
+      "title": "Rickmansworth and Pinner Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/113",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c114",
+      "title": "Bromley (Kent) Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/114",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c115",
+      "title": "Queensferry Ferry Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/115",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c116",
+      "title": "Yeovil Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/116",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c117",
+      "title": "Dover Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/117",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c118",
+      "title": "Dublin Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/118",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c119",
+      "title": "Dundee Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/119",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c12",
+      "title": "Axmouth Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c120",
+      "title": "Courtown Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/120",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c121",
+      "title": "Perth Harbour and Tay Navigation Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/121",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c122",
+      "title": "Galway Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/122",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c123",
+      "title": "Glasgow Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/123",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c124",
+      "title": "Macclesfield Water Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/124",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c125",
+      "title": "Garnkirk and Glasgow Railway Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/125",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c126",
+      "title": "Shannon Navigation Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/126",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c127",
+      "title": "Dartmouth Floating Bridge Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/127",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c128",
+      "title": "Glasgow and Milnford of Garscube Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/128",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c129",
+      "title": "Spey and Findhorn Bridges Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/129",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c13",
+      "title": "St. Katharine Dock Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c130",
+      "title": "Ashbourne and Belper Bridge Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/130",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c131",
+      "title": "Beverley and Kendell House, and Molescroft and Bainton Balk Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/131",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c132",
+      "title": "St. George Bloomsbury Chapel of Ease Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/132",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c133",
+      "title": "Bute Ship Canal Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/133",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c134",
+      "title": "Port Crommelin Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/134",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c135",
+      "title": "Rye Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/135",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c136",
+      "title": "Kent and Sussex Drainage Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/136",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c137",
+      "title": "Surrey Coal Trade Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/137",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c138",
+      "title": "Glasgow and Kilmarnock Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/138",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c14",
+      "title": "Liverpool Docks and Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c15",
+      "title": "Liverpool Paving and Sewerage Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c16",
+      "title": "Hove Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c17",
+      "title": "Swansea Gas Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c18",
+      "title": "Road from New Chapel to Brighton Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c19",
+      "title": "Malmesbury Roads (Wiltshire) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c2",
+      "title": "Marchwiel and Whitchurch (Salop.), Bangor and Malpas, and Redbrook and Hampton Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Will4/1/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c20",
+      "title": "Allesley and Canwell Gate Turnpike Road (Warwickshire, Staffsordshire) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c21",
+      "title": "Newcastle-upon-Tyne and Alemouth Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c22",
+      "title": "Wakefield and Sheffield Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c23",
+      "title": "Manchester and Wilmslow Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c24",
+      "title": "Wool Bridge and Dorchester Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c25",
+      "title": "Roads from Gainsborough Bridge (Lincolnshire, Nottinghamshire) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c26",
+      "title": "Catterick Bridge and Durham Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c27",
+      "title": "Road from Nantgaredig and from BrechfÃ¢ Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c28",
+      "title": "Roads in Brecon, Radnor and Glamorgan Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c29",
+      "title": "Roads from Carmarthen Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c3",
+      "title": "Roads from Market Harborough to Loughborough Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c30",
+      "title": "Road from Bolton-le-Moors to Blackburn Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c31",
+      "title": "Road from Edenfield Chapel to Little Bolton (Lancashire) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c32",
+      "title": "Road from Congleton to Thatchmarsh Bottom (Cheshire,Derbyshire) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c33",
+      "title": "East India Company and Rajah of Tanjore Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c34",
+      "title": "Roads from Radstock Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c35",
+      "title": "Merlin's Bridge and Pembroke Ferry Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c36",
+      "title": "Dundee Gas Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c37",
+      "title": "Road from Wootton Bassett to the Swindon and Marlborough Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c38",
+      "title": "Haverhill to Redcross Road (Suffolk, Cambridgeshire) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c39",
+      "title": "Great Yarmouth and Acle Turnpike Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c4",
+      "title": "Thirsk Turnpike Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c40",
+      "title": "Church of St. Augustine, Walton-on-the-Hill Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c41",
+      "title": "Advocates' Widows' Fund Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c42",
+      "title": "Glasgow Magistrates and Police Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c43",
+      "title": "Ross Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c44",
+      "title": "Stafford Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c45",
+      "title": "Southwark Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c46",
+      "title": "Little Bolton Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c47",
+      "title": "Manchester Gas and Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c48",
+      "title": "Southwold Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c49",
+      "title": "River Wear and Sunderland Harbour Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c5",
+      "title": "Roads to and from Bridport Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c50",
+      "title": "Sankey Brook Navigation Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c51",
+      "title": "Ellesmere and Chester Canal (Hurleston Reservoir) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c52",
+      "title": "Othery, Middlezoy and Weston Zoyland Drainage Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c53",
+      "title": "North Level Commission Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c54",
+      "title": "River Tweed Fisheries Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c55",
+      "title": "Sheffield Water Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c56",
+      "title": "Wigan Branch Railway Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c57",
+      "title": "Warrington and Newton Railway Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c58",
+      "title": "Leicester and Swannington Railway Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c59",
+      "title": "Leeds and Selby Railway Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c6",
+      "title": "Road from Horsham Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c60",
+      "title": "Dundee and Newtyle Railway Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c61",
+      "title": "St. Helens and Runcorn Gap Railway Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c62",
+      "title": "Polloc and Govan Railway Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/62",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c63",
+      "title": "Brighton, Shoreham and Lancing Road and New Shoreham Bridge Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c64",
+      "title": "London Bridge Approaches and Fleet Market Removal Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c65",
+      "title": "Kingston-upon-Thames Bridge Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c66",
+      "title": "Dunham Bridge over River Trent Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c67",
+      "title": "Bridge over Wensum at Heigham Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c68",
+      "title": "Stonehouse Mill Pool Bridge Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c69",
+      "title": "Clifton Suspension Bridge Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c7",
+      "title": "Blidworth and Pinxton Green Road (Nottinghamshire) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c70",
+      "title": "Hungerford Market Company Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c71",
+      "title": "Portman Market, Marylebone Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c72",
+      "title": "Barrington's Hospital, Limerick Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c73",
+      "title": "Bath Hospital Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c74",
+      "title": "London Assurance Companies Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/74",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c75",
+      "title": "Coventry: Rates in Foleshill Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/75",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c76",
+      "title": "New Sarum Poor Relief Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c77",
+      "title": "Roads, Bridges and Statute Labour in Peebles Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c78",
+      "title": "Inverness County Roads, Bridges and Ferries Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/78",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c79",
+      "title": "Parish of Barnwell St. Andrew with Barnwell All Saints, Commutation of Tithes Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c8",
+      "title": "Salford Improvement Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c80",
+      "title": "Hollingrake Letters Patent Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c81",
+      "title": "Wendover and Buckingham Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c82",
+      "title": "Roads from Lewes Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c83",
+      "title": "Hockliffe and Stony Stratford Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c84",
+      "title": "Rotherham and Wortley Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c85",
+      "title": "Blackburn and Walton-in-le-Dale Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c86",
+      "title": "Chard Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c87",
+      "title": "Bradford and Huddersfield Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c88",
+      "title": "Whitesheet Hill and Barford Turnpike Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c89",
+      "title": "Ashbourne, Hatton Moor, Uttoxeter and Hadley Plain Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c9",
+      "title": "Longtown Roads (Cumberland) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c90",
+      "title": "Foston Bridge and Witham Common Road (Lincolnshire) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c91",
+      "title": "Road from Temple Normanton and Road from Tupton Nether Green Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c92",
+      "title": "Road from Werneth to Littleborough (Lancashire) Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c93",
+      "title": "Road from Stamford to South Witham Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c94",
+      "title": "Birmingham and Edgehill Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c95",
+      "title": "Derby, Mansfield and Nuttall Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/95",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c96",
+      "title": "Hull and Hedon Turnpike Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/96",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c97",
+      "title": "Tiverton Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/97",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c98",
+      "title": "Ashburton and Totnes Roads Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/98",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1830-c99",
+      "title": "Tonbridge and Igtham Road Act 1830",
+      "year": 1830,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo4and1Will4/11/99",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKPGA-1830-c18",
       "title": "Marriage Confirmation Act 1830",

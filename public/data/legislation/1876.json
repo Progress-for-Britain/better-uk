@@ -1,7 +1,502 @@
 {
   "year": 1876,
-  "count": 82,
+  "count": 137,
   "items": [
+    {
+      "id": "UKLA-1876-c187",
+      "title": "South Hants. Water Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/187",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c188",
+      "title": "Swansea Harbour Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/188",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c189",
+      "title": "Southwold Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/189",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c190",
+      "title": "Blackrod Gas Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/190",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c191",
+      "title": "Oldbury Local Board of Health Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/191",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c192",
+      "title": "Newcastle and Gateshead Waterworks Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/192",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c193",
+      "title": "Enniskillen and Bundoran Extension Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/193",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c194",
+      "title": "Great Northern Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/194",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c195",
+      "title": "Llynvi and Ogmore and Cardiff and Ogmore Valley Railways Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/195",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c196",
+      "title": "Stafford Corporation Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/196",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c197",
+      "title": "Education Department Provisional Order Confirmation (Cardiff) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/197",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c198",
+      "title": "Local Government Board's Provisional Orders Confirmation (Bingley, &amp;c.) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/198",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c199",
+      "title": "Local Government Board's Provisional Orders Confirmation (Chelmsford, &amp;c.) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/199",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c200",
+      "title": "Metropolis (Whitechapel and Limehouse) Improvement Scheme Confirmation Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/200",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c201",
+      "title": "Local Government Board's Provisional Orders Confirmation (Bath, &amp;c.) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/201",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c202",
+      "title": "Local Government Board's Provisional Orders Confirmation (Birmingham, &amp;c.) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/202",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c203",
+      "title": "Local Government Board's Provisional Orders Confirmation (Bilbrough, &amp;c.) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/203",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c204",
+      "title": "Tralee Savings Bank Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/204",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c205",
+      "title": "Cleveland Waterworks Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/205",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c206",
+      "title": "Goux's Patent Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/206",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c207",
+      "title": "Belfast and County Down Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/207",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c208",
+      "title": "Dudley and Oldbury Junction Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/208",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c209",
+      "title": "Midland Railway (Further Powers) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/209",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c210",
+      "title": "Sidmouth Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/210",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c211",
+      "title": "New Shoreham Harbour Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/211",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c212",
+      "title": "Penarth Extension Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/212",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c213",
+      "title": "South Western Railway (Various Powers) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/213",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c214",
+      "title": "Preston Tramways Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/214",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c215",
+      "title": "Bodmin and Wadebridge and Delabole Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/215",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c217",
+      "title": "Great Northern London Cemetery Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/217",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c219",
+      "title": "Severn Bridge and Forest of Dean Central Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/219",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c220",
+      "title": "West Ham Local Board of Health Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/220",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c221",
+      "title": "Monmouthshire Railway and Canal Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/221",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c222",
+      "title": "Wakefield Waterworks Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/222",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c223",
+      "title": "Alexandra (Newport) Dock Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/223",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c224",
+      "title": "East Norfolk Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/224",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c225",
+      "title": "Gaslight and Coke Company Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/225",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c226",
+      "title": "Metropolitan Inner Circle Completion Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/226",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c227",
+      "title": "Newport (Monmouthshire) Improvement Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/227",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c228",
+      "title": "South Eastern Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/228",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c229",
+      "title": "South Metropolitan Gaslight and Coke Company's Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/229",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c230",
+      "title": "Stockton and Middlesbrough Corporation Waterworks Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/230",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c231",
+      "title": "Wye Valley Railway Amendment Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/231",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c232",
+      "title": "Dublin (South) City Market Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/232",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c233",
+      "title": "North Dublin Street Tramways Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/233",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c234",
+      "title": "Halifax Water and Gas Extension Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/234",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c235",
+      "title": "Local Government Board's Provisional Orders Confirmation (Artisans and Labourers Dwellings) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/235",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c236",
+      "title": "Ardglass Harbour Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/236",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c237",
+      "title": "Erne Lough and River Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/237",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c238",
+      "title": "Bow Street Police Court (Site) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/238",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c239",
+      "title": "Education Department Provisional Order Confirmation (London) Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/239",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c240",
+      "title": "East Cornwall Mineral Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/240",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c241",
+      "title": "Llandudno Improvement Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/241",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c242",
+      "title": "Southern Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/242",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1876-c243",
+      "title": "London, Essex and Kent Coast Junction Railway Act 1876",
+      "year": 1876,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Vict/39-40/243",
+      "source": "ukla",
+      "description": ""
+    },
     {
       "id": "UKLA-1876-c39",
       "title": "Flookersbrook Improvement Act 1876",

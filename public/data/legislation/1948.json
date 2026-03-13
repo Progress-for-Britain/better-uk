@@ -1,7 +1,1033 @@
 {
   "year": 1948,
-  "count": 1263,
+  "count": 1377,
   "items": [
+    {
+      "id": "UKLA-1948-c10",
+      "title": "Birmingham University Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c11",
+      "title": "Shoreham Harbour Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c12",
+      "title": "Railway Clearing System Superannuation Fund Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c13",
+      "title": "Round Oak Steel Works (Level Crossings) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c14",
+      "title": "South Lancashire Transport Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c15",
+      "title": "Cardiff Corporation (Extension of Time) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c16",
+      "title": "University of Sheffield (Lands) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c17",
+      "title": "Ascot Race Course Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c18",
+      "title": "Warwick Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c19",
+      "title": "Cromer Urban District Council Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c20",
+      "title": "Inverness Burgh Order Confirmation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c21",
+      "title": "British Transport Commission Order Confirmation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c22",
+      "title": "Pier and Harbour Order (Redcar) Confirmation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c23",
+      "title": "Pier and Harbour Order (Swanage) Confirmation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c24",
+      "title": "Portsmouth Corporation (Trolley Vehicles) Order Confirmation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c25",
+      "title": "Darlington Corporation Trolley Vehicles (Additional Routes) Order Confirmation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c26",
+      "title": "Ministry of Health Provisional Order Confirmation (Bristol) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c27",
+      "title": "Ministry of Health Provisional Order Confirmation (Exeter) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c28",
+      "title": "Ministry of Health Provisional Order Confirmation (Huddersfield) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c29",
+      "title": "Ministry of Health Provisonal Order Confirmation (Macclesfield) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c30",
+      "title": "Ministry of Health Provisional Order Confirmation (Northampton) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c31",
+      "title": "Ministry of Health Provisonal Order Confirmation (Sheffield) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c32",
+      "title": "Ministry of Health Provisional Order Confirmation (Stockton-on-Tees) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c33",
+      "title": "Ministry of Health Provisional Order Confirmation (Gloucester) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c34",
+      "title": "Ministry of Health Provisional Order Confirmation (Shrewsbury) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c35",
+      "title": "Salford Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c36",
+      "title": "London County Council (Money) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c37",
+      "title": "Coventry Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c38",
+      "title": "Brighton Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c39",
+      "title": "Birmingham Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c4",
+      "title": "London County Council Improvements Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c40",
+      "title": "Peabody Donation Fund Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c41",
+      "title": "Ipswich Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c42",
+      "title": "Merthyr Tydfil Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c43",
+      "title": "Cumberland County Council Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c44",
+      "title": "Darwen Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c45",
+      "title": "Egham Urban District Council Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c46",
+      "title": "Great Yarmouth Port and Haven Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c47",
+      "title": "Rochdale Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c48",
+      "title": "St. Helens Corporation (Electricity and General Powers) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c49",
+      "title": "Smethwick Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c5",
+      "title": "Sutton's Hospital in Charterhouse Charity Scheme Confirmation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c50",
+      "title": "Whitstable Urban District Council Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c51",
+      "title": "Beverley Corporation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c52",
+      "title": "West Riding County Council (General Powers) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c53",
+      "title": "London County Council (General Powers) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c6",
+      "title": "Glasgow Corporation Order Confirmation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c7",
+      "title": "South Suburban Gas Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c8",
+      "title": "William Brown Nimmo Charitable Trust (Amendment) Order Confirmation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1948-c9",
+      "title": "Church of Scotland Trust (Amendment) Order Confirmation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/11-12/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c1",
+      "title": "Colonial Stock Act 1948 (repealed 19.11.1998)",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/1",
+      "source": "ukpga",
+      "description": "An Act to enable stock to which the Colonial Stock Act 1877 applies to be made transferable by instrument in writing, and to provide for the extension of the Colonial Stock Acts 1877 to 1934 to stock of Governments or authorities established for controlling or administering services or matters of common interest to the inhabitants of more than one of the colonies or territories to whose stock any of the said Acts apply or could be made applicable."
+    },
+    {
+      "id": "UKPGA-1948-c10",
+      "title": "Administration of Justice (Scotland) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c14",
+      "title": "Princess Elizabeth's and Duke of Edinburgh's Annuities Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c15",
+      "title": "Overseas Resources Development Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c16",
+      "title": "Post Office and Telegraph (Money) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c17",
+      "title": "Requisitioned Land and War Works Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/17",
+      "source": "ukpga",
+      "description": "An Act to continue certain provisions of the Requisitioned Land and War Works Act, .1945, to make permanent certain other provisions thereof, and otherwise to amend that Act; to amend the Compensation (Defence) Act, 1939, as respects compensation for the taking of possession of land; to make further provision, by the amendment of those Acts and otherwise, as respects the maintenance and use of certain oil pipelines and the compensation therefor ; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1948-c18",
+      "title": "Consolidated Fund (No. 1) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c19",
+      "title": "Attempted Rape Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c2",
+      "title": "Debts Clearing Offices Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c20",
+      "title": "Supreme Court of Judicature (Amendment) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/20",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c21",
+      "title": "Army and Air Force (Women’s Service) Act 1948 (repealed)",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/21",
+      "source": "ukpga",
+      "description": "An Act to enable women to he commissioned and enlisted for service in His Majesty's land and air forces, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1948-c22",
+      "title": "Water Act 1948 (repealed 1.12.1991)",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/22",
+      "source": "ukpga",
+      "description": "An Act to amend the Water Act, 1945, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1948-c23",
+      "title": "Cinematograph Films Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c24",
+      "title": "Police Pensions Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c25",
+      "title": "Royal Marines Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c26",
+      "title": "Local Government Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/26",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to Exchequer grants to local authorities and other bodies and grants by local authorities to other local authorities or other bodies, and the law relating to rating, valuation for rating and precepts to rating authorities; to provide for payments for the benefit of local authorities, by the British Transport Commission, the British Electricity Authority and the North of Scotland Hydro-Electric Board; to amend the Railway Freight Rebates Enactments, 1929 to 1943, section two hundred and eleven of the Local Government (Scotland) Act, 1947, the law relating to the payment of expenses and other allowances to members of local authorities and other bodies and the law relating to the manner in which certain securities of local authorities and other bodies may be transferred; to extend the powers of local authorities in certain respects; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1948-c27",
+      "title": "Palestine Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/27",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c28",
+      "title": "Army and Air Force (Annual) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c29",
+      "title": "National Assistance Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/29",
+      "source": "ukpga",
+      "description": "An Act to terminate the existing poor law and to provide in lieu thereof for the assistance of persons in need by the National Assistance Board and by local authorities; to make further provision for the welfare of disabled, sick, aged and other persons and for regulating homes for disabled and aged persons and charities for disabled persons; to amend the law relating to non-contributory old age pensions; to make provision as to the burial or cremation of deceased persons; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1948-c3",
+      "title": "Expiring Laws Continuance Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c30",
+      "title": "Lord High Commissioner (Church of Scotland) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c31",
+      "title": "Cotton Spinning (Re-equipment Subsidy) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/31",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c32",
+      "title": "River Boards Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c33",
+      "title": "Superannuation (Miscellaneous Provisions) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/33",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to pensions and other similar payments to be made to and in respect of persons who have been in certain employment, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1948-c34",
+      "title": "Motor Spirit (Regulation) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c35",
+      "title": "Animals Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c36",
+      "title": "House of Commons Members’ Fund Act 1948 (repealed)",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/36",
+      "source": "ukpga",
+      "description": "An Act to amend the House of Commons Members' Fund Act, 1939."
+    },
+    {
+      "id": "UKPGA-1948-c37",
+      "title": "Radioactive Substances Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/37",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to radioactive substances and certain apparatus producing radiation."
+    },
+    {
+      "id": "UKPGA-1948-c38",
+      "title": "Companies Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/38",
+      "source": "ukpga",
+      "description": "An Act to consolidate the Companies Act, 1929, the Companies Act, 1947 (other than the provisions thereof relating to the registration of business names, bankruptcy and the prevention of fraud in connection with unit trusts), and certain other enactments amending the first-mentioned Act."
+    },
+    {
+      "id": "UKPGA-1948-c39",
+      "title": "Industrial Assurance and Friendly Societies Act 1948 (Repealed)",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/39",
+      "source": "ukpga",
+      "description": "An Act to amend the Friendly Societies Acts, 1896 to 1929, and the Industrial Assurance Acts, 1923 to 1929, and to amend provisions corresponding or relating to provisions of those Acts contained in the Industrial and Provident Societies Acts, 1893 to 1928, and other enactments, as to payments on deaths of children, payments on deaths where no grant of probate or administration has been made, investment in savings banks, the designation of auditors appointed thereunder, the mode of determination of disputes and interpretation."
+    },
+    {
+      "id": "UKPGA-1948-c4",
+      "title": "Judges Pensions (India and Burma) Act 1948 (repealed)",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/4",
+      "source": "ukpga",
+      "description": "An Act to provide tor the payment out of moneys provided by Parliament of pensions to certain persons who were serving as judges in India before the fifteenth day of August, nineteen hundred and forty-seven, of as judges in Burma before the fourth day of January, nineteen hundred and forty-eight, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1948-c40",
+      "title": "Education (Miscellaneous Provisions) Act 1948 (repealed 1.11.1996)",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/40",
+      "source": "ukpga",
+      "description": "An Act to amend the Education Acts, 1944 and 1946, the Endowed Schools Acts, 1869 to 1908, the provisions of the Mental Deficiency Act, 1913, as to children incapable of receiving education, and the provision of the Children and Young Persons' Act, 1933, as to the minimum age of employment."
+    },
+    {
+      "id": "UKPGA-1948-c41",
+      "title": "Law Reform (Personal Injuries) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/41",
+      "source": "ukpga",
+      "description": "An Act to abolish the defence of common employment, to amend the law relating to the measure of damages for personal injury or death, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1948-c42",
+      "title": "National Insurance (Industrial Injuries) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c43",
+      "title": "Children Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/43",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c44",
+      "title": "Merchant Shipping Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/44",
+      "source": "ukpga",
+      "description": "An Act to amend the provisions of the Merchant Shipping Acts relating to matters affected by certain International Conventions adopted at Seattle in the year nineteen hundred and forty-six."
+    },
+    {
+      "id": "UKPGA-1948-c45",
+      "title": "Agriculture (Scotland) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/45",
+      "source": "ukpga",
+      "description": "An Act to amend the enactments relating to agricultural holdings in Scotland; to make further provision for the improvement and development of agriculture and the use of agricultural land in Scotland; to authorise the making of grants towards the provision of houses and buildings for landholders and cottars in the Highlands and Islands; to extend the time for making applications for assistance under the Housing (Agricultural Population) (Scotland) Act, 1938; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1948-c46",
+      "title": "Employment and Training Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/46",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c47",
+      "title": "Agricultural Wages Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/47",
+      "source": "ukpga",
+      "description": "An Act to Consolidate the Agricultural Wages (Regulation) Acts, 1924 to 1947, and so much of the Holidays with Pay-Act, 1938, as enables a wage regulating authority to make provision for holidays and holiday remuneration for workers employed in agriculture in England and Wales."
+    },
+    {
+      "id": "UKPGA-1948-c48",
+      "title": "Public Works Loans Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/48",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c49",
+      "title": "Finance Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/49",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with Finance."
+    },
+    {
+      "id": "UKPGA-1948-c5",
+      "title": "Civil Defence Act 1948 (repealed)",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/5",
+      "source": "ukpga",
+      "description": "An Act to make further provision for civil defence."
+    },
+    {
+      "id": "UKPGA-1948-c50",
+      "title": "Appropriation Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c51",
+      "title": "White Fish and Herring Industries Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c52",
+      "title": "Veterinary Surgeons Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/52",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c53",
+      "title": "Nurseries and Child-Minders Regulation Act 1948 (repealed 14th October 1991)",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/53",
+      "source": "ukpga",
+      "description": "An Act to provide for the regulation of certain nurseries and of persons who for reward receive children into their homes to look after them; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1948-c54",
+      "title": "Export Guarantees Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/54",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c55",
+      "title": "Factories Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/55",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c56",
+      "title": "British Nationality Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/56",
+      "source": "ukpga",
+      "description": "An Act to make provision for British nationality and for citizenship of the United Kingdom and Colonies and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1948-c57",
+      "title": "Public Registers and Records (Scotland) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/57",
+      "source": "ukpga",
+      "description": "An Act to provide for the appointment of a Keeper of the Registers of Scotland and of a Keeper of the Records of Scotland, the transference to such Keepers of the powers and duties of the Keeper of the Registers and Records of Scotland and the discontinuance of that office ; to amend the law and procedure regarding registration in the General Register of Sasines and for purposes connected with the aforesaid purposes."
+    },
+    {
+      "id": "UKPGA-1948-c58",
+      "title": "Criminal Justice Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/58",
+      "source": "ukpga",
+      "description": "An Act to abolish penal servitude, hard labour, prison divisions and sentence of whipping ; to amend the law-relating to the probation of offenders, and otherwise to reform existing methods and provide new methods of dealing with offenders and persons liable to imprisonment; to amend the law relating to the proceedings of criminal courts, including the law relating to evidence before such courts; to abolish privilege of peerage in criminal proceedings; to regulate the management of prisons and other institutions and the treatment of offenders and other persons committed to custody; to re-enact certain enactments relating to the matters aforesaid; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1948-c59",
+      "title": "Laying of Documents before Parliament (Interpretation) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/59",
+      "source": "ukpga",
+      "description": "An Act to declare the meaning of references in Acts of Parliament and subordinate legislation to the laying of instruments or other documents before Parliament or before either House oi Parliament, and the effect during a vacancy in the office of the Lord Chancellor or of the Speaker of the House of Commons of the requirement in section four of the Statutory Instruments Act, 1946, to send notification forthwith to each of them of an instrument's being made so as to operate before it has been laid before Parliament."
+    },
+    {
+      "id": "UKPGA-1948-c6",
+      "title": "National Service (Amendment) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c60",
+      "title": "Development of Inventions Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/60",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c61",
+      "title": "Isle of Man (Customs) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c62",
+      "title": "Statute Law Revision Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/62",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c63",
+      "title": "Agricultural Holdings Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/63",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c64",
+      "title": "National Service Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/64",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c65",
+      "title": "Representation of the People Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/65",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c66",
+      "title": "Monopolies and Restrictive Practices (Inquiry and Control) Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/66",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c67",
+      "title": "Gas Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/11-12/67",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c7",
+      "title": "Wages Councils Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/7",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c8",
+      "title": "Recall of Army and Air Force Pensioners Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1948-c9",
+      "title": "Prize Act 1948",
+      "year": 1948,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/9",
+      "source": "ukpga",
+      "description": ""
+    },
     {
       "id": "UKSI-1948-1",
       "title": "The Statutory Instruments Regulations, 1947",

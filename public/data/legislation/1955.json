@@ -1,7 +1,538 @@
 {
   "year": 1955,
-  "count": 618,
+  "count": 677,
   "items": [
+    {
+      "id": "UKLA-1955-c1",
+      "title": "British Transport Commission Order Confirmation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c10",
+      "title": "German Potash Syndicate Loan Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c11",
+      "title": "Kent Water Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c12",
+      "title": "Nuneaton Corporation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c13",
+      "title": "Sandown-Shanklin Urban District Council Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c14",
+      "title": "Chatham and District Traction Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c15",
+      "title": "Corn Exchange Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c16",
+      "title": "Liverpool Corporation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c17",
+      "title": "Dewsbury Moor Crematorium Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c18",
+      "title": "Maidstone Corporation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c19",
+      "title": "Salford Corporation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c2",
+      "title": "Chatham Intra Charity of Richard Watts and other Charities Scheme Confirmation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/3-4/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c20",
+      "title": "Bristol Corporation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c21",
+      "title": "Cheshunt Urban District Council Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c22",
+      "title": "Stock Exchange Clerks' Pension Fund Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c23",
+      "title": "London County Council (Money) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c24",
+      "title": "Milford Docks Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c25",
+      "title": "North Wales Hydro-Electric Power Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c26",
+      "title": "London County Council (Loans) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c27",
+      "title": "Edinburgh Corporation Order Confirmation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c28",
+      "title": "Runcorn-Widnes Bridge Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c29",
+      "title": "London County Council (General Powers) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c3",
+      "title": "University of Hull Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/3-4/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c30",
+      "title": "British Transport Commission Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c4",
+      "title": "Clyde Navigation (Superannuation) Order Confirmation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/3-4/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c5",
+      "title": "Glasgow Corporation (Extension of Time) Order Confirmation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/3-4/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c6",
+      "title": "Doncaster Corporation (Trolley Vehicles) Order Confirmation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c7",
+      "title": "Mersey Tunnel Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/3-4/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c8",
+      "title": "Taf Fechan Water Supply Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1955-c9",
+      "title": "Cardiff Corporation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c1",
+      "title": "Austrian State Treaty Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/1",
+      "source": "ukpga",
+      "description": "An Act to provide for carrying into effect the Treaty for the re-establishment of an independent and democratic Austria."
+    },
+    {
+      "id": "UKPGA-1955-c10",
+      "title": "Transport (Borrowing Powers) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c11",
+      "title": "National Service Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/11",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c12",
+      "title": "Trustee Savings Banks (Pensions) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/12",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c13",
+      "title": "Rural Water Supplies and Sewerage Act 1955 (repealed 1.4.1996)",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/13",
+      "source": "ukpga",
+      "description": "An Act to amend the requirements of the Rural Water Supplies and Sewerage Act, 1944, with respect to undertakings under section one of that Act to make contributions towards expenses incurred by local authorities in connection with water supplies, sewerage and sewage disposal in rural localities; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1955-c14",
+      "title": "Imperial War Museum Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/14",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to the Board of Trustees of the Imperial War Museum, and to extend their powers of lending objects belonging to the Museum."
+    },
+    {
+      "id": "UKPGA-1955-c15",
+      "title": "Finance Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c16",
+      "title": "Appropriation Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c17",
+      "title": "Isle of Man (Customs) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c18",
+      "title": "Army Act 1955 (repealed)",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/18",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to the army."
+    },
+    {
+      "id": "UKPGA-1955-c19",
+      "title": "Air Force Act 1955 (repealed)",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/19",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to the air force."
+    },
+    {
+      "id": "UKPGA-1955-c2",
+      "title": "German Conventions Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/2",
+      "source": "ukpga",
+      "description": "An Act to provide for matters relating to certain tribunals agreed to be set up by conventions with the Federal Republic of Germany and to the enforcement of the customs laws of the Federal Republic in pursuance of those conventions by authorities of Her Majesty's forces."
+    },
+    {
+      "id": "UKPGA-1955-c20",
+      "title": "Revision of the Army and Air Force Acts (Transitional Provisions) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/20",
+      "source": "ukpga",
+      "description": "An Act to continue the Army and Air Force Acts until the appointed day, and to make, with respect to the replacement thereof by new provisions, certain transitional provisions and savings and amendments of other enactments relating to those Acts or otherwise to the armed forces of the Crown; to make permanent certain provisions contained in the said Acts; and to repeal certain enactments relating to the armed forces of the Crown which are rendered unnecessary by the expiry of those Acts or are otherwise obsolete."
+    },
+    {
+      "id": "UKPGA-1955-c21",
+      "title": "Crofters (Scotland) Act 1955 (repealed 5.1.1994)",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/21",
+      "source": "ukpga",
+      "description": "An Act to make provision for the reorganisation, development and regulation of crofting in the crofting counties of Scotland; to authorise the making of grants and loans for the development of agricultural production on crofts and the making of grants and loans towards the provision of houses and buildings for crofters, cottars and others of like economic status; to re-enact the provisions of the Landholders Acts with respect to cottars; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1955-c22",
+      "title": "Pensions (India, Pakistan and Burma) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c23",
+      "title": "British Museum Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c24",
+      "title": "Requisitioned Houses and Housing (Amendment) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c25",
+      "title": "Oil in Navigable Waters Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c26",
+      "title": "Public Service Vehicles (Travel Concessions) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/26",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to the allowing of free travel or reduced fares on public service vehicles run by local authorities and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1955-c27",
+      "title": "Public Libraries (Scotland) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/27",
+      "source": "ukpga",
+      "description": "An Act to remove the limitations imposed by section one hundred and ninety-one of the Local Government (Scotland) Act, 1947, and by section fourteen of the Public Libraries Consolidation (Scotland) Act, 1887, on the annual expenditure and the power to borrow money of county and town councils for and in connection with public libraries; to facilitate cooperation among statutory and non-statutory library-authorities; to authorise the revocation of a decision to adopt the Public Libraries Consolidation (Scotland) Act, 1887; and to extend the lending powers of statutory library authorities."
+    },
+    {
+      "id": "UKPGA-1955-c28",
+      "title": "Children And Young Persons (Harmful Publications) Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/28",
+      "source": "ukpga",
+      "description": "An Act to prevent the dissemination of certain pictorial publications harmful to children and young persons."
+    },
+    {
+      "id": "UKPGA-1955-c29",
+      "title": "National Insurance Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c3",
+      "title": "Consolidated Fund Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c4",
+      "title": "New Towns Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c5",
+      "title": "Cocos Islands Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c6",
+      "title": "Colonial Development and Welfare Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c7",
+      "title": "Fisheries Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/7",
+      "source": "ukpga",
+      "description": "An Act to increase the maximum amount of the grants which may be made out of moneys provided by Parliament to the Herring Industry Board for the promotion of the sale of herring and other purposes; to confer on the Minister of Agriculture and Fisheries and the Secretary of State powers to make grants and loans for the execution, for the benefit of the fishing industry, of harbour and other works and to determine certain existing powers in that behalf; to empower the Secretary of State to operate dredgers; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1955-c8",
+      "title": "Northern Ireland Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1955-c9",
+      "title": "Public Works Loans Act 1955",
+      "year": 1955,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/3-4/9",
+      "source": "ukpga",
+      "description": ""
+    },
     {
       "id": "UKSI-1955-1",
       "title": "The Wages Regulation (Licensed Non-residential Establishment) (Amendment) Order 1955",

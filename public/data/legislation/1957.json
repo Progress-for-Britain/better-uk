@@ -1,7 +1,943 @@
 {
   "year": 1957,
-  "count": 654,
+  "count": 758,
   "items": [
+    {
+      "id": "UKLA-1957-c1",
+      "title": "Aberdeen Harbour Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/6-7/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c10",
+      "title": "City of London (Various Powers) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c11",
+      "title": "Sunderland Corporation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c12",
+      "title": "Aberdeen Harbour (Superannuation) Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c13",
+      "title": "Baird Trust Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c14",
+      "title": "Glasgow Corporation Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c15",
+      "title": "Kilmarnock Corporation Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c16",
+      "title": "Aberdeen Corporation Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c17",
+      "title": "University of Exeter Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c18",
+      "title": "Buckinghamshire County Council Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c19",
+      "title": "London County Council (Money) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c2",
+      "title": "British Transport Commission Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/6-7/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c20",
+      "title": "Croydon Corporation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c21",
+      "title": "Tyne Improvement Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c22",
+      "title": "Greenock Port and Harbours Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c23",
+      "title": "Clyde Navigation Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c24",
+      "title": "Ministry of Housing and Local Government Provisional Order Confirmation (County of Berks. (Consent to Letting)) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c25",
+      "title": "Reading Corporation (Trolley Vehicles) Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c26",
+      "title": "Doncaster Corporation (Trolley Vehicles) Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c27",
+      "title": "Durham County Council (Barmston-Foxgreen Footbridge) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c28",
+      "title": "Tamar Bridge Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c29",
+      "title": "B. P. Trading Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c3",
+      "title": "Church of Scotland (General Trustees) Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/6-7/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c30",
+      "title": "Portslade and Southwick Outfall Sewerage Board Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c31",
+      "title": "Barry Corporation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c32",
+      "title": "Workington Harbour and Dock (Transfer) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c33",
+      "title": "British Transport Commission Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c34",
+      "title": "Dartford Tunnel Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c35",
+      "title": "London County Council (General Powers) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c36",
+      "title": "Hastings Tramways Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c37",
+      "title": "East Ham Corporation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c38",
+      "title": "Esso Petroleum Company Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c39",
+      "title": "Milford Docks Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c4",
+      "title": "Dundee Corporation (Consolidated Powers) Order Confirmation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/6-7/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c40",
+      "title": "Finsbury Square Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c41",
+      "title": "Whitstable Harbour Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c42",
+      "title": "Liverpool Corporation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c5",
+      "title": "Port of London Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c6",
+      "title": "Blyth Harbour Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c7",
+      "title": "Barclays Bank D.C.O. Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c8",
+      "title": "Cattedown Wharves Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1957-c9",
+      "title": "Marine Society Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c1",
+      "title": "National Insurance (No. 2) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/6-7/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c10",
+      "title": "Consolidated Fund (No. 2) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c11",
+      "title": "Homicide Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/11",
+      "source": "ukpga",
+      "description": "An Act to make for England and Wales (and for courts-martial wherever sitting) amendments of the law relating to homicide and the trial and punishment of murder, and for Scotland amendments of the law relating to the trial and punishment of murder and attempts to murder."
+    },
+    {
+      "id": "UKPGA-1957-c12",
+      "title": "Public Trustee (Fees) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/12",
+      "source": "ukpga",
+      "description": "An Act to make further provision as to the fees chargeable by the Public Trustee, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1957-c13",
+      "title": "Patents Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c14",
+      "title": "Northern Ireland (Compensation for Compulsory Purchase) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c15",
+      "title": "Nurses Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c16",
+      "title": "Nurses Agencies Act 1957 (repealed)",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/16",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain enactments relating to agencies for the supply of nurses."
+    },
+    {
+      "id": "UKPGA-1957-c17",
+      "title": "Rating and Valuation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c18",
+      "title": "Customs Duties (Dumping and Subsidies) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c19",
+      "title": "Public Health Officers (Deputies) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c2",
+      "title": "Expiring Laws Continuance Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/6-7/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c20",
+      "title": "House of Commons Disqualification Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/20",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c21",
+      "title": "Cinematograph Films Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c22",
+      "title": "White Fish and Herring Industries Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c23",
+      "title": "Export Guarantees Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c24",
+      "title": "House of Commons Members' Fund Act 1957 (repealed)",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/24",
+      "source": "ukpga",
+      "description": "An Act to authorise the payment out of moneys provided by Parliament of annual contributions towards the House of Commons Members' Fund and to extend the powers of investment of the trustees of that Fund."
+    },
+    {
+      "id": "UKPGA-1957-c25",
+      "title": "Rent Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/25",
+      "source": "ukpga",
+      "description": "An Act to amend the Rent and Mortgage Interest Restrictions Acts, 1920 to 1939, the Rent of Furnished Houses Control (Scotland) Act, 1943, the Furnished Houses (Rent Control) Act, 1946, the Housing (Repairs and Rents) (Scotland) Act, 1954, and certain other enactments relating to the control of rents and the right to retain possession of houses; to provide a minimum length for notice to terminate residential lettings; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1957-c26",
+      "title": "National Insurance Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c27",
+      "title": "Solicitors Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/27",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c28",
+      "title": "Dentists Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c29",
+      "title": "Magistrates’ Courts Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c3",
+      "title": "Yarmouth Naval Hospital Transfer Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/6-7/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c30",
+      "title": "Church of Scotland (Property and Endowments) (Amendment) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/30",
+      "source": "ukpga",
+      "description": "An Act to amend section thirty-six of the Church of Scotland (Property and Endowments) Act, 1925, in its application to benefices with more than one incumbency."
+    },
+    {
+      "id": "UKPGA-1957-c31",
+      "title": "Occupiers’ Liability Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/31",
+      "source": "ukpga",
+      "description": "An Act to amend the law of England and Wales as to the liability of occupiers and others for injury or damage resulting to persons or goods lawfully on any land or other property from dangers due to the state of the property or to things done or omitted to be done there, to make provision as. to the operation in relation to the Crown of laws made by the Parliament of Northern Ireland for similar purposes or otherwise amending the law of tort, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1957-c32",
+      "title": "Naval and Marine Reserves Pay Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c33",
+      "title": "New Streets Act, 1951 (Amendment) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/33",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c34",
+      "title": "National Health Service Contributions Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c35",
+      "title": "Maintenance Agreements Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c36",
+      "title": "Cheques Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/36",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to cheques and certain other instruments."
+    },
+    {
+      "id": "UKPGA-1957-c37",
+      "title": "Superannuation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c38",
+      "title": "Housing and Town Development (Scotland) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/38",
+      "source": "ukpga",
+      "description": "An Act to make new provision with respect to contributions out of the Exchequer and by local authorities in respect of housing accommodation provided or improved in Scotland; to enable Scottish local authorities to provide housing accommodation and other development in relief of the needs of districts other than their own; to make additional provision as respects Scotland for the making of payments in respect of unfit houses which have been well maintained, to provide as respects Scotland for the making and keeping by local authorities of registers of maximum rents of dwellings in respect of which improvement grants have been made, and for the simplifying of the procedure for the completion of the compulsory acquisition of land under certain enactments relating to housing; to amend certain provisions of the Housing (Scotland) Act, 1950; to extend section nineteen of the Town and Country Planning (Scotland) Act, 1945 ; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1957-c39",
+      "title": "Legitimation (Re-registration of Birth) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/39",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c4",
+      "title": "Public Works Loans Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/6-7/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c40",
+      "title": "Thermal Insulation (Industrial Buildings) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c41",
+      "title": "Advertisements (Hire Purchase) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c42",
+      "title": "Parish Councils Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/42",
+      "source": "ukpga",
+      "description": "An Act to make further provision as to the constitution of parish councils, and as to the powers of parish councils and parish meetings, in rural parishes in England and Wales."
+    },
+    {
+      "id": "UKPGA-1957-c43",
+      "title": "Representation of the People (Amendment) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/43",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c44",
+      "title": "National Health Service (Amendment) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/44",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c45",
+      "title": "Exchequer And Audit Departments Act 1957 (repealed)",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/45",
+      "source": "ukpga",
+      "description": "An Act to make further provision as to the salary of the Comptroller and Auditor General and the performance of his duties."
+    },
+    {
+      "id": "UKPGA-1957-c46",
+      "title": "Judicial Offices (Salaries and Pensions) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/46",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c47",
+      "title": "Ministerial Salaries Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/47",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c48",
+      "title": "Electricity Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/48",
+      "source": "ukpga",
+      "description": "An Act to provide for the dissolution of the Central Electricity Authority and the establishment of a Central Electricity Generating Board and an Electricity Council, and for the transfer of functions of the said Authority to that Board or Council or to the Minister of Power; to make further provision as to other matters relating to the supply of electricity; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1957-c49",
+      "title": "Finance Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c50",
+      "title": "Army (Conditions of Enlistment) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c51",
+      "title": "Road Transport Lighting Act,1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c52",
+      "title": "Geneva Conventions Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/52",
+      "source": "ukpga",
+      "description": "An Act to enable effect to be given to certain international conventions done at Geneva on the twelfth day of August, nineteen hundred and forty-nine, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1957-c53",
+      "title": "Naval Discipline Act 1957 (repealed)",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/53",
+      "source": "ukpga",
+      "description": "An Act to make provision for the discipline of the Navy, and for other purposes connected with the Navy."
+    },
+    {
+      "id": "UKPGA-1957-c54",
+      "title": "Tanganyika Agricultural Corporation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/54",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c55",
+      "title": "Affiliation Proceedings Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/55",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c56",
+      "title": "Housing Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/56",
+      "source": "ukpga",
+      "description": "An Act to consolidate the enactments relating to housing with the exception of certain provisions relating to financial matters."
+    },
+    {
+      "id": "UKPGA-1957-c57",
+      "title": "Agriculture Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/57",
+      "source": "ukpga",
+      "description": "An Act to make further provision for guaranteed prices and assured markets for producers of agricultural produce in the United Kingdom; to authorise the payment of grants in respect of long-term improvements of agricultural land within the United Kingdom and in respect of the costs of certain transactions concerning such land; to make fresh provision for the development of the pig industry in Great Britain (including the production, processing, manufacture and distribution of pig products); to authorise payments into the Exchequer of Northern Ireland on account of expenses incurred for the benefit of producers of agricultural produce in Northern Ireland; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1957-c58",
+      "title": "Registration of Births, Deaths and Marriages (Special Provisions) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/58",
+      "source": "ukpga",
+      "description": "An Act to provide for the registration of births, deaths and marriages occurring out of the United Kingdom among members of the armed forces and certain other persons, or occurring on board certain ships or aircraft; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1957-c59",
+      "title": "Coal-Mining (Subsidence) Act 1957 (repealed 30.11.1991)",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/59",
+      "source": "ukpga",
+      "description": "An Act to provide for the execution of remedial works and the making of payments in respect of damage caused by subsidence resulting from the working and getting of coal or of coal and other minerals worked therewith; for the execution of works to prevent or reduce such damage; for the carrying out of remedial or preventive measures in connection with land drainage affected or likely to be affected by such damage; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1957-c6",
+      "title": "Ghana Independence Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/6",
+      "source": "ukpga",
+      "description": "An Act to make provision for, and in connection with, the attainment by the Gold Coast of fully responsible status within the British Commonwealth of Nations."
+    },
+    {
+      "id": "UKPGA-1957-c60",
+      "title": "Federation of Malaya Independence Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/60",
+      "source": "ukpga",
+      "description": "An Act to make provision for and in connection with the establishment of the Federation of Malaya as an independent sovereign country within the Commonwealth."
+    },
+    {
+      "id": "UKPGA-1957-c61",
+      "title": "Winfrith Heath Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c62",
+      "title": "Governors' Pensions Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/62",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c63",
+      "title": "Appropriation Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/63",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c7",
+      "title": "Consolidated Fund Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/7",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c8",
+      "title": "Commonwealth Settlement Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1957-c9",
+      "title": "Transport (Railway Finances) Act 1957",
+      "year": 1957,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/9",
+      "source": "ukpga",
+      "description": ""
+    },
     {
       "id": "UKSI-1957-1",
       "title": "The Coastal Flooding (Acreage Payments) Scheme 1957",

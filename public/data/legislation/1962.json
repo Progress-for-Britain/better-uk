@@ -1,7 +1,988 @@
 {
   "year": 1962,
-  "count": 736,
+  "count": 845,
   "items": [
+    {
+      "id": "UKLA-1962-c1",
+      "title": "Royal College of Physicians and Surgeons of Glasgow Order Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/11-12/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c10",
+      "title": "St. Paul, Covent Garden Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c11",
+      "title": "Royal Russell School Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c12",
+      "title": "Kent Quarter Sessions Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c13",
+      "title": "Wallasey Corporation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c14",
+      "title": "Liverpool Corporation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c15",
+      "title": "University of Keele Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c16",
+      "title": "Independent Chapel, Mawdsley Street, Bolton Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c17",
+      "title": "Assay Offices Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c18",
+      "title": "University of Sussex Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c19",
+      "title": "Melville Trust Order Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c2",
+      "title": "Edinburgh Corporation Order Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/11-12/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c20",
+      "title": "St. Thomas Apostle (Queen Street) Churchyard Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c21",
+      "title": "St. Peter's Church, Nottingham, Churchyard Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c22",
+      "title": "Shoreham Harbour Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c23",
+      "title": "Ministry of Housing and Local Government Provisional Order Confirmation (Brighouse) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c24",
+      "title": "Ministry of Housing and Local Government Provisional Order Confirmation (Doncaster) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c25",
+      "title": "Ministry of Housing and Local Government Provisional Order Confirmation (Sidmouth) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c26",
+      "title": "Grimsby Corporation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c27",
+      "title": "South Essex Waterworks Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c28",
+      "title": "Ship Mortgage Finance Company Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c29",
+      "title": "London County Council (Money) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c3",
+      "title": "Paisley Corporation Order Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/11-12/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c30",
+      "title": "Manchester Corporation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c31",
+      "title": "Runcorn District Water Board Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c32",
+      "title": "Glasgow Corporation Order Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c33",
+      "title": "Tay Road Bridge Order Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c34",
+      "title": "Leith Harbour and Docks Order Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c35",
+      "title": "Maidstone Corporation (Trolley Vehicles) Order Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c36",
+      "title": "Pier and Harbour Order (Great Yarmouth New Britannia Pier) Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c37",
+      "title": "Pier and Harbour Order (Great Yarmouth Port and Haven) Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c39",
+      "title": "Letchworth Garden City Corporation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c40",
+      "title": "Dartford Tunnel Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c41",
+      "title": "Orpington Urban District Council Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c42",
+      "title": "British Transport Commission Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c44",
+      "title": "Regent Refining Company Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c45",
+      "title": "London County Council (General Powers) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c46",
+      "title": "River Dart Navigation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c47",
+      "title": "South Staffordshire Water Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c48",
+      "title": "Scotswood Bridge Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c49",
+      "title": "London County Council (Improvements) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c5",
+      "title": "Largs Burgh Order Confirmation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c50",
+      "title": "London Bridge Improvements Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c51",
+      "title": "Port of London Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c52",
+      "title": "Northampton Corporation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c53",
+      "title": "Manchester Ship Canal Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c6",
+      "title": "Zinc Corporation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c7",
+      "title": "Royal Holloway College Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c8",
+      "title": "Australian Agricultural Company Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1962-c9",
+      "title": "Whitehaven Harbour Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c1",
+      "title": "Tanganyika Republic Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/11-12/1",
+      "source": "ukpga",
+      "description": "An Act to make provision as to the operation of the law upon Tanganyika becoming a Republic within the Commonwealth."
+    },
+    {
+      "id": "UKPGA-1962-c10",
+      "title": "Army Reserve Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c11",
+      "title": "Consolidated Fund (No. 2) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/11",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c12",
+      "title": "Education Act 1962 (repealed)",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/12",
+      "source": "ukpga",
+      "description": "An Act to make further provision with respect to awards and grants by local education authorities and the Minister of Education in England and Wales, and by education authorities and the Secretary of State in Scotland, and to enable the General Grant Order, 1960, and the General Grant (Scotland) Order, 1960, to be varied so as to take account of additional or reduced expenditure resulting from action (including anticipatory action) taken in accordance with that provision; to make further provision as to school leaving dates; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1962-c13",
+      "title": "Vehicles (Excise) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c14",
+      "title": "Telegraph Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c15",
+      "title": "Criminal Justice Administration Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c16",
+      "title": "Forth and Clyde Canal (Extinguishment of Rights of Navigation) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c17",
+      "title": "Commonwealth Settlement Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c18",
+      "title": "British Museum Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c19",
+      "title": "West Indies Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/19",
+      "source": "ukpga",
+      "description": "An Act to enable provision to be made for the cesser of the inclusion of colonies in the federation established under the British Caribbean Federation Act, 1956, and for the dissolution of that federation and for matters consequential on the happening of either of those events; to enable provision to be made for the establishment of common courts and other authorities for, and fresh provision to be made for the government of, certain West Indian colonies; to enable provision to be made for the establishment of new forms of government for combinations of such colonies; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1962-c2",
+      "title": "Pensions (Increase) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/11-12/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c20",
+      "title": "International Monetary Fund Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/20",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c21",
+      "title": "Commonwealth Immigrants Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c22",
+      "title": "Coal Consumers’Councils (Northern Irish Interests) Act 1962 (repealed 1.3.1995)",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/22",
+      "source": "ukpga",
+      "description": "An Act to provide for the appointment to the Industrial Coal Consumers' Council and the Domestic Coal Consumers' Council of persons to represent Northern Irish interests."
+    },
+    {
+      "id": "UKPGA-1962-c23",
+      "title": "South Africa Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/23",
+      "source": "ukpga",
+      "description": "An Act to make final provision as to the operation of the law in consequence of the Union of South Africa having become a republic outside the Commonwealth."
+    },
+    {
+      "id": "UKPGA-1962-c24",
+      "title": "National Assistance Act 1948 (Amendment) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c25",
+      "title": "Police Federations Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c26",
+      "title": "Animals (Cruel Poisons) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/26",
+      "source": "ukpga",
+      "description": "An Act to prohibit the killing of animals by cruel poisons; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1962-c27",
+      "title": "Recorded Delivery Service Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/27",
+      "source": "ukpga",
+      "description": "An Act to authorise the sending by the recorded delivery service of certain documents and other things required or authorised to be sent by registered post; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1962-c28",
+      "title": "Housing (Scotland) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c29",
+      "title": "Agricultural and Forestry Associations Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c3",
+      "title": "Expiring Laws Continuance Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/11-12/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c30",
+      "title": "Northern Ireland Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/30",
+      "source": "ukpga",
+      "description": "An Act to amend with regard to certain matters, and empower Her Majesty in Council to amend with regard to others, the law concerning the administration of justice in Northern Ireland; to enlarge the legislative power of the Parliament of Northern Ireland; to amend other law applicable to Northern Ireland; to lay down a rule for interpreting, in the application to Northern Ireland of Acts of Parliament, certain expressions commonly used therein; and to repeal obsolete, unnecessary or spent enactments applying to Northern Ireland."
+    },
+    {
+      "id": "UKPGA-1962-c31",
+      "title": "Sea Fish Industry Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/31",
+      "source": "ukpga",
+      "description": "An Act to make further provision, by way of .financial assistance and otherwise, with respect to the white fish and herring industries, including provision relating to the White Fish Authority and the Herring Industry Board; to make further provision for the regulation of fishing for, and the landing and commercial use of, sea-fish, and with respect to shellfish; to enable the charges leviable at certain harbours to be varied, and to facilitate borrowing for certain harbour and marine work undertakings; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1962-c32",
+      "title": "Marriage (Wales and Monmouthshire) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/32",
+      "source": "ukpga",
+      "description": "An Act to extend certain provisions of the Marriage Act, 1949, to Wales and Monmouthshire."
+    },
+    {
+      "id": "UKPGA-1962-c33",
+      "title": "Health Visiting and Social Work (Training) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/33",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c34",
+      "title": "Acts of Parliament Numbering and Citation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/34",
+      "source": "ukpga",
+      "description": "An Act to provide for the numbering and citation of future Acts of Parliament by reference to the calendar year in which they are passed."
+    },
+    {
+      "id": "UKPGA-1962-c35",
+      "title": "Shops (Airports) Act 1962 (repealed 1.12.1994)",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/35",
+      "source": "ukpga",
+      "description": "An Act to exempt shops at certain airports, and the carrying on of any retail trade or business in connection with such shops, from the provisions of Part I of the Shops Act, 1950; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1962-c36",
+      "title": "Local Authorities (Historic Buildings) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c37",
+      "title": "Building Societies Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c38",
+      "title": "Town and Country Planning Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/38",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain enactments relating to town and country planning in England and Wales."
+    },
+    {
+      "id": "UKPGA-1962-c39",
+      "title": "Drainage Rates Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/39",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c4",
+      "title": "Foreign Compensation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/11-12/4",
+      "source": "ukpga",
+      "description": "An Act to provide for the payment out of moneys provided by Parliament of additional compensation in respect of claims arising in connection with certain events in Egypt, to require the Foreign Compensation Commission to pay sums into the Exchequer in respect of deductions made in meeting such claims, and to make provision in relation to pensions and other payments to or in respect of members, officers and servants of the Commission."
+    },
+    {
+      "id": "UKPGA-1962-c40",
+      "title": "Jamaica Independence Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/40",
+      "source": "ukpga",
+      "description": "An Act to make provision for, and in connection with, the attainment by Jamaica of fully responsible status within the Commonwealth."
+    },
+    {
+      "id": "UKPGA-1962-c41",
+      "title": "Colonial Loans Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c42",
+      "title": "Law Reform (Damages and Solatium) (Scotland) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c43",
+      "title": "Carriage by Air (Supplementary Provisions) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/43",
+      "source": "ukpga",
+      "description": "An Act to give effect to the Convention, supplementary to the Warsaw Convention, for the unification of certain rules relating to international carriage by air performed by a person other than the contracting carrier; and for connected purposes."
+    },
+    {
+      "id": "UKPGA-1962-c44",
+      "title": "Finance Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/44",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with Finance."
+    },
+    {
+      "id": "UKPGA-1962-c45",
+      "title": "Appropriation Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c46",
+      "title": "Transport Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/46",
+      "source": "ukpga",
+      "description": "An Act to provide for the re-organisation of the nationalised transport undertakings now carried on under the Transport Act, 1947, and for that purpose to provide for the establishment of public authorities as successors to the British Transport Commission, and for the transfer to them of undertakings, parts of undertakings, property, rights, obligations and liabilities; to repeal certain enactments relating to transport charges and facilities and to amend in other respects the law relating to transport, inland waterways, harbours and port facilities; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1962-c47",
+      "title": "Education (Scotland) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/47",
+      "source": "ukpga",
+      "description": "An Act to consolidate the enactments relating to education in Scotland."
+    },
+    {
+      "id": "UKPGA-1962-c48",
+      "title": "Law Reform (Husband and Wife) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/48",
+      "source": "ukpga",
+      "description": "An Act to amend the law with respect to civil proceedings between husband and wife."
+    },
+    {
+      "id": "UKPGA-1962-c49",
+      "title": "Air Guns and Shot Guns etc Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c5",
+      "title": "Air Corporations Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/11-12/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c50",
+      "title": "Landlord and Tenant Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c51",
+      "title": "Licensing (Scotland) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c52",
+      "title": "Penalties for Drunkenness Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/52",
+      "source": "ukpga",
+      "description": "An Act to increase the penalties for certain offences involving drunkenness or punishable under enactments relating to such offences."
+    },
+    {
+      "id": "UKPGA-1962-c53",
+      "title": "House of Commons Members’ Fund Act 1962 (repealed)",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/53",
+      "source": "ukpga",
+      "description": "An Act to make fresh provision with respect to the powers of investment of the trustees of the House of Commons Members' Fund."
+    },
+    {
+      "id": "UKPGA-1962-c54",
+      "title": "Trinidad and Tobago Independence Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/54",
+      "source": "ukpga",
+      "description": "An Act to make provision for, and in connection with, the attainment by Trinidad and Tobago of fully responsible status within the Commonwealth."
+    },
+    {
+      "id": "UKPGA-1962-c55",
+      "title": "Lotteries and Gaming Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/55",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c56",
+      "title": "Local Government (Records) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/56",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to the functions of local authorities with respect to records in written or other form."
+    },
+    {
+      "id": "UKPGA-1962-c57",
+      "title": "Uganda Independence Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/57",
+      "source": "ukpga",
+      "description": "An Act to make provision for, and in connection with, the attainment by Uganda of fully responsible status within the Commonwealth."
+    },
+    {
+      "id": "UKPGA-1962-c58",
+      "title": "Pipe-Lines Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/58",
+      "source": "ukpga",
+      "description": "An Act to regulate and facilitate the construction, and secure the safe operation, of pipe-lines and make provision for matters arising thereout; and to provide that certain pipe-lines shall be plant or machinery for the purposes of the enactments relating to rating in England and Wales."
+    },
+    {
+      "id": "UKPGA-1962-c59",
+      "title": "Road Traffic Act 1962 (repealed)",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/59",
+      "source": "ukpga",
+      "description": "An Act to make further provision as to road safety and road traffic and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1962-c6",
+      "title": "Coal Industry Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/11-12/6",
+      "source": "ukpga",
+      "description": "An Act to make further provision with respect to temporary advances to, and temporary borrowings by, the National Coal Board, and to make provision for altering the financial year of the Board; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1962-c7",
+      "title": "Consolidated Fund Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/7",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c8",
+      "title": "Civil Aviation (Eurocontrol) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1962-c9",
+      "title": "Local Government (Financial Provisions etc.) (Scotland) Act 1962",
+      "year": 1962,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/9",
+      "source": "ukpga",
+      "description": "An Act to provide in respect of the year 1961-62 for revision of the apportionment of expenditure and of general grants among local authorities in Scotland; to make further provision as respects Scotland with respect to the amounts payable in lieu of rates or by way of rates by the British Transport Commission, Electricity Boards and Gas Boards, with respect to relief from rates of charitable and other similar bodies, with respect to sums borrowed by local authorities and with respect to Valuation Appeal Committees, demand notes for rates, and corrections of the valuation roll; and for purposes connected with the matters aforesaid."
+    },
     {
       "id": "UKSI-1962-1",
       "title": "The Rate Books Order 1962",

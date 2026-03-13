@@ -1,7 +1,826 @@
 {
   "year": 1953,
-  "count": 717,
+  "count": 808,
   "items": [
+    {
+      "id": "UKLA-1953-c10",
+      "title": "Milford Docks Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c11",
+      "title": "Herts and Essex Water Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c12",
+      "title": "Great Northern London Cemetery (Crematorium) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c13",
+      "title": "Newbury Corporation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c14",
+      "title": "Bromley Corporation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c15",
+      "title": "Belper Urban District Council Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c16",
+      "title": "Tees Conservancy Superannuation Scheme Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c17",
+      "title": "Hospital of St. Mary Magdalen (Colchester) Charity Scheme Confirmation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c18",
+      "title": "Hospital of the Blessed Trinity (Guildford) Charity Scheme Confirmation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c19",
+      "title": "Clyde Navigation Order Confirmation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c20",
+      "title": "British Transport Commission Order Confirmation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c21",
+      "title": "Bradford Corporation (Trolley Vehicles) Order Confirmation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c22",
+      "title": "Walsall Corporation (Trolley Vehicles) Order Confirmation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c23",
+      "title": "Land Drainage (Surrey County Council (Rive Ditch Improvement)) Provisional Order Confirmation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c24",
+      "title": "Great Ouse River Board (Revival of Powers, &amp;c.) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c25",
+      "title": "London County Council (Money) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c26",
+      "title": "Runcorn-Widnes Bridge Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c27",
+      "title": "Gateshead Extension Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c28",
+      "title": "Warkworth Harbour Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c29",
+      "title": "Dover Harbour Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c30",
+      "title": "Metropolitan Water Board Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c31",
+      "title": "Tynemouth Corporation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c32",
+      "title": "Huddersfield Corporation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c33",
+      "title": "Newport (Monmouthshire) Corporation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c34",
+      "title": "Tees Valley Water Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c35",
+      "title": "Dudley Extension Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c36",
+      "title": "Foundling Hospital Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c37",
+      "title": "West Bridgford Urban District Council Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c38",
+      "title": "Coventry Cathedral Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c39",
+      "title": "Oxford Corporation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c4",
+      "title": "University of Southampton Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c40",
+      "title": "Cheshire County Council Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c41",
+      "title": "Berkshire County Council Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c42",
+      "title": "British Transport Commission Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c43",
+      "title": "London County Council (General Powers) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c5",
+      "title": "Rhoanglo Group Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c6",
+      "title": "City of London (Central Criminal Court) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c7",
+      "title": "National Trust Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c8",
+      "title": "London Hydraulic Power Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1953-c9",
+      "title": "South Essex Waterworks Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c1",
+      "title": "Regency Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/2-3/1",
+      "source": "ukpga",
+      "description": "An Act to provide that, in this event of a Regency becoming necessary under the Regency Act, 1937, His Royal Highness the Duke of Edinburgh shall in certain circumstances be the Regent, to provide that the heir apparent or heir presumptive to the Throne shall be deemed for the purposes of that Act to be of full age if he or she has attained the age of eighteen years, to add Her Majesty Queen Elizabeth the Queen Mother to the persons to whom royal functions may be delegated as Counsellors of State, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1953-c10",
+      "title": "Agricultural Land (Removal of Surface Soil) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/10",
+      "source": "ukpga",
+      "description": "An Act to make it an offence to remove surface soil from land in certain circumstances; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1953-c11",
+      "title": "Harbours, Piers and Ferries (Scotland) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/11",
+      "source": "ukpga",
+      "description": "An Act to extend the power of the Secretary of State under section seven of the Harbours, Piers and Ferries (Scotland) Act, 1937, to authorise the undertaking by certain local and harbour authorities of operations in connection with marine works."
+    },
+    {
+      "id": "UKPGA-1953-c12",
+      "title": "Leasehold Property Act and Long Leases (Scotland) Act Extension Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/12",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c13",
+      "title": "Transport Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c14",
+      "title": "Prevention of Crime Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/14",
+      "source": "ukpga",
+      "description": "An Act to prohibit the carrying of offensive weapons in public places without lawful authority or reasonable excuse."
+    },
+    {
+      "id": "UKPGA-1953-c15",
+      "title": "Iron and Steel Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c16",
+      "title": "Town and Country Planning Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c17",
+      "title": "White Fish and Herring Industries Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c18",
+      "title": "Coastal Flooding (Emergency Provisions) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c19",
+      "title": "Pharmacy Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c2",
+      "title": "Consolidated Fund (No. 3) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/2-3/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c20",
+      "title": "Births and Deaths Registration Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/20",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain enactments relating to the registration of births and deaths in England and Wales with corrections and improvements made under the Consolidation of Enactments (Procedure) Act, 1949."
+    },
+    {
+      "id": "UKPGA-1953-c21",
+      "title": "Road Transport Lighting Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c23",
+      "title": "Accommodation Agencies Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/23",
+      "source": "ukpga",
+      "description": "An Act to prohibit the taking of certain commissions in dealings with persons seeking houses or flats to let and the unauthorised advertisement for letting of houses and flats."
+    },
+    {
+      "id": "UKPGA-1953-c24",
+      "title": "Navy and Marines (Wills) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/24",
+      "source": "ukpga",
+      "description": "An Act to amend the law with respect to the operation of wills made by members of the naval and marine forces; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1953-c25",
+      "title": "Local Government Superannuation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c26",
+      "title": "Local Government (Miscellaneous Provisions) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/26",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to local authorities."
+    },
+    {
+      "id": "UKPGA-1953-c27",
+      "title": "Slaughter of Animals (Pigs) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/27",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c28",
+      "title": "Dogs (Protection of Livestock) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/28",
+      "source": "ukpga",
+      "description": "An Act to provide for the punishment of persons whose dogs worry livestock on agricultural land; and for purposes connected with the matter aforesaid."
+    },
+    {
+      "id": "UKPGA-1953-c29",
+      "title": "National Insurance Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c3",
+      "title": "Armed Forces (Housing Loans) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/2-3/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c30",
+      "title": "Rhodesia and Nyasaland Federation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c31",
+      "title": "Army and Air Force (Annual) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/31",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c32",
+      "title": "Therapeutic Substances (Prevention of Misuse) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c33",
+      "title": "Education (Miscellaneous Provisions) Act 1953 (repealed 1.11.1996)",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/33",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to education in England and Wales; and to make further provision with respect to the duties of education authorities in Scotland as to dental treatment."
+    },
+    {
+      "id": "UKPGA-1953-c34",
+      "title": "Finance Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/34",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties, to alter other duties and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with Finance."
+    },
+    {
+      "id": "UKPGA-1953-c35",
+      "title": "Appropriation Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c36",
+      "title": "Post Office Act 1953 (repealed)",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/36",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain enactments relating to the Post Office with corrections and improvements made under the Consolidation of Enactments (Procedure) Act, 1949."
+    },
+    {
+      "id": "UKPGA-1953-c37",
+      "title": "Registration Service Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/37",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain enactments relating to the registration service in England and Wales with corrections and improvements made under the Consolidation of Enactments (Procedure) Act, 1949."
+    },
+    {
+      "id": "UKPGA-1953-c38",
+      "title": "New Towns Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c39",
+      "title": "Marshall Aid Commemoration Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/39",
+      "source": "ukpga",
+      "description": "An Act to make provision for the granting of scholarships in commemoration of the assistance received by the United Kingdom under the European Recovery Programme and known as Marshall Aid; and for purposes connected with the matter aforesaid."
+    },
+    {
+      "id": "UKPGA-1953-c4",
+      "title": "Post Office and Telegraph (Money) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/2-3/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c40",
+      "title": "University of St. Andrews Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c41",
+      "title": "Hospital Endowments (Scotland) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c42",
+      "title": "Valuation for Rating Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c43",
+      "title": "National Insurance (Industrial Injuries) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/43",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c44",
+      "title": "Isle of Man (Customs) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/44",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c45",
+      "title": "School Crossing Patrols Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c46",
+      "title": "Licensing Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/46",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c47",
+      "title": "Emergency Laws (Miscellaneous Provisions) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/47",
+      "source": "ukpga",
+      "description": "An Act to make permanent provision with respect to certain matters with respect to which temporary provision has hitherto been made by or under Defence Regulations; to suspend the operation of subsection (1) of section thirty-one of the Road Traffic Act, 1934; to remove certain limitations on the exercise of the powers conferred on the court by virtue of the Settled Land and Trustee Acts (Court's General Powers) Act, 1943; to empower certain persons subject to the Naval Discipline Act to take affidavits and declarations outside the United Kingdom; to save the previous operation of Regulation fifty-five F of the Defence (General) Regulations, 1939, after the revocation or expiry thereof; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1953-c48",
+      "title": "Merchandise Marks Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/48",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c49",
+      "title": "Historic Buildings and Ancient Monuments Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/49",
+      "source": "ukpga",
+      "description": "An Act to provide for the preservation and acquisition of buildings of outstanding historic or architectural interest and their contents and related property, and to amend the law relating to ancient monuments and other objects of archaeological interest."
+    },
+    {
+      "id": "UKPGA-1953-c5",
+      "title": "Statute Law Revision Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/2-3/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c50",
+      "title": "Auxiliary Forces Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c51",
+      "title": "Monopolies and Restrictive Practices Commission Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c52",
+      "title": "Enemy Property Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/52",
+      "source": "ukpga",
+      "description": "An Act to make provision as respects things done, in relation to enemy property or property treated as enemy property, in excess of the powers conferred by the law relating to trading with the enemy, and as respects income from moneys invested by custodians of enemy property; as respects copyrights, rights in inventions and designs, and other rights in or in connection with which German enemy interests subsisted, or were properly treated as subsisting, during the period of the war with Germany, as respects property allocated by way of reparation from Germany and as respects other property seized from Germany; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1953-c6",
+      "title": "Consolidated Fund Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c7",
+      "title": "Law Reform (Personal Injuries) (Amendment) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/7",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c8",
+      "title": "Consolidated Fund (No. 2) Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1953-c9",
+      "title": "Royal Titles Act 1953",
+      "year": 1953,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/9",
+      "source": "ukpga",
+      "description": "An Act to provide for an alteration of the Royal Style and Titles."
+    },
     {
       "id": "UKSI-1953-1001",
       "title": "The Control of Aluminium (Revocation) Order 1953",

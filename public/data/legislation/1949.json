@@ -1,7 +1,1348 @@
 {
   "year": 1949,
-  "count": 1097,
+  "count": 1246,
   "items": [
+    {
+      "id": "UKLA-1949-c10",
+      "title": "Grimsby Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c11",
+      "title": "University of Nottingham Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c12",
+      "title": "Alexander Scott's Hospital Order Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c13",
+      "title": "Royal Bank of Scotland Officers' Widows' Fund Order Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c14",
+      "title": "City of London (Various Powers) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c15",
+      "title": "People's Dispensary for Sick Animals Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c16",
+      "title": "Teignmouth and Shaldon Bridge Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c17",
+      "title": "Harwich Harbour Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c18",
+      "title": "Royal Alexandra and Albert School Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c19",
+      "title": "Glasgow Corporation Order Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c20",
+      "title": "Edinburgh and Midlothian Water Order Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c21",
+      "title": "Teeside Railless Traction Board (Additional Routes) Order Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c22",
+      "title": "Pier and Harbour Order (Crarae) Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c23",
+      "title": "Pier and Harbour Order (Southwold) Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c24",
+      "title": "Provisional Order (Marriages) Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c25",
+      "title": "Ministry of Health Provisional Order Confirmation (South Molton) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c26",
+      "title": "Ministry of Health Provisional Order Confirmation (Chichester) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c27",
+      "title": "Ministry of Health Provisional Order Confirmation (Morley) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c28",
+      "title": "Ministry of Health Provisional Order Confirmation (Macclesfield) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c29",
+      "title": "British Transport Commission Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c30",
+      "title": "Royal Holloway College Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c31",
+      "title": "London County Council (Money) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c32",
+      "title": "Mersey Tunnel Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c33",
+      "title": "Rochdale Canal Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c34",
+      "title": "Dover Harbour Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c35",
+      "title": "Falmouth Docks Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c36",
+      "title": "Manchester Ship Canal Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c37",
+      "title": "Huddersfield Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c39",
+      "title": "Oldbury Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c4",
+      "title": "Clydebank Burgh Order Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c40",
+      "title": "Staffordshire Potteries Water Board Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c41",
+      "title": "Crewe Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c42",
+      "title": "Rhodesia Railways Limited (Pension Schemes and Contracts) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c43",
+      "title": "Bolton Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c44",
+      "title": "Bradford Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c45",
+      "title": "Southampton Harbour Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c46",
+      "title": "Dartford Tunnel (Extension of Time) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c47",
+      "title": "Ashdown Forest Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c48",
+      "title": "Salford Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c49",
+      "title": "Halifax Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c5",
+      "title": "Tyne Improvement Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c50",
+      "title": "Swindon Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c51",
+      "title": "Barnsley Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c52",
+      "title": "West Bromwich Corporation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c53",
+      "title": "Urmston Urban District Council Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c54",
+      "title": "Aberdeen Harbour Order Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c55",
+      "title": "London County Council (General Powers) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c56",
+      "title": "Parliament Square (Improvements) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/56",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c57",
+      "title": "Fife County Council Order Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c58",
+      "title": "Stanley's Charity (West Bromwich) Scheme Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c59",
+      "title": "Shoreham Harbour Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c6",
+      "title": "Clyde Navigation (Superannuation) Order Confirmation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c60",
+      "title": "River Great Ouse (Flood Protection) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c7",
+      "title": "Wandsworth and District Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c8",
+      "title": "Hurst Park Race Course Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1949-c9",
+      "title": "Mid-Northamptonshire Water Board Order Confirmation (Special Procedure) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/12-13-14/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c100",
+      "title": "Law Reform (Miscellaneous Provisions) 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/100",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to divorce and other matrimonial proceedings, the admissibility of evidence as to access, the charge and payment of percentage under the Lunacy Act, 1890, and towards of court; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1949-c101",
+      "title": "Justices of the Peace Act 1949 (repealed)",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/101",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to justices of the peace (including stipendiary magistrates), justices' clerks and the administrative and financial arrangements for magistrates' courts, to provide for paying travelling and lodging allowances to members of probation committees and case committees and for enabling probation committees to hold land, to authorise the appointment of interim clerks of the peace in Scotland, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1949-c102",
+      "title": "Festival of Britain (Supplementary Provisions) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/102",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c103",
+      "title": "Parliament Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/103",
+      "source": "ukpga",
+      "description": "An Act to amend the Parliament Act, 1911."
+    },
+    {
+      "id": "UKPGA-1949-c11",
+      "title": "Railway and Canal Commission (Abolition) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/11",
+      "source": "ukpga",
+      "description": "An Act to abolish the Railway and Canal Commission and make provision for the future exercise and performance of their functions ; to amend and repeal certain enactments relating to their functions ; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1949-c12",
+      "title": "Pensions Appeal Tribunals Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/12",
+      "source": "ukpga",
+      "description": "An Act to amend the Pensions Appeal Tribunals Act, 1945."
+    },
+    {
+      "id": "UKPGA-1949-c13",
+      "title": "Savings Banks Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/13",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to trustee savings banks, to abolish naval savings banks, to extend the powers of the Postmaster General under section two of the Savings Banks Act, 1904; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1949-c14",
+      "title": "Export Guarantees Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c15",
+      "title": "Minister of Food (Financial Powers) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/15",
+      "source": "ukpga",
+      "description": "An Act to authorise the payment out of moneys provided by Parliament of sums required by the Minister of Food to fulfil contracts or arrangements entered into by him, whether before or after the passing of this Act, including contracts or arrangements involving commitments extending beyond the financial year current when the contracts or arrangements were made."
+    },
+    {
+      "id": "UKPGA-1949-c16",
+      "title": "National Theatre Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/16",
+      "source": "ukpga",
+      "description": "An Act to authorise the Treasury to contribute towards the cost of a national theatre, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1949-c17",
+      "title": "American Aid and European Payments (Financial Provisions) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c18",
+      "title": "Colonial Naval Defence Act 1949 (repealed)",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/18",
+      "source": "ukpga",
+      "description": "An Act to make further provision for the naval defence of overseas territories."
+    },
+    {
+      "id": "UKPGA-1949-c19",
+      "title": "Education (Scotland) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c20",
+      "title": "Cinematograph Film Production (Special Loans) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/20",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c21",
+      "title": "Solicitors, Public Notaries, &amp;c. Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c22",
+      "title": "British North America Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/22",
+      "source": "ukpga",
+      "description": "An Act to confirm and give effect to Terms of Union agreed between Canada and Newfoundland,"
+    },
+    {
+      "id": "UKPGA-1949-c23",
+      "title": "Social Services (Northern Ireland Agreement) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c24",
+      "title": "Consolidated Fund (No. 1) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c25",
+      "title": "Tenancy of Shops (Scotland) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/25",
+      "source": "ukpga",
+      "description": "An Act to make provision with regard to tenancies of shops in Scotland."
+    },
+    {
+      "id": "UKPGA-1949-c26",
+      "title": "Public Works (Festival of Britain) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c27",
+      "title": "Juries Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/27",
+      "source": "ukpga",
+      "description": "An Act to provide for the making of payments in respect of jury service in Great Britain; to abolish special juries in Great Britain except in commercial causes tried in London; to abolish the privilege of landed persons in relation to jury trial in Scotland; to empower the Parliament of Northern Ireland to make laws providing for the payment of jurors in His Majesty’s High Court of Justice in Northern Ireland and the abolition of special juries in that Court; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1949-c28",
+      "title": "Army and Air Force (Annual) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c29",
+      "title": "Consular Conventions Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/29",
+      "source": "ukpga",
+      "description": "An Act to provide for the making of payments in respect of jury service in Great Britain; to abolish special juries in Great Britain except in commercial causes tried in London; to abolish the privilege of landed persons in relation to jury trial in Scotland ; to empower the Parliament of Northern Ireland to make laws providing for the payment of jurors in His Majesty's High Court of Justice in Northern Ireland and the abolition of special juries in that Court; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1949-c30",
+      "title": "Agricultural Wages (Scotland) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30",
+      "source": "ukpga",
+      "description": "An Act to consolidate the Agricultural Wages (Regulation) (Scotland) Acts, 1937 to 1947, and so much of the Holidays with Pay Act, 1938, as enables a wage regulating authority to make provision for holidays and holiday remuneration for workers in Agriculture in Scotland."
+    },
+    {
+      "id": "UKPGA-1949-c31",
+      "title": "Water (Scotland) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/31",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c32",
+      "title": "Special Roads Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/32",
+      "source": "ukpga",
+      "description": "An Act to provide for the construction of roads reserved for special classes of traffic; to amend the law relating to trunk roads; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1949-c33",
+      "title": "Consolidation of Enactments (Procedure) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/33",
+      "source": "ukpga",
+      "description": "An Act to facilitate the preparation of Bills for the purpose of consolidating the enactments relating to any subject."
+    },
+    {
+      "id": "UKPGA-1949-c34",
+      "title": "Milk (Special Designations) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c35",
+      "title": "British Film Institute Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/35",
+      "source": "ukpga",
+      "description": "An Act to provide for the payment to the British Film Institute of grants out of moneys provided by Parliament."
+    },
+    {
+      "id": "UKPGA-1949-c36",
+      "title": "War Damage (Public Utility Undertakings, &amp;c.) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c37",
+      "title": "Agriculture (Miscellaneous Provisions) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/37",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to agriculture, including certain enactments relating to milk and dairies."
+    },
+    {
+      "id": "UKPGA-1949-c38",
+      "title": "Agricultural Marketing Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c39",
+      "title": "Commonwealth Telegraphs Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/39",
+      "source": "ukpga",
+      "description": "An Act to give effect to certain provisions of an agreement for promoting and co-ordinating the efficiency and development of the external telegraph services of the Commonwealth, and to make provision for certain matters incidental thereto and for extending the system, heretofore embodied in the arrangement made by the Postmaster General with Cable and Wireless, Limited, in pursuance of subsection (4) of section one of the Imperial Telegraphs Act, 1938, for the sharing of revenue derived from telegrams transmitted to or from places outside the United Kingdom."
+    },
+    {
+      "id": "UKPGA-1949-c40",
+      "title": "Landlord and Tenant (Rent Control) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c41",
+      "title": "Ireland Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/41",
+      "source": "ukpga",
+      "description": "An Act to recognise and declare the constitutional position as to the part of Ireland heretofore known as Eire, and to make provision as to the name by which it may be known and the manner in which the law is to apply in relation to it; to declare and affirm the constitutional position and the territorial integrity of Northern Ireland and to amend, as respects the Parliament of the United Kingdom, the law relating to the qualifications of electors in constituencies in Northern Ireland ; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1949-c42",
+      "title": "Lands Tribunal Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/42",
+      "source": "ukpga",
+      "description": "An Act to establish new tribunals to determine in place of official arbitrators and others certain questions relating to compensation for the compulsory acquisition of land and other matters, to amend the Acquisition of Land (Assessment of Compensation) Act, 1919, with respect to the failure to deliver a notice of claim, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1949-c43",
+      "title": "Merchant Shipping (Safety Convention) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/43",
+      "source": "ukpga",
+      "description": "An Act to enable effect to be given to an International Convention for the Safety of Life at Sea, signed in London on the tenth day of June, nineteen hundred and forty-eight; to amend the provisions of the Merchant Shipping Acts, 1894 to 1948, relating to the construction of passenger steamers, to life-saving appliances, wireless and radio navigational aids and to other matters affected by the said Convention, and to amend the provisions of those Acts relating to fees."
+    },
+    {
+      "id": "UKPGA-1949-c44",
+      "title": "Superannuation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/44",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c45",
+      "title": "U.S.A. Veterans’ Pensions (Administration) Act 1949 (repealed)",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/45",
+      "source": "ukpga",
+      "description": "An Act to provide for the administration by the Minister of Pensions of veterans' pensions and other sums payable under the law of the United States of America in respect of certain persons; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1949-c46",
+      "title": "House of Commons (Indemnification of Certain Members) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/46",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c47",
+      "title": "Finance Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue (other than Purchase Tax), and to make further provision in connection with Finance."
+    },
+    {
+      "id": "UKPGA-1949-c48",
+      "title": "Appropriation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/48",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c49",
+      "title": "Colonial Development and Welfare Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c50",
+      "title": "Colonial Loans Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c51",
+      "title": "Legal Aid and Advice Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c52",
+      "title": "Slaughter of Animals (Scotland) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/52",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c53",
+      "title": "Coal Industry Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/53",
+      "source": "ukpga",
+      "description": "An Act to alter the composition of the National Coal Board, extend the area within which their activities may be carried on, empower them to terminate certain long-term contracts and provide for the enforcement against them of certain workmen’s compensation liabilities; to amend sections thirty-seven and sixty-four of the Coal Industry Nationalisation Act 1946, and authorise the making of certain payments in connection with the settlement of disputes arising under regulations made under the said section thirty-seven and to repeal the provisions of that Act imposing restrictions on the disposal of government stock issued for compensation to companies; to extend the power of the Minister of Fuel and Power to make general regulations under section eighty-six of the Coal Mines Act 1911, and otherwise to amend that section; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1949-c54",
+      "title": "Wireless Telegraphy Act 1949 (repealed)",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/54",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to wireless telegraphy."
+    },
+    {
+      "id": "UKPGA-1949-c55",
+      "title": "Prevention of Damage by Pests Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55",
+      "source": "ukpga",
+      "description": "An Act to re-enact with modifications the Rats and Mice (Destruction) Act, 1919; to make permanent provision for preventing loss of food by infestation; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1949-c56",
+      "title": "National Insurance Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/56",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c57",
+      "title": "Airways Corporations Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/57",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c58",
+      "title": "Isle of Man (Customs) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/58",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c59",
+      "title": "Licensing Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/59",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c60",
+      "title": "Housing Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/60",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c61",
+      "title": "Housing (Scotland) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c62",
+      "title": "Patents and Designs Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/62",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c63",
+      "title": "Legal Aid and Solicitors (Scotland) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/63",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c64",
+      "title": "Profits Tax Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/64",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c65",
+      "title": "Overseas Resources Development Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/65",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c66",
+      "title": "House of Commons (Redistribution of Seats) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/66",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c67",
+      "title": "Civil Aviation Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/67",
+      "source": "ukpga",
+      "description": "An Act to consolidate the enactments relating to civil aviation, other than the Carriage by Air Act, 1932, and other than the enactments relating to the constitution and functions of the Airways Corporations."
+    },
+    {
+      "id": "UKPGA-1949-c68",
+      "title": "Representation of the People Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/68",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c69",
+      "title": "New Forest Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69",
+      "source": "ukpga",
+      "description": "An Act to make further provision as respects the New Forest in the county of Southampton."
+    },
+    {
+      "id": "UKPGA-1949-c70",
+      "title": "Docking and Nicking of Horses Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/70",
+      "source": "ukpga",
+      "description": "An Act to restrict the docking and nicking of horses and the importation of docked horses."
+    },
+    {
+      "id": "UKPGA-1949-c71",
+      "title": "Expiring Laws Continuance Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/71",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c72",
+      "title": "Iron and Steel Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/72",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c73",
+      "title": "Nurses Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/73",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c74",
+      "title": "Coast Protection Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/74",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to the protection of the coast of Great Britain against erosion and encroachment by the sea; to provide for the- restriction and removal of works detrimental to navigation; to transfer the management of Crown foreshore from the Minister of Transport to the Commissioners of Crown Lands; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1949-c75",
+      "title": "Agricultural Holdings (Scotland) Act 1949 (repealed 25.9.1991)",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/75",
+      "source": "ukpga",
+      "description": "An Act to consolidate the Agricultural Holdings (Scotland) Act, 1923, Part II of the Small Landholders and Agricultural Holdings (Scotland) Act, 1931, Part I of the Agriculture (Scotland) Act, 1948, and certain other enactments relating to agricultural holdings, save, with respect to rights to compensation, in their application to certain cases determined by past events."
+    },
+    {
+      "id": "UKPGA-1949-c76",
+      "title": "Marriage Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain enactments relating to the solemnization and registration of marriages in England with such corrections and improvements as may be authorised under the Consolidation of Enactments (Procedure) Act, 1949."
+    },
+    {
+      "id": "UKPGA-1949-c77",
+      "title": "Armed Forces (Housing Loans) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/77",
+      "source": "ukpga",
+      "description": "An Act to provide money for the provision of housing accommodation in Great Britain for married persons serving in, or employed in connection with, the armed forces of the Crown, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1949-c78",
+      "title": "Married Women (Restraint upon Anticipation) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/78",
+      "source": "ukpga",
+      "description": "An Act to render inoperative any restriction upon anticipation or alienation attached to the enjoyment of property by a woman."
+    },
+    {
+      "id": "UKPGA-1949-c79",
+      "title": "Coal Industry (No. 2) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/79",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c80",
+      "title": "Telegraph Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/80",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c81",
+      "title": "British North America (No. 2) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/81",
+      "source": "ukpga",
+      "description": "An Act to amend the British North America Act, 1867, as respects the amendment of the Constitution of Canada."
+    },
+    {
+      "id": "UKPGA-1949-c82",
+      "title": "Public Works Loans Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/82",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c83",
+      "title": "Local Government Boundary Commission (Dissolution) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/83",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c84",
+      "title": "War Damaged Sites Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/84",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c85",
+      "title": "Distribution of German Enemy Property Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/85",
+      "source": "ukpga",
+      "description": "An Act to provide for the collection and realisation of German enemy property and for the distribution of the proceeds thereof; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1949-c86",
+      "title": "Electoral Registers Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/86",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c87",
+      "title": "Patents Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/87",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain enactments relating to patents."
+    },
+    {
+      "id": "UKPGA-1949-c88",
+      "title": "Registered Designs Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain enactments relating to registered designs."
+    },
+    {
+      "id": "UKPGA-1949-c89",
+      "title": "Vehicles (Excise) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/89",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c90",
+      "title": "Election Commissioners Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/90",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c91",
+      "title": "Air Corporations Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/91",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c92",
+      "title": "India (Consequential Provision) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/92",
+      "source": "ukpga",
+      "description": "An Act to make provision as to the operation of the law in relation to India, and persons and things in any way belonging to or connected with India, in view of India's becoming a Republic while remaining a member of the Commonwealth."
+    },
+    {
+      "id": "UKPGA-1949-c93",
+      "title": "National Health Service (Amendment) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/93",
+      "source": "ukpga",
+      "description": "An Act to amend the National Health Service Act, 1946, and the National Health Service (Scotland) Act, 1947, and otherwise to amend the law in relation to services provided under the said Acts."
+    },
+    {
+      "id": "UKPGA-1949-c94",
+      "title": "Criminal Justice (Scotland) Act 1949 (Repealed 1.4.1996)",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/94",
+      "source": "ukpga",
+      "description": "An Act to amend the law of Scotland relating to the probation of offenders, and the powers of courts under the Children and Young Persons (Scotland) Act, 1937; to abolish certain punishments and obsolete sanctions, and otherwise to reform existing methods and provide new methods of dealing with offenders; to alter the law relating to the proceedings of criminal courts in Scotland; to amend the False Oaths (Scotland) Act, 1933 to regulate the management of prisons and other institutions in Scotland and the treatment of offenders and other persons committed to custody; to make certain consequential amendments to the Criminal Justice Act, 1948; and for purposes connected with the aforesaid matters."
+    },
+    {
+      "id": "UKPGA-1949-c95",
+      "title": "Nurses (Scotland) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/95",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c96",
+      "title": "Auxiliary and Reserve Forces Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/96",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1949-c97",
+      "title": "National Parks and Access to the Countryside Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97",
+      "source": "ukpga",
+      "description": "An Act to make provision for National Parks and the establishment of a National Parks Commission ; to confer on the Nature Conservancy and local authorities powers for the establishment and maintenance of nature reserves; to make further provision for the recording, creation, maintenance and improvement of public paths and for securing access to open country, and to amend the law relating to rights of way; to confer further powers for preserving and enhancing natural beauty; and for matters connected with the purposes aforesaid."
+    },
+    {
+      "id": "UKPGA-1949-c98",
+      "title": "Adoption of Children Act 1949 (repealed 5.11.1993)",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/98",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to the adoption of children; and for related purposes."
+    },
+    {
+      "id": "UKPGA-1949-c99",
+      "title": "Married Women (Maintenance) Act 1949",
+      "year": 1949,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/99",
+      "source": "ukpga",
+      "description": ""
+    },
     {
       "id": "UKSI-1949-1000",
       "title": "The Grass Seed (Growers' Fixed Prices) (Scotland) Order 1949",

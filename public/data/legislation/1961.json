@@ -1,7 +1,1015 @@
 {
   "year": 1961,
-  "count": 748,
+  "count": 860,
   "items": [
+    {
+      "id": "UKLA-1961-c1",
+      "title": "Glasgow Corporation (Parking Meters) Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c10",
+      "title": "Shell Brazil Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c11",
+      "title": "Winchester Cathedral Close Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c12",
+      "title": "Clerical, Medical and General Life Assurance Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c13",
+      "title": "Great Northern London Cemetery Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c14",
+      "title": "Lancashire Quarter Sessions Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c15",
+      "title": "Berkshire and Buckinghamshire County Councils (Windsor-Eton Bridge, &amp;c.) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c16",
+      "title": "Holy Trinity Brompton Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c17",
+      "title": "British Transport Commission Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c18",
+      "title": "Montrose Burgh and Harbour (Amendment) Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c19",
+      "title": "Argyll County Council (Arinagour and Craignure Piers, &amp;c.) Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c2",
+      "title": "Edinburgh Corporation Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c20",
+      "title": "National Trust for Scotland Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c21",
+      "title": "Forth Road Bridge Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c22",
+      "title": "Birmingham Corporation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c23",
+      "title": "St. Benet, Sherehog, Churchyard Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c24",
+      "title": "St. Pancras, Pancras Lane, Churchyard Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c25",
+      "title": "Dartford Tunnel Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c26",
+      "title": "Sutton Coldfield Corporation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c27",
+      "title": "London County Council (Money) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c28",
+      "title": "City of London (Various Powers) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c29",
+      "title": "Manchester Corporation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c3",
+      "title": "Rothesay Burgh Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/10-11/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c30",
+      "title": "Stationers' and Newspaper Makers' Company Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c31",
+      "title": "River Wear Watch (Dissolution) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c32",
+      "title": "Eyemouth Harbour Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c33",
+      "title": "British Transport Commission (No. 2) Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c34",
+      "title": "Pier and Harbour Order (Exmouth) Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c35",
+      "title": "Teesside Railless Traction Board (Additional Route) Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c36",
+      "title": "British Transport Commission Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c37",
+      "title": "Middlesex County Council Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c38",
+      "title": "Shakespeare Birthplace, &amp;c. Trust Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c39",
+      "title": "Glasgow Corporation Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c4",
+      "title": "Zetland County Council (Symbister Harbour) Order Confirmation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c40",
+      "title": "Poole Corporation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c41",
+      "title": "Port of London Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c42",
+      "title": "Great Ouse Water Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c43",
+      "title": "London County Council (General Powers) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c44",
+      "title": "Bristol Corporation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c45",
+      "title": "Devon County Council Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c46",
+      "title": "River Ravensbourne, &amp;c. (Improvement and Flood Prevention) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c47",
+      "title": "Newport (Monmouthshire) Corporation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c5",
+      "title": "Cardiff Corporation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c6",
+      "title": "Esso Petroleum Company Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c7",
+      "title": "Mersey Tunnel Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c8",
+      "title": "Allhallows Staining Churchyard Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1961-c9",
+      "title": "Rio Tinto Rhodesian Mining Limited Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/9-10/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c1",
+      "title": "Tanganyika Independence Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/1",
+      "source": "ukpga",
+      "description": "An Act to make provision for, and in connection with, the attainment by Tanganyika of fully responsible status within the Commonwealth."
+    },
+    {
+      "id": "UKPGA-1961-c10",
+      "title": "Overseas Service Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/10",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c11",
+      "title": "Diplomatic Immunities (Conferences with Commonwealth Countries and Republic of Ireland) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/11",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c12",
+      "title": "Consolidated Fund (No. 2) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/12",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c13",
+      "title": "National Health Service Contributions Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c14",
+      "title": "Nurses (Amendment) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c15",
+      "title": "Post Office Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c16",
+      "title": "Sierra Leone Independence Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/16",
+      "source": "ukpga",
+      "description": "An Act to make provision for, and in connection with, the attainment by Sierra Leone of fully responsible status within the Commonwealth."
+    },
+    {
+      "id": "UKPGA-1961-c17",
+      "title": "Betting Levy Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c18",
+      "title": "White Fish and Herring Industries Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c19",
+      "title": "National Health Service Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c2",
+      "title": "Southern Rhodesia (Constitution) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c20",
+      "title": "Home Safety Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/20",
+      "source": "ukpga",
+      "description": "An Act to enable certain local authorities in England and Wales to promote safety in the home and to make contributions to voluntary organisations whose activities consist of or include the promotion of safety in the home."
+    },
+    {
+      "id": "UKPGA-1961-c21",
+      "title": "Oaths Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c22",
+      "title": "Restriction of Offensive Weapons Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/22",
+      "source": "ukpga",
+      "description": "An Act to amend the law in relation to the exposure and possession for the purpose of sale or hire, and to the importation, of flick knives and other dangerous weapons."
+    },
+    {
+      "id": "UKPGA-1961-c23",
+      "title": "Republic of South Africa (Temporary Provisions) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c24",
+      "title": "Private Street Works Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c25",
+      "title": "Patents and Designs (Renewals, Extensions and Fees) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c26",
+      "title": "Hyde Park (Underground Parking) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c27",
+      "title": "Carriage by Air Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/27",
+      "source": "ukpga",
+      "description": "An Act to give effect to the Convention concerning international carriage by air known as \"the Warsaw Convention as amended at The Hague, 1955 \", to enable the rules contained in that Convention to be applied, with or without modification, in other cases and, in particular, to non-international carriage by air; and for connected purposes."
+    },
+    {
+      "id": "UKPGA-1961-c28",
+      "title": "Industrial and Provident Societies Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c29",
+      "title": "Rural Water Supplies and Sewerage Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c3",
+      "title": "Export Guarantees Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c30",
+      "title": "Department of Technical Co-operation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c31",
+      "title": "Printer’s Imprint Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/31",
+      "source": "ukpga",
+      "description": "An Act to make provision for relaxing certain requirements of the Newspapers, Printers, and Reading Rooms Repeal Act, 1869."
+    },
+    {
+      "id": "UKPGA-1961-c32",
+      "title": "Local Authorities (Expenditure on Special Purposes) (Scotland) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c33",
+      "title": "Land Compensation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/33",
+      "source": "ukpga",
+      "description": "An Act to consolidate the Acquisition of Land (Assessment of Compensation) Act, 1919,and certain otherenactments relating to the assessment of compensation in respect of compulsory acquisitions of interests in land ; to the withdrawal of notices to treat; and to the payment of additional compensation and of allowances in connection with such acquisitions or with certain sales by agreement of interests in land; with corrections and improvements made under the Consolidation of Enactments (Procedure) Act, 1949."
+    },
+    {
+      "id": "UKPGA-1961-c34",
+      "title": "Factories Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/34",
+      "source": "ukpga",
+      "description": "An Act to consolidate the Factories Acts, 1937 to 1959, and certain other enactments relating to the safety, health and welfare of employed persons."
+    },
+    {
+      "id": "UKPGA-1961-c35",
+      "title": "Police Pensions Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/35",
+      "source": "ukpga",
+      "description": "An Act to provide for the consolidation, with or without changes authorised by the Police Pensions Act, 1948, of regulations under section one of that Act; and to make further provision for the application of the regulations in relation to special constables."
+    },
+    {
+      "id": "UKPGA-1961-c36",
+      "title": "Finance Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/36",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with Finance."
+    },
+    {
+      "id": "UKPGA-1961-c37",
+      "title": "Small Estates (Representation) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c38",
+      "title": "Court of Chancery of Lancaster (Amendment) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c39",
+      "title": "Criminal Justice Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/39",
+      "source": "ukpga",
+      "description": "An Act to amend the law with respect to the powers of courts in respect of young offenders; to make further provision as to the treatment of prisoners and other persons committed to custody, including provision for their supervision after discharge, and the management of prisons, approved schools and other institutions; to re-enact with modifications and additions certain statutory provisions relating to the removal, return and supervision of prisoners within the British Islands; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1961-c4",
+      "title": "Expiring Laws Continuance Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c40",
+      "title": "Consumer Protection Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c41",
+      "title": "Flood Prevention (Scotland) Act 1961 (repealed)",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/41",
+      "source": "ukpga",
+      "description": "An Act to enable the councils of counties and burghs in Scotland to take measures for the prevention or mitigation of flooding of non-agricultural land in their areas; and for purposes connected with the matter aforesaid."
+    },
+    {
+      "id": "UKPGA-1961-c42",
+      "title": "Sheriffs’ Pensions (Scotland) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/42",
+      "source": "ukpga",
+      "description": "An Act to amend the law with respect to the pensions attributable to the office of sheriff and salaried sheriff-substitute, to regulate the age of retirement from such offices, and to regulate the time at which payment may be made of those pensions and of the salaries attaching to the said offices."
+    },
+    {
+      "id": "UKPGA-1961-c43",
+      "title": "Public Authorities (Allowances) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/43",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c44",
+      "title": "Barristers (Qualification for Office) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/44",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c45",
+      "title": "Rating and Valuation Act 1961 (repealed 1.11.1996)",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/45",
+      "source": "ukpga",
+      "description": "An Act to amend the law with respect to the valuation of property for the purposes of rates and with respect to the making and collection of rates."
+    },
+    {
+      "id": "UKPGA-1961-c46",
+      "title": "Companies (Floating Charges) (Scotland) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/46",
+      "source": "ukpga",
+      "description": "An Act to amend the law of Scotland so as to empower companies to give security by way of floating charges; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1961-c47",
+      "title": "Mock Auctions Act 1961 (repealed)",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/47",
+      "source": "ukpga",
+      "description": "An Act to prohibit certain practices in relation to sales purporting to be sales by auction."
+    },
+    {
+      "id": "UKPGA-1961-c48",
+      "title": "Land Drainage Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/48",
+      "source": "ukpga",
+      "description": "An Act to enable river boards and catchment boards to raise drainage charges for the purpose of meeting part of their expenses; and to make further provision relating to the drainage of land and to drainage boards."
+    },
+    {
+      "id": "UKPGA-1961-c49",
+      "title": "Covent Garden Market Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c5",
+      "title": "Coal Industry Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c50",
+      "title": "Rivers (Prevention of Pollution) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/50",
+      "source": "ukpga",
+      "description": "An Act to make further provision for maintaining or restoring the wholesomeness of the rivers and other inland or coastal waters of England and Wales."
+    },
+    {
+      "id": "UKPGA-1961-c51",
+      "title": "Police Federation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c52",
+      "title": "Army and Air Force Act 1961 (repealed)",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/52",
+      "source": "ukpga",
+      "description": "An Act to continue, and amend, the Army Act, 1955, and the Air Force Act, 1955; to amend the Courts-Martial (Appeals) Act, 1951; to validate the employment of British protected persons in certain military and air forces; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1961-c53",
+      "title": "North Atlantic Shipping Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/53",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c54",
+      "title": "Human Tissue Act 1961 (repealed)",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/54",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to the use of parts of bodies of deceased persons for therapeutic purposes and purposes of medical education and research and with respect to the circumstances in which post-mortem examinations may be carried out; and to permit the cremation of bodies removed for anatomical examination."
+    },
+    {
+      "id": "UKPGA-1961-c55",
+      "title": "Crown Estate Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/55",
+      "source": "ukpga",
+      "description": "An Act to make new provision in place of the Crown Lands Acts, 1829 to 1936, as to the powers exercisable by the Crown Estate Commissioners for the management of\" the Crown Estate, to transfer to the management of the Minister of Works certain land of the Crown Estate in Regent's Park and extend or clarify the powers of that Minister in Regent's Park, to amend the Forestry (Transfer of Woods) Act, 1923, as it affects the Crown Estate, to amend the law as to escheated land, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1961-c56",
+      "title": "Credit-Sale Agreements (Scotland) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/56",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c57",
+      "title": "Trusts (Scotland) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/57",
+      "source": "ukpga",
+      "description": "An Act to amend the law of Scotland relating to trusts."
+    },
+    {
+      "id": "UKPGA-1961-c58",
+      "title": "Crofters (Scotland) Act 1961 (repealed 5.1.1994)",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/58",
+      "source": "ukpga",
+      "description": "An Act to make fresh provision with respect to the reorganisation, development and regulation of crofting in the crofting counties of Scotland; to authorise the making of grants and loans for the development of agricultural production on crofts and on holdings comparable in value and extent to crofts ; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1961-c59",
+      "title": "Appropriation Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/59",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c6",
+      "title": "Family Allowances and National Insurance Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/10-11/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c60",
+      "title": "Suicide Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/60",
+      "source": "ukpga",
+      "description": "An Act to amend the law of England and Wales relating to suicide, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1961-c61",
+      "title": "Licensing Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c62",
+      "title": "Trustee Investments Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/62",
+      "source": "ukpga",
+      "description": "An Act to make fresh provision with respect to investment by trustees and persons having the investment powers of trustees, and by local authorities, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1961-c63",
+      "title": "Highways (Miscellaneous Provisions) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/63",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c64",
+      "title": "Public Health Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/64",
+      "source": "ukpga",
+      "description": "An Act to amend the provisions of the Public Health Act, 1936, relating to building byelaws, to make such amendments of the law relating to public health and the functions of county councils and other local authorities as are commonly made in local Acts, to amend the law relating to trade effluents and to amend section two hundred and forty-nine of the said Act of 1936."
+    },
+    {
+      "id": "UKPGA-1961-c65",
+      "title": "Housing Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/65",
+      "source": "ukpga",
+      "description": "An Act to make further arrangements for the giving of financial assistance for the provision of housing accommodation, to confer further powers on local authorities as regards houses let in lodgings or occupied by more than one family, and houses or other buildings affected by clearance orders and demolition orders, to amend section five of the Rent Act, 1957, by allowing a greater increase in the permitted rent for improvements, to alter the circumstances in which improvement grants and standard grants may be made under Part II of the Housing (Financial Provisions) Act, 1958, and the Housing and House Purchase Act, 1959, to amend the law with respect to repairing obligations in short tenancies of dwelling-houses, and to amend the Town Development Act, 1952, as regards development carried out wholly or partly in a county borough and as regards the assistance which may be given by a county council for town development; and for purposes connected with any of those matters."
+    },
+    {
+      "id": "UKPGA-1961-c7",
+      "title": "Consolidated Fund Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/7",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c8",
+      "title": "Electricity (Amendment) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1961-c9",
+      "title": "Agricultural Research etc. (Pensions) Act 1961",
+      "year": 1961,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/9-10/9",
+      "source": "ukpga",
+      "description": "An Act to provide for contributory pension schemes in respect of persons employed at certain agricultural institutions and colleges financed wholly or partly out of public funds."
+    },
     {
       "id": "UKSI-1961-1",
       "title": "The Wages Regulation (Dressmaking and Women's Light Clothing) (England and Wales) Order 1961",

@@ -1,7 +1,1078 @@
 {
   "year": 1956,
-  "count": 672,
+  "count": 791,
   "items": [
+    {
+      "id": "UKLA-1956-c1",
+      "title": "Clyde Navigation Order Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c2",
+      "title": "Oban Burgh Order Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/5-6/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c31",
+      "title": "Monmouthshire County Council Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c32",
+      "title": "Crosby Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c33",
+      "title": "Blyth Generating Station (Ancillary Powers) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c34",
+      "title": "Dundee Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c35",
+      "title": "Archdeacon Johnson's Almshouse Charity (Oakham and Uppingham) Scheme Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c36",
+      "title": "Baptist Chapel and Other Charities (Totnes and Tuckenhay) Scheme Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c37",
+      "title": "Leigh Almshouse, Stoneleigh and other Charities Scheme Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c38",
+      "title": "Greenock Burgh Extension, &amp;c. Order Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c39",
+      "title": "Ministry of Housing and Local Government Provisional Order Confirmation (Colne Valley Sewerage Board) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c40",
+      "title": "Gloucestershire County Council Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c41",
+      "title": "Swansea Corporation (Fairwood Common) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c42",
+      "title": "Roxburgh County Council (Ale water) Order Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c43",
+      "title": "Castle Gate Congregational Church Burial Ground (Nottingham) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c45",
+      "title": "St. Stephen Walbrook (St. Antholin's Churchyard) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c46",
+      "title": "Elder Yard Chapel Chesterfield Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c47",
+      "title": "Tees Conservancy Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c48",
+      "title": "Barry Corporation (Barry Harbour) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c49",
+      "title": "Leicester Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c50",
+      "title": "City of London (Various Powers) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c51",
+      "title": "Sion College Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c52",
+      "title": "Pontypool Water Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c53",
+      "title": "Frances Barker and certain other Charities (City of York) Scheme Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c54",
+      "title": "Consolidated Municipal Charity and certain other Charities (Ludlow) Scheme Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c55",
+      "title": "Hospital of Robert Earl of Leicester Charity (Warwick) Scheme Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/55",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c57",
+      "title": "Advocates' Widows' Fund Order Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/57",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c58",
+      "title": "Glasgow Corporation Order Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/58",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c59",
+      "title": "Dover Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/59",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c60",
+      "title": "Bristol Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/60",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c61",
+      "title": "North East Surrey Crematorium Board Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/61",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c63",
+      "title": "Bournemouth-Swanage Motor Road and Ferry Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/63",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c64",
+      "title": "Bedford Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/64",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c65",
+      "title": "Scottish Union and National Insurance Company's Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/65",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c66",
+      "title": "Tyne Tunnel Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/66",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c67",
+      "title": "People's Dispensary for Sick Animals Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/67",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c68",
+      "title": "London Necropolis Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/68",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c69",
+      "title": "Millport Piers (Amendment) Order Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/69",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c70",
+      "title": "Aberdeen Harbour Order Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/70",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c71",
+      "title": "Pier and Harbour Order (Great Yarmouth Port and Haven) Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/71",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c72",
+      "title": "Pier and Harbour Order (Wisbech Port and Harbour) Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/72",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c73",
+      "title": "Huddersfield Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/73",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c76",
+      "title": "Croydon Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/76",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c77",
+      "title": "London County Council (General Powers) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/77",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c79",
+      "title": "Chertsey Urban District Council Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/79",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c80",
+      "title": "Manchester Ship Canal Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/80",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c81",
+      "title": "Newcastle-upon-Tyne Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/81",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c82",
+      "title": "Liverpool Overhead Railway Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/82",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c83",
+      "title": "Manchester Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/83",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c84",
+      "title": "Walthamstow Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/84",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c85",
+      "title": "Barnsley Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/85",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c86",
+      "title": "Rhyl Urban District Council Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/86",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c87",
+      "title": "Fylde Water Board Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/87",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c88",
+      "title": "Felixstowe Dock and Railway Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/88",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c89",
+      "title": "Heywood and Middleton Water Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/89",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c90",
+      "title": "Middlesex County Council Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/90",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c91",
+      "title": "Cammell Laird and Company Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/91",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c92",
+      "title": "Mersey Docks and Harbour Board Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/92",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c93",
+      "title": "Grayson Rollo and Clover Docks Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/93",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1956-c94",
+      "title": "South of Scotland Electricity Order Confirmation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/4-5/94",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c1",
+      "title": "Police, Fire and Probation Officers Remuneration Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c2",
+      "title": "Hydrocarbon Oil Duties (Temporary Increase) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c23",
+      "title": "Leeward Islands Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c24",
+      "title": "Children and Young Persons Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c25",
+      "title": "Therapeutic Substances Act 1956 (repealed 5.11.1993)",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/25",
+      "source": "ukpga",
+      "description": "An Act to consolidate the Therapeutic Substances Act, 1925, and the Therapeutic Substances (Prevention of Misuse) Acts, 1947 to 1953."
+    },
+    {
+      "id": "UKPGA-1956-c26",
+      "title": "Police (Scotland) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c27",
+      "title": "Charles Beattie Indemnity Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/27",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c28",
+      "title": "Agricultural Research Act 1956 (repealed 19.11.1998)",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/28",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to agricultural research."
+    },
+    {
+      "id": "UKPGA-1956-c29",
+      "title": "Dentists Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c3",
+      "title": "Air Corporations Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c30",
+      "title": "Food and Drugs (Scotland) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c31",
+      "title": "Pakistan (Consequential Provision) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/31",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c32",
+      "title": "Consolidated Fund Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c33",
+      "title": "Housing Subsidies Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/33",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c34",
+      "title": "Criminal Justice Administration Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c35",
+      "title": "Validation of Elections (Northern Ireland) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c36",
+      "title": "Local Authorities (Expenses) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c37",
+      "title": "Licensing (Airports) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c38",
+      "title": "Agricultural Mortgage Corporation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/38",
+      "source": "ukpga",
+      "description": "An Act to amend the memorandum of association of the Agricultural Mortgage Corporation Limited; validate certain debenture stock issued by that company, and, in connection therewith, amend a deed made by it for securing debenture stock issued by it; and authorise the Minister of Agriculture, Fisheries and Food to make further advances to that company for the purpose of increasing its guarantee fund."
+    },
+    {
+      "id": "UKPGA-1956-c39",
+      "title": "Pensions (Increase) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/39",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c4",
+      "title": "Expiring Laws Continuance Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c40",
+      "title": "Local Government (Street Works) (Scotland) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c41",
+      "title": "Solicitors (Amendment) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c42",
+      "title": "Occasional Licences and Young Persons Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c43",
+      "title": "Local Government Elections Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/43",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c44",
+      "title": "Magistrates’ Courts (Appeals From Binding Over Orders) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/44",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to orders of justices of the peace requiring persons to enter into recognisances to keep the peace or be of good behaviour."
+    },
+    {
+      "id": "UKPGA-1956-c45",
+      "title": "Small Lotteries and Gaming Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c46",
+      "title": "Administration of Justice Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/46",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to Admiralty jurisdiction, legal proceedings in connection with ships and aircraft and the arrest of ships and other property, to make further provision as to the appointment, tenure of office, powers and qualifications of certain judges and officers, to make certain other amendments of the law relating to the Supreme Court and the county courts and of the law relating to the enforcement of certain judgments, orders and decrees, to enable certain funds in court in the Lancashire Chancery Court to be transferred to the official trustees of charitable funds or the Church Commissioners, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1956-c47",
+      "title": "National Insurance Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/47",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c48",
+      "title": "Sugar Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/48",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c49",
+      "title": "Agriculture (Safety, Health and Welfare Provisions) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/49",
+      "source": "ukpga",
+      "description": "An Act to provide for securing the safety, health and welfare of persons employed in agriculture and certain other occupations and the avoidance of accidents to children arising out of the use, in connection with agriculture, of vehicles, machinery or implements; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1956-c5",
+      "title": "Agriculture (Silo Subsidies) Act 1956 (repealed)",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/5-6/5",
+      "source": "ukpga",
+      "description": "An Act to make provision for the payment of subsidies in respect of the construction or improvement of silos."
+    },
+    {
+      "id": "UKPGA-1956-c50",
+      "title": "Family Allowances and National Insurance Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/50",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c51",
+      "title": "Workmen's Compensation and Benefit (Supplementation) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c52",
+      "title": "Clean Air Act 1956 (repealed 27.8.1993)",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/52",
+      "source": "ukpga",
+      "description": "An Act to make provision for abating the pollution of the air."
+    },
+    {
+      "id": "UKPGA-1956-c53",
+      "title": "Teachers (Superannuation) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/53",
+      "source": "ukpga",
+      "description": "An Act to amend the Elementary School Teachers (Superannuation) Act, 1898, the Teachers (Superannuation) Acts, 1918 to 1946, and so much of the Education (Scotland) Acts, 1939 to 1953, as relates to superannuation and to the employment of teachers over the age of sixty-five years; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1956-c54",
+      "title": "Finance Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/54",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, to authorise advances out of the Consolidated Fund to nationalised industries and undertakings, and to make further provision in connection with Finance."
+    },
+    {
+      "id": "UKPGA-1956-c55",
+      "title": "Appropriation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/55",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c56",
+      "title": "Transport (Disposal of Road Haulage Property) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/56",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c57",
+      "title": "Slum Clearance (Compensation) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/57",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c58",
+      "title": "Department of Scientific and Industrial Research Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/58",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c59",
+      "title": "Underground Works (London) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/59",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c60",
+      "title": "Valuation and Rating (Scotland) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/60",
+      "source": "ukpga",
+      "description": "An Act to amend the law regarding valuation and rating in Scotland; to amend the provisions of the Local Government (Financial Provisions) (Scotland) Act, 1954, with respect to the payment of Exchequer Grants to local authorities in Scotland and with respect to the apportionment of the expenditure of joint bodies among their constituent authorities; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1956-c61",
+      "title": "Coal Industry Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c62",
+      "title": "Hotel Proprietors Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/62",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to inn and innkeeper."
+    },
+    {
+      "id": "UKPGA-1956-c63",
+      "title": "British Caribbean Federation Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/63",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c64",
+      "title": "Governors' Pensions Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/64",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c65",
+      "title": "Public Works Loans Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/65",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c66",
+      "title": "Sanitary Inspectors (Change of Designation) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/66",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c67",
+      "title": "Road Traffic Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/67",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c68",
+      "title": "Restrictive Trade Practices Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/68",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c69",
+      "title": "Sexual Offences Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/69",
+      "source": "ukpga",
+      "description": "An Act to consolidate (with corrections and improvements made under the Consolidation of Enactments (Procedure) Act, 1949) the statute law of England and Wales relating to sexual crimes, to the abduction, procuration and prostitution of women and to kindred offences, and to make such adaptations of statutes extending beyond England and Wales as are needed in consequence of that consolidation."
+    },
+    {
+      "id": "UKPGA-1956-c70",
+      "title": "Marriage (Scotland) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/70",
+      "source": "ukpga",
+      "description": "An Act to amend the law with regard to notice of marriages intended to be celebrated or contracted in Scotland."
+    },
+    {
+      "id": "UKPGA-1956-c71",
+      "title": "Overseas Resources Development Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/71",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c72",
+      "title": "Hill Farming Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/72",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c73",
+      "title": "Crown Estate Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/73",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c74",
+      "title": "Copyright Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/74",
+      "source": "ukpga",
+      "description": "An Act to make new provision in respect of copyright and related matters, in substitution for the provisions of the Copyright Act, 1911, and other enactments relating thereto; to amend the Registered Designs Act, 1949, with respect to designs related to artistic works in which copyright subsists, and to amend the Dramatic and Musical Performers' Protection Act, 1925; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1956-c75",
+      "title": "Education (Scotland) Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/75",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1956-c76",
+      "title": "Medical Act 1956",
+      "year": 1956,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/4-5/76",
+      "source": "ukpga",
+      "description": ""
+    },
     {
       "id": "UKSI-1956-1000",
       "title": "The Foreign Service Fees (Amendment No. 3) Order 1956",

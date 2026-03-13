@@ -1,271 +1,11 @@
 {
-  "scrapedAt": "2026-03-12T13:52:53.344Z",
-  "totalItems": 176104,
+  "scrapedAt": "2026-03-13T09:32:25.850Z",
+  "totalItems": 168173,
   "yearRange": {
-    "from": 1801,
-    "to": 2025
+    "from": 1866,
+    "to": 2026
   },
   "yearStats": [
-    {
-      "year": 1801,
-      "total": 97
-    },
-    {
-      "year": 1802,
-      "total": 120
-    },
-    {
-      "year": 1803,
-      "total": 140
-    },
-    {
-      "year": 1804,
-      "total": 91
-    },
-    {
-      "year": 1805,
-      "total": 103
-    },
-    {
-      "year": 1806,
-      "total": 147
-    },
-    {
-      "year": 1807,
-      "total": 43
-    },
-    {
-      "year": 1808,
-      "total": 163
-    },
-    {
-      "year": 1809,
-      "total": 195
-    },
-    {
-      "year": 1810,
-      "total": 218
-    },
-    {
-      "year": 1811,
-      "total": 221
-    },
-    {
-      "year": 1812,
-      "total": 213
-    },
-    {
-      "year": 1813,
-      "total": 215
-    },
-    {
-      "year": 1814,
-      "total": 164
-    },
-    {
-      "year": 1815,
-      "total": 102
-    },
-    {
-      "year": 1816,
-      "total": 92
-    },
-    {
-      "year": 1817,
-      "total": 81
-    },
-    {
-      "year": 1818,
-      "total": 89
-    },
-    {
-      "year": 1819,
-      "total": 134
-    },
-    {
-      "year": 1820,
-      "total": 91
-    },
-    {
-      "year": 1821,
-      "total": 47
-    },
-    {
-      "year": 1822,
-      "total": 116
-    },
-    {
-      "year": 1823,
-      "total": 130
-    },
-    {
-      "year": 1824,
-      "total": 52
-    },
-    {
-      "year": 1825,
-      "total": 151
-    },
-    {
-      "year": 1826,
-      "total": 112
-    },
-    {
-      "year": 1827,
-      "total": 113
-    },
-    {
-      "year": 1828,
-      "total": 129
-    },
-    {
-      "year": 1829,
-      "total": 139
-    },
-    {
-      "year": 1830,
-      "total": 143
-    },
-    {
-      "year": 1831,
-      "total": 80
-    },
-    {
-      "year": 1832,
-      "total": 121
-    },
-    {
-      "year": 1833,
-      "total": 133
-    },
-    {
-      "year": 1834,
-      "total": 70
-    },
-    {
-      "year": 1835,
-      "total": 90
-    },
-    {
-      "year": 1836,
-      "total": 145
-    },
-    {
-      "year": 1837,
-      "total": 85
-    },
-    {
-      "year": 1838,
-      "total": 113
-    },
-    {
-      "year": 1839,
-      "total": 112
-    },
-    {
-      "year": 1840,
-      "total": 141
-    },
-    {
-      "year": 1841,
-      "total": 73
-    },
-    {
-      "year": 1842,
-      "total": 185
-    },
-    {
-      "year": 1843,
-      "total": 91
-    },
-    {
-      "year": 1844,
-      "total": 31
-    },
-    {
-      "year": 1845,
-      "total": 63
-    },
-    {
-      "year": 1846,
-      "total": 69
-    },
-    {
-      "year": 1847,
-      "total": 303
-    },
-    {
-      "year": 1848,
-      "total": 172
-    },
-    {
-      "year": 1849,
-      "total": 103
-    },
-    {
-      "year": 1850,
-      "total": 228
-    },
-    {
-      "year": 1851,
-      "total": 210
-    },
-    {
-      "year": 1852,
-      "total": 256
-    },
-    {
-      "year": 1853,
-      "total": 360
-    },
-    {
-      "year": 1854,
-      "total": 289
-    },
-    {
-      "year": 1855,
-      "total": 332
-    },
-    {
-      "year": 1856,
-      "total": 259
-    },
-    {
-      "year": 1857,
-      "total": 247
-    },
-    {
-      "year": 1858,
-      "total": 110
-    },
-    {
-      "year": 1859,
-      "total": 67
-    },
-    {
-      "year": 1860,
-      "total": 286
-    },
-    {
-      "year": 1861,
-      "total": 134
-    },
-    {
-      "year": 1862,
-      "total": 239
-    },
-    {
-      "year": 1863,
-      "total": 290
-    },
-    {
-      "year": 1864,
-      "total": 372
-    },
-    {
-      "year": 1865,
-      "total": 380
-    },
     {
       "year": 1866,
       "total": 258
@@ -596,63 +336,63 @@
     },
     {
       "year": 1948,
-      "total": 1263
+      "total": 1377
     },
     {
       "year": 1949,
-      "total": 1097
+      "total": 1246
     },
     {
       "year": 1950,
-      "total": 981
+      "total": 1071
     },
     {
       "year": 1951,
-      "total": 859
+      "total": 963
     },
     {
       "year": 1952,
-      "total": 834
+      "total": 952
     },
     {
       "year": 1953,
-      "total": 717
+      "total": 808
     },
     {
       "year": 1954,
-      "total": 649
+      "total": 722
     },
     {
       "year": 1955,
-      "total": 618
+      "total": 677
     },
     {
       "year": 1956,
-      "total": 672
+      "total": 791
     },
     {
       "year": 1957,
-      "total": 654
+      "total": 758
     },
     {
       "year": 1958,
-      "total": 651
+      "total": 769
     },
     {
       "year": 1959,
-      "total": 639
+      "total": 759
     },
     {
       "year": 1960,
-      "total": 685
+      "total": 802
     },
     {
       "year": 1961,
-      "total": 748
+      "total": 860
     },
     {
       "year": 1962,
-      "total": 736
+      "total": 845
     },
     {
       "year": 1963,
@@ -905,6 +645,10 @@
     {
       "year": 2025,
       "total": 2015
+    },
+    {
+      "year": 2026,
+      "total": 562
     }
   ]
 }

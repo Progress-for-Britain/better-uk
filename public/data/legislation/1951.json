@@ -1,7 +1,943 @@
 {
   "year": 1951,
-  "count": 859,
+  "count": 963,
   "items": [
+    {
+      "id": "UKLA-1951-c10",
+      "title": "City of London (Central Criminal Court) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c11",
+      "title": "Aberdeen Chartered Accountants' Widows' Fund Order Confirmation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c12",
+      "title": "Edinburgh Chartered Accountants Annuity, &amp;c. Fund Order Confirmation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c14",
+      "title": "University of Edinburgh (Royal (Dick) Veterinary College) Order Confirmation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c15",
+      "title": "Humber Conservancy Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c16",
+      "title": "Canterbury Extension Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c17",
+      "title": "Baptist and Congregational Trusts Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c18",
+      "title": "Royal Albert Hall Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c19",
+      "title": "London County Council (Money) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c20",
+      "title": "Uttoxeter Urban District Council Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c21",
+      "title": "Dee and Clwyd River Board Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c22",
+      "title": "Sir William Turner's Hospital at Kirkleatham Charity Scheme Confirmation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c23",
+      "title": "British Transport Commission Order Confirmation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c24",
+      "title": "Walsall Corporation (Trolley Vehicles) Order Confirmation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c25",
+      "title": "Pier and Harbour Order (Lymington) Confirmation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c26",
+      "title": "St. Benet Gracechurch Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c27",
+      "title": "Great Yarmouth Port and Haven Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c28",
+      "title": "London County Council (Crystal Palace) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c29",
+      "title": "Brighton Extension Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c30",
+      "title": "Abingdon Corporation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c31",
+      "title": "Nottingham City and County Boundaries Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c32",
+      "title": "Bristol Corporation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c33",
+      "title": "Dartmouth Harbour Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c34",
+      "title": "Bournemouth and District Water Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c35",
+      "title": "Lancashire County Council (General Powers) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c36",
+      "title": "Sunderland Corporation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c37",
+      "title": "Faversham Navigation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c38",
+      "title": "Sutton and Cheam Corporation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c39",
+      "title": "British Transport Commission Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c40",
+      "title": "Swindon Corporation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c41",
+      "title": "London County Council (General Powers) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c42",
+      "title": "Trent River Board Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c43",
+      "title": "West Riding (Yorkshire) County Council (General Powers) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c44",
+      "title": "Worcester Corporation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c45",
+      "title": "Nottingham County Council Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c46",
+      "title": "Liverpool Extension Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c6",
+      "title": "Island of Arran Piers Order Confirmation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c7",
+      "title": "Falkirk Burgh Extension, &amp;c. Order Confirmation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c8",
+      "title": "Lloyd's Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1951-c9",
+      "title": "Oxford Motor Services Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14-15/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c1",
+      "title": "Consolidated Fund (No. 3) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c12",
+      "title": "Consolidated Fund Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/12",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c13",
+      "title": "Penicillin (Merchant Ships) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c14",
+      "title": "Festival of Britain (Sunday Opening) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c15",
+      "title": "Local Government (Scotland) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c16",
+      "title": "Consolidated Fund (No. 2) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c17",
+      "title": "Export Guarantees Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c18",
+      "title": "Livestock Rearing Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/18",
+      "source": "ukpga",
+      "description": "An Act to extend and amend the provisions of the Hill Farming Act, 1946, relating to the rehabilitation of hill farming land, the payment of subsidies in respect of hill sheep and hill cattle and the control of rams in England and Wales; to make fresh provision with respect to the exercise of the functions under that Act of the Minister of Agriculture and Fisheries and the Secretary of State ; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1951-c19",
+      "title": "Town and Country Planning (Amendment) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c2",
+      "title": "Mr. Speaker Clifton Brown's Retirement Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c20",
+      "title": "Overseas Resources Development Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/20",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c21",
+      "title": "Alkali, etc., Works Regulation (Scotland) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c22",
+      "title": "Workmen's Compensation (Supplementation) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c23",
+      "title": "Reserve and Auxiliary Forces (Training) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c24",
+      "title": "Army and Air Force (Annual) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c25",
+      "title": "Supplies and Services (Defence Purposes) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c26",
+      "title": "Salmon and Freshwater Fisheries (Protection) (Scotland) Act 1951 (repealed)",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/26",
+      "source": "ukpga",
+      "description": "An Act to amend the law in regard to the protection of salmon and freshwater fish in Scotland, including the whole of the River Tweed, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1951-c27",
+      "title": "Fire Services Act 1951 (repealed)",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/27",
+      "source": "ukpga",
+      "description": "An Act to amend sections twenty-six and twenty-seven of the Fire Services Act, 1947."
+    },
+    {
+      "id": "UKPGA-1951-c28",
+      "title": "Long Leases (Temporary Provisions) (Scotland) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c29",
+      "title": "Reverend J. G. MacManaway's Indemnity Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c3",
+      "title": "Expiring Laws Continuance Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c30",
+      "title": "Sea Fish Industry Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/30",
+      "source": "ukpga",
+      "description": "An Act to make provision for the reorganization, development and regulation of the white fish industry ; to amend the law relating to fishery harbours, the catching and landing of sea fish and other matters affecting or connected with the sea fishing and whaling industries; to abolish the Scottish Fisheries Advisory Council; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1951-c31",
+      "title": "National Health Service Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/31",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c32",
+      "title": "British North America Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/32",
+      "source": "ukpga",
+      "description": "An Act to amend the British North America Act, 1867."
+    },
+    {
+      "id": "UKPGA-1951-c33",
+      "title": "Fraudulent Mediums Act 1951 (repealed)",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/33",
+      "source": "ukpga",
+      "description": "An Act to repeal the Witchcraft Act, 1735, and to make, in substitution for certain provisions of section four of the Vagrancy Act, 1824, express provision for the punishment of persons who fraudulently purport to act as, spiritualistic mediums or to exercise powers of telepathy, clairvoyance or other similar powers."
+    },
+    {
+      "id": "UKPGA-1951-c34",
+      "title": "National Insurance Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c35",
+      "title": "Pet Animals Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/35",
+      "source": "ukpga",
+      "description": "An Act to regulate the sale of pet animals."
+    },
+    {
+      "id": "UKPGA-1951-c36",
+      "title": "Criminal Law Amendment Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c37",
+      "title": "Telegraph Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/37",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c38",
+      "title": "Leasehold Property (Temporary Provisions) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c39",
+      "title": "Common Informers Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/39",
+      "source": "ukpga",
+      "description": "An Act to abolish the common informer procedure."
+    },
+    {
+      "id": "UKPGA-1951-c4",
+      "title": "Pneumoconiosis and Byssinosis Benefit Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c40",
+      "title": "New Streets Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c41",
+      "title": "Coal Industry Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c42",
+      "title": "Ministry of Materials Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c43",
+      "title": "Finance Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/43",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties, to alter other duties, and to amend the law with respect to the National Debt (including the Sinking Funds therefor), Customs and Inland Revenue (including Excise)."
+    },
+    {
+      "id": "UKPGA-1951-c44",
+      "title": "Appropriation Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/44",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c45",
+      "title": "Rural Water Supplies and Sewerage Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c46",
+      "title": "Courts–Martial (Appeals) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/46",
+      "source": "ukpga",
+      "description": "An Act to establish a Courts-Martial Appeal Court and provide for appeals thereto from courts-martial and certain naval disciplinary courts; to make provision with respect to the offices of Judge Advocate of His Majesty's Fleet and Judge Advocate General; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1951-c47",
+      "title": "Festival of Britain (Additional Loans) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/47",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c48",
+      "title": "Dangerous Drugs Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/48",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c49",
+      "title": "Slaughter of Animals (Amendment) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c5",
+      "title": "Public Works Loans Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c50",
+      "title": "Consolidated Fund (Civil List Provisions) Act 1951 (repealed)",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/50",
+      "source": "ukpga",
+      "description": "An Act to complete the charge on the Consolidated Fund of the provisions made by the Civil List Act, 1937."
+    },
+    {
+      "id": "UKPGA-1951-c51",
+      "title": "Isle of Man (Customs) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c52",
+      "title": "Telephone Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/52",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c53",
+      "title": "Midwives Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/53",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c54",
+      "title": "Midwives (Scotland) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/54",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c55",
+      "title": "Nurses (Scotland) Act 1951 (repealed)",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/55",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain enactments relating to nurses for the sick in Scotland."
+    },
+    {
+      "id": "UKPGA-1951-c56",
+      "title": "Guardianship and Maintenance of Infants Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/56",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c57",
+      "title": "National Assistance (Amendment) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/57",
+      "source": "ukpga",
+      "description": "An Act to amend section forty-seven of the National Assistance Act, 1948."
+    },
+    {
+      "id": "UKPGA-1951-c58",
+      "title": "Fireworks Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/58",
+      "source": "ukpga",
+      "description": "An Act to confer powers of seizure where dangerous fireworks are found, and powers to determine or amend licences or certificates for explosives factories where fireworks are made, to make provision for the marking of fireworks and containers in which fireworks are kept and to amend the law relating to licences for small firework factories; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1951-c59",
+      "title": "Price Control and Other Orders (Indemnity) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/59",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c6",
+      "title": "Japanese Treaty of Peace Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/6",
+      "source": "ukpga",
+      "description": "An Act to provide for carrying into effect the Treaty of Peace with Japan and Protocol thereto."
+    },
+    {
+      "id": "UKPGA-1951-c60",
+      "title": "Mineral Workings Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/60",
+      "source": "ukpga",
+      "description": "An Act to establish a fund for the purpose of financing the restoration of land in England used for the working of ironstone by opencast operations and to provide for payments to and from that fund; to make provision for the reclamation, cultivation, afforestation or other treatment of such land; to provide for setting off the development charge in respect of certain minerals against payments under Part VI of the Town and Country Planning Act, 1947, or Part V of the Town and Country Planning (Scotland) Act, 1947, in respect of interests therein, for the modification of certain mining leases and orders granting working rights, and for the application of section eighty-one of the Town and Country Planning Act, 1947, and section seventy-eight of the Town and Country Planning (Scotland) Act, 1947, to certain minerals of the National Coal Board; to authorise the temporary stopping up or diversion of highways for the purpose of working minerals by opencast operations; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1951-c61",
+      "title": "Forestry Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c62",
+      "title": "Tithe Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/62",
+      "source": "ukpga",
+      "description": "An Act to provide, in lieu of the obligation imposed by the Tithe Act, 1936, to register all annuities charged thereby, for registration in selected districts, to amend and to repeal certain provisions of that Act, and to make further provision with respect to certain matters connected therewith."
+    },
+    {
+      "id": "UKPGA-1951-c63",
+      "title": "Rag Flock and Other Filling Materials Act 1951 (repealed 6.1.1997)",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/63",
+      "source": "ukpga",
+      "description": "An Act to secure the use of clean filling materials in upholstered articles and other articles which are stuffed or lined, and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1951-c64",
+      "title": "Rivers (Prevention of Pollution) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/64",
+      "source": "ukpga",
+      "description": "An Act to make new provision for maintaining or restoring the wholesomeness of the rivers and other inland or coastal waters of England and Wales in place of the Rivers Pollution Prevention Act, 1876, and certain other enactments ; and to provide for laying before Parliament the annual reports of river boards."
+    },
+    {
+      "id": "UKPGA-1951-c65",
+      "title": "Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/65",
+      "source": "ukpga",
+      "description": "An Act to provide for protecting the interests of persons called up or volunteering for certain naval, military or air force service, or doing work or training under the National Service Act 1948, by virtue of being conditionally registered under that Act as conscientious objectors, and of other persons consequentially affected, in respect of civil rights and liabilities of theirs."
+    },
+    {
+      "id": "UKPGA-1951-c66",
+      "title": "Rivers (Prevention of Pollution) (Scotland) Act 1951 (repealed)",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14-15/66",
+      "source": "ukpga",
+      "description": "An Act to provide for establishing river purification boards in Scotland and for conferring on or transferring to such boards functions relating to the prevention of river pollution; to make new provision for maintaining or restoring the cleanliness of the rivers and other inland waters and the tidal waters of Scotland in place of the Rivers Pollution Prevention Act, 1876, and certain other enactments; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1951-c7",
+      "title": "Border Rivers (Prevention of Pollution) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/7",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1951-c8",
+      "title": "Home Guard Act 1951 (repealed 1.4.1997)",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/8",
+      "source": "ukpga",
+      "description": "An Act to establish the Home Guard and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1951-c9",
+      "title": "Ministers of the Crown (Parliamentary Under-Secretaries) Act 1951",
+      "year": 1951,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/9",
+      "source": "ukpga",
+      "description": ""
+    },
     {
       "id": "UKSI-1951-1000",
       "title": "The Sugar Industry (Provision for Research and Education in the Growing of Sugar Beet in Great Britain) Order 1951",

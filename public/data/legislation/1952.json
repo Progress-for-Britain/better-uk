@@ -1,7 +1,1069 @@
 {
   "year": 1952,
-  "count": 834,
+  "count": 952,
   "items": [
+    {
+      "id": "UKLA-1952-c1",
+      "title": "Greenock Corporation Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Eliz2/1-2/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c10",
+      "title": "Blackpool Corporation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c11",
+      "title": "London County Council Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c12",
+      "title": "Pier and Harbour Order (Falmouth) Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c13",
+      "title": "Manchester Ship Canal Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c14",
+      "title": "Winchester Corporation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c15",
+      "title": "Merchant Navy Memorial Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c16",
+      "title": "Leamington Corporation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c17",
+      "title": "Kilmarnock Corporation Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c18",
+      "title": "Leith Harbour and Docks Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c19",
+      "title": "Aberdeen Extension Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c2",
+      "title": "Edinburgh Merchant Company Endowments (Amendment) Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c20",
+      "title": "Dundee Harbour and Tay Ferries Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c21",
+      "title": "Brighton Corporation (Trolley Vehicles) Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c22",
+      "title": "Derby Corporation (Trolley Vehicles) Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c23",
+      "title": "Portsmouth Corporation (Trolley Vehicles) Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c24",
+      "title": "Pier and Harbour Order (Brighton) Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c25",
+      "title": "Pier and Harbour Order (Great Yarmouth) Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c26",
+      "title": "Pier and Harbour Order (Seaham Harbour) Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c27",
+      "title": "Pier and Harbour Order (Herne Bay) Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c28",
+      "title": "Pier and Harbour Order (King's Lynn) Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c29",
+      "title": "Pier and Harbour Order (Minehead) Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c3",
+      "title": "Motherwell and Wishaw Burgh Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/3",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c30",
+      "title": "Governesses Benevolent Institution Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c31",
+      "title": "Canterbury and District Water Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c32",
+      "title": "Tottenham Corporation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c33",
+      "title": "Nottingham Corporation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c34",
+      "title": "British Transport Commission Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c35",
+      "title": "Glossop Water Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c36",
+      "title": "Fareham Urban District Council Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c37",
+      "title": "Rochdale Canal Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c38",
+      "title": "City of London (Guild Churches) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c39",
+      "title": "Scottish Mutual Assurance Society Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c4",
+      "title": "National Trust for Scotland Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c40",
+      "title": "Newcastle-upon-Tyne Corporation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c41",
+      "title": "Clifton Suspension Bridge Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c42",
+      "title": "Cheshire Brine Pumping (Compensation for Subsidence) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c43",
+      "title": "Kingston-upon-Hull Corporation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c44",
+      "title": "Llanelly District Traction Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c45",
+      "title": "Nottingham and Derbyshire Traction Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c46",
+      "title": "North Wales Hydro-Electric Power Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c47",
+      "title": "Preston Corporation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c48",
+      "title": "Scottish Amicable Life Assurance Society's Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c49",
+      "title": "West Hartlepool Extension Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c5",
+      "title": "London County Council (Holland House) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c50",
+      "title": "Essex County Council Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c51",
+      "title": "Glamorgan County Council Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c52",
+      "title": "Hamilton Burgh Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/52",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c53",
+      "title": "Lerwick Harbour Order Confirmation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/53",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c54",
+      "title": "Rochester Corporation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/54",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c6",
+      "title": "City of London (Various Powers) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c7",
+      "title": "Tyne Improvement Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c8",
+      "title": "London County Council (General Powers) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1952-c9",
+      "title": "Port of London Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6and1Eliz2/15-16/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c1",
+      "title": "Colonial Loans Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c10",
+      "title": "Income Tax Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain of the enactments relating to income tax, including certain enactments relating also to other taxes."
+    },
+    {
+      "id": "UKPGA-1952-c11",
+      "title": "Northern Ireland (Foyle Fisheries) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/11",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c12",
+      "title": "Judicial Offices (Salaries, &amp;c.) Act 1952 (repealed)",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/12",
+      "source": "ukpga",
+      "description": "An Act to make further provision as to the sums payable by way of salary, pension or allowances in respect of certain judicial offices."
+    },
+    {
+      "id": "UKPGA-1952-c13",
+      "title": "Festival Pleasure Gardens Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c14",
+      "title": "Merchant Shipping Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c15",
+      "title": "Agriculture (Fertilisers) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/15",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c16",
+      "title": "Consolidated Fund Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c17",
+      "title": "Industrial and Provident Societies Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c18",
+      "title": "Diplomatic Immunities (Commonwealth Countries and Republic of Ireland) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c19",
+      "title": "Metropolitan Police (Borrowing Powers) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c2",
+      "title": "Civil Contingencies Fund Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c20",
+      "title": "Cinematograph Film Production (Special Loans) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/20",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c21",
+      "title": "Export Guarantees Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c22",
+      "title": "Hydro-Electric Development (Scotland) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c23",
+      "title": "Miners’ Welfare Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/23",
+      "source": "ukpga",
+      "description": "An Act to discontinue the royalties welfare levy, dissolve the Miners’ Welfare Commission and wind up the miners’ welfare fund; to provide for the determination of certain trusts and agreements relating to property derived from the said fund, for the transfer to the National Coal Board or the Coal Industry Social Welfare Organisation of certain property, rights, liabilities, obligations and functions, and for requiring the said Board to make certain payments to the said organisation; to provide for the superannuation of employees of the said organisation; to amend section forty-one of the Coal Industry Nationalisation Act 1946; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1952-c24",
+      "title": "Army and Air Force (Annual) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c25",
+      "title": "National Health Service Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c26",
+      "title": "Empire Settlement Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c27",
+      "title": "New Towns Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/27",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c28",
+      "title": "Corneal Grafting Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/28",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c29",
+      "title": "Family Allowances and National Insurance Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c3",
+      "title": "Public Works Loans Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/3",
+      "source": "ukpga",
+      "description": "An Act to grant money for the purpose of certain local loans out of the Local Loans Fund, and for other purposes relating to local loans."
+    },
+    {
+      "id": "UKPGA-1952-c30",
+      "title": "Distribution of German Enemy Property Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/30",
+      "source": "ukpga",
+      "description": "An Act to amend the definition of \" German enemy debt \" for the purposes of the Distribution of German Enemy Property Act, 1949, in relation to sums due at the passing of that Act in respect of certain German public securities."
+    },
+    {
+      "id": "UKPGA-1952-c31",
+      "title": "Cremation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/31",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to cremation; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1952-c32",
+      "title": "Electricity Supply (Meters) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c33",
+      "title": "Finance Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/33",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with Finance."
+    },
+    {
+      "id": "UKPGA-1952-c34",
+      "title": "Post Office and Telegraph (Money) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c35",
+      "title": "Agriculture (Ploughing Grants) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c36",
+      "title": "Post Office (Amendment) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c37",
+      "title": "Civil List Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/37",
+      "source": "ukpga",
+      "description": "An Act to make provision for the honour and dignity of the Crown and the Royal Family, as to the disposal in certain circumstances of revenues of the Duchy of Cornwall, and for the payment of certain allowances and pensions."
+    },
+    {
+      "id": "UKPGA-1952-c38",
+      "title": "Appropriation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/38",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c39",
+      "title": "Motor Vehicles (International Circulation) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/39",
+      "source": "ukpga",
+      "description": "An Act to re-enact with modifications the Motor Car (International Circulation) Act, 1909; to amend the law relating to excise duty payable in Great Britain on vehicles licensed in Northern Ireland and in Northern Ireland on vehicles licensed in Great Britain; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1952-c4",
+      "title": "New Valuation Lists (Postponement) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c40",
+      "title": "Crown Lessees (Protection of Sub-Tenants) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/40",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c41",
+      "title": "Affiliation Orders Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/41",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c42",
+      "title": "Heating Appliances (Fireguards) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/42",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c43",
+      "title": "Disposal of Uncollected Goods Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/43",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c44",
+      "title": "Customs and Excise Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/44",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c45",
+      "title": "Pensions (Increase) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/45",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c46",
+      "title": "Hypnotism Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/46",
+      "source": "ukpga",
+      "description": "An Act to regulate the demonstration of hypnotic phenomena for purposes of public entertainment."
+    },
+    {
+      "id": "UKPGA-1952-c47",
+      "title": "Rating and Valuation (Scotland) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/47",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to the rating and valuation of lands and heritages in Scotland leased or occupied by certain public bodies and of lands and heritages used or occupied as sub-post offices in Scotland; and to make provision for notice to rating authorities of proposed entries in the valuation roll made up by the Assessor of Public Undertakings (Scotland), for correction and amendment of the said roll and for prescribing dates for the purposes thereof, and for regulating the procedure in valuation appeals in Scotland."
+    },
+    {
+      "id": "UKPGA-1952-c48",
+      "title": "Costs in Criminal Cases Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/48",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c49",
+      "title": "Court of Chancery of Lancaster Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/49",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c5",
+      "title": "Expiring Laws Continuance Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Eliz2/1-2/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c50",
+      "title": "Children and Young Persons (Amendment) Act 1952 (repealed 5.11.1993)",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/50",
+      "source": "ukpga",
+      "description": "An Act to amend the Children and Young Persons Act 1933, and section twenty-seven of the Criminal Justice Act 1948; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1952-c51",
+      "title": "Isle of Man (Customs) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/51",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c52",
+      "title": "Prison Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/52",
+      "source": "ukpga",
+      "description": "An Act to consolidate certain enactments relating to prisons and other institutions for offenders and related matters with corrections and improvements made under the Consolidation of Enactments (Procedure) Act, 1949."
+    },
+    {
+      "id": "UKPGA-1952-c53",
+      "title": "Housing Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/53",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c54",
+      "title": "Town Development Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/54",
+      "source": "ukpga",
+      "description": "An Act to encourage town development in county districts for the relief of congestion or over-population elsewhere, and for related purposes, and to repeal subsection (5) of section nineteen of the Town and Country Planning Act, 1944, and part of subsection (1) of section five of the New Towns Act, 1946."
+    },
+    {
+      "id": "UKPGA-1952-c55",
+      "title": "Magistrates’ Courts Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/55",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c56",
+      "title": "Insurance Contracts (War Settlement) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/56",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c57",
+      "title": "Marine And Aviation Insurance (War Risks) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/57",
+      "source": "ukpga",
+      "description": "An Act to make provision for authorising the Minister of Transport to undertake the insurance of ships, aircraft and certain other goods against war risks and, in certain circumstances, other risks; for the payment by him of compensation in respect of certain goods lost or damaged in transit in consequence of war risks; and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1952-c58",
+      "title": "Irish Sailors and Soldiers Land Trust Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/58",
+      "source": "ukpga",
+      "description": "An Act to extend the powers of the Irish Sailors and Soldiers Land Trust to sell cottages provided for the purposes of the Trust."
+    },
+    {
+      "id": "UKPGA-1952-c59",
+      "title": "Cockfighting Act 1952 (repealed)",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/59",
+      "source": "ukpga",
+      "description": "An Act to make it unlawful to have possession of any instrument or appliance designed or adapted for use in connection with the fighting of a domestic fowl."
+    },
+    {
+      "id": "UKPGA-1952-c60",
+      "title": "Agriculture (Poisonous Substances) Act 1952 (repealed 1.1.1997)",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/60",
+      "source": "ukpga",
+      "description": "An Act to provide for the protection of employees against risks of poisoning by certain substances used in agriculture."
+    },
+    {
+      "id": "UKPGA-1952-c61",
+      "title": "Prisons (Scotland) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/61",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c62",
+      "title": "Agriculture (Calf Subsidies) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/62",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c63",
+      "title": "Housing (Scotland) Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/63",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c64",
+      "title": "Intestates’ Estates Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/64",
+      "source": "ukpga",
+      "description": "An Act to amend the law of England and Wales about the property of persons dying intestate; to amend the Inheritance (Family Provision) Act, 1938; and for purposes connected therewith."
+    },
+    {
+      "id": "UKPGA-1952-c65",
+      "title": "Licensed Premises in New Towns Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/65",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1952-c66",
+      "title": "Defamation Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/66",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to libel and slander and other malicious falsehoods."
+    },
+    {
+      "id": "UKPGA-1952-c67",
+      "title": "Visiting Forces Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/67",
+      "source": "ukpga",
+      "description": "An Act to make provision with respect to naval, military and air forces of certain other countries visiting the United Kingdom, and to provide for the apprehension and disposal of deserters or absentees without leave in the United Kingdom from the forces of such countries; to enable corresponding provision to be made in the law of colonies and dependencies; and , for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1952-c68",
+      "title": "Cinematograph Act 1952",
+      "year": 1952,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/68",
+      "source": "ukpga",
+      "description": ""
+    },
     {
       "id": "UKSI-1952-1004",
       "title": "The Income Tax (Employments) (No. 3) Regulations 1952",

@@ -1,11 +1,11 @@
 {
   "meta": {
     "totalCorpus": 186900,
-    "totalReviewed": 4870,
-    "totalKeep": 207,
-    "totalDelete": 4663,
-    "costGBP": 1.03,
-    "lastUpdated": "2026-03-12T14:18:51.247Z",
+    "totalReviewed": 4925,
+    "totalKeep": 211,
+    "totalDelete": 4714,
+    "costGBP": 1.04,
+    "lastUpdated": "2026-03-12T14:29:32.513Z",
     "reviewedYears": [
       {
         "year": 1801,
@@ -57,9 +57,9 @@
       },
       {
         "year": 1809,
-        "count": 22,
-        "keep": 0,
-        "delete": 22
+        "count": 77,
+        "keep": 4,
+        "delete": 73
       },
       {
         "year": 1866,

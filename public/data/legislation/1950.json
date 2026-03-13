@@ -1,7 +1,817 @@
 {
   "year": 1950,
-  "count": 981,
+  "count": 1071,
   "items": [
+    {
+      "id": "UKLA-1950-c1",
+      "title": "Dundee Corporation (Administration and General Powers) Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/1",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c10",
+      "title": "Land Drainage (Surrey County Council (Hogsmill River Improvement) (Amendment)) Provisional Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/10",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c11",
+      "title": "Wear Navigation and Sunderland Dock Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/11",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c12",
+      "title": "South Staffordshire Waterworks Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/12",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c13",
+      "title": "Wakefield Extension Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/13",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c14",
+      "title": "Gateshead and District Tramways Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/14",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c15",
+      "title": "London County Council (Money) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/15",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c16",
+      "title": "Mid-Southern Utility Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/16",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c17",
+      "title": "Tyne Improvement Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/17",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c18",
+      "title": "Runcorn-Widnes Bridge Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/18",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c19",
+      "title": "Carlisle Extension Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/19",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c2",
+      "title": "St. John's Chapel Beverley Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/2",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c20",
+      "title": "Faculty of Homeopathy Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/20",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c21",
+      "title": "Mersey Docks and Harbour Board Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/21",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c22",
+      "title": "Prescelly Water Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/22",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c23",
+      "title": "Port of London Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/23",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c24",
+      "title": "Forth Road Bridge Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/24",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c25",
+      "title": "Leith Harbour and Docks Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/25",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c26",
+      "title": "Merchants House of Glasgow (Crematorium) Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/26",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c27",
+      "title": "Edinburgh Corporation Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/27",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c28",
+      "title": "Granton Harbour Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/28",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c29",
+      "title": "Greenock Port and Harbours Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/29",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c3",
+      "title": "Gun Barrel Proof Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/3",
+      "source": "ukla",
+      "description": "An Act to confer further powers upon the Master Wardens and Society of the Mystery of Gunmakers of the City of London and the Guardians of the Birmingham Proof House to amend the Gun Barrel Proof Act 1868 and for other purposes."
+    },
+    {
+      "id": "UKLA-1950-c30",
+      "title": "Clyde Navigation Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/30",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c31",
+      "title": "Darlington Corporation Trolley Vehicles (Additional Routes) Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/31",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c32",
+      "title": "Pier and Harbour Order (Hartlepool) Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/32",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c33",
+      "title": "Pier and Harbour Order (Carnarvon) Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/33",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c34",
+      "title": "Pier and Harbour Order (Great Yarmouth) Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/34",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c35",
+      "title": "Pier and Harbour Order (Workington) Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/35",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c36",
+      "title": "Pier and Harbour Order (Cattewater) Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/36",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c37",
+      "title": "Dover Corporation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/37",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c38",
+      "title": "Leyton Corporation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/38",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c39",
+      "title": "London County Council (Woolwich Subsidences) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/39",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c4",
+      "title": "Tees Conservancy Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/4",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c40",
+      "title": "Doncaster Corporation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/40",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c41",
+      "title": "Towyn Trewan Common Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/41",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c42",
+      "title": "London County Council (General Powers) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/42",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c43",
+      "title": "Norwich Extension Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/43",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c44",
+      "title": "Wisbech Corporation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/44",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c45",
+      "title": "Ipswich Dock Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/45",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c46",
+      "title": "Cardiff Extension Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/46",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c47",
+      "title": "Dover Harbour Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/47",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c48",
+      "title": "Plymouth Extension Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/48",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c49",
+      "title": "Lee Conservancy Catchment Board Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/49",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c5",
+      "title": "City of London (Various Powers) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/5",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c50",
+      "title": "Thames Conservancy Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/50",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c51",
+      "title": "Gloucester Extension Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/51",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c6",
+      "title": "German Potash Syndicate Loan Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/6",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c7",
+      "title": "Aberdeen Harbour Order Confirmation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/7",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c8",
+      "title": "Ministry of Health Provisional Order Confirmation (Colne Valley Sewerage Board) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/8",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKLA-1950-c9",
+      "title": "Ministry of Health Provisional Order Confirmation (South-West Middlesex Crematorium Board) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukla/Geo6/14/9",
+      "source": "ukla",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c1",
+      "title": "Consolidated Fund Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/1",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c10",
+      "title": "Royal Patriotic Fund Corporation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/10",
+      "source": "ukpga",
+      "description": "An Act to make further provision as respects the application of certain funds under the management of the Royal Patriotic Fund Corporation."
+    },
+    {
+      "id": "UKPGA-1950-c11",
+      "title": "Public Registers and Records (Scotland) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/11",
+      "source": "ukpga",
+      "description": "An Act to amend the law of Scotland with regard to the signing of certificates of recording in the Register of Sasines."
+    },
+    {
+      "id": "UKPGA-1950-c12",
+      "title": "Foreign Compensation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/12",
+      "source": "ukpga",
+      "description": "An Act to provide for the establishment of a Commission for the purpose of registering and determining claims to participate in compensation under agreements with foreign Governments and of distributing any compensation received under any such agreements, and for purposes connected with the matters aforesaid."
+    },
+    {
+      "id": "UKPGA-1950-c13",
+      "title": "Midwives (Amendment) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/13",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c14",
+      "title": "International Organisations (Immunities and Privileges) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/14",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c15",
+      "title": "Finance Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/15",
+      "source": "ukpga",
+      "description": "An Act to grant certain duties and alter other duties, to make certain amendments of the law relating to purchase tax, to amend the law relating to other branches of the public revenue or to the National Debt, and to make further provision in connection with Finance."
+    },
+    {
+      "id": "UKPGA-1950-c16",
+      "title": "Appropriation Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/16",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c17",
+      "title": "Agriculture (Miscellaneous Provisions) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/17",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c18",
+      "title": "Cinematograph Film Production (Special Loans) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/18",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c19",
+      "title": "Isle of Man (Customs) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/19",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c2",
+      "title": "Post Office and Telegraph (Money) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/2",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c20",
+      "title": "Colonial and Other Territories (Divorce Jurisdiction) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/20",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c21",
+      "title": "Miscellaneous Financial Provisions Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/21",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c22",
+      "title": "London Government Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/22",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c23",
+      "title": "Coal-Mining (Subsidence) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/23",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c24",
+      "title": "Highways (Provision of Cattle-Grids) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/24",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c25",
+      "title": "Matrimonial Causes Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/25",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c26",
+      "title": "Adoption Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/26",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c27",
+      "title": "Arbitration Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/27",
+      "source": "ukpga",
+      "description": "An Act to consolidate the Arbitration Acts, 1889 to 1934."
+    },
+    {
+      "id": "UKPGA-1950-c28",
+      "title": "Shops Act 1950 (repealed 1.12.1994)",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/28",
+      "source": "ukpga",
+      "description": "An Act to consolidate the Shops Acts, 1912 to 1938, and certain other enactments relating to shops."
+    },
+    {
+      "id": "UKPGA-1950-c29",
+      "title": "Medical Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/29",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c3",
+      "title": "Army and Air Force (Annual) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/3",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c30",
+      "title": "National Service Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/30",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c31",
+      "title": "Allotments Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/31",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to allotments and to abolish restrictions on the keeping of hens and rabbits."
+    },
+    {
+      "id": "UKPGA-1950-c32",
+      "title": "Army Reserve Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/32",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c33",
+      "title": "Air Force Reserve Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/33",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c34",
+      "title": "Housing (Scotland) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/34",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c35",
+      "title": "Food and Drugs (Milk, Dairies and Artificial Cream) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/35",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c36",
+      "title": "Diseases of Animals Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/36",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c37",
+      "title": "Maintenance Orders Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/37",
+      "source": "ukpga",
+      "description": "An Act to enable certain maintenance orders and other orders relating to married persons and children to be made and enforced throughout the United Kingdom."
+    },
+    {
+      "id": "UKPGA-1950-c38",
+      "title": "Allotments (Scotland) Act 1950 (repealed)",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/38",
+      "source": "ukpga",
+      "description": "An Act to amend the law relating to allotments in Scotland."
+    },
+    {
+      "id": "UKPGA-1950-c39",
+      "title": "Public Utilities Street Works Act 1950 (repealed 1.1.1993)",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/39",
+      "source": "ukpga",
+      "description": "[An Act to enact uniform provisions for regulating relations as to apparatus in streets between authorities, bodies and persons having statutory powers to place and deal with apparatus therein, and those having the control or management of streets and others concerned in the exercise of such powers; to render such powers exercisable in land which abuts on a street and is destined for use for road purposes; to make further provision for regulating the closing or restriction of use of roads for the purposes of works and as to the use of alternative routes; and for purposes connected with the matters aforesaid]."
+    },
+    {
+      "id": "UKPGA-1950-c4",
+      "title": "High Court and County Court (Judges) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/4",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c5",
+      "title": "Newfoundland (Consequential Provisions) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/5",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c6",
+      "title": "Statute Law Revision Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/6",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c7",
+      "title": "Diplomatic Privileges (Extension) Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/7",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c8",
+      "title": "Distribution of Industry Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/8",
+      "source": "ukpga",
+      "description": ""
+    },
+    {
+      "id": "UKPGA-1950-c9",
+      "title": "Merchant Shipping Act 1950",
+      "year": 1950,
+      "type": "Act",
+      "url": "http://www.legislation.gov.uk/ukpga/Geo6/14/9",
+      "source": "ukpga",
+      "description": "An Act to provide for regulating crew accommodation in fishing boats and for amending the Merchant Shipping Acts, 1894 to 1949, with respect to the engagement and discharge of crews, the review of punishments imposed by naval courts, fishing boats engaged in the Newfoundland cod fisheries, and proceedings in summary courts in Northern Ireland; and for purposes connected with the matters aforesaid."
+    },
     {
       "id": "UKSI-1950-1",
       "title": "The Control of Growing Trees (Felling and Selling) Order 1950",

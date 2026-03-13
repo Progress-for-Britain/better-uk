@@ -128,6 +128,10 @@ export function getYearStats(): YearStat[] {
       yearMap.set(ry.year, stat);
     }
     stat.reviewed = ry.count;
+    // Pre-1866 years aren't in the scraped index — use reviewed count as total
+    if (stat.total === 0 && stat.reviewed > 0) {
+      stat.total = stat.reviewed;
+    }
   }
 
   return Array.from(yearMap.values())

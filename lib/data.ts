@@ -309,11 +309,11 @@ export const legIndexItems: LegIndexItem[] = regulations.map((r): LegIndexItem =
   description: r.summary,
 }));
 
-// Available years from the scraped index (for lazy-loading per-year files)
+// Available years (scraped index + reviewed-only pre-1866 years)
 export const legislationYears: { year: number; total: number }[] =
-  ((legIndexJson as any).yearStats ?? [])
-    .filter((s: any) => s.total > 0)
-    .sort((a: any, b: any) => b.year - a.year); // most recent first
+  getYearStats()
+    .filter((s) => s.total > 0)
+    .sort((a, b) => b.year - a.year); // most recent first
 
 // Async loader for NGO index (3.7 MB — fetched at runtime, not bundled)
 let _ngoIndexCache: NGOIndexItem[] | null = null;

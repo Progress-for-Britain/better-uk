@@ -454,7 +454,7 @@ function HeroSection({ category }: { category: ActiveCategory }) {
                     color: 'rgba(0,0,0,0.3)',
                     letterSpacing: 0.5,
                   }}>
-                  1801 ——————— 2025
+                  1801 ——————— 2026
                 </Text>
               )}
               <Text

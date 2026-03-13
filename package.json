@@ -22,7 +22,8 @@
     "batch:results": "node scripts/batch-review.mjs results",
     "batch:list": "node scripts/batch-review.mjs list",
     "batch:cancel": "node scripts/batch-review.mjs cancel",
-    "batch:recheck": "node scripts/batch-review.mjs recheck"
+    "batch:recheck": "node scripts/batch-review.mjs recheck",
+    "rebuild:index": "node scripts/rebuild-index.mjs"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",

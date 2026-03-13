@@ -854,20 +854,41 @@ function YearSelector({
   const numericYears = years.filter((y): y is number => typeof y === 'number').sort((a, b) => a - b);
   if (numericYears.length === 0) return null;
 
-  // Group into decades
-  const decades = [...new Set(numericYears.map((y) => Math.floor(y / 10) * 10))].sort((a, b) => b - a);
+  // Group into centuries, then decades
+  const centuries = [...new Set(numericYears.map((y) => Math.floor(y / 100) * 100))].sort((a, b) => b - a);
+  const selectedCentury = typeof selectedYear === 'number'
+    ? Math.floor(selectedYear / 100) * 100
+    : null;
   const selectedDecade = typeof selectedYear === 'number'
     ? Math.floor(selectedYear / 10) * 10
     : null;
+
+  const [expandedCentury, setExpandedCentury] = useState<number | null>(selectedCentury);
   const [expandedDecade, setExpandedDecade] = useState<number | null>(selectedDecade);
+
+  const centuryDecades = expandedCentury !== null
+    ? [...new Set(numericYears.filter((y) => Math.floor(y / 100) * 100 === expandedCentury).map((y) => Math.floor(y / 10) * 10))].sort((a, b) => b - a)
+    : [];
 
   const decadeYears = expandedDecade !== null
     ? numericYears.filter((y) => Math.floor(y / 10) * 10 === expandedDecade)
     : [];
 
+  const pillStyle = (active: boolean, accent: boolean) => ({
+    paddingHorizontal: 10,
+    paddingVertical: 7,
+    backgroundColor: accent ? '#dbeafe' : active ? '#f0f0ee' : 'transparent',
+  });
+  const pillText = (active: boolean, accent: boolean) => ({
+    fontFamily: "'DM Mono', monospace" as string,
+    fontSize: 12,
+    color: accent ? '#1d4ed8' : active ? '#111' : '#666',
+    fontWeight: (accent ? '600' : '400') as '400' | '600',
+  });
+
   return (
     <View style={{ gap: 6 }}>
-      {/* Decade pills */}
+      {/* Century pills */}
       <ScrollView horizontal showsHorizontalScrollIndicator={false}>
         <View
           style={{
@@ -879,11 +900,11 @@ function YearSelector({
             backgroundColor: '#fafaf8',
           }}>
           <Pressable
-            onPress={() => { onSelectYear(null); setExpandedDecade(null); }}
+            onPress={() => { onSelectYear(null); setExpandedCentury(null); setExpandedDecade(null); }}
             style={{
               paddingHorizontal: 12,
               paddingVertical: 7,
-              backgroundColor: selectedYear === null ? '#3b82f6' : 'transparent',
+              backgroundColor: selectedYear === null && expandedCentury === null ? '#3b82f6' : 'transparent',
               borderRightWidth: 1,
               borderRightColor: '#e5e5e5',
             }}>
@@ -891,39 +912,67 @@ function YearSelector({
               style={{
                 fontFamily: "'DM Mono', monospace",
                 fontSize: 12,
-                color: selectedYear === null ? '#fff' : '#666',
+                color: selectedYear === null && expandedCentury === null ? '#fff' : '#666',
               }}>
               All
             </Text>
           </Pressable>
-          {decades.map((d, i) => {
-            const isActive = expandedDecade === d;
-            const hasSelected = selectedDecade === d;
+          {centuries.map((c, i) => {
+            const isActive = expandedCentury === c;
+            const hasSelected = selectedCentury === c;
             return (
               <Pressable
-                key={d}
-                onPress={() => setExpandedDecade(isActive ? null : d)}
+                key={c}
+                onPress={() => {
+                  setExpandedCentury(isActive ? null : c);
+                  if (!isActive) setExpandedDecade(null);
+                }}
                 style={{
-                  paddingHorizontal: 10,
-                  paddingVertical: 7,
-                  backgroundColor: hasSelected ? '#dbeafe' : isActive ? '#f0f0ee' : 'transparent',
-                  borderRightWidth: i < decades.length - 1 ? 1 : 0,
+                  ...pillStyle(isActive, hasSelected),
+                  borderRightWidth: i < centuries.length - 1 ? 1 : 0,
                   borderRightColor: '#e5e5e5',
                 }}>
-                <Text
-                  style={{
-                    fontFamily: "'DM Mono', monospace",
-                    fontSize: 12,
-                    color: hasSelected ? '#1d4ed8' : isActive ? '#111' : '#666',
-                    fontWeight: hasSelected ? '600' : '400',
-                  }}>
-                  {d}s
+                <Text style={pillText(isActive, hasSelected)}>
+                  {c}s
                 </Text>
               </Pressable>
             );
           })}
         </View>
       </ScrollView>
+      {/* Decade pills within selected century */}
+      {centuryDecades.length > 0 && (
+        <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+          <View
+            style={{
+              flexDirection: 'row',
+              borderWidth: 1,
+              borderColor: '#e5e5e5',
+              borderRadius: 8,
+              overflow: 'hidden',
+              backgroundColor: '#fafaf8',
+            }}>
+            {centuryDecades.map((d, i) => {
+              const isActive = expandedDecade === d;
+              const hasSelected = selectedDecade === d;
+              return (
+                <Pressable
+                  key={d}
+                  onPress={() => setExpandedDecade(isActive ? null : d)}
+                  style={{
+                    ...pillStyle(isActive, hasSelected),
+                    borderRightWidth: i < centuryDecades.length - 1 ? 1 : 0,
+                    borderRightColor: '#e5e5e5',
+                  }}>
+                  <Text style={pillText(isActive, hasSelected)}>
+                    {d}s
+                  </Text>
+                </Pressable>
+              );
+            })}
+          </View>
+        </ScrollView>
+      )}
       {/* Individual years within selected decade */}
       {decadeYears.length > 0 && (
         <ScrollView horizontal showsHorizontalScrollIndicator={false}>

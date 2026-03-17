@@ -1523,6 +1523,7 @@ function IndexRow({
       onPress={() => setExpanded((v) => !v)}
       style={{
         flexDirection: 'row',
+        alignItems: 'center',
         borderBottomWidth: 1,
         borderBottomColor: '#f0f0ee',
         paddingVertical: 14,
@@ -1919,7 +1920,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
       <FundReviewsModal visible={showFundModal} onClose={() => setShowFundModal(false)} category={category} />
 
       {/* Search + year/type filter + sort */}
-      <View style={{ flexDirection: isWide ? 'row' : 'column', gap: 12, marginBottom: 24, alignItems: isWide ? 'flex-end' : 'stretch' }}>
+      <View style={{ flexDirection: isWide ? 'row' : 'column', gap: 12, marginBottom: 24, alignItems: isWide ? 'center' : 'stretch', flexWrap: 'wrap' }}>
         <TextInput
           value={search}
           onChangeText={setSearch}
@@ -2103,7 +2104,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
               }}>
               {indexLoading
                 ? `Loading ${isCS ? 'civil service' : 'charity'} data…`
-                : `Loading ${selectedYear} legislation…`}
+                : `Loading ${selectedYear ?? 'all'} legislation…`}
             </Text>
           </View>
         ) : isLeg && yearError ? (

@@ -118,7 +118,7 @@ function LoadInSection({
 // ─── Verdict Badge ────────────────────────────────────────────────────────────
 
 function VerdictBadge({ verdict, label }: { verdict: string; label?: string }) {
-  const isDelete = verdict === 'delete';
+  const isDelete = verdict === 'delete' || verdict === 'abolish' || verdict === 'defund';
   const displayLabel = label ?? verdict;
   return (
     <View

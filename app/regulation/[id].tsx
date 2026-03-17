@@ -1,7 +1,7 @@
 import { Link, useLocalSearchParams } from 'expo-router';
 import Head from 'expo-router/head';
 import { useEffect, useState } from 'react';
-import { ActivityIndicator, Linking, Pressable, ScrollView, Text, View } from 'react-native';
+import { Linking, Pressable, ScrollView, Text, View } from 'react-native';
 
 import { RequestReviewButton } from '@/components/request-review';
 import { csIndexItems, fetchReviewedRegulations, GROK_MODEL, GROK_PROMPT_CIVIL_SERVICE, GROK_PROMPT_NGOS, GROK_PROMPT_REGULATIONS, mockCivilService, mockNGOs, ngoIndexItems, type CivilServiceBody, type NGO, type Regulation } from '@/lib/data';
@@ -311,7 +311,7 @@ export default function RegulationDetail() {
               backgroundColor: '#fff',
             }}>
             <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#666' }}>
-              {effectiveIsNGO ? 'Visit website' : 'View on legislation.gov.uk'}
+              {effectiveIsCS ? 'View on gov.uk' : effectiveIsNGO ? 'Visit website' : 'View on legislation.gov.uk'}
             </Text>
             <Text style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#bbb' }}>
               ↗

@@ -1445,7 +1445,6 @@ function IndexRow({
     ? [
         cs.headcount != null ? `${cs.headcount.toLocaleString()} staff` : null,
         cs.budgetMn != null ? `${formatBudget(cs.budgetMn)} budget` : null,
-        cs.budgetMn == null && cs.deptBudgetMn != null ? `Dept budget: ${formatBudget(cs.deptBudgetMn)}` : null,
       ].filter(Boolean).join('  ·  ') || cs.abbreviation || ''
     : isLeg
       ? leg.year > 0 ? String(leg.year) : ''
@@ -1805,8 +1804,8 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
       result = [...result].sort((a, b) => {
         const aCS = a as CSIndexItem;
         const bCS = b as CSIndexItem;
-        const aBudget = aCS.budgetMn ?? aCS.deptBudgetMn ?? -1;
-        const bBudget = bCS.budgetMn ?? bCS.deptBudgetMn ?? -1;
+        const aBudget = aCS.budgetMn ?? -1;
+        const bBudget = bCS.budgetMn ?? -1;
         return bBudget - aBudget;
       });
     }

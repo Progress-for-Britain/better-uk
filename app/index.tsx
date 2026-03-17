@@ -887,7 +887,7 @@ function YearSelector({
   });
 
   return (
-    <View style={{ gap: 6 }}>
+    <View style={{ gap: 6, alignSelf: 'stretch', maxWidth: '100%' }}>
       {/* Century pills */}
       <ScrollView horizontal showsHorizontalScrollIndicator={false}>
         <View
@@ -1705,11 +1705,54 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
     }
   }, []);
 
-  useEffect(() => {
-    if (isLeg && selectedYear !== null) {
-      fetchYear(selectedYear);
+  const fetchAllYears = useCallback(async () => {
+    setLoadingYear(true);
+    setYearError(null);
+    try {
+      const allYears = legislationYears.map(ys => ys.year);
+      const uncached = allYears.filter(y => !fetchedYearsRef.current.has(y));
+      if (uncached.length > 0) {
+        const results = await Promise.all(
+          uncached.map(async (year) => {
+            try {
+              const resp = await fetch(`/data/legislation/${year}.json`);
+              if (!resp.ok) return [];
+              const data = await resp.json();
+              const items: LegIndexItem[] = (data.items ?? []).map((item: any) => ({
+                id: item.id,
+                title: item.title ?? item.id,
+                year: item.year ?? year,
+                type: (item.type ?? 'Act') as any,
+                url: item.url ?? '',
+                description: item.description ?? '',
+              }));
+              fetchedYearsRef.current.set(year, items);
+              return items;
+            } catch {
+              return [];
+            }
+          })
+        );
+      }
+      const all = allYears.flatMap(y => fetchedYearsRef.current.get(y) ?? []);
+      setYearItems(all);
+    } catch (err: any) {
+      setYearError(err.message ?? 'Failed to load');
+      setYearItems([]);
+    } finally {
+      setLoadingYear(false);
     }
-  }, [isLeg, selectedYear, fetchYear]);
+  }, []);
+
+  useEffect(() => {
+    if (isLeg) {
+      if (selectedYear !== null) {
+        fetchYear(selectedYear);
+      } else {
+        fetchAllYears();
+      }
+    }
+  }, [isLeg, selectedYear, fetchYear, fetchAllYears]);
 
   useEffect(() => {
     setPage(0);
@@ -1720,12 +1763,14 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
     setSortBy('name');
   }, [category]);
 
-  // Reset year selection when switching to regulations tab
+  // Reset year selection when switching to regulations tab (only on initial mount)
+  const hasInitializedYear = useRef(false);
   useEffect(() => {
-    if (isLeg && legislationYears.length > 0 && selectedYear === null) {
+    if (isLeg && !hasInitializedYear.current && legislationYears.length > 0 && selectedYear === null) {
       setSelectedYear(legislationYears[0].year);
+      hasInitializedYear.current = true;
     }
-  }, [isLeg, selectedYear]);
+  }, [isLeg]);
 
   // For legislation, use lazy-loaded year items; for others, use async-loaded data
   const allItems = isCS ? csItems : isNGO ? ngoItems : yearItems;
@@ -1777,7 +1822,7 @@ function IndexBrowser({ category }: { category: ActiveCategory }) {
       ? `${csItems.length.toLocaleString()} bodies scraped`
       : selectedYear
         ? `Showing ${selectedYear} · ${yearItems.length.toLocaleString()} of ${TOTAL_UK_REGULATIONS.toLocaleString()} regulations`
-        : `${TOTAL_UK_REGULATIONS.toLocaleString()} regulations scraped · select a year to browse`;
+        : `Showing all years · ${yearItems.length.toLocaleString()} of ${TOTAL_UK_REGULATIONS.toLocaleString()} regulations`;
 
   return (
     <View style={{ paddingVertical: 64, borderTopWidth: 1, borderTopColor: '#e5e5e5' }}>

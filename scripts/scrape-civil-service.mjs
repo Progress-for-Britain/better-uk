@@ -179,6 +179,9 @@ function normaliseOrg(raw) {
     abbreviation,
     headcount: null,
     about: '',
+    governance: '',
+    statutoryBasis: null,
+    ownBudget: null,
     childOrgCount: (raw.child_organisations || []).length,
   };
 }
@@ -238,6 +241,77 @@ async function fetchAboutPage(slug) {
   } catch {
     return null;
   }
+}
+
+/**
+ * Fetch the /about/our-governance page for accountability and board info
+ */
+async function fetchGovernancePage(slug) {
+  const url = `https://www.gov.uk/government/organisations/${slug}/about/our-governance`;
+  try {
+    const response = await fetch(url, {
+      headers: { 'User-Agent': 'better-uk-scraper/1.0 (research project)' },
+    });
+    if (!response.ok) return null;
+    const html = await response.text();
+    const govspeakMatch = html.match(/<div class="govspeak">(.*?)<\/div>/s);
+    if (govspeakMatch) {
+      return govspeakMatch[1]
+        .replace(/<[^>]+>/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim()
+        .slice(0, 2000);
+    }
+    return null;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Extract the statutory/legislative basis from about text or governance text.
+ * Many gov.uk orgs mention the Act that created them.
+ */
+function extractStatutoryBasis(text) {
+  if (!text) return null;
+  // Match patterns like "established by the X Act 2005", "created under the X Act",
+  // "set up under", "constituted by", "operates under"
+  const patterns = [
+    /(?:established|created|set up|constituted|formed|operates?|operating)\s+(?:by|under|pursuant to|in accordance with)\s+(?:the\s+)?([A-Z][\w\s,()&'-]+?Act(?:\s+\d{4})?)/gi,
+    /(?:statutory\s+(?:basis|authority|powers?|framework)):?\s*(?:the\s+)?([A-Z][\w\s,()&'-]+?Act(?:\s+\d{4})?)/gi,
+    /([\w\s,()&'-]+?Act\s+\d{4})\s+(?:gave|gives|established|created|provides)/gi,
+  ];
+  const acts = new Set();
+  for (const pat of patterns) {
+    let m;
+    while ((m = pat.exec(text)) !== null) {
+      const act = m[1].trim().replace(/\s+/g, ' ');
+      if (act.length > 10 && act.length < 120) acts.add(act);
+    }
+  }
+  return acts.size > 0 ? Array.from(acts).slice(0, 5).join('; ') : null;
+}
+
+/**
+ * Extract budget/spending/funding figures from about text.
+ * Many org about pages mention their own budget or funding.
+ */
+function extractOwnBudget(text) {
+  if (!text) return null;
+  const patterns = [
+    /(?:budget|funding|expenditure|spending|income|turnover|revenue)\s+(?:of|is|was|totalling|approximately|around|circa|c\.?)?\s*£([\d,.]+)\s*(billion|million|bn|mn|m|b)/gi,
+    /£([\d,.]+)\s*(billion|million|bn|mn|m|b)\s+(?:budget|funding|expenditure|annual|per year|a year)/gi,
+  ];
+  for (const pat of patterns) {
+    const m = pat.exec(text);
+    if (m) {
+      const value = parseFloat(m[1].replace(/,/g, ''));
+      const unit = m[2].toLowerCase();
+      if (unit.startsWith('b')) return `£${value}bn`;
+      return `£${value}m`;
+    }
+  }
+  return null;
 }
 
 async function fetchMetaDescription(slug) {
@@ -341,6 +415,24 @@ async function main() {
       item.about = aboutText.slice(0, 3000);
       const hc = extractHeadcount(aboutText);
       if (hc) item.headcount = hc;
+      // Extract own budget mentions from about text
+      const ownBudget = extractOwnBudget(aboutText);
+      if (ownBudget) item.ownBudget = ownBudget;
+      // Extract statutory basis
+      const statutory = extractStatutoryBasis(aboutText);
+      if (statutory) item.statutoryBasis = statutory;
+    }
+    await sleep(DELAY_MS);
+
+    // Fetch governance page for accountability and board info
+    const govText = await fetchGovernancePage(item.slug);
+    if (govText) {
+      item.governance = govText.slice(0, 2000);
+      // Also check governance text for statutory basis if not found yet
+      if (!item.statutoryBasis) {
+        const statutory = extractStatutoryBasis(govText);
+        if (statutory) item.statutoryBasis = statutory;
+      }
     }
     await sleep(DELAY_MS);
 

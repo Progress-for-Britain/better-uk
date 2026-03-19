@@ -209,7 +209,7 @@ export interface CivilServiceBody {
   url: string;
 }
 
-export const TOTAL_UK_CS_BODIES = 666; // from gov.uk organisations scrape
+export const TOTAL_UK_CS_BODIES = (reviewedCSJson.items ?? []).length; // derived from reviewed data
 export const CS_REVIEW_COST_GBP = reviewedCSJson.meta.costGBP;
 
 export const civilServiceBodies: CivilServiceBody[] = (reviewedCSJson.items as any[])
